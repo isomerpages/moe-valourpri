@@ -8,14 +8,16 @@ third_nav_title: General Information
 
 <div>  
 <div style="float: left">  
-<img src="/images/june_2020_pri_nl.jpg">  
+<img src="/images/june_2020_pri_nl.jpg" 
+     style="width:90%">
 </div>  
 <div></div>  
 </div>
 
 <div>  
 <div style="float: right">  
-<img src="/images/december_2020_pri_nl.jpg">  
+<img src="/images/december_2020_pri_nl.jpg" 
+     style="width:90%">
 </div>  
 <div></div>  
 </div>
