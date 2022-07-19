@@ -4,7 +4,6 @@ permalink: /about-us/general-information/service-providers
 description: ""
 third_nav_title: General Information
 ---
-
 ##### BOOKS AND STATIONERIES
 
 <div>  
@@ -43,6 +42,8 @@ third_nav_title: General Information
 | | |
 
 ##### BUS SERVICES
+
+![](/images/Bus%20Services.png)
 
 | Longlim Pte Ltd |  |
 |---|---|
