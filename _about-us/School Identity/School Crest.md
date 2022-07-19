@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Identity
 ---
 <img src="/images/School%20Crest.jpg" 
-     style="width:50%">
+     style="width:30%">
 
 The red “V” extending upwards symbolises the staff and students of Valour Primary School, filled with passion, courage and confidence, reaching out beyond the school, to the community, nation and the world. 
 
