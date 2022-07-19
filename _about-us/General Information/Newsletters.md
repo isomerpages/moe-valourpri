@@ -18,7 +18,6 @@ third_nav_title: General Information
 
 <br>
 <br>
-<br>
 
 <div>  
 <div style="float: left">  
