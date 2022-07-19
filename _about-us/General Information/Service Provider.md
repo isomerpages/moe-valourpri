@@ -24,7 +24,13 @@ third_nav_title: General Information
 
 ##### SCHOOL UNIFORM
 
-
+<div>  
+<div style="float: left">  
+<img src="/images/School%20Uniform.png" 
+     style="width:20%"> 
+</div>  
+<div></div>  
+</div>
 
 | Jeep Sing Fashion |  |
 |---|---|
