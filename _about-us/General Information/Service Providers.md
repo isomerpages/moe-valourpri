@@ -12,7 +12,7 @@ third_nav_title: General Information
 <div>  
 <div style="float: left">  
 <img src="/images/Books%20and%20Stationeries.png" 
-     style="width:25%"> 
+     style="width:40%"> 
 </div>  
 <div></div>  
 </div>
