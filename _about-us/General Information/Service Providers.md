@@ -19,7 +19,7 @@ third_nav_title: General Information
 | Mailing Address: | 1013, Geylang East Avenue 3, #02-154 <br>Singapore 389728 |
 | Tel: | 6247 8482 |
 | Fax: | 6844 1779 |
-| Email: | Admin-@the-continental.com.sg |
+| Email: | [Admin-@the-continental.com.sg](mailto:Admin-@the-continental.com.sg) |
 | | |
 
 ##### School Uniform
@@ -37,6 +37,6 @@ third_nav_title: General Information
 | Mailing Address: | Blk 4012 Ang Mo Kio Ave 10<br>#01-09 Tech Place 1 Singapore 569628 |
 | Tel: | 6456 3198 |
 | Fax: | 6386 2407 |
-| Email: | contact.us@jeepsing.com.sg |
-| Website: | www.jeepsinguniform.com.sg |
+| Email: | [contact.us@jeepsing.com.sg](mailto:contact.us@jeepsing.com.sg) |
+| Website: | [www.jeepsinguniform.com.sg](http://www.jeepsinguniform.com.sg/) |
 | | |
