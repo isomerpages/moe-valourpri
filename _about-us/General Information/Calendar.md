@@ -49,8 +49,6 @@ This schedule is an information guide for you.  You will be informed separately
 |  | Christmas Day | *****Sunday 25 December |
 | | | |
 
-### 
-
 \*Monday, 3 Jan, will be a school holiday. <br>
 \*\*Monday, 2 May, will be a public holiday. <br>
 \*\*\*Monday, 16 May, will be a public holiday. <br>
