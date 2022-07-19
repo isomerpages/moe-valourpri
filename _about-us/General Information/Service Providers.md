@@ -22,7 +22,7 @@ third_nav_title: General Information
 | Email: | [Admin-@the-continental.com.sg](mailto:Admin-@the-continental.com.sg) |
 | | |
 
-##### School Uniform
+##### SCHOOL UNIFORM
 
 <div>  
 <div style="float: left">  
