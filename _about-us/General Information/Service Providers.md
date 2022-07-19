@@ -43,7 +43,8 @@ third_nav_title: General Information
 
 ##### BUS SERVICES
 
-![](/images/Bus%20Services.png)
+<img src="/images/Bus%20Services.png" 
+     style="width:25%">
 
 | Longlim Pte Ltd |  |
 |---|---|
