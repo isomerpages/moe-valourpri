@@ -40,3 +40,22 @@ third_nav_title: General Information
 | Email: | [contact.us@jeepsing.com.sg](mailto:contact.us@jeepsing.com.sg) |
 | Website: | [www.jeepsinguniform.com.sg](http://www.jeepsinguniform.com.sg/) |
 | | |
+
+##### BUS SERVICES
+
+<div>  
+<div style="float: left">  
+<img src="/images/Bus%20Services.png" 
+     style="width:20%"> 
+</div>  
+<div></div>  
+</div>
+
+| Longlim Pte Ltd |  |
+|---|---|
+| Mailing Address: | 34 Jalan Tari Piring<br>Singapore 799187 |
+| Tel: | 6482 2568 / 6754 8353 |
+| Fax: | 6483 5219 |
+| Email: | [longlim@longlim.com](mailto:longlim@longlim.com) |
+| Website: | [www.longlim.com](http://www.longlim.com/) |
+| | |
