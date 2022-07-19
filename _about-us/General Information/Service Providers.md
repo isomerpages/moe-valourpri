@@ -45,6 +45,15 @@ third_nav_title: General Information
 
 <img src="/images/Bus%20Services.png" 
      style="width:25%">
+		 
+<div>
+<div style="float: left">
+<img src="/images/Bus%20Services.png" 
+     style="width:25%">
+</div>
+<div>
+</div>
+</div>
 
 | Longlim Pte Ltd |  |
 |---|---|
