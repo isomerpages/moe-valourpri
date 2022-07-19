@@ -48,3 +48,11 @@ This schedule is an information guide for you.  You will be informed separately
 | Term 4 | Deepavali | Monday 24 October |
 |  | Christmas Day | *****Sunday 25 December |
 | | | |
+
+### 
+
+\*Monday, 3 Jan, will be a school holiday. <br>
+\*\*Monday, 2 May, will be a public holiday. <br>
+\*\*\*Monday, 16 May, will be a public holiday. <br>
+\*\*\*\*Monday, 11 Jul, will be a public holiday. <br>
+\*\*\*\*\*Monday, 26 Dec, will be a public holiday.
