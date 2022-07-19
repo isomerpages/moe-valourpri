@@ -27,7 +27,7 @@ third_nav_title: General Information
 <div>  
 <div style="float: left">  
 <img src="/images/School%20Uniform.png" 
-     style="width:60%"> 
+     style="width:40%"> 
 </div>  
 <div></div>  
 </div>
