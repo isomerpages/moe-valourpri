@@ -43,14 +43,6 @@ third_nav_title: General Information
 
 ##### BUS SERVICES
 
-<div>  
-<div style="float: left">  
-<img src="/images/Bus%20Services.png" 
-     style="width:20%"> 
-</div>  
-<div></div>  
-</div>
-
 | Longlim Pte Ltd |  |
 |---|---|
 | Mailing Address: | 34 Jalan Tari Piring<br>Singapore 799187 |
