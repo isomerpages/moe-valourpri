@@ -49,3 +49,14 @@ third_nav_title: General Information
 | Email: | [longlim@longlim.com](mailto:longlim@longlim.com) |
 | Website: | [www.longlim.com](http://www.longlim.com/) |
 | | |
+
+##### DENTAL SERVICES
+
+<img src="/images/Dental%20Services.png" 
+     style="width:25%">
+		 
+| Tel: |  6719 8003 |
+|---|---|
+| Mon - Thurs: |  8:00AM - 5:30PM |
+| Fri: |  8:00AM - 5:00PM |
+| | |
