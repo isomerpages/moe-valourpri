@@ -2,11 +2,11 @@ title: Valour Primary School
 url: ""
 favicon: /images/School Crest.jpg
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#46a247"
+  secondary-color: "#26215f"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#ee2738"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
