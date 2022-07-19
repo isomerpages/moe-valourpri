@@ -4,5 +4,6 @@ collections:
     order:
       - School Identity/.keep
       - School Identity/School Crest.md
+      - General Information/Calendar.md
       - General Information/Service Providers.md
       - General Information/.keep
