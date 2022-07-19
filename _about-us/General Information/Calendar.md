@@ -23,3 +23,28 @@ This schedule is an information guide for you.  You will be informed separately
 | Semester 2 | After Term 3 | Saturday 3 September to Sunday 11 September |
 |  | After Term 4 | Saturday 19 November to Friday 31 December |
 | | | |
+
+| Scheduled School Holidays |  |
+|---|---|
+| Holiday | Date |
+| Youth Day | Sunday 3 July<br>(Monday, 4 Jul 2021 will be a scheduled school holiday) |
+| Day after National Day | Wednesday 10 August |
+| Teachers’ Day | Friday 2 September |
+| Children’s Day | Friday 7 October |
+| | | 
+
+| Public Holidays |  |  |
+|---|---|---|
+| Term | Holiday | Date |
+| Term 1 | New Year’s Day | *Saturday 1 January |
+|  | Chinese New Year | Tuesday 1 February |
+|  |  | Wednesday 2 February |
+| Term 2 | Good Friday | Friday 15 April |
+|  | Labour Day | **Sunday 1 May |
+|  | Hari Raya Puasa | Tuesday 3 May |
+|  | Vesak Day | ***Sunday 15 May |
+| Term 3 | Hari Raya Haji | ****Sunday 10 Jul |
+|  | National Day | Tuesday 9 Aug |
+| Term 4 | Deepavali | Monday 24 October |
+|  | Christmas Day | *****Sunday 25 December |
+| | | |
