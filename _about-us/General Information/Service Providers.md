@@ -32,3 +32,11 @@ third_nav_title: General Information
 <div></div>  
 </div>
 
+| Jeep Sing Fashion |  |
+|---|---|
+| Mailing Address: | Blk 4012 Ang Mo Kio Ave 10<br>#01-09 Tech Place 1 Singapore 569628 |
+| Tel: | 6456 3198 |
+| Fax: | 6386 2407 |
+| Email: | [contact.us@jeepsing.com.sg](mailto:contact.us@jeepsing.com.sg) |
+| Website: | [www.jeepsinguniform.com.sg](http://www.jeepsinguniform.com.sg/) |
+| | |
