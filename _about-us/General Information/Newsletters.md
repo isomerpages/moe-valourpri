@@ -30,7 +30,6 @@ third_nav_title: General Information
 [Buzz@Valour Issue 2 (December 2020)] file size too big
 
 <br>
-<br>
 
 #### 2021 NEWSLETTERS
 
