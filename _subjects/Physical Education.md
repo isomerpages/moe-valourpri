@@ -17,7 +17,8 @@ Throughout our students’ primary school PE education, we endeavour to provide 
 ### Programmes
 **Healthy Lifestyle Programme**
 
-![](/images/PE-2.png)
+<img src="/images/PE-2.png" 
+     style="width:70%">
 
 The aim of the Healthy Lifestyle Programme is to bring Valourians together for a dedicated fortnight which focuses on promoting a healthy and active lifestyle through the enactment of physical activities enjoyed together with friends. It is about raising awareness to live and maintain a healthy, active life!
 
