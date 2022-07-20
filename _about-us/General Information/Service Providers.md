@@ -5,14 +5,9 @@ description: ""
 third_nav_title: General Information
 ---
 ##### BOOKS AND STATIONERIES
-
-<div>  
-<div style="float: left">  
+  
 <img src="/images/Books%20and%20Stationeries.png" 
-     style="width:60%"> 
-</div>  
-<div></div>  
-</div>
+     style="width:25%"> 
 
 | The Continental Book Centre |  |
 |---|---|
