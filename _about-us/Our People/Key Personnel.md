@@ -26,3 +26,17 @@ third_nav_title: Our People
 | Physical Education (PE) and Co-Curricular Activities | Miss Michelle Huang | michelle_huang@moe.edu.sg |
 | Science | Mdm Gwendalyn Cho | cho_lye_ping_gwendalyn@moe.edu.sg |
 | | |
+
+| YEAR HEADS (YH) |  |  |
+|---|---|---|
+| Year Head<br>(Lower Primary) | Mr Kelvin Tan | tan_kim_seng_kelvin@moe.edu.sg |
+| Year Head<br>(Middle Primary) | Mr Lim Kok Meng | lim_kok_meng_b@moe.edu.sg |
+| Assistant Year Head<br>(Primary 2) | Mr Benjamin Tay | tay_zhi_yang_benjamin@moe.edu.sg |
+| | | 
+
+| SUBJECT HEADS (SH) / LEVEL HEADS (LH) |  |  |
+|---|---|---|
+| Malay Language | Mdm Siti Raudhah bte Ishak | siti_raudhah_ishak@moe.edu.sg |
+| Student Leadership | Miss Juliana Teoz | juliana_teo_li_koon@moe.edu.sg |
+| Outdoor Education | Mr Ng Daojia | ng_daojia@moe.edu.sg |
+| | |
