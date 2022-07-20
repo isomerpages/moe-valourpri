@@ -22,3 +22,10 @@ Here at Valour Primary School, we strive to build a strong foundation in the Eng
      style="width:70%">
 
 </center>
+
+We believe in the power of reading. Reading feeds one’s imagination and opens up a treasure-house of wonder and joy for curious young minds. We advocate free voluntary reading (Krashen, 1993) whereby our students can read whatever they want to read and there is little or no accountability in the form of book reports and journal entries. 
+* Book Week
+* Class library
+* Library periods
+* Weekly read-alouds
+* Sustained silent reading
