@@ -4,7 +4,7 @@ permalink: /subjects/english
 description: ""
 ---
 <img src="/images/english.jpg" 
-     style="width:70%">
+     style="width:50%">
 		 
 ##### Focus and Beliefs
 Here at Valour Primary School, we strive to build a strong foundation in the English Language and develop: <br>
