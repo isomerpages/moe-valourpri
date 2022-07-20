@@ -29,3 +29,19 @@ We believe in the power of reading. Reading feeds one’s imagination and opens 
 * Library periods
 * Weekly read-alouds
 * Sustained silent reading
+
+<u> Recommended Reading Lists: </u><br> 
+to be updated
+
+**Confident and Effective Communicators** <br>
+We hope to develop confident and effective communicators who possess the values, dispositions and skills to listen actively to different perspectives while collaborating with others to work towards shared goals. Opportunities are given for our students to discuss issues, listen to different perspectives and develop their own opinions.
+
+Valourians are also taught the 6 traits of speaking for oral presentations.
+
+**STELLAR**
+<img src="/images/el%20stellar.jpg" 
+     style="width:50%">
+
+Our students will embark on the STELLAR programme in primary school. STELLAR, short for **St**rategies for **E**nglish **L**anguage **L**earning and **R**eading, aims to strengthen children’s language and reading skills as well as promote a positive attitude towards learning. A unit starts with a shared reading experience whereby our students read a book with the teacher and engage in oral discussions. This is followed by explicit teaching of language items and shared writing experiences.
+
+To complement STELLAR, authentic learning opportunities will be provided for Valourians to communicate confidently, effectively and sensitively. They will also be encouraged to explore ideas, concepts and areas of interest beyond the curriculum, developing them to be creative and critical inquirers.
