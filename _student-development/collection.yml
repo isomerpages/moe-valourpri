@@ -2,6 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Learning for Life Programme.md
       - Character and Citizenship Education.md
       - Programme for Active Learning (PAL).md
+      - Learning for Life Programme.md
