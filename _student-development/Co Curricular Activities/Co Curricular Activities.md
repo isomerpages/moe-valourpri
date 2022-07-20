@@ -40,7 +40,7 @@ The CCA experience aims to give students a snippet of how the CCA will be like i
 [Clubs](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/clubs) <br>
 Clubs allow students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialised areas.
 
-[Performing Arts](https://valourpri.moe.edu.sg/student-development/co-curricular-activities/performing-arts) <br>
+[Performing Arts](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/performing-arts) <br>
 Performing Arts instill in students a sense of graciousness and an appreciation for the rich culture and heritage of a multi-racial society.
 
 [Physical Sports](https://valourpri.moe.edu.sg/student-development/co-curricular-activities/sports) <br>
