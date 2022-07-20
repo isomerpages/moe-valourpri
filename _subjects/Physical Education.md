@@ -10,7 +10,7 @@ Throughout our students’ primary school PE education, we endeavour to provide 
 
 <figure>
 <img src="/images/PE-1.png" 
-     style="width:70%">
+     style="width:50%">
 <figcaption> The Physical Education Framework (PE Teaching and Learning Syllabus 2014, p.18) </figcaption>  
 </figure>
 
