@@ -4,7 +4,8 @@ permalink: /subjects/mother-tongue/chinese-language-unit
 description: ""
 third_nav_title: Mother Tongue
 ---
-![](/images/mt_cl-1.png)
+<img src="/images/mt_cl-1.png" 
+     style="width:80%">
 
 ### Focus and Beliefs
 
@@ -17,14 +18,16 @@ To provide quality and customised teaching and authentic learning experiences to
 
 **1\. Reading Program** **阅读活动**
 
-![](/images/mt_cl-2.png)
+<img src="/images/mt_cl-2.png" 
+     style="width:80%">
 
 A reader is a leader. Through a structured and meaningful reading programme, we hope to nurture our students into life-long learners. <br>
 俗话说：“开卷有益”。我们希望通过系统化、有意义的阅读活动，培养学生成为热爱阅读的终身学习者。
 
 **2\. Mother Tongue Fortnight** **母语双周活动**
 
-![](/images/mt_cl-3.png)
+<img src="/images/mt_cl-3.png" 
+     style="width:80%">
 
 Mother Tongue Fortnight activities is organised annually to provide opportunities for Valourians to gain a deeper understanding of Chinese literature, culture and heritage through hands-on activities and programs.
 
