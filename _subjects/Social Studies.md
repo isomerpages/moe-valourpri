@@ -25,4 +25,5 @@ Students will learn about Singapore and the contributions of different groups of
 **Cluster 3: Appreciating Singapore, the Region and the World We Live In** <br>
 Students will learn about Singapore as a nation and the contributions of different people to its development. They will also develop an understanding of Southeast Asia, Singapore ’s connections with the region as well as legacies of civilisations in the world that can still be seen today.
 
-![](/images/ss-2.jpg)
+<img src="/images/ss-2.jpg" 
+     style="width:70%">
