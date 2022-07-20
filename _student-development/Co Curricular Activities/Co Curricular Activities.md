@@ -37,7 +37,7 @@ The CCA experience aims to give students a snippet of how the CCA will be like i
 | Rotation 1<br>Term 3 Week 4 & 5<br>22 July 2022<br>29 July 2022 | Rotation 2<br>Term 3 Week 6 & 7<br>05 August 2022<br>12 August 2022 | Rotation 3<br>Term 3 Week 8 & 9<br>19 August 2022<br>26 August 2022 | Rotation 4<br>Term 4 Week 1 & 2<br>16 September 2022<br>23 September 2022 |
 | | | | |
 
-**[**Clubs**](https://valourpri.moe.edu.sg/student-development/co-curricular-activities/clubs)** <br>
+[Clubs](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/clubs) <br>
 Clubs allow students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialised areas.
 
 **[**Performing Arts**](https://valourpri.moe.edu.sg/student-development/co-curricular-activities/performing-arts)** <br>
