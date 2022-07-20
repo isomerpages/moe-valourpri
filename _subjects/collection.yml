@@ -2,7 +2,6 @@ collections:
   subjects:
     output: true
     order:
-      - Physical Education.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -11,3 +10,4 @@ collections:
       - Mother Tongue/Chinese Language Unit.md
       - Mother Tongue/Malay Language Unit.md
       - Mother Tongue/Tamil Language Unit.md
+      - Physical Education.md
