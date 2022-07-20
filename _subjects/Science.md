@@ -3,7 +3,8 @@ title: Science
 permalink: /subjects/science
 description: ""
 ---
-![](/images/science-1.png)
+<img src="/images/science-1.png" 
+     style="width:90%">
 
 ### Focus and Beliefs
 **Our Philosophy** <br>
@@ -11,7 +12,7 @@ Aligned with the Science Curriculum Framework (see figure 1), the Science Depart
 
 <figure>  
 <img src="/images/science-2.png" 
-     style="width:50%">
+     style="width:40%">
 <figcaption> Figure 1: Science Curriculum Framework </figcaption>  
 </figure>
 
@@ -21,7 +22,8 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
 ### Programmes
 **Science Valour Interaction Times (VITs)**
 
-![](/images/science-3.png)
+<img src="/images/science-3.png" 
+     style="width:90%">
 
 At Valour Primary School, we introduce Science to our students from as early as Primary 1 and 2.
 
@@ -39,7 +41,7 @@ Additionally, our students get to apply what they have learnt and extend their l
 **Hands-on Learning**
 
 <img src="/images/science.jpg" 
-     style="width:80%">
+     style="width:50%">
 
 The learning of science should go beyond the four walls of the classroom. Science is about the world around us, and it is important for our students get opportunities to visit the gardens in our school to observe flowers, fruits and spores, and complete their worksheet or workbook activities from observing such authentic examples.
 
@@ -48,13 +50,13 @@ Valourians also get to conduct experiments which promote the development of scie
 **Science Journals**
 
 <img src="/images/science-5.png" 
-     style="width:50%">
+     style="width:30%">
 		 
 The use of science journals allows our students to reflect on what they have learnt, make their thinking visible, and express themselves in their preferred way, be it drawing a picture or writing a letter to a friend. This enables them to take ownership of their learning.  Additionally, our students get to apply their learning to real-life, where applicable.
 
 **Science Workbook and Worksheets**
 
 <img src="/images/science-6.png" 
-     style="width:50%">
+     style="width:30%">
 		 
 The Science workbook and school worksheets complement each other to offer a variety of activities that our students can explore as they construct their understanding of scientific concepts. They also contain review exercises, focusing on process skills for them to assess their learning.
