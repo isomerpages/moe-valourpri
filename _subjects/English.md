@@ -16,7 +16,7 @@ Here at Valour Primary School, we strive to build a strong foundation in the Eng
 
 <center>
 <strong> Reading for Pleasure </strong><br>
-<i> The doorway to success </i>
+<i> The doorway to success </i> <br>
 
 <img src="/images/english1.png" 
      style="width:50%">
