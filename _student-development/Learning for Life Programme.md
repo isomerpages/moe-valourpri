@@ -10,7 +10,7 @@ Valour Primary School’s Learning for Life Programme (LLP) – **_Growing Kind
 Kindness, one of the Valourian Hallmarks, is a key outcome of the programme. As our students learn more about themselves, others and the environment through their outdoor experiences, it is our hope that they will be able to demonstrate kindness to themselves, others and place, wherever they may be.
 
 <img src="/images/LLP-1.png" 
-     style="width:80%">
+     style="width:60%">
 
 <img src="/images/LLP-2.png" 
      style="width:80%">
