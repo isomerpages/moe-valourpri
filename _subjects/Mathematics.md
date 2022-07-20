@@ -25,4 +25,5 @@ Students learn to see that mathematics is all around them - in the classroom, wi
 		 
 Math Week is an interdisciplinary experience which allows our students to see mathematics in authentic settings across other subjects. Through the engaging activities, we relate mathematics to things happening in their everyday life.
 
-
+**Financial Literacy** <br>
+Our financial literacy programme hopes to inculcate in students sound knowledge of managing money. We encourage our students to think critically, creatively and innovatively. We also hope to develop our students to be creative problem-solvers and to have an entrepreneurial mindset.
