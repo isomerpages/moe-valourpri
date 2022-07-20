@@ -11,6 +11,8 @@ Cognisant of a future world that may be fraught with social, economic, geopoliti
 
 The programme focuses on providing students with **experiential and authentic learning** opportunities to acquire, experience, and demonstrate the hallmarks through an integrated and cohesive school-based curriculum that includes both academic and co-curricular domains.
 
-![](/images/CCE-2.png)
+<img src="/images/CCE-2.png" 
+     style="width:70%">
 
-![](/images/CCE-3.jpg)
+<img src="/images/CCE-3.jpg" 
+     style="width:70%">
