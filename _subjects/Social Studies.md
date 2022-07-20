@@ -8,7 +8,7 @@ description: ""
 Social Studies helps students to attain relevant knowledge and understanding about issues of concern, develop critical and reflective thinking skills, and appreciate multiple perspectives. It also inculcates in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world in which they live, and demonstrate empathy in their relationships with others. Through inquiry and authentic learning (e.g., field-based learning and performance tasks), students develop better understanding of the interconnectedness of Singapore and the world they live in, and appreciate the complexities of the human experience.
 
 <img src="/images/ss-1.jpg" 
-     style="width:50%">
+     style="width:40%">
 
 ### The Programme
 
