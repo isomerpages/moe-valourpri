@@ -2,7 +2,6 @@ collections:
   subjects:
     output: true
     order:
-      - Social Studies.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -13,3 +12,4 @@ collections:
       - Mother Tongue/Tamil Language Unit.md
       - Physical Education.md
       - Aesthetics.md
+      - Social Studies.md
