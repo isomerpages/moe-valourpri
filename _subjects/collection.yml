@@ -1,4 +1,5 @@
 collections:
   subjects:
     output: true
-    order: []
+    order:
+      - English.md
