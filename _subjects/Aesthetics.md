@@ -21,7 +21,7 @@ The focus of our Music curriculum is on singing and playing of instruments indiv
 **Aesthetics Learning Spaces**
 
 <img src="/images/aesthetics-1.jpg" 
-     style="width:50%">
+     style="width:40%">
 
 Areas in the school are transformed into spaces where teaching and learning can take place for both Art and Music. For example, a cabinet which introduces the artist Piet Mondrain is also used to display sample art pieces and student-made musical instruments.
 
