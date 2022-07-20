@@ -12,3 +12,17 @@ Every Valourian, a creative problem-solver.
 
 ### Programmes
 **Mathematics is All Around Us**
+
+<img src="/images/ma-2.png" 
+     style="width:40%">
+		 
+Students learn to see that mathematics is all around them - in the classroom, within the school, at home, while doing activities with their family and in and out of school context (e.g., at the supermarket)
+
+**Math Week**
+
+<img src="/images/ma-3.png" 
+     style="width:40%">
+		 
+Math Week is an interdisciplinary experience which allows our students to see mathematics in authentic settings across other subjects. Through the engaging activities, we relate mathematics to things happening in their everyday life.
+
+
