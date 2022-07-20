@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Newsletters.md
       - School Identity/.keep
       - School Identity/School Crest.md
       - General Information/.keep
       - General Information/Service Providers.md
       - General Information/Calendar.md
+      - Newsletters.md
