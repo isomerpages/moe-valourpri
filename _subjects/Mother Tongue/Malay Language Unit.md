@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Mother Tongue
 ---
 <img src="/images/mt-ml-1.png" 
-     style="width:50%">
+     style="width:40%">
 
 ### Focus and Belief
 
