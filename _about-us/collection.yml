@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Privacy Statement.md
       - School Identity/.keep
       - School Identity/School Crest.md
       - General Information/.keep
@@ -14,3 +13,4 @@ collections:
       - Our People/Form Teachers.md
       - Our People/Allied Educators.md
       - Our People/EAS.md
+      - Privacy Statement.md
