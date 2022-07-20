@@ -45,7 +45,6 @@ third_nav_title: General Information
 
 <br>
 <br>
-<br>
 
 <div>  
 <div style="float: left">  
@@ -56,6 +55,9 @@ third_nav_title: General Information
 </div>
 
 [Buzz@Valour Issue 4 (Dec 2021)] file size too big
+
+<br>
+<br>
 
 #### 2022 NEWSLETTERS
 
