@@ -19,7 +19,7 @@ Here at Valour Primary School, we strive to build a strong foundation in the Eng
 <i> The doorway to success </i>
 
 <img src="/images/english1.png" 
-     style="width:70%">
+     style="width:50%">
 
 </center>
 
