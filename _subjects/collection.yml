@@ -2,7 +2,6 @@ collections:
   subjects:
     output: true
     order:
-      - Aesthetics.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -12,3 +11,4 @@ collections:
       - Mother Tongue/Malay Language Unit.md
       - Mother Tongue/Tamil Language Unit.md
       - Physical Education.md
+      - Aesthetics.md
