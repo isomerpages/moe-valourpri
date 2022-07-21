@@ -46,5 +46,5 @@ Performing Arts instill in students a sense of graciousness and an appreciation 
 [Physical Sports](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/physical-sports) <br>
 Physical Sports develop robustness, fair play and team spirit in students.
 
-[Uniformed Groups](https://valourpri.moe.edu.sg/student-development/co-curricular-activities/uniform-groups) <br>
+[Uniformed Groups](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/uniformed-groups) <br>
 Uniformed Group activities aim to make good citizens of students by inculcating in them self-reliance, resilience, discipline and a spirit of service to others.
