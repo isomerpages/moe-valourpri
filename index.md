@@ -21,4 +21,12 @@ sections:
       description: Guided by our mascot, Timba
       button: CLICK HERE
       url: https://www.youtube.com/watch?v=xpKkizH3L2M
+  - infopic:
+      title: Home-based Learning
+      description: For more information, please refer to the schedule of the
+        home-based learning and the helpline information by clicking below.
+      button: View here
+      url: https://moe-valourpri-staging.netlify.app/useful-links/home-based-learning
+      image: /images/9a8a6d133_178 (1).jpg
+      alt: Home-based Learning
 ---
