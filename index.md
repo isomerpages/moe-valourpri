@@ -13,8 +13,9 @@ sections:
       url: /contact-us/
   - infobar:
       title: VPS Engagement Session (2nd July 2022)
-      subtitle: "Kindly check your email for "
-      description: Contact us at 6242 6390 if you have not received the link.
+      subtitle: "ANNOUNCEMENT:"
+      description: Kindly check your email for the link. Contact us at 6242 6390 if
+        you have not received the link.
   - infopic:
       title: VPS Virtual Tour
       subtitle: "Tour around our school campus "
