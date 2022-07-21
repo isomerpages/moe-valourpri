@@ -15,7 +15,7 @@ sections:
       title: VPS Engagement Session (2nd July 2022)
       subtitle: "ANNOUNCEMENT:"
       description: Kindly check your email for the link. Contact us at 6242 6390 if
-        you have not received the link.
+        you have not received it.
   - infopic:
       title: VPS Virtual Tour
       subtitle: "Tour around our school campus "
