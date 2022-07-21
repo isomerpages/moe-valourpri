@@ -12,7 +12,7 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Announcements
+        - title: Newsletters
           description: ""
-          url: /announcements/
+          url: /about-us/general-information/newsletters
 ---
