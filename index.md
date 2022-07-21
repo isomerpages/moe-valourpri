@@ -11,8 +11,10 @@ sections:
       background: /images/gif-maker.gif
       button: Contact Us
       url: /contact-us/
-      key_highlights:
-        - title: Newsletters
-          description: ""
-          url: /about-us/general-information/newsletters
+  - infobar:
+      title: Newsletter!
+      subtitle: CHECK OUT OUR LATEST
+      description: Buzz@Valour Issue 5 (June 2022)
+      button: Click here
+      url: /about-us/general-information/newsletters
 ---
