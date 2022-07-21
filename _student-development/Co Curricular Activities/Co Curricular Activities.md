@@ -43,7 +43,7 @@ Clubs allow students to explore and extend their interests in wide ranging and s
 [Performing Arts](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/performing-arts) <br>
 Performing Arts instill in students a sense of graciousness and an appreciation for the rich culture and heritage of a multi-racial society.
 
-[Physical Sports](https://valourpri.moe.edu.sg/student-development/co-curricular-activities/sports) <br>
+[Physical Sports](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/physical-sports) <br>
 Physical Sports develop robustness, fair play and team spirit in students.
 
 [Uniformed Groups](https://valourpri.moe.edu.sg/student-development/co-curricular-activities/uniform-groups) <br>
