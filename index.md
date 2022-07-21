@@ -12,9 +12,7 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infobar:
-      title: Newsletter!
-      subtitle: CHECK OUT OUR LATEST
-      description: Buzz@Valour Issue 5 (June 2022)
-      button: Click here
-      url: /about-us/general-information/newsletters
+      title: VPS Engagement Session (2nd July 2022)
+      subtitle: "Check your email for the link:"
+      description: Contact us at 6242 6390 if you have not received the link.
 ---
