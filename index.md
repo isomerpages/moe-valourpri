@@ -15,12 +15,14 @@ sections:
       title: VPS Engagement Session (2nd July 2022)
       subtitle: "Check your email for the link:"
       description: Contact us at 6242 6390 if you have not received the link.
-  - infobar:
+  - infopic:
       title: VPS Virtual Tour
-      subtitle: Tour around our school campus
+      subtitle: "Tour around our school campus "
       description: Guided by our mascot, Timba
-      button: CLICK HERE
-      url: https://www.youtube.com/watch?v=xpKkizH3L2M
+      button: Click here to watch
+      url: https://www.youtube.com/watch?v=jivCWGWMpMk
+      image: /images/157052937_1853501074804463_8038109740718483090_n.jpg
+      alt: VPS Virtual Tour
   - infopic:
       title: Home-based Learning
       description: For more information, please refer to the schedule of the
