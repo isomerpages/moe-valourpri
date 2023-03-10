@@ -1,6 +1,6 @@
 ---
 title: Key Personnel
-permalink: /about-us/our-people/key-personnel
+permalink: /about-us/our-people/key-personnel/
 description: ""
 third_nav_title: Our People
 ---
@@ -37,6 +37,6 @@ third_nav_title: Our People
 | SUBJECT HEADS (SH) / LEVEL HEADS (LH) |  |  |
 |---|---|---|
 | Malay Language | Mdm Siti Raudhah bte Ishak | siti_raudhah_ishak@moe.edu.sg |
-| Student Leadership | Miss Juliana Teoz | juliana_teo_li_koon@moe.edu.sg |
+| Student Leadership | Miss Juliana Teo | juliana_teo_li_koon@moe.edu.sg |
 | Outdoor Education | Mr Ng Daojia | ng_daojia@moe.edu.sg |
 | | |
