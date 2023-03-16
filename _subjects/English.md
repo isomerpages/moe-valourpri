@@ -1,6 +1,6 @@
 ---
 title: English
-permalink: /subjects/english
+permalink: /subjects/english/
 description: ""
 ---
 <img src="/images/english.jpg" 

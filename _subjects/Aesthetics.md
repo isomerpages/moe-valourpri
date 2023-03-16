@@ -1,6 +1,6 @@
 ---
 title: Aesthetics
-permalink: /subjects/aesthetics
+permalink: /subjects/aesthetics/
 description: ""
 ---
 ### Focus and Beliefs

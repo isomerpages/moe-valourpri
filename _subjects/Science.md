@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /subjects/science
+permalink: /subjects/science/
 description: ""
 ---
 <img src="/images/science-1.png" 

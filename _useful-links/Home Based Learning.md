@@ -1,6 +1,6 @@
 ---
 title: Home Based Learning
-permalink: /useful-links/home-based-learning
+permalink: /useful-links/home-based-learning/
 description: ""
 ---
 | SLS Helpline Information |  |

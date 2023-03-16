@@ -1,6 +1,6 @@
 ---
 title: Social Studies
-permalink: /subjects/social-studies
+permalink: /subjects/social-studies/
 description: ""
 ---
 ### Importance of Social Studies

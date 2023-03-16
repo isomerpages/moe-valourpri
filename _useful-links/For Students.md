@@ -1,6 +1,6 @@
 ---
 title: For Students
-permalink: /useful-links/for-students
+permalink: /useful-links/for-students/
 description: ""
 ---
 |  |  |

@@ -1,6 +1,6 @@
 ---
 title: Character and Citizenship Education
-permalink: /student-development/character-and-citizenship-education
+permalink: /student-development/character-and-citizenship-education/
 description: ""
 ---
 The **Valour Character and Citizenship Education (CCE) Programme** aligns to the 2021 CCE Syllabus (Primary). At its core, it seeks to develop good character, resilience and social-emotional well-being, active citizenship, and future readiness in our students.

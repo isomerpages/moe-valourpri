@@ -1,6 +1,6 @@
 ---
 title: Learning for Life Programme
-permalink: /student-development/learning-for-life-programme
+permalink: /student-development/learning-for-life-programme/
 description: ""
 ---
 ### Growing Kindness through the Outdoors

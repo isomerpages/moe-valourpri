@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /subjects/mathematics
+permalink: /subjects/mathematics/
 description: ""
 ---
 ![](/images/ma-1.png)

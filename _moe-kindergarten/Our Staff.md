@@ -1,6 +1,6 @@
 ---
 title: Our Staff
-permalink: /moe-kindergarten/our-staff
+permalink: /moe-kindergarten/our-staff/
 description: ""
 ---
 | MOE KINDERGARTEN EDUCATORS |  |  |

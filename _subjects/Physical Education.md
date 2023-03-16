@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /subjects/physical-education
+permalink: /subjects/physical-education/
 description: ""
 ---
 ### Focus and Beliefs

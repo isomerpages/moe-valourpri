@@ -1,6 +1,6 @@
 ---
 title: Programme for Active Learning (PAL)
-permalink: /student-development/programme-for-active-learning-pal
+permalink: /student-development/programme-for-active-learning-pal/
 description: ""
 ---
 <center><i> “When children are just beginning school, we need to nurture their desire to learn, to be engaged in and enjoy what they learn, and to develop a sense of competence and confidence.”

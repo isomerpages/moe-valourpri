@@ -1,6 +1,6 @@
 ---
 title: Newsletters
-permalink: /about-us/general-information/newsletters
+permalink: /about-us/general-information/newsletters/
 description: ""
 ---
 

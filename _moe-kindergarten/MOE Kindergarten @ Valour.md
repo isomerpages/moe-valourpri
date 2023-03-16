@@ -1,6 +1,6 @@
 ---
 title: MOE Kindergarten @ Valour
-permalink: /moe-kindergarten/moe-kindergarten-at-valour
+permalink: /moe-kindergarten/moe-kindergarten-at-valour/
 description: ""
 ---
 <img src="/images/mk_banner.jpg" 
