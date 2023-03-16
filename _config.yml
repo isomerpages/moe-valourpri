@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-valourpri-staging.netlify.app
-prod: https://moe-valourpri-prod.netlify.app
+staging: https://staging.d35uua8rf2hdyb.amplifyapp.com/
+prod: https://master.d35uua8rf2hdyb.amplifyapp.com/
 shareicon: /images/isomer-logo.svg
 is_government: false
 facebook-pixel: ""
