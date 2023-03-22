@@ -16,8 +16,76 @@ Aligned with the Science Curriculum Framework (see figure 1), the Science Depart
 <figcaption> Figure 1: Science Curriculum Framework </figcaption>  
 </figure>
 
+### Science Curriculum for 2023
+
+The science syllabus has been organised to ensure a progressive development of concepts within and across levels  
+
 **Our Approach** <br>
 In Valour Primary School, we use an inquiry-based learning approach to help our students make connections between the scientific concepts and their daily lives and environment. Additionally, we understand that our students are diverse, with different learning needs and interests. As such, we use differentiated instruction so as to appropriately scaffold and extend their learning, and to provide a variety of tasks that are responsive to their needs. Through carefully constructed learning experiences, we develop in our students strong fundamentals in scientific knowledge, skills and with the right values, ethics and attitudes in science.
+
+##### Primary 3 (Primary Science Syllabus 2023)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fyfk{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-jxgv{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fyfk">Term</th>
+    <th class="tg-fyfk">T1</th>
+    <th class="tg-fyfk">T2</th>
+    <th class="tg-fyfk">T3</th>
+    <th class="tg-fyfk">T4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fyfk">Topic</td>
+    <td class="tg-jxgv">Diversity of living and non-living things (General characteristics and classification)</td>
+    <td class="tg-jxgv"> Diversity of materials<br> </td>
+    <td class="tg-jxgv">Cycles in plants and animals (Life cycles</td>
+    <td class="tg-jxgv">Interaction of forces (Magnets)<br> </td>
+  </tr>
+</tbody>
+</table>
+
+##### Primary 4 (Primary Science Syllabus 2014)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9hzb">Term</th>
+    <th class="tg-9hzb">T1</th>
+    <th class="tg-9hzb">T2</th>
+    <th class="tg-9hzb">T3</th>
+    <th class="tg-9hzb">T4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9hzb">Topic</td>
+    <td class="tg-ktyi">Life Cycles of Animals and Plants</td>
+    <td class="tg-ktyi">Three States of Matter</td>
+    <td class="tg-ktyi">· Heat<br>· Light and Shadows</td>
+    <td class="tg-ktyi">· Light and Shadows</td>
+  </tr>
+</tbody>
+</table>
 
 ### Programmes
 **Science Valour Interaction Times (VITs)**
