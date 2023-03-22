@@ -4,7 +4,6 @@ collections:
     order:
       - English.md
       - Mathematics.md
-      - Science.md
       - Mother Tongue/.keep
       - Mother Tongue/Mother Tongue.md
       - Mother Tongue/Chinese Language Unit.md
@@ -12,4 +11,5 @@ collections:
       - Mother Tongue/Tamil Language Unit.md
       - Physical Education.md
       - Aesthetics.md
+      - Science.md
       - Social Studies.md
