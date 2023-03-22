@@ -3,7 +3,6 @@ title: Our Open House
 permalink: /moe-kindergarten/our-open-house/
 description: ""
 ---
-
 <img src="/images/oh2023poster.jpg" 
      style="width:45%">
 		 
