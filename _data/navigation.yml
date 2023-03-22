@@ -2,11 +2,14 @@ logo: /images/crest.jpg
 links:
   - title: About Us
     collection: about-us
-  - title: Subjects
-    collection: subjects
-  - title: Student Development
-    collection: student-development
   - title: MOE Kindergarten
     collection: moe-kindergarten
   - title: Useful Links
     collection: useful-links
+  - title: Valourian Experience
+    url: /subjects/english/
+    sublinks:
+      - title: Curriculum
+        url: /subjects/english/
+      - title: Student Development
+        url: /student-development/character-and-citizenship-education/
