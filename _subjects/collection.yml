@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - English.md
-      - Mathematics.md
       - Mother Tongue/.keep
       - Mother Tongue/Mother Tongue.md
       - Mother Tongue/Chinese Language Unit.md
       - Mother Tongue/Malay Language Unit.md
       - Mother Tongue/Tamil Language Unit.md
+      - Mathematics.md
       - Science.md
       - Physical Education.md
       - Aesthetics.md
