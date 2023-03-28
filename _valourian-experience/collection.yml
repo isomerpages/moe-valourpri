@@ -2,6 +2,7 @@ collections:
   valourian-experience:
     output: true
     order:
+      - Mother Tongue/.keep
       - Cirriculum/.keep
       - Cirriculum/Aesthetics.md
       - Cirriculum/English.md
