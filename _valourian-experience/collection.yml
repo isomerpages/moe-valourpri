@@ -1,4 +1,5 @@
 collections:
   valourian-experience:
     output: true
-    order: []
+    order:
+      - Cirriculum/.keep
