@@ -2,14 +2,14 @@ collections:
   subjects:
     output: true
     order:
-      - Science.md
-      - Social Studies.md
-      - Physical Education.md
-      - Aesthetics.md
-      - Mathematics.md
       - English.md
+      - Mathematics.md
       - Mother Tongue/.keep
       - Mother Tongue/Mother Tongue.md
       - Mother Tongue/Chinese Language Unit.md
       - Mother Tongue/Malay Language Unit.md
       - Mother Tongue/Tamil Language Unit.md
+      - Science.md
+      - Physical Education.md
+      - Aesthetics.md
+      - Social Studies.md
