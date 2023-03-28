@@ -4,7 +4,6 @@ collections:
     order:
       - Cirriculum/.keep
       - Cirriculum/Aesthetics.md
-      - Cirriculum/Mathematics.md
       - Cirriculum/Physical Education.md
       - Cirriculum/Science.md
       - Cirriculum/Social Studies.md
