@@ -2,10 +2,10 @@ collections:
   valourian-experience:
     output: true
     order:
-      - Cirriculum/Social Studies.md
-      - Cirriculum/Science.md
-      - Cirriculum/Aesthetics.md
-      - Cirriculum/Physical Education.md
-      - Cirriculum/Mathematics.md
-      - Cirriculum/English.md
       - Cirriculum/.keep
+      - Cirriculum/Aesthetics.md
+      - Cirriculum/English.md
+      - Cirriculum/Mathematics.md
+      - Cirriculum/Physical Education.md
+      - Cirriculum/Science.md
+      - Cirriculum/Social Studies.md
