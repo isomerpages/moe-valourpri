@@ -2,5 +2,6 @@ collections:
   valourian-experience:
     output: true
     order:
+      - Cirriculum/Mathematics.md
       - Cirriculum/English.md
       - Cirriculum/.keep
