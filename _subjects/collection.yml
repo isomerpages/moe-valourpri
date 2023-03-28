@@ -2,7 +2,6 @@ collections:
   subjects:
     output: true
     order:
-      - Mathematics.md
       - Mother Tongue/.keep
       - Mother Tongue/Mother Tongue.md
       - Mother Tongue/Chinese Language Unit.md
