@@ -1,5 +1,5 @@
 collections:
-  subjects:
+  curriculum:
     output: true
     order:
       - English.md
