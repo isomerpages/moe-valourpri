@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Cirriculum/.keep
-      - Cirriculum/Aesthetics.md
       - Cirriculum/Physical Education.md
       - Cirriculum/Science.md
       - Cirriculum/Social Studies.md
