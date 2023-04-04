@@ -45,9 +45,9 @@ Homework will be recorded by our students in the Student Planner<br>
 | (P5 &amp; P6) @ | 1 hr 30 min to 2 hr | Approximately 2 hr to 4 hr |
 |  |  |  | 
 
-*  Approximate duration only and differs from class to class. <br>
-@ Total Homework Time spread between Eng, MT and Math <br>
-@ Total Homework Time spread between Eng, MT, Math and Science<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Approximate duration only and differs from class to class. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@ Total Homework Time spread between Eng, MT and Math <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@ Total Homework Time spread between Eng, MT, Math and Science<br>
 
 * Homework will not be assigned over festive periods and public holidays during Term Time. Homework assigned to P3 and P4 students on Thursdays will not be required to be submitted on Fridays. 
 
