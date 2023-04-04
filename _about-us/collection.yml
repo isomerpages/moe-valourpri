@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - Homework Policy.md
       - School Identity/.keep
       - School Identity/School Crest.md
       - General Information/.keep
       - General Information/Service Providers.md
       - General Information/Calendar.md
+      - Homework Policy.md
       - Newsletters.md
       - Our People/.keep
       - Our People/Key Personnel.md
