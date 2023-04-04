@@ -4,10 +4,10 @@ collections:
     order:
       - School Identity/.keep
       - School Identity/School Crest.md
-      - General Information/Homework Policy.md
       - General Information/.keep
       - General Information/Service Providers.md
       - General Information/Calendar.md
+      - General Information/Homework Policy.md
       - Newsletters.md
       - Our People/.keep
       - Our People/Key Personnel.md
