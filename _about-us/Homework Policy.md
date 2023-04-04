@@ -36,7 +36,7 @@ Homework will be recorded by our students in the Student Planner<br>
  
 **Timetable Guide for Homework**
 
-* The table below, showing the approximate daily homework duration for students, serves only as a guide. Do take note that actual time required to complete assignments will vary with each child’s study habits and skills.  
+* The table below, showing the approximate daily homework duration for students, serves only as a guide. Do take note that actual time required to complete assignments will vary with each child’s study habits and skills.  <br>
 |  | Monday to Friday | Saturday to Sunday |
 | -------- | -------- | -------- |
 | **Level** | **Possible duration per day *** | **Possible duration for two days ***|
