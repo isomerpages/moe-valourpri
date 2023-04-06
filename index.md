@@ -8,6 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/banner.gif
+      key_highlights:
+        - title: Highlight One
+          description: Highlight One Two Three Four
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: VPS Engagement Session (2nd July 2022)
       subtitle: "ANNOUNCEMENT:"
