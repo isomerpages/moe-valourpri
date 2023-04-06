@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Valour Primary School
       background: /images/banner.gif
   - infobar:
       title: VPS Engagement Session (2nd July 2022)
