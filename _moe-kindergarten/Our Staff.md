@@ -16,6 +16,11 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
     <td class="tg-ktyi">Deputy Center Head</td>
     <td class="tg-ktyi">Ms Shirley Koh</td>
     <td class="tg-ktyi">shirley_koh@moe.edu.sg</td>
@@ -35,7 +40,12 @@ description: ""
 </style>
 <table class="tg">
 <thead>
-  <tr>
+    <tr>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
     <th class="tg-ktyi" rowspan="9">English Language Teachers</th>
     <th class="tg-ktyi">Ms Melanie Lau (Level Head)</th>
     <th class="tg-ktyi">melanie_lau_mei_ling@moe.edu.sg</th>
@@ -117,5 +127,7 @@ description: ""
     <td class="tg-ktyi">Ms Kasturri Sivanesen Rajaretnam</td>
     <td class="tg-ktyi">kasturri_sivanesen_rajaretnam@moe.edu.sg</td>
   </tr>
+	<tr>
+	</tr>
 </tbody>
 </table>
