@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Valour Primary School
-description: An Isomer site of the Singapore Government
+description: Official website for Valour Primary School
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
