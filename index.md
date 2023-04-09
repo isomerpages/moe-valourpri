@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Valourian Experience
           description: Curriculum
-          url: /subjects/English/
+          url: /subjects/english/
         - title: Valourian Experience
           description: Student Development
           url: /student-development/character-and-citizenship-education/
