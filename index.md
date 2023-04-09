@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/banner-1.gif
       key_highlights:
-        - title: Highlight One
-          description: Highlight One Two Three Four
-          url: ""
+        - title: Valourian Experience
+          description: ""
+          url: /subjects/English/
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
