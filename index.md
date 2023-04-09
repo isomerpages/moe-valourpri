@@ -10,11 +10,14 @@ sections:
       background: /images/banner-1.gif
       key_highlights:
         - title: Valourian Experience
-          description: ""
+          description: Curriculum
           url: /subjects/English/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: Valourian Experience
+          description: Student Development
+          url: /student-development/character-and-citizenship-education/
+        - title: MOE Kindergarten
+          description: MK@Valour
+          url: /moe-kindergarten/moe-kindergarten-at-valour/
   - infopic:
       title: VPS Virtual Tour
       description: Tour around our school campus guided by our mascot, Timba
