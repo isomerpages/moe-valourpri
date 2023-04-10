@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Valour Primary School
-description: Official website for Valour Primary School
+description: Official website of Valour Primary School
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
