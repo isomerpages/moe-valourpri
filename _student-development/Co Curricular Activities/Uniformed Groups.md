@@ -8,4 +8,4 @@ Uniformed Group activities aim to make good citizens of students by inculcating 
 
 [Boys’ Brigade](files/CCA2023/bb-infographic_final2023.pdf) <br>
 [Girls’ Brigade](/files/CCA2023/girls-brigade-infographic.pdf) <br>
-[Red Cross](/files/CCA2023/red-cross-2023.pdf)
+[Red Cross](/files/CCA2023/red-cross-2023.pdf)<br>
