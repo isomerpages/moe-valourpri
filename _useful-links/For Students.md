@@ -28,5 +28,9 @@ description: ""
     <td class="tg-cly1">Koobits</td>
     <td class="tg-corx"><a href="https://www.koobits.com/"><span style="text-decoration:none;color:#46A247">https://www.koobits.com/</span></a></td>
   </tr>
+	<tr>
+    <td class="tg-cly1">Microsoft 365</td>
+    <td class="tg-corx"><a href="https://www.office.com/"><span style="text-decoration:none;color:#46A247">https://www.office.com/</span></a></td>
+  </tr>
 </tbody>
 </table>
