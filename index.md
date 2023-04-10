@@ -1,36 +1,28 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Valour Primary School
+description: Official website of Valour Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      background: /images/banner-1.gif
+      key_highlights:
+        - title: Valourian Experience
+          description: Curriculum
+          url: /subjects/english/
+        - title: Valourian Experience
+          description: Student Development
+          url: /student-development/character-and-citizenship-education/
+        - title: MOE Kindergarten
+          description: MK@Valour
+          url: /moe-kindergarten/moe-kindergarten-at-valour/
+  - infopic:
+      title: VPS Virtual Tour
+      description: Tour around our school campus guided by our mascot, Timba
+      button: Click here to watch
+      url: https://www.youtube.com/watch?v=jivCWGWMpMk
+      image: /images/157052937_1853501074804463_8038109740718483090_n.jpg
+      alt: VPS Virtual Tour
 ---
-

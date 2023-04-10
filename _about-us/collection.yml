@@ -1,0 +1,18 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - School Identity/.keep
+      - School Identity/School Crest.md
+      - General Information/Homework Policy.md
+      - General Information/.keep
+      - General Information/Service Providers.md
+      - General Information/Calendar.md
+      - Newsletters.md
+      - Our People/.keep
+      - Our People/Key Personnel.md
+      - Our People/Form Teachers.md
+      - Our People/Allied Educators.md
+      - Our People/EAS.md
+      - Privacy Statement.md
+      - Contact Us.md

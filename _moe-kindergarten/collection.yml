@@ -1,0 +1,8 @@
+collections:
+  moe-kindergarten:
+    output: true
+    order:
+      - MOE Kindergarten @ Valour.md
+      - Our Open House.md
+      - Our Learning Environment.md
+      - Our Staff.md
