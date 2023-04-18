@@ -80,16 +80,11 @@ third_nav_title: Our People
 </style>
 <table class="tg">
 <tbody>
-		<tr>
+	<tr>
    <td class="tg-ktyi"></td>
     <td class="tg-ktyi"></td>
     <td class="tg-ktyi"></td>
-		</tr>
-	<tr>
-    <td class="tg-ktyi">Mathematics</td>
-    <td class="tg-ktyi">Mr Choo Wee Kiat</td>
-    <td class="tg-ktyi">choo_wee_kiat@moe.edu.sg</td>
-  </tr>
+	</tr>
 	<tr>
     <td class="tg-ktyi">Mother Tongue Languages and Partnership</td>
     <td class="tg-ktyi">Mr Li Xiang</td>
@@ -152,9 +147,9 @@ third_nav_title: Our People
     <td class="tg-ktyi">lim_kok_meng_b@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mathematics</td>
-    <td class="tg-ktyi">Mrs Melissa Ting</td>
-    <td class="tg-ktyi">lim_ping_siew_melissa@moe.edu.sg</td>
+    <td class="tg-ktyi">Assistant Year Head<br>(Middle Primary)</td>
+    <td class="tg-ktyi">Ms Chin Eileen</td>
+    <td class="tg-ktyi">chin_eileen@moe.edu.sg</td>
   </tr>
 			<tr>
 			<td></td>
