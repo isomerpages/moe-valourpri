@@ -128,6 +128,42 @@ third_nav_title: Our People
 </tbody>
 </table>
 
+#### YEAR HEADS (YH)/ ASSISTANT YEAR HEADS (AYH)
+<table class="tg">
+<tbody>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+ 	<tr>
+    <td class="tg-ktyi">Year Head<br>(Lower Primary)</td>
+    <td class="tg-ktyi">Mr Choo Wee Kiat</td>
+    <td class="tg-ktyi">choo_wee_kiat@moe.edu.sg</td>
+  </tr>
+  	<tr>
+    <td class="tg-ktyi">Assistant Year Head<br>(Lower Primary)</td>
+    <td class="tg-ktyi">Mr Benjamin Tay</td>
+    <td class="tg-ktyi">tay_zhi_yang_benjamin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Year Head<br>(Middle Primary)</td>
+    <td class="tg-ktyi">Mr Lim Kok Meng</td>
+    <td class="tg-ktyi">lim_kok_meng_b@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Mathematics</td>
+    <td class="tg-ktyi">Mrs Melissa Ting</td>
+    <td class="tg-ktyi">lim_ping_siew_melissa@moe.edu.sg</td>
+  </tr>
+			<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+</tbody>
+</table>
+
 #### SUBJECT HEADS (SH) / LEVEL HEADS (LH)
 
 <style type="text/css">
