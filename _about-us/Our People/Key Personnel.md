@@ -178,22 +178,22 @@ third_nav_title: Our People
 			<td></td>
 		</tr>
   <tr>
-    <td class="tg-0lax">Malay Language</td>
+    <td class="tg-0lax">Subject Head - Malay Language</td>
 		<td class="tg-0lax">Mdm Siti Raudhah bte Ishak</td>
     <td class="tg-0lax">siti_raudhah_ishak@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Student Leadership</td>
+    <td class="tg-0lax">Subject Head - Student Leadership</td>
 		<td class="tg-0lax">Miss Juliana Teo</td>
     <td class="tg-0lax">juliana_teo_li_koon@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Outdoor Education</td>
+    <td class="tg-ktyi">Subject Head - Outdoor Education</td>
     <td class="tg-ktyi">Mr Ng Daojia</td>
     <td class="tg-ktyi">ng_daojia@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mathematics</td>
+    <td class="tg-ktyi">Level Head - Mathematics</td>
     <td class="tg-ktyi">Mrs Melissa Ting</td>
     <td class="tg-ktyi">lim_ping_siew_melissa@moe.edu.sg</td>
   </tr>
