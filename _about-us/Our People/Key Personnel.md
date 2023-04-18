@@ -90,30 +90,35 @@ third_nav_title: Our People
     <td class="tg-0lax">Mr Choo Wee Kiat</td>
     <td class="tg-0lax">choo_wee_kiat@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-0lax">Character &amp; Citizenship Education (CCE)</td>
-    <td class="tg-0lax">Mr Khong Weng Keong</td>
-    <td class="tg-0lax">khong_weng_keong@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Information and Communication Technology</td>
-    <td class="tg-0lax">Mr Anson Tan</td>
-    <td class="tg-0lax">anson_tan@moe.edu.sg</td>
-  </tr>
-  <tr>
+	<tr>
     <td class="tg-0lax">Mother Tongue Languages and Partnership</td>
     <td class="tg-0lax">Mr Li Xiang</td>
     <td class="tg-0lax">li_xiang_a@moe.edu.sg</td>
   </tr>
-  <tr>
+	<tr>
+    <td class="tg-0lax">Science</td>
+    <td class="tg-0lax">Mdm Gwendalyn Cho</td>
+    <td class="tg-0lax">cho_lye_ping_gwendalyn@moe.edu.sg</td>
+  </tr>
+	<tr>
     <td class="tg-0lax">Physical Education (PHE), Aesthetics and Co-Curricular Activities (CCA)</td>
     <td class="tg-0lax">Miss Michelle Huang</td>
     <td class="tg-0lax">michelle_huang@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Science</td>
-    <td class="tg-0lax">Mdm Gwendalyn Cho</td>
-    <td class="tg-0lax">cho_lye_ping_gwendalyn@moe.edu.sg</td>
+    <td class="tg-0lax">Character &amp; Citizenship Education (CCE)</td>
+    <td class="tg-0lax">Mr Khong Weng Keong</td>
+    <td class="tg-0lax">khong_weng_keong@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-0lax">Student Well-Being &amp; Management</td>
+    <td class="tg-0lax">Mr Kelvin Tan</td>
+    <td class="tg-0lax">tan_kim_seng_kelvin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Information and Communication Technology</td>
+    <td class="tg-0lax">Mr Anson Tan</td>
+    <td class="tg-0lax">anson_tan@moe.edu.sg</td>
   </tr>
 	<tr>
 			<td></td>
