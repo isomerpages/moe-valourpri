@@ -13,14 +13,14 @@ The CCA experience aims to give students a snippet of how the CCA will be like i
 
 To be updated
 
-[**Clubs**](/student-development/co-curricular-activities/clubs/)<br>
-Clubs allow students to explore and extend thier interest in wide ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialised  areas.
+#### [**Clubs**](/student-development/co-curricular-activities/clubs/)<br>
+Clubs allow students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialised areas.
 
-[**Performing Arts**](/student-development/co-curricular-activities/performing-arts/)<br>
+#### [**Performing Arts**](/student-development/co-curricular-activities/performing-arts/)<br>
 Performing Arts instill in students a sense of graciousness and an appreciation for the rich culture and heritage of a multi-racial society.&nbsp;
 
-[**Physical Sports**](/student-development/co-curricular-activities/physical-sports/)<br>
+#### [**Physical Sports**](/student-development/co-curricular-activities/physical-sports/)<br>
 Physical Sports develop robustness, fair play and team spirit in students.
 
-[**Uniformed Groups**](/student-development/co-curricular-activities/uniformed-groups/)<br>
+#### [**Uniformed Groups**](/student-development/co-curricular-activities/uniformed-groups/)<br>
 Uniformed Group activities aim to make good citizens of students by inculcating in them self-reliance, resilience, discipline and a spirit of service to others.
