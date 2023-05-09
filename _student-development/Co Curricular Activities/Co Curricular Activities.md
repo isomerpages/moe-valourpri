@@ -10,30 +10,30 @@ CCAs bring students from diverse backgrounds together. By learning and interacti
   
 The following CCAs are offered to the Primary 2 students, first through the experience programme and later in Primary 3, as a formal CCA that they will see through in their primary school journey.
 
-| Clubs | Performing Arts | Sports | Uniformed Groups 
+| Clubs | Performing Arts | Sports | Uniformed Groups |
 |---|---|---|---|
 | Outdoor Club | Festival Drums<br>Guitar Ensemble<br>International Dance<br>Visual and Media Art Club | Floorball<br>Volleyball | Boys’ Brigade<br>Girls’ Brigade<br>Red Cross |
 | | | | |
 
-##### Primary 3 CCA Schedule (Y2022)
-
-| Term 3<br>Thursday, 2.15pm to 4pm | Term 4<br>Thursday, 2.15pm to 4.00pm |
-|---|---|
-| <b>Term 3 Week 1 to Week 9</b><br>30 June 2022<br>07 July 2022<br>14 July 2022<br>21 July 2022<br>28 July 2022<br>04 August 2022<br>11 August 2022<br>18 August 2022<br>25 August 2022 | <b>Term 4 Week 1 to Week 2</b><br>15 September 2022<br>22 September 2022<br> <br><b>Term 4 Week 8 to Week 10</b><br>03 November 2022<br>10 November 2022<br>17 November 2022 |
-| | |
-
-##### Primary 2 CCA Experience (Y2022)
-
-The purpose of the CCA experience is to help students make sound and responsible decisions about CCA selection. Primary Two students will select and go through four different CCA experiences of their choice in Semester 2, 2022.
-
-The CCA experience aims to give students a snippet of how the CCA will be like if they joined it. This helps to give students a good idea of what they may expect when they come for CCA sessions weekly.
-
-##### Primary 2 CCA Experience Schedule (Y2022)
-
-| Friday, 2.15pm to 4pm |  |  |  |
+##### CCA Schedule (Y2023)
+###### Primary 3 &amp; 4 CCA Schedule Y2023 
+Applicable to all P3 &amp; P4 Students<br>
+<b>Thursday 2:15pm - 4:15pm</b>
+| Term 1 | Term 2 | Term 3 | Term 4 |
 |---|---|---|---|
-| Rotation 1<br>Term 3 Week 4 &amp; 5<br>22 July 2022<br>29 July 2022 | Rotation 2<br>Term 3 Week 6 &amp; 7<br>05 August 2022<br>12 August 2022 | Rotation 3<br>Term 3 Week 8 &amp; 9<br>19 August 2022<br>26 August 2022 | Rotation 4<br>Term 4 Week 1 &amp; 2<br>16 September 2022<br>23 September 2022 |
-| | | | |
+| Week 4 to 10 | Week 1 to 9  | Week 1 to 6<br>Week 8 &amp; 9 | Week 1 to 3<br>Week 8 to 10 |
+| 26 Jan<br>02 Feb<br>09 Feb<br>16 Feb<br>23 Feb<br>02 Mar (P3 only)<br>09 Mar | 23 Mar<br>30 Mar<br>06 Apr<br>13Apr<br>20 Apr<br>27 Apr<br>04 May<br>11 May<br>18 May<br> | 06 Jul<br>13 Jul<br>20 Jul<br>27 Jul<br>03 Aug<br>17 aug<br>24 Aug<br> | 14 Sep<br>21 sep<br>28 Sep<br>02 Nov<br>09 Nov<br>16 Nov |
+| |
+
+###### Primary  3 &amp; 4 Competitive Team CCA Schedule
+Applicable to <u>ONLY</u> selected students<br>
+Please note that students who are in Competitive Team will be required to attend additional training stated in the schedule below<br>
+<b>Friday 2:15pm - 4:15pm</b>
+| Term 1 | Term 2 | Term 3 | Term 4 |
+|---|---|---|---|
+| Week 4 to 10 | Week 1 to 9  | Week 1 to 6<br>Week 8 &amp; 9 | Week 1 to 3<br>Week 8 to 10 |
+| 27 Jan<br>03 Feb<br>10 Feb<br>17 Feb<br>24 Feb<br>03 Mar<br>10 Mar | 24 Mar<br>31 Mar<br>14 Apr<br>28 Apr<br>05 May<br>12 May<br>19 May | 30 Jun<br>07 Jul<br>14 Jul<br>21 Jul<br>28 Jul<br>04 Aug<br>11 Aug<br>18 Aug<br>25 Aug | 15 Sep<br>22 sep<br>29 Sep<br>03 Nov<br>10 Nov<br>17 Nov |
+| |
 
 [Clubs](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/clubs) <br>
 Clubs allow students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialised areas.
