@@ -12,8 +12,8 @@ The following CCAs are offered to the Primary 2 students, first through the expe
 
 | Clubs | Performing Arts | Sports | Uniformed Groups |
 |---|---|---|---|
-| Outdoor Club | Festival Drums<br>Guitar Ensemble<br>International Dance<br>Visual and Media Art Club | Floorball<br>Volleyball | Boys’ Brigade<br>Girls’ Brigade<br>Red Cross |
-| | | | |
+| Outdoor Club<br>Visual and Media Art Club | Festival Drums<br>Guitar Ensemble<br>International Dance | Floorball<br>Volleyball | Boys’ Brigade<br>Girls’ Brigade<br>Red Cross |
+| |
 
 ##### CCA Schedule (Y2023)
 ###### Primary 3 &amp; 4 CCA Schedule Y2023 
