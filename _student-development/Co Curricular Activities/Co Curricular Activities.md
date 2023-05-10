@@ -22,16 +22,14 @@ Applicable to <u>ALL</u> P3 &amp; P4 Students<br>
 | Term 1<br>Week 4 to 10 | Term 2<br>Week 1 to 9 | Term 3<br>Week 1 to 6<br>Week 8 &amp; 9 | Term 4<br>Week 1 to 3<br>Week 8 to 10 |
 |---|---|---|---|
 | 26 Jan<br>02 Feb<br>09 Feb<br>16 Feb<br>23 Feb<br>02 Mar (P3 only)<br>09 Mar | 23 Mar<br>30 Mar<br>06 Apr<br>13Apr<br>20 Apr<br>27 Apr<br>04 May<br>11 May<br>18 May<br> | 06 Jul<br>13 Jul<br>20 Jul<br>27 Jul<br>03 Aug<br>17 Aug<br>24 Aug<br> | 14 Sep<br>21 sep<br>28 Sep<br>02 Nov<br>09 Nov<br>16 Nov |
-| |
 
-<b>Primary3 &amp; 4 Competitive Team CCA Schedule</b><br>
+<b>Primary 3 &amp; 4 Competitive Team CCA Schedule</b><br>
 Applicable to <u>ONLY</u> selected students<br>
 Please note that students who are in Competitive Team will be required to attend additional training stated in the schedule below<br>
 <b>Friday 2:15pm - 4:15pm</b>
 | Term 1 | Term 2 | Term 3 | Term 4 |
 |---|---|---|---|
 | 27 Jan<br>03 Feb<br>10 Feb<br>17 Feb<br>24 Feb<br>03 Mar<br>10 Mar | 24 Mar<br>31 Mar<br>14 Apr<br>28 Apr<br>05 May<br>12 May<br>19 May | 30 Jun<br>07 Jul<br>14 Jul<br>21 Jul<br>28 Jul<br>04 Aug<br>11 Aug<br>18 Aug<br>25 Aug | 5 Sep<br>22 sep<br>29 Sep<br>03 Nov<br>10 Nov<br>17 Nov |
-| |
 
 [Clubs](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/clubs) <br>
 Clubs allow students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialised areas.
