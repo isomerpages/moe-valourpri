@@ -16,7 +16,7 @@ The following CCAs are offered to the Primary 2 students, first through the expe
 | |
 
 ##### CCA Schedule (Y2023)
-###### Primary 3 &amp; 4 CCA Schedule Y2023 
+<b>Primary 3 &amp; 4 CCA Schedule Y2023</b><br>
 Applicable to <u>ALL</u> P3 &amp; P4 Students<br>
 <b>Thursday 2:15pm - 4:15pm</b>
 | Term 1<br>Week 4 to 10 | Term 2<br>Week 1 to 9 | Term 3<br>Week 1 to 6<br>Week 8 &amp; 9 | Term 4<br>Week 1 to 3<br>Week 8 to 10 |
