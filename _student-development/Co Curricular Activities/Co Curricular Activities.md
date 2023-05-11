@@ -51,10 +51,10 @@ Please note that students who are in Competitive Team will be required to attend
 <b>Friday 2:15pm - 4:15pm</b>
 <table>
 	<tbody><tr>
-		<td width="25%" align="center"><b>Term 1</b></td>
-		<td width="25%" align="center"><b>Term 2</b></td>
-		<td width="25%" align="center"><b>Term 3</b></td>
-		<td width="25%" align="center"><b>Term 4</b></td>
+		<td align="center"><b>Term 1</b></td>
+		<td align="center"><b>Term 2</b></td>
+		<td align="center"><b>Term 3</b></td>
+		<td align="center"><b>Term 4</b></td>
 	</tr>
 	<tr>
 		<td align="center">27 Jan<br>03 Feb<br>10 Feb<br>17 Feb<br>24 Feb<br>03 Mar<br>10 Mar</td>
