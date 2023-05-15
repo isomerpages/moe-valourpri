@@ -17,7 +17,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 1. Download and complete the [Call for Proposal - Annex A](/files/Announcements%20for%20Vendors/call-for-proposal-annex-a.pdf)
 
-2. Submit the completed Call for Proposal – Annex A by closing date, 16 May 2023, to the School’s General Office.
+2. Submit the completed hardcopy of Call for Proposal – Annex A by closing date, 16 May 2023, to the School’s General Office.
 
 Address: 49 Punggol Central, S 828728
 
