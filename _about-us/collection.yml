@@ -4,8 +4,8 @@ collections:
     order:
       - School Identity/.keep
       - School Identity/School Crest.md
-      - General Information/Homework Policy.md
       - General Information/.keep
+      - General Information/Homework Policy.md
       - General Information/Service Providers.md
       - General Information/Calendar.md
       - Newsletters.md
@@ -15,4 +15,5 @@ collections:
       - Our People/Allied Educators.md
       - Our People/EAS.md
       - Privacy Statement.md
+      - Announcements for Vendors.md
       - Contact Us.md
