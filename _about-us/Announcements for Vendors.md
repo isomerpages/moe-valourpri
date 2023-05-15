@@ -26,6 +26,5 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 ### How to get there?
 
-Nearest MRT: Punggol MRT (NE17 line) – 5 minutes walking distance
-
-Punggol Bus Interchange: 5 minutes walking distance
+<b>Nearest MRT:</b> Punggol MRT (NE17 line) – 5 minutes walking distance<br>
+<b>Punggol Bus Interchange:</b> 5 minutes walking distance
