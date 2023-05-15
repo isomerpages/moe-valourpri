@@ -9,8 +9,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 ### Service Requirements
 
-1.&nbsp;[Call for Proposal](/files/Announcements%20for%20Vendors/call-for-proposal-valour-primary-school.pdf)
-
+1.&nbsp;[Call for Proposal](/files/Announcements%20for%20Vendors/call-for-proposal-valour-primary-school.pdf)<br>
 2.&nbsp;[Agreement for Appointment of School Bus Operator](/files/Announcements%20for%20Vendors/agreement-for-appointment-of-school-bus-operator.pdf)
 
 ### Application Procedure 
