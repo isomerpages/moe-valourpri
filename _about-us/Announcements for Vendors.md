@@ -19,7 +19,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 2. Submit the completed hardcopy of Call for Proposal – Annex A by closing date, 16 May 2023, to the School’s General Office.
 
 <b>Address:</b> 49 Punggol Central, S 828728<br>
-<b>Contact No:</b> 6242 6490<br>
+<b>Contact No:</b> 6242 6390<br>
 <b>Email:</b> valour_ps@moe.edu.sg<br>
 <b>Contact Person:</b> Ms Huong Siew Lin<br>
 
