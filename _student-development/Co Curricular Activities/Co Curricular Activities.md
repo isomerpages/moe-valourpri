@@ -12,16 +12,16 @@ The following CCAs are offered to the Primary 2 students, first through the expe
 
 <table style="width:100%">
 	<tbody><tr>
-		<td width="25%" align="center"><b>Clubs</b></td>
-		<td width="25%" align="center"><b>Performing Arts</b></td>
-		<td width="25%" align="center"><b>Sports</b></td>
-		<td width="25%" align="center"><b>Uniformed Groups</b></td>
+		<td width="25%" style="text-align: center"><b>Clubs</b></td>
+		<td width="25%" style="text-align: center"><b>Performing Arts</b></td>
+		<td width="25%" style="text-align: center"><b>Sports</b></td>
+		<td width="25%" style="text-align: center"><b>Uniformed Groups</b></td>
 	</tr>
 	<tr>
-		<td align="center">Outdoor Club<br>Visual and Media Art Club</td>
-		<td align="center">Festival Drums<br>Guitar Ensemble<br>International Dance</td>
-		<td align="center">Floorball<br>Volleyball</td>
-		<td align="center">Boys’ Brigade<br>Girls’ Brigade<br>Red Cross</td>
+		<td style="text-align: center">Outdoor Club<br>Visual and Media Art Club</td>
+		<td style="text-align: center">Festival Drums<br>Guitar Ensemble<br>International Dance</td>
+		<td style="text-align: center">Floorball<br>Volleyball</td>
+		<td style="text-align: center">Boys’ Brigade<br>Girls’ Brigade<br>Red Cross</td>
 	</tr>
 </tbody></table>
 
@@ -32,16 +32,16 @@ Applicable to <u>ALL</u> P3 &amp; P4 Students<br>
 <b>Thursday 2:15pm - 4:15pm</b>
 <table>
 	<tbody><tr>
-		<td width="25%" align="center"><b>Term 1</b><br>Week 4 to 10</td>
-		<td width="25%" align="center"><b>Term 2</b><br>Week 1 to 9</td>
-		<td width="25%" align="center"><b>Term 3</b><br>Week 1 to 6<br>Week 8 &amp; 9</td>
-		<td width="25%" align="center"><b>Term 4</b><br>Week 1 to 3<br>Week 8 to 10</td>
+		<td width="25%" style="text-align: center"><b>Term 1</b><br>Week 4 to 10</td>
+		<td width="25%" style="text-align: center"><b>Term 2</b><br>Week 1 to 9</td>
+		<td width="25%" style="text-align: center"><b>Term 3</b><br>Week 1 to 6<br>Week 8 &amp; 9</td>
+		<td width="25%" style="text-align: center"><b>Term 4</b><br>Week 1 to 3<br>Week 8 to 10</td>
 	</tr>
 	<tr>
-		<td align="center">26 Jan<br>02 Feb<br>09 Feb<br>16 Feb<br>23 Feb<br>02 Mar (P3 only)<br>09 Mar</td>
-		<td align="center">23 Mar<br>30 Mar<br>06 Apr<br>13Apr<br>20 Apr<br>27 Apr<br>04 May<br>11 May<br>18 May</td>
-		<td align="center">Term 3<br> 06 Jul<br>13 Jul<br>20 Jul<br>27 Jul<br>03 Aug<br>17 Aug<br>24 Aug</td>
-		<td align="center">14 Sep<br>21 sep<br>28 Sep<br>02 Nov<br>09 Nov<br>16 Nov</td>
+		<td style="text-align: center">26 Jan<br>02 Feb<br>09 Feb<br>16 Feb<br>23 Feb<br>02 Mar (P3 only)<br>09 Mar</td>
+		<td style="text-align: center">23 Mar<br>30 Mar<br>06 Apr<br>13Apr<br>20 Apr<br>27 Apr<br>04 May<br>11 May<br>18 May</td>
+		<td style="text-align: center">Term 3<br> 06 Jul<br>13 Jul<br>20 Jul<br>27 Jul<br>03 Aug<br>17 Aug<br>24 Aug</td>
+		<td style="text-align: center">14 Sep<br>21 sep<br>28 Sep<br>02 Nov<br>09 Nov<br>16 Nov</td>
 	</tr>
 </tbody></table>
 
@@ -51,16 +51,16 @@ Please note that students who are in Competitive Team will be required to attend
 <b>Friday 2:15pm - 4:15pm</b>
 <table>
 	<tbody><tr>
-		<td align="center"><b>Term 1</b></td>
-		<td align="center"><b>Term 2</b></td>
-		<td align="center"><b>Term 3</b></td>
-		<td align="center"><b>Term 4</b></td>
+		<td style="text-align: center"><b>Term 1</b></td>
+		<td style="text-align: center"><b>Term 2</b></td>
+		<td style="text-align: center"><b>Term 3</b></td>
+		<td style="text-align: center"><b>Term 4</b></td>
 	</tr>
 	<tr>
-		<td align="center">27 Jan<br>03 Feb<br>10 Feb<br>17 Feb<br>24 Feb<br>03 Mar<br>10 Mar</td>
-		<td align="center">24 Mar<br>31 Mar<br>14 Apr<br>28 Apr<br>05 May<br>12 May<br>19 May</td>
-		<td align="center">0 Jun<br>07 Jul<br>14 Jul<br>21 Jul<br>28 Jul<br>04 Aug<br>11 Aug<br>18 Aug<br>25 Aug</td>
-		<td align="center">5 Sep<br>22 sep<br>29 Sep<br>03 Nov<br>10 Nov<br>17 Nov </td>
+		<td style="text-align: center">27 Jan<br>03 Feb<br>10 Feb<br>17 Feb<br>24 Feb<br>03 Mar<br>10 Mar</td>
+		<td style="text-align: center">24 Mar<br>31 Mar<br>14 Apr<br>28 Apr<br>05 May<br>12 May<br>19 May</td>
+		<td style="text-align: center">0 Jun<br>07 Jul<br>14 Jul<br>21 Jul<br>28 Jul<br>04 Aug<br>11 Aug<br>18 Aug<br>25 Aug</td>
+		<td style="text-align: center">5 Sep<br>22 sep<br>29 Sep<br>03 Nov<br>10 Nov<br>17 Nov </td>
 	</tr>
 </tbody></table>
 
