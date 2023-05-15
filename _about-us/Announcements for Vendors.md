@@ -21,7 +21,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 <b>Address:</b> 49 Punggol Central, S 828728<br>
 <b>Contact No:</b> 6242 6490<br>
 <b>Email:</b> valour_ps@moe.edu.sg<br>
-<b>Contact Person:M</b> Ms Huong Siew Lin<br>
+<b>Contact Person:</b> Ms Huong Siew Lin<br>
 
 ### How to get there?
 
