@@ -9,9 +9,9 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 ### Service Requirements
 
-1. Call for Proposal
+1. [Call for Proposal](/files/Announcements%20for%20Vendors/call-for-proposal-valour-primary-school.pdf)
 
-2. Agreement for Appointment of School Bus Operator
+2. [Agreement for Appointment of School Bus Operator](/files/Announcements%20for%20Vendors/agreement-for-appointment-of-school-bus-operator.pdf)
 
 ### Application Procedure 
 
