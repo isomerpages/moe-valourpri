@@ -13,9 +13,9 @@ The following CCAs are offered to the Primary 2 students, first through the expe
 
 <table style="width:100%">
 	<tbody><tr>
-		<td width="25%" style="text-align: center"><b>Clubs</b></td>
+		<td width="30%" style="text-align: center"><b>Clubs</b></td>
 		<td width="25%" style="text-align: center"><b>Performing Arts</b></td>
-		<td width="25%" style="text-align: center"><b>Sports</b></td>
+		<td width="20%" style="text-align: center"><b>Sports</b></td>
 		<td width="25%" style="text-align: center"><b>Uniformed Groups</b></td>
 	</tr>
 	<tr>
@@ -23,6 +23,8 @@ The following CCAs are offered to the Primary 2 students, first through the expe
 		<td style="text-align: center">Festival Drums<br>Guitar Ensemble<br>International Dance</td>
 		<td style="text-align: center">Floorball<br>Volleyball</td>
 		<td style="text-align: center">Boys’ Brigade<br>Girls’ Brigade<br>Red Cross</td>
+	</tr>
+	<tr>
 	</tr>
 </tbody></table>
 
