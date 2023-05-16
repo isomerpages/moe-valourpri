@@ -15,13 +15,51 @@ The CCA experience aims to give students a snippet of how the CCA will be like i
 <table style="width:100%">
 	<tbody>
 		<tr>
-		<th width="40%" style="text-align: left">Session
-		</th><th width="60%" style="text-align: left">Date
-	</th></tr>
+			<th width="40%" colspan="2" style="text-align: center">Session</th>
+			<th width="60%" style="text-align: left">Date</th>
+		</tr>
+		<tr>
+		<td width="25%" rowspan="2" style="text-align: left">CCA Experience 1</td>
+		<td width="15%" style="text-align: left">Session 1
+		</td><td style="text-align: left">21 Jul 2023, Friday 
+		</td>
+		</tr>
+		<tr>
+		<td style="text-align: left">Session 2</td>
+		<td style="text-align: left">28 Jul 2023, Friday 
+	</td>
+	</tr>
+			<tr><td width="25%" rowspan="2" style="text-align: left">CCA Experience 2</td>
+		<td width="15%" style="text-align: left">Session 1
+		</td><td style="text-align: left">21 Jul 2023, Friday 
+		</td>
+		</tr>
+		<tr>
+		<td style="text-align: left">Session 2</td>
+		<td style="text-align: left">28 Jul 2023, Friday 
+	</td>
+	</tr>
+		<tr><td width="25%" rowspan="2" style="text-align: left">CCA Experience 3</td>
+		<td width="15%" style="text-align: left">Session 1
+		</td><td style="text-align: left">21 Jul 2023, Friday 
+		</td>
+		</tr>
+		<tr>
+		<td style="text-align: left">Session 2</td>
+		<td style="text-align: left">28 Jul 2023, Friday 
+	</td>
+	</tr>
+			<tr><td width="25%" rowspan="2" style="text-align: left">CCA Experience 4</td>
+		<td width="15%" style="text-align: left">Session 1
+		</td><td style="text-align: left">21 Jul 2023, Friday 
+		</td>
+		</tr>
+		<tr>
+		<td style="text-align: left">Session 2</td>
+		<td style="text-align: left">28 Jul 2023, Friday 
+	</td>
+	</tr>
 	<tr>
-		<td style="text-align: left">Outdoor Club<br>Visual and Media Art Club</td>
-		<td style="text-align: left">Festival Drums<br>Guitar Ensemble<br>International 
-	</td></tr><tr>
 	</tr>
 </tbody></table>
 
