@@ -34,13 +34,13 @@ Applicable to <u>ALL</u> P3 &amp; P4 Students<br>
 	<tbody><tr>
 		<td width="25%" style="text-align: center"><b>Term 1</b><br>Week 4 to 10</td>
 		<td width="25%" style="text-align: center"><b>Term 2</b><br>Week 1 to 9</td>
-		<td width="25%" style="text-align: center"><b>Term 3</b><br>Week 1 to 6<br>Week 8 &amp; 9</td>
+		<td width="25%" style="text-align: center"><b>Term 3</b><br>Week 2 to 6<br>Week 8 &amp; 9</td>
 		<td width="25%" style="text-align: center"><b>Term 4</b><br>Week 1 to 3<br>Week 8 to 10</td>
 	</tr>
 	<tr>
 		<td style="text-align: center">26 Jan<br>02 Feb<br>09 Feb<br>16 Feb<br>23 Feb<br>02 Mar (P3 only)<br>09 Mar</td>
 		<td style="text-align: center">23 Mar<br>30 Mar<br>06 Apr<br>13Apr<br>20 Apr<br>27 Apr<br>04 May<br>11 May<br>18 May</td>
-		<td style="text-align: center">Term 3<br> 06 Jul<br>13 Jul<br>20 Jul<br>27 Jul<br>03 Aug<br>17 Aug<br>24 Aug</td>
+		<td style="text-align: center">06 Jul<br>13 Jul<br>20 Jul<br>27 Jul<br>03 Aug<br>17 Aug<br>24 Aug</td>
 		<td style="text-align: center">14 Sep<br>21 sep<br>28 Sep<br>02 Nov<br>09 Nov<br>16 Nov</td>
 	</tr>
 </tbody></table>
