@@ -12,7 +12,7 @@ Here at Valour Primary School, we strive to build a strong foundation in the Eng
 
 ### English Curriculum for 2023
 
-**Primary 1**
+##### Primary 1
 <table>
 	<tbody><tr>
 		<th style="text-align: center">Term</th>
@@ -66,7 +66,7 @@ Here at Valour Primary School, we strive to build a strong foundation in the Eng
 	</tr>
 </tbody></table>
 
-**Primary 2**
+##### Primary 2
 <table>
 	<tbody><tr>
 		<th style="text-align: center">Term</th>
@@ -120,7 +120,7 @@ Here at Valour Primary School, we strive to build a strong foundation in the Eng
 	</tr>
 </tbody></table>
 
-**Primary 3**
+##### Primary 3
 <table>
 	<tbody><tr>
 		<th style="text-align: center">Term</th>
@@ -164,7 +164,7 @@ Here at Valour Primary School, we strive to build a strong foundation in the Eng
 	</tr>
 </tbody></table>
 
-**Primary 4**
+##### Primary 4
 <table>
 	<tbody><tr>
 		<th style="text-align: center">Term</th>
