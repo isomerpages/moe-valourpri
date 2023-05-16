@@ -4,7 +4,7 @@ permalink: /student-development/co-curricular-activities/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-### Co Cirricular Activities
+### Co-curricular Activities
 CCAs are a key part of students’ holistic development in their primary school experience. CCAs provide a platform for students to discover their interests and talents and to realise their potential through these pursuits. Students also develop their character, values, and social emotional competencies and related skills to prepare them to take on challenges in the future.
 
 CCAs bring students from diverse backgrounds together. By learning and interacting with one another, students develop friendships and deepen their sense of identity and belonging to the school and community.
