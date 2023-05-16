@@ -3,13 +3,11 @@ title: Newsletters
 permalink: /about-us/general-information/newsletters/
 description: ""
 ---
-
-#### 2020 NEWSLETTERS
+### 2020 NEWSLETTERS
 
 <div>  
 <div style="float: left">  
-<img src="/images/june_2020_pri_nl.jpg" 
-     style="width:70%">  
+<img src="/images/june_2020_pri_nl.jpg" style="width:70%">  
 </div>  
 <div></div>  
 </div>
@@ -21,8 +19,7 @@ description: ""
 
 <div>  
 <div style="float: left">  
-<img src="/images/december_2020_pri_nl.jpg" 
-     style="width:70%">
+<img src="/images/december_2020_pri_nl.jpg" style="width:70%">
 </div>  
 <div></div>  
 </div>
@@ -31,42 +28,39 @@ description: ""
 
 <br>
 
-#### 2021 NEWSLETTERS
+### 2021 NEWSLETTERS
 
 <div>  
 <div style="float: left">  
-<img src="/images/june_2021_pri_nl.jpg" 
-     style="width:70%">  
+<img src="/images/june_2021_pri_nl.jpg" style="width:70%">  
 </div>  
 <div></div>  
 </div>
 
-[Buzz@Valour Issue 3 (June 2021)] file size too big
+Buzz@Valour Issue 3 (June 2021)
 
 <br>
 <br>
 
 <div>  
 <div style="float: left">  
-<img src="/images/dec_2021_pri_nl.jpg" 
-     style="width:70%">
+<img src="/images/dec_2021_pri_nl.jpg" style="width:70%">
 </div>  
 <div></div>  
 </div>
 
-[Buzz@Valour Issue 4 (Dec 2021)] file size too big
+Buzz@Valour Issue 4 (Dec 2021)
 
 <br>
 <br>
 
-#### 2022 NEWSLETTERS
+### 2022 NEWSLETTERS
 
 <div>  
 <div style="float: left">  
-<img src="/images/june_2022_pri_nl.png" 
-     style="width:70%">  
+<img src="/images/june_2022_pri_nl.png" style="width:70%">  
 </div>  
 <div></div>  
 </div>
 
-[Buzz@Valour Issue 5 (June 2022)] file size too big
+Buzz@Valour Issue 5 (June 2022)
