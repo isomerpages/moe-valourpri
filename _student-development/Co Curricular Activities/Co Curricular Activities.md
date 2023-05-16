@@ -4,7 +4,7 @@ permalink: /student-development/co-curricular-activities/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-### Co Cirricular Activities
+### Co-curricular Activities
 CCAs are a key part of students’ holistic development in their primary school experience. CCAs provide a platform for students to discover their interests and talents and to realise their potential through these pursuits. Students also develop their character, values, and social emotional competencies and related skills to prepare them to take on challenges in the future.
 
 CCAs bring students from diverse backgrounds together. By learning and interacting with one another, students develop friendships and deepen their sense of identity and belonging to the school and community.
@@ -78,14 +78,14 @@ Please note that students who are in Competitive Team will be required to attend
 </tbody>
 </table>
 
-[Clubs](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/clubs) <br>
+##### [Clubs](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/clubs) <br>
 Clubs allow students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialised areas.
 
-[Performing Arts](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/performing-arts) <br>
+##### [Performing Arts](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/performing-arts) <br>
 Performing Arts instill in students a sense of graciousness and an appreciation for the rich culture and heritage of a multi-racial society.
 
-[Physical Sports](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/physical-sports) <br>
+##### [Physical Sports](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/physical-sports) <br>
 Physical Sports develop robustness, fair play and team spirit in students.
 
-[Uniformed Groups](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/uniformed-groups) <br>
+##### [Uniformed Groups](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/uniformed-groups) <br>
 Uniformed Group activities aim to make good citizens of students by inculcating in them self-reliance, resilience, discipline and a spirit of service to others.
