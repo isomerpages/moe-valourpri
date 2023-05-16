@@ -11,53 +11,50 @@ The CCA experience aims to give students a snippet of how the CCA will be like i
   
 
 ### Primary 2 CCA Experience Schedule (Y2023)
-###### Time: 2:15pm - 4.00pm
-<table style="width:100%">
+###### Time: Fridays, 2:15pm - 4.00pm
+<table align="center" style="width:75%">
 	<tbody>
 		<tr>
-			<th width="40%" colspan="2" style="text-align: center">Session</th>
-			<th width="60%" style="text-align: left">Date</th>
+			<th width="45%" colspan="2" style="text-align: center">Session</th>
+			<th width="30%" style="text-align: center">Date</th>
 		</tr>
 		<tr>
 		<td width="25%" rowspan="2" style="text-align: left">CCA Experience 1</td>
-		<td width="15%" style="text-align: left">Session 1
-		</td><td style="text-align: left">21 Jul 2023, Friday 
+		<td width="20%" style="text-align: center">Session 1
+		</td><td width="30%" style="text-align: center">21 Jul 2023</td>
+		</tr>
+		<tr>
+		<td width="20%" style="text-align: center">Session 2</td>
+		<td width="30%" style="text-align: center">28 Jul 2023</td>
+	</tr>
+			<tr>
+		<td width="25%" rowspan="2" style="text-align: left">CCA Experience 2</td>
+		<td width="20%" style="text-align: center">Session 1
+		</td><td width="30%" style="text-align: center">04 Aug 2023
 		</td>
 		</tr>
 		<tr>
-		<td style="text-align: left">Session 2</td>
-		<td style="text-align: left">28 Jul 2023, Friday 
+		<td width="20%" style="text-align: center">Session 2</td>
+		<td width="30%" style="text-align: center">11 Aug 2023 
 	</td>
 	</tr>
-			<tr><td width="25%" rowspan="2" style="text-align: left">CCA Experience 2</td>
-		<td width="15%" style="text-align: left">Session 1
-		</td><td style="text-align: left">21 Jul 2023, Friday 
-		</td>
+			<tr>
+		<td width="25%" rowspan="2" style="text-align: left">CCA Experience 3</td>
+		<td width="20%" style="text-align: center">Session 1
+		</td><td width="30%" style="text-align: center">18 Aug 2023</td>
 		</tr>
 		<tr>
-		<td style="text-align: left">Session 2</td>
-		<td style="text-align: left">28 Jul 2023, Friday 
-	</td>
+		<td width="20%" style="text-align: center">Session 2</td>
+		<td width="30%" style="text-align: center">25 Aug 2023</td>
 	</tr>
-		<tr><td width="25%" rowspan="2" style="text-align: left">CCA Experience 3</td>
-		<td width="15%" style="text-align: left">Session 1
-		</td><td style="text-align: left">21 Jul 2023, Friday 
-		</td>
+			<tr>
+		<td width="25%" rowspan="2" style="text-align: left">CCA Experience 4</td>
+		<td width="20%" style="text-align: center">Session 1
+		</td><td width="30%" style="text-align: center">15 Sep 2023</td>
 		</tr>
 		<tr>
-		<td style="text-align: left">Session 2</td>
-		<td style="text-align: left">28 Jul 2023, Friday 
-	</td>
-	</tr>
-			<tr><td width="25%" rowspan="2" style="text-align: left">CCA Experience 4</td>
-		<td width="15%" style="text-align: left">Session 1
-		</td><td style="text-align: left">21 Jul 2023, Friday 
-		</td>
-		</tr>
-		<tr>
-		<td style="text-align: left">Session 2</td>
-		<td style="text-align: left">28 Jul 2023, Friday 
-	</td>
+		<td width="20%" style="text-align: center">Session 2</td>
+		<td width="30%" style="text-align: center">22 Sep 2023</td>
 	</tr>
 	<tr>
 	</tr>
