@@ -4,10 +4,9 @@ permalink: /about-us/general-information/service-providers/
 description: ""
 third_nav_title: General Information
 ---
-##### BOOKS AND STATIONERIES
+### BOOKS AND STATIONERIES
   
-<img src="/images/Books%20and%20Stationeries.png" 
-     style="width:25%"> 
+<img src="/images/Books%20and%20Stationeries.png" style="width:25%"> 
 
 | The Continental Book Centre |  |
 |---|---|
@@ -17,10 +16,9 @@ third_nav_title: General Information
 | Email: | [Admin-@the-continental.com.sg](mailto:Admin-@the-continental.com.sg) |
 | | |
 
-##### SCHOOL UNIFORM
+### SCHOOL UNIFORM
 
-<img src="/images/School%20Uniform.png" 
-     style="width:25%"> 
+<img src="/images/School%20Uniform.png" style="width:25%"> 
 
 | Jeep Sing Fashion |  |
 |---|---|
@@ -31,10 +29,9 @@ third_nav_title: General Information
 | Website: | [www.jeepsinguniform.com.sg](http://www.jeepsinguniform.com.sg/) |
 | | |
 
-##### BUS SERVICES
+### BUS SERVICES
 
-<img src="/images/Bus%20Services.png" 
-     style="width:25%">
+<img src="/images/Bus%20Services.png" style="width:25%">
 
 | Longlim Pte Ltd |  |
 |---|---|
@@ -45,10 +42,9 @@ third_nav_title: General Information
 | Website: | [www.longlim.com](http://www.longlim.com/) |
 | | |
 
-##### DENTAL SERVICES
+### DENTAL SERVICES
 
-<img src="/images/Dental%20Services.png" 
-     style="width:25%">
+<img src="/images/Dental%20Services.png" style="width:25%">
 		 
 | Tel: |  6719 8003 |
 |---|---|

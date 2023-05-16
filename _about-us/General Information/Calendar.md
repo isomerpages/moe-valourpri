@@ -8,7 +8,8 @@ third_nav_title: General Information
 
 This schedule is an information guide for you.&nbsp; You will be informed separately should there be any changes mentioned herein.
 
-| School Terms | | |
+### School Terms
+| | | |
 |---|---|---|
 | Semester 1 | Term 1 | Tue 3 Jan *&nbsp;to Fri 10 Mar |
 |  | Term 2 | Mon 20 Mar to Fri 26 May |
@@ -20,8 +21,8 @@ This schedule is an information guide for you.&nbsp; You will be informed separa
 
 ** The last day of the final school term for schools which will be used as venues for the GCE O-Level written examinations, will be Friday, 27 October 2023._
 
-
-| School Vacation | | |
+### School Vacation
+| | | |
 |---|---|---|
 | Semester 1 | After Term 1 | Sat 11 Mar to Sun 19 Mar |
 |  | After Term 2 | Sat 27 May to Sun 25 Jun |
@@ -29,18 +30,20 @@ This schedule is an information guide for you.&nbsp; You will be informed separa
 |  | After Term 4 | Sat 18 Nov to Sun 31 Dec |
 | | | |
 
-| Scheduled School Holidays |  |
+### Scheduled School Holidays
+| | |
 |---|---|
-| Holiday | Date |
+| <b>Holiday</b> | <b>Date</b> |
 | Youth Day | Sun 2 July<br>(Mon 3 Jul will be a scheduled school holiday) |
 | Day after National Day | Thu 10 August |
 | Teachers’ Day | Fri 1 Sep |
 | Children’s Day | Fri 6 Oct |
 | | | 
 
-| Public Holidays |  |  |
+### Public Holidays
+| |  |  |
 |---|---|---|
-| Term | Holiday | Date |
+| <b>Term</b> | <b>Holiday</b> | <b>Date</b> |
 | Term 1 | New Year’s Day | Sun 1 Jan ^ |
 |  | Chinese New Year | Sun 22 Jan ^^ |
 |  |  | Mon 23 Jan |
