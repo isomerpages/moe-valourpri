@@ -64,7 +64,8 @@ Here at Valour Primary School, we strive to build a strong foundation in the Eng
 	</tr>
 	<tr>
 	</tr>
-</tbody></table>
+</tbody>
+</table>
 
 ##### Primary 2
 <table>
