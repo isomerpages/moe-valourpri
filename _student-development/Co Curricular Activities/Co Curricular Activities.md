@@ -4,6 +4,7 @@ permalink: /student-development/co-curricular-activities/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+### Co Cirricular Activities
 CCAs are a key part of students’ holistic development in their primary school experience. CCAs provide a platform for students to discover their interests and talents and to realise their potential through these pursuits. Students also develop their character, values, and social emotional competencies and related skills to prepare them to take on challenges in the future.
 
 CCAs bring students from diverse backgrounds together. By learning and interacting with one another, students develop friendships and deepen their sense of identity and belonging to the school and community.
@@ -26,7 +27,7 @@ The following CCAs are offered to the Primary 2 students, first through the expe
 </tbody></table>
 
 
-##### CCA Schedule (Y2023)
+### CCA Schedule (Y2023)
 <b>Primary 3 &amp; 4 CCA Schedule Y2023</b><br>
 Applicable to <u>ALL</u> P3 &amp; P4 Students<br>
 <b>Thursday 2:15pm - 4:15pm</b>
@@ -51,18 +52,19 @@ Please note that students who are in Competitive Team will be required to attend
 <b>Friday 2:15pm - 4:15pm</b>
 <table>
 	<tbody><tr>
-		<td style="text-align: center"><b>Term 1</b></td>
-		<td style="text-align: center"><b>Term 2</b></td>
-		<td style="text-align: center"><b>Term 3</b></td>
-		<td style="text-align: center"><b>Term 4</b></td>
+		<td width="25%" style="text-align: center"><b>Term 1</b></td>
+		<td width="25%" style="text-align: center"><b>Term 2</b></td>
+		<td width="25%" style="text-align: center"><b>Term 3</b></td>
+		<td width="25%" style="text-align: center"><b>Term 4</b></td>
 	</tr>
 	<tr>
 		<td style="text-align: center">27 Jan<br>03 Feb<br>10 Feb<br>17 Feb<br>24 Feb<br>03 Mar<br>10 Mar</td>
 		<td style="text-align: center">24 Mar<br>31 Mar<br>14 Apr<br>28 Apr<br>05 May<br>12 May<br>19 May</td>
-		<td style="text-align: center">0 Jun<br>07 Jul<br>14 Jul<br>21 Jul<br>28 Jul<br>04 Aug<br>11 Aug<br>18 Aug<br>25 Aug</td>
-		<td style="text-align: center">5 Sep<br>22 sep<br>29 Sep<br>03 Nov<br>10 Nov<br>17 Nov </td>
+		<td style="text-align: center">30 Jun<br>07 Jul<br>14 Jul<br>21 Jul<br>28 Jul<br>04 Aug<br>11 Aug<br>18 Aug<br>25 Aug</td>
+		<td style="text-align: center">15 Sep<br>22 sep<br>29 Sep<br>03 Nov<br>10 Nov<br>17 Nov </td>
 	</tr>
-</tbody></table>
+</tbody>
+</table>
 
 [Clubs](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/clubs) <br>
 Clubs allow students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialised areas.
