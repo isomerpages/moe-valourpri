@@ -11,8 +11,19 @@ The CCA experience aims to give students a snippet of how the CCA will be like i
   
 
 ### Primary 2 CCA Experience Schedule (Y2023)
-
-To be updated
+###### Time: 2:15pm - 4.00pm
+<table style="width:100%">
+	<tbody>
+		<tr>
+		<th width="40%" style="text-align: left">Session
+		</th><th width="60%" style="text-align: left">Date
+	</th></tr>
+	<tr>
+		<td style="text-align: left">Outdoor Club<br>Visual and Media Art Club</td>
+		<td style="text-align: left">Festival Drums<br>Guitar Ensemble<br>International 
+	</td></tr><tr>
+	</tr>
+</tbody></table>
 
 ##### [**Clubs**](/student-development/co-curricular-activities/clubs/)<br>
 Clubs allow students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialised areas.
