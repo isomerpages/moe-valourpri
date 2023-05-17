@@ -22,8 +22,6 @@ Every Valourian, a creative problem-solver.
 .tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top;}
 .tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.ol {list-style-type: decimal;font-family:Arial, sans-serif;font-size:14px;}
-.li {padding-left: 5px;font-family:Arial, sans-serif;font-size:14px;line-height:1.2}
 </style>
 <table class="tg">
 <thead>
@@ -38,14 +36,7 @@ Every Valourian, a creative problem-solver.
 <tbody>
   <tr>
     <td width="8%" class="tg-9hzb">Topic</td>
-    <td width="23%" class="tg-ktyi">
-			<ol>
-				<li>Numbers to 10</li>
-				<li>Addition within 10</li>
-				<li>Subtraction within 10</li>
-				<li>Shapes</li>
-			</ol>
-				1.    Numbers to 10<br>2.    Addition within 10<br>3.    Subtraction within 10<br>4.    Shapes</td>
+    <td width="23%" class="tg-ktyi">1.    Numbers to 10<br>2.    Addition within 10<br>3.    Subtraction within 10<br>4.    Shapes</td>
     <td width="23%" class="tg-ktyi">5.    Ordinal Numbers<br>6.    Numbers to 20<br>7.     Addition and Subtraction within 20<br>8.    Picture Graphs<br>9.    Numbers to 100</td>
     <td width="23%" class="tg-ktyi">10.  Addition and Subtraction within 100<br>11.   Length<br>12.  Multiplication</td>
     <td width="23%" class="tg-ktyi">13.  Division<br>14.  1Time<br>15.  1Money</td>
