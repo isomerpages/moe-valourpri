@@ -39,8 +39,7 @@ This schedule is an information guide for you.&nbsp; You will be informed separa
 </tbody>
 </table>
 
-###### *&nbsp;Primary 1 and Kindergarten 1 will start school on Tuesday, 3 January 2023. Primary 2 to 6 and Kindergarten 2 will start school on Wednesday, 4 January 2023.
-###### ** The last day of the final school term for schools which will be used as venues for the GCE O-Level written examinations, will be Friday, 27 October 2023._
+###### *&nbsp;Primary 1 and Kindergarten 1 will start school on Tuesday, 3 January 2023. Primary 2 to 6 and Kindergarten 2 will start school on Wednesday, 4 January 2023. <br>**&nbsp;The last day of the final school term for schools which will be used as venues for the GCE O-Level written examinations, will be Friday, 27 October 2023._
 
 ### School Vacation
 <table style="width:100%" align="center">
