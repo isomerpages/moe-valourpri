@@ -69,6 +69,9 @@ This schedule is an information guide for you.&nbsp; You will be informed separa
 		<td style="text-align: left" width="50%">Sat 18 Nov to Sun 31 Dec</td>
 	</tr>
 	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 </tbody>
 </table>
