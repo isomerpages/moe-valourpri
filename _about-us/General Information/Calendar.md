@@ -105,22 +105,67 @@ This schedule is an information guide for you.&nbsp; You will be informed separa
 </table>
 
 ### Public Holidays
-| |  |  |
-|---|---|---|
-| <b>Term</b> | <b>Holiday</b> | <b>Date</b> |
-| Term 1 | New Year’s Day | Sun 1 Jan ^ |
-|  | Chinese New Year | Sun 22 Jan ^^ |
-|  |  | Mon 23 Jan |
-| Term 2 | Good Friday | Fri 7 Apr |
-|  | Hari Raya Puasa | Sat 22 Apr ^^^ |
-|  | Labour Day | Mon 1 May |
-|  | Vesak Day | Fri 2 Jun |
-| Term 3 | Hari Raya Haji | Thu 29 Jun |
-|  | National Day | Wed 9 Aug |
-| Term 4 | Deepavali | Sun 12 Nov ^^^^  |
-|  | Christmas Day | Mon 25 Dec |
-| | | |
-
+<table style="width:100%" align="center">
+	<tbody>
+	<tr>
+		<th style="text-align: center" width="30%">Term</th>
+		<th style="text-align: center" width="20%">Holiday</th>
+		<th style="text-align: left" width="50%">Date</th>
+	</tr>
+		<tr>
+			<td rowspan="3" style="text-align: center" width="30%">Term 1</td>
+			<td style="text-align: center" width="30%">New Year’s Day</td>
+		<td style="text-align: left" width="40%">	Sun 1 Jan^</td>
+	</tr>
+		<tr>
+		<td rowspan="2" style="text-align: center" width="20%">	Chinese New Year</td>
+		<td style="text-align: left" width="50%">Sun 22 Jan^^</td>
+	</tr>
+		<tr>
+		<td style="text-align: left" width="50%">Mon 23 Jan</td>
+	</tr>
+	<tr>
+			<td rowspan="4" style="text-align: center" width="30%">Term 2</td>
+			<td style="text-align: center" width="30%">Good Friday</td>
+		<td style="text-align: left" width="40%">	Fri 7 Apr</td>
+	</tr>
+	<tr>
+		<td style="text-align: center" width="20%">Hari Raya Puasa</td>
+		<td style="text-align: left" width="50%">Sat 22 Apr^^^</td>
+	</tr>
+	<tr>
+		<td style="text-align: center" width="20%">Labour Day</td>
+		<td style="text-align: left" width="50%">	Mon 1 May</td>
+	</tr>
+	<tr>
+		<td style="text-align: center" width="20%">Vesak Day</td>
+		<td style="text-align: left" width="50%">Fri 2 Jun</td>
+	</tr>
+	<tr>
+			<td rowspan="2" style="text-align: center" width="30%">Term 3</td>
+			<td style="text-align: center" width="30%">Hari Raya Haji</td>
+		<td style="text-align: left" width="40%">	Fri 7 Apr</td>
+	</tr>
+	<tr>
+		<td style="text-align: center" width="20%">National Day</td>
+		<td style="text-align: left" width="50%">Wed 9 Aug</td>
+	</tr>
+	<tr>
+			<td rowspan="2" style="text-align: center" width="30%">Term 4</td>
+			<td style="text-align: center" width="30%">Deepavali</td>
+		<td style="text-align: left" width="40%">Sun 12 Nov ^^^^</td>
+	</tr>
+	<tr>
+		<td style="text-align: center" width="20%">Christmas Day</td>
+		<td style="text-align: left" width="50%">Mon 25 Dec</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</tbody>
+</table>
 ^ Monday, 2 Jan will be a public holiday.<br>
 ^^ Tuesday, 24 Jan will be a public holiday.<br>
 ^^^ Monday, 24 Apr will be a school holiday and a designated day off-in-lieu, schools are closed including the General Office, Student Care Centre/Kindergarten Care (KCare) Centres.<br>
