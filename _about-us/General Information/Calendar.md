@@ -165,4 +165,4 @@ This schedule is an information guide for you.&nbsp; You will be informed separa
 	</tr>
 </tbody>
 </table>
-##### ^&nbsp;Monday, 2 Jan will be a public holiday.<br>^^ Tuesday, 24 Jan will be a public holiday.<br>^^^ Monday, 24 Apr will be a school holiday and a designated day off-in-lieu, schools are closed including the General Office, Student Care Centre/Kindergarten Care (KCare) Centres.<br>^^^^ Monday, 13 Nov will be a public holiday.<br>
+###### ^&nbsp;Monday, 2 Jan will be a public holiday.<br>^^ Tuesday, 24 Jan will be a public holiday.<br>^^^ Monday, 24 Apr will be a school holiday and a designated day off-in-lieu, schools are closed including the General Office, Student Care Centre/Kindergarten Care (KCare) Centres.<br>^^^^ Monday, 13 Nov will be a public holiday.<br>
