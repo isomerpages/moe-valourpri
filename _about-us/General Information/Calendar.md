@@ -9,26 +9,69 @@ third_nav_title: General Information
 This schedule is an information guide for you.&nbsp; You will be informed separately should there be any changes mentioned herein.
 
 ### School Terms
-| | | |
-|---|---|---|
-| Semester 1 | Term 1 | Tue 3 Jan *&nbsp;to Fri 10 Mar |
-|  | Term 2 | Mon 20 Mar to Fri 26 May |
-| Semester 2 | Term 3 | Mon 26 Jun to Fri 1 Sep |
-|  | Term 4 | Mon 11 Sep to Fri 17 Nov ** |
-| | | |
+<table style="width:100%" align="center">
+	<tbody>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td style="text-align: center" width="30%" rowspan="2">Semester 1</td>
+		<td style="text-align: center" width="20%">Term 1</td>
+		<td style="text-align: left" width="50%">Tue 3 Jan* to Fri 10 Mar</td>
+	</tr>
+		<tr>
+		<td style="text-align: center" width="20%">Term 2</td>
+		<td style="text-align: left" width="50%">Mon 20 Mar to Fri 26 May</td>
+	</tr>
+		<tr>
+		<td style="text-align: center" width="30%" rowspan="2">Semester 2</td>
+		<td style="text-align: center" width="20%">Term 3</td>
+		<td style="text-align: left" width="50%">Mon 26 Jun to Fri 1 Sep</td>
+	</tr>
+		<tr>
+		<td style="text-align: center" width="20%">Term 4</td>
+		<td style="text-align: left" width="50%">	Mon 11 Sep to Fri 17 Nov**</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
 
 *&nbsp;Primary 1 and Kindergarten 1 will start school on Tuesday, 3 January 2023. Primary 2 to 6 and Kindergarten 2 will start school on Wednesday, 4 January 2023._
-
 ** The last day of the final school term for schools which will be used as venues for the GCE O-Level written examinations, will be Friday, 27 October 2023._
 
 ### School Vacation
-| | | |
-|---|---|---|
-| Semester 1 | After Term 1 | Sat 11 Mar to Sun 19 Mar |
-|  | After Term 2 | Sat 27 May to Sun 25 Jun |
-| Semester 2 | After Term 3 | Sat 2 Sep to Sun 10 Sep |
-|  | After Term 4 | Sat 18 Nov to Sun 31 Dec |
-| | | |
+<table style="width:100%" align="center">
+	<tbody>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td style="text-align: center" width="30%" rowspan="2">Semester 1</td>
+		<td style="text-align: center" width="20%">After Term 1</td>
+		<td style="text-align: left" width="50%">Sat 11 Mar to Sun 19 Mar</td>
+	</tr>
+		<tr>
+		<td style="text-align: center" width="20%">After Term 2</td>
+		<td style="text-align: left" width="50%">Sat 27 May to Sun 25 Jun</td>
+	</tr>
+		<tr>
+		<td style="text-align: center" width="30%" rowspan="2">Semester 2</td>
+		<td style="text-align: center" width="20%">After Term 3</td>
+		<td style="text-align: left" width="50%">Sat 2 Sep to Sun 10 Sep</td>
+	</tr>
+		<tr>
+		<td style="text-align: center" width="20%">After Term 4</td>
+		<td style="text-align: left" width="50%">Sat 18 Nov to Sun 31 Dec</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
 
 ### Scheduled School Holidays
 | | |
