@@ -77,14 +77,32 @@ This schedule is an information guide for you.&nbsp; You will be informed separa
 </table>
 
 ### Scheduled School Holidays
-| | |
-|---|---|
-| <b>Holiday</b> | <b>Date</b> |
-| Youth Day | Sun 2 July<br>(Mon 3 Jul will be a scheduled school holiday) |
-| Day after National Day | Thu 10 August |
-| Teachers’ Day | Fri 1 Sep |
-| Children’s Day | Fri 6 Oct |
-| | | 
+<table style="width:100%" align="center">
+<tbody>
+	<tr>
+		<th style="text-align: center" width="30%">Holiday</th>
+		<th style="text-align: left" width="70%">Date</th>
+	</tr>
+		<tr>
+		<td style="text-align: center" width="30%">Youth Day</td>
+		<td style="text-align: left" width="70%">Sun 2 Jul<br>(Mon 3 Jul will be a scheduled school holiday)</td>
+	</tr>
+		<tr>
+		<td style="text-align: center" width="30%">Day after National Day</td>
+		<td style="text-align: left" width="70%">Thu 10 Aug</td>
+	</tr>
+	<tr>
+		<td style="text-align: center" width="30%">Teachers’ Day</td>
+		<td style="text-align: left" width="70%">	Fri 1 Sep</td>
+	</tr>
+	<tr>
+		<td style="text-align: center" width="30%">Children’s Day</td>
+		<td style="text-align: left" width="70%">Fri 6 Oct</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
 
 ### Public Holidays
 | |  |  |
