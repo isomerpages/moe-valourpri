@@ -37,18 +37,41 @@ Homework will be recorded by our students in the Student Planner<br>
  
 **Timetable Guide for Homework**
 
-* The table below, showing the approximate daily homework duration for students, serves only as a guide. Do take note that actual time required to complete assignments will vary with each child’s study habits and skills.  <br>
-|  | Monday to Friday | Saturday to Sunday |
-| -------- | -------- | -------- |
-| **Level** | **Possible duration per day** * | **Possible duration for two days** *|
-| (P1 &amp; P2) # |  30 min to 1 hr | Approximately 1hr |
-| (P3 &amp; P4) @ | 1 hr  to 1 hr 30 min | Approximately 1hr to 2hr |
-| (P5 &amp; P6) @ | 1 hr 30 min to 2 hr | Approximately 2 hr to 4 hr |
-|  |  |  | 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Approximate duration only and differs from class to class. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Total Homework Time spread between Eng, MT and Math <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@ Total Homework Time spread between Eng, MT, Math and Science<br>
+* The table below, showing the approximate daily homework duration for students, serves only as a guide. Do take note that actual time required to complete assignments will vary with each child’s study habits and skills.
+<table style="width:100%">
+	<tbody>
+	<tr>
+		<th width="20%" style="text-align: center"></th>
+		<th width="40%" style="text-align: center">Monday to Friday</th>
+		<th width="40%" style="text-align: center">Saturday to Sunday</th>
+	</tr>
+	<tr>
+		<th width="20%" style="text-align: center">Level</th>
+		<th width="40%" style="text-align: center">Possible duration per day*</th>
+		<th width="40%" style="text-align: center">Possible duration for days*</th>
+	</tr>
+	<tr>
+		<td style="text-align: center">P1 &amp; P2#</td>
+		<td style="text-align: center">30 min to 1 hr</td>
+		<td style="text-align: center">Approximately 1hr</td>
+	</tr>
+	<tr>
+		<td style="text-align: center">P3 &amp; P4@</td>
+		<td style="text-align: center">1 hr to 1 hr 30 min</td>
+		<td style="text-align: center">Approximately 1 hr to 2 hr</td>
+	</tr>
+	<tr>
+		<td style="text-align: center">P5 &amp; P6@</td>
+		<td style="text-align: center">1 hr to 2 hr</td>
+		<td style="text-align: center">Approximately 2 hr to 4 hr</td>
+	</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+&nbsp;&nbsp;* Approximate duration only and differs from class to class. <br>
+&nbsp;&nbsp;# Total Homework Time spread between Eng, MT and Math <br>
+&nbsp;&nbsp;@ Total Homework Time spread between Eng, MT, Math and Science<br>
 
 * Homework will not be assigned over festive periods and public holidays during Term Time. Homework assigned to P3 and P4 students on Thursdays will not be required to be submitted on Fridays. 
 
