@@ -46,8 +46,11 @@ third_nav_title: General Information
 
 <img src="/images/Dental%20Services.png" style="width:25%">
 		 
-| Tel: |  6719 8003 |
+|  |  |
 |---|---|
+| Tel: |  9113 7654 |
 | Mon - Thurs: |  8:00AM - 5:30PM |
 | Fri: |  8:00AM - 5:00PM |
+| Lunch Break |  1:00PM - 2:00PM |
 | | |
+###### Note: Dental clinic opens on alternate weeks
