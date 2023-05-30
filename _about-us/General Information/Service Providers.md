@@ -46,7 +46,7 @@ third_nav_title: General Information
 
 <img src="/images/Dental%20Services.png" style="width:25%">
 		 
-|  |  |
+|   |   |
 |---|---|
 | Tel: |  9113 7654 |
 | Mon - Thurs: |  8:00AM - 5:30PM |
