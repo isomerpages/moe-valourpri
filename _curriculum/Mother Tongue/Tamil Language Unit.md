@@ -6,10 +6,12 @@ third_nav_title: Mother Tongue
 ---
 ### Focus and Beliefs
 
+![intro](/images/mt-tl-1.png)
 **Unit Goal** <br>
 To nurture confident and competent Tamil Language users who appreciate the Indian culture.
 
 மாணவர்கள் தமிழ்மொழியைத் தன்னம்பிக்கையுடனும் திறமையுடனும் பயன்படுத்துவதோடு,&nbsp;நம் இந்திய கலாச்சாரத்தைப் போற்றுபவர்களாக அவர்களை உருவாக்குவது.
+
 
 **Unit Objective** <br>
 To provide quality and customised teaching and authentic learning experience to nurture students’ love of the Tamil Language and their culture.
