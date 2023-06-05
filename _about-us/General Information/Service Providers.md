@@ -83,7 +83,7 @@ third_nav_title: General Information
 		</tr>
 		<tr>
 			<td width="40%">Telephone</td>
-			<td width="60%">9857 5143</td>
+			<td width="60%">9857 5143 (Mr Eugene Khoo)</td>
 		</tr>
 		<tr>
 			<td width="40%">Email</td>
@@ -110,12 +110,14 @@ third_nav_title: General Information
 			<td width="60%">9113 7654</td>
 		</tr>
 		<tr>
-			<td width="40%">Operating hours (Mon - Thu)</td>
-			<td width="60%">8:00AM - 5:30PM</td>
-		</tr>
-		<tr>
-			<td width="40%">Operating hours (Fri)</td>
-			<td width="60%">8:00AM - 5:00PM</td>
+			<td width="40%">Operating hours </td>
+			<td width="60%">
+				Mon : 8:00AM - 5:30PM<br>
+				Tue : 8:00AM - 5:30PM<br>
+				Wed : 8:00AM - 5:30PM<br>
+				Thu : 8:00AM - 5:30PM<br>
+				Fri : 8:00AM - 5:00PM<br>
+				<b>Note: Dental clinic opens on alternate weeks</b></td>
 		</tr>
 			<tr>
 			<td width="40%">Lunch Break</td>
@@ -126,4 +128,4 @@ third_nav_title: General Information
 </tbody>
 </table>
 
-###### Note: Dental clinic opens on alternate weeks
+###### 
