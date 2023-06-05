@@ -14,20 +14,20 @@ third_nav_title: General Information
 			<td colspan="2"><b>The Continental Book Centre</b></td>
 		</tr>
 		<tr>
-			<td style="text-align: center" width="40%">Mailing Address</td>
-			<td style="text-align: left" width="60%">1013, Geylang East Avenue 3, #02-154<br>Singapore 389728</td>
+			<td width="40%">Mailing Address</td>
+			<td width="60%">1013, Geylang East Avenue 3, #02-154<br>Singapore 389728</td>
 		</tr>
 		<tr>
-			<td style="text-align: center" width="40%">Telephone</td>
-			<td style="text-align: left" width="60%">6247 8482</td>
+			<td width="40%">Telephone</td>
+			<td width="60%">6247 8482</td>
 		</tr>
 		<tr>
-			<td style="text-align: center" width="40%">Fax</td>
-			<td style="text-align: left" width="60%">6844 1779</td>
+			<td width="40%">Fax</td>
+			<td width="60%">6844 1779</td>
 		</tr>
 			<tr>
-			<td style="text-align: center" width="40%">Email</td>
-				<td style="text-align: left" width="60%"><a href="mailto:admin-@the-continental.com.sg">admin-@the-continental.com.sg</a></td>
+			<td width="40%">Email</td>
+				<td width="60%"><a href="mailto:admin-@the-continental.com.sg">admin-@the-continental.com.sg</a></td>
 		</tr>
 	<tr>
 	</tr>
@@ -44,24 +44,24 @@ third_nav_title: General Information
 			<td colspan="2"><b>Jeep Sing Fashion</b></td>
 		</tr>
 		<tr>
-			<td style="text-align: center" width="40%">Mailing Address</td>
-			<td style="text-align: left" width="60%">Blk 4012 Ang Mo Kio Ave 10<br>#01-09 Tech Place 1 Singapore 569628</td>
+			<td width="40%">Mailing Address</td>
+			<td width="60%">Blk 4012 Ang Mo Kio Ave 10<br>#01-09 Tech Place 1 Singapore 569628</td>
 		</tr>
 		<tr>
-			<td style="text-align: center" width="40%">Telephone</td>
-			<td style="text-align: left" width="60%">6456 3198</td>
+			<td width="40%">Telephone</td>
+			<td width="60%">6456 3198</td>
 		</tr>
 		<tr>
-			<td style="text-align: center" width="40%">Fax</td>
-			<td style="text-align: left" width="60%">6386 2407</td>
+			<td width="40%">Fax</td>
+			<td width="60%">6386 2407</td>
 		</tr>
 		<tr>
-			<td style="text-align: center" width="40%">Email</td>
-				<td style="text-align: left" width="60%"><a href="mailto:contact.us@jeepsing.com.sg">contact.us@jeepsing.com.sg</a></td>
+			<td width="40%">Email</td>
+				<td width="60%"><a href="mailto:contact.us@jeepsing.com.sg">contact.us@jeepsing.com.sg</a></td>
 		</tr>
 		<tr>
-			<td style="text-align: center" width="40%">Website</td>
-				<td style="text-align: left" width="60%"><a href="www.jeepsinguniform.com.sg">www.jeepsinguniform.com.sg</a></td>
+			<td width="40%">Website</td>
+				<td width="60%"><a href="www.jeepsinguniform.com.sg">www.jeepsinguniform.com.sg</a></td>
 		</tr>
 	<tr>
 	</tr>
@@ -72,24 +72,58 @@ third_nav_title: General Information
 
 <img src="/images/Bus%20Services.png" style="width:25%">
 
-| Longlim Pte Ltd |  |
-|---|---|
-| Mailing Address: | 34 Jalan Tari Piring<br>Singapore 799187 |
-| Tel: | 6482 2568 / 6754 8353 |
-| Fax: | 6483 5219 |
-| Email: | [longlim@longlim.com](mailto:longlim@longlim.com) |
-| Website: | [www.longlim.com](http://www.longlim.com/) |
-| | |
+<table style="width:100%" align="center">
+	<tbody>
+		<tr>
+			<td colspan="2"><b>Sirius Transport</b></td>
+		</tr>
+		<tr>
+			<td width="40%">Mailing Address</td>
+			<td width="60%">Blk 20, Toa Payoh Lor 7,<br> Kim Keat Plum,<br>Singapore 310020</td>
+		</tr>
+		<tr>
+			<td width="40%">Telephone</td>
+			<td width="60%">9857 5143</td>
+		</tr>
+		<tr>
+			<td width="40%">Email</td>
+				<td width="60%"><a href="mailto:sales@siriustpt.com">sales@siriustpt.com</a></td>
+		</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
 
 ### DENTAL SERVICES
 
 <img src="/images/Dental%20Services.png" style="width:25%">
-		 
-|   |   |
-|---|---|
-| Tel: |  9113 7654 |
-| Mon - Thurs: |  8:00AM - 5:30PM |
-| Fri: |  8:00AM - 5:00PM |
-| Lunch Break |  1:00PM - 2:00PM |
-| | |
+
+<table style="width:100%" align="center">
+	<tbody>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td width="40%">Telephone</td>
+			<td width="60%">9113 7654</td>
+		</tr>
+		<tr>
+			<td width="40%">Operating hours (Mon - Thu)</td>
+			<td width="60%">8:00AM - 5:30PM</td>
+		</tr>
+		<tr>
+			<td width="40%">Operating hours (Fri)</td>
+			<td width="60%">8:00AM - 5:00PM</td>
+		</tr>
+			<tr>
+			<td width="40%">Lunch Break</td>
+				<td width="60%">1:00PM - 2:00PM</td>
+		</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
 ###### Note: Dental clinic opens on alternate weeks
