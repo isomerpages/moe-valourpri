@@ -79,7 +79,7 @@ third_nav_title: General Information
 		</tr>
 		<tr>
 			<td width="40%">Mailing Address</td>
-			<td width="60%">Blk 20, Toa Payoh Lor 7,<br> Kim Keat Plum,<br>Singapore 310020</td>
+			<td width="60%">Blk 20, Toa Payoh Lor 7,<br> Kim Keat Plum, Singapore 310020</td>
 		</tr>
 		<tr>
 			<td width="40%">Telephone</td>
@@ -116,7 +116,7 @@ third_nav_title: General Information
 				Tue : 8:00AM - 5:30PM<br>
 				Wed : 8:00AM - 5:30PM<br>
 				Thu : 8:00AM - 5:30PM<br>
-				Fri : 8:00AM - 5:00PM<br>
+				Fri : 8:00AM - 5:00PM<br><br>
 				<b>Note: Dental clinic opens on alternate weeks</b></td>
 		</tr>
 			<tr>
@@ -127,5 +127,3 @@ third_nav_title: General Information
 	</tr>
 </tbody>
 </table>
-
-######
