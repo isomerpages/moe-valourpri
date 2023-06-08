@@ -17,6 +17,171 @@ To provide quality and customised teaching and authentic learning experience to 
 
 மாணவர்களின் தமிழ்மொழி மற்றும் கலாச்சாரத்தின் மீது உள்ள பற்றை வளர்க்க,&nbsp;அவர்களுக்கு ஏற்ற வகையில் தரமான,&nbsp;கற்பித்தல் மற்றும் கற்றல் அனுபவத்தை வழங்குவது.&nbsp;&nbsp;
 
+### Tamil Language Curriculum for 2023
+##### Primary 1
+<table>
+	<tbody>
+	<tr>
+		<th width="8%" style="text-align: center">Term</th>
+		<th width="23%" style="text-align: center">T1</th>
+		<th width="23%" style="text-align: center">T2</th>
+		<th width="23%" style="text-align: center">T3</th>
+		<th width="23%" style="text-align: center">T4</th>
+	</tr>
+	<tr height="65px" style="font-size:12px">
+		<th width="8%" style="text-align: center">Topic</th>
+		<td width="23%" style="text-align: left">
+பாடம் 1 : <br>கருத்துப்பரிமாற்ற நடவடிக்கைகள்<br>
+பாடம் 2 : <br>கருத்துப்பரிமாற்ற நடவடிக்கைகள்<br>
+பாடம் 3 : <br>எழுத்து அறிமுகம் - ட,ட்,டா, ப,ப்,பா,ம,ம்,மா<br>
+பாடம் 4 : <br>எழுத்து அறிமுகம் - ர, ர், ரா மற்றும் ச, ச், சா<br>
+பாடம் 5 : <br>எழுத்து அறிமுகம் - க, க், கா<br>
+பாடம் 6 : <br>எழுத்து அறிமுகம் - த, த், தா மற்றும் ந, ந், நா<br>
+பாடம் 7 : <br>எழுத்து அறிமுகம் - வ, வ், வா<br>
+பாடம் 8 : <br>எழுத்து அறிமுகம் -அ, ஆ<br>
+		</td>
+		<td width="23%" style="text-align: left">
+பாடம் 9 : <br>எழுத்து அறிமுகம் - ன, ன், னா<br>
+பாடம் 10 : <br>எழுத்து அறிமுகம் - ண, ண், ணா<br>
+பாடம் 11 : <br>எழுத்து அறிமுகம் - ல, ல், லா<br>
+பாடம் 12 : <br>எழுத்து அறிமுகம் - ள, ள், ளா,ழ, ழ், ழா<br>
+பாடம் 13 : <br>எழுத்து அறிமுகம் - ய, ய், யா, ங, ங், ஙா<br>
+பாடம் 14: <br>எழுத்து அறிமுகம் - ஞ, ஞ், ஞா, ற, ற், றா
+		</td>
+		<td width="23%" style="text-align: left">
+பாடம் 1 : <br>பாடத்திருப்பம்<br>
+பாடம் 2 : <br>எழுத்து அறிமுகம் - இ<br>
+பாடம் 3 : <br>எழுத்து அறிமுகம் - இகர உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 4 : <br>எழுத்து அறிமுகம் - இகர உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 5 : <br>எழுத்து அறிமுகம் - இகர உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 6 : <br>எழுத்து அறிமுகம் - ஈ<br>
+பாடம் 7 : <br>எழுத்து அறிமுகம் - ஈகார உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 8 : <br>எழுத்து அறிமுகம் - உ 		</td>
+		<td width="23%" style="text-align: left">
+பாடம் 9 : <br>எழுத்து அறிமுகம் - உகர உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 10 : <br>எழுத்து அறிமுகம் - உகர உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 11 : <br>எழுத்து அறிமுகம் - ஊ<br>
+பாடம் 12 : <br>எழுத்து அறிமுகம் - ஊகார உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 13 : <br>எழுத்து அறிமுகம் - ஊகார உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 14 : <br>உகர ஊகார வேறுபாடு 
+		</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
+##### Primary 2
+<table>
+	<tbody>
+	<tr>
+		<th width="8%" style="text-align: center">Term</th>
+		<th width="23%" style="text-align: center">T1</th>
+		<th width="23%" style="text-align: center">T2</th>
+		<th width="23%" style="text-align: center">T3</th>
+		<th width="23%" style="text-align: center">T4</th>
+	</tr>
+	<tr height="65px" style="font-size:12px">
+		<th width="8%" style="text-align: center">Topic</th>
+		<td width="23%" style="text-align: left">
+		Unit 1: Peraturan Sekolah<br>
+		Unit 2: Sihat Selalu<br>
+		Unit 3: Saudara-mara Saya
+		</td>
+		<td width="23%" style="text-align: left">
+		Unit 4: Masa Bersama Rakan-rakan<br>
+		Unit 5: Cerita Datuk dan Nenek<br>
+		Unit 6: Saya Ingin Menjadi
+		</td>
+		<td width="23%" style="text-align: left">
+		Unit 7: Cerita Binatang<br>
+		Unit 8: Mereka Siapa?<br>
+		Unit 9: Kami Murid Aktif		
+		</td>
+		<td width="23%" style="text-align: left">
+		Unit 10: Tempat Tinggal Saya<br>
+		Unit 11: Adikku Sayang<br>
+		Unit 12: Mahu ke Mana
+		</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
+##### Primary 3
+<table>
+	<tbody>
+	<tr>
+		<th width="8%" style="text-align: center">Term</th>
+		<th width="23%" style="text-align: center">T1</th>
+		<th width="23%" style="text-align: center">T2</th>
+		<th width="23%" style="text-align: center">T3</th>
+		<th width="23%" style="text-align: center">T4</th>
+	</tr>
+	<tr height="65px" style="font-size:12px">
+		<th width="8%" style="text-align: center">Topic</th>
+		<td width="23%" style="text-align: left">
+		Unit 1: Kembali ke Sekolah<br>
+		Unit 2: Pilihan Saya<br>
+		Unit 3: Boleh Lakukan Sendiri
+		</td>
+		<td width="23%" style="text-align: left">
+		Unit 4: Keluarga Ibu<br>
+		Unit 5: Peraduan Bercerita		
+		</td>
+		<td width="23%" style="text-align: left">
+		Unit 6: Permainan Tradisional<br>
+		Unit 7: Usaha untuk Berjaya<br>
+		Unit 8: Saya Sayang akan Singapura
+		</td>
+		<td width="23%" style="text-align: left">
+		Unit 9: Hidup Berjiran<br>
+		Unit 10: Singapuraku Hijau
+		</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
+##### Primary 4
+<table>
+	<tbody>
+	<tr>
+		<th width="8%" style="text-align: center">Term</th>
+		<th width="23%" style="text-align: center">T1</th>
+		<th width="23%" style="text-align: center">T2</th>
+		<th width="23%" style="text-align: center">T3</th>
+		<th width="23%" style="text-align: center">T4</th>
+	</tr>
+	<tr height="65px" style="font-size:12px">
+		<th width="8%" style="text-align: center">Topic</th>
+		<td width="23%" style="text-align: left">
+		Unit 1: Saya Bertanggungjawab<br>
+		Unit 2: Teknologi di Sekolah<br>
+		Unit 3: Pengalaman Berharga		</td>
+		<td width="23%" style="text-align: left">
+		Unit 4: Suatu Masa Dahulu<br>
+		Unit 5: Legenda Singapura
+		</td>
+		<td width="23%" style="text-align: left">
+		Unit 6: Tokoh Kita<br>
+		Unit 7: Adab dan Sopan<br>
+		Unit 8: Mengenali Budaya Lain
+		</td>
+		<td width="23%" style="text-align: left">
+		Unit 9: Air, Oh Air<br>
+		Unit 10: Semuanya Sama
+		</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
+
+
 ### Programmes
 
 ![reading programme](/images/mt-tl-2.png)
