@@ -65,31 +65,24 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 	<tr height="65px" style="font-size:12px">
 		<th width="8%" style="text-align: center">Topic</th>
 		<td width="23%" style="text-align: left">
-			第一课 我的衣服小了<br>
-			第二课 新年到了<br>
-			第三课 客人来了<br>
-			第四课 我是艺术家<br>
-			第五课 今天是学校开放日
+		Unit 1: Peraturan Sekolah<br>
+		Unit 2: Sihat Selalu<br>
+		Unit 3: Saudara-mara Saya
 		</td>
 		<td width="23%" style="text-align: left">
-		第六课 你怎么上学<br>
-		第七课 在咖啡店吃早餐<br>
-		第八课 感谢我周围的人<br>
-		第九课 今天是晴天<br>
-		第十课 小侦探
+		Unit 4: Masa Bersama Rakan-rakan<br>
+		Unit 5: Cerita Datuk dan Nenek<br>
+		Unit 6: Saya Ingin Menjadi
 		</td>
 		<td width="23%" style="text-align: left">
-		第十一课 你玩过这个游戏吗<br>
-		第十二课 过生日<br>
-		第十三课 你想养什么宠物<br>
-		第十四课 我和小乐和好了<br>
-		第十五课 这些我都爱吃
+		Unit 7: Cerita Binatang<br>
+		Unit 8: Mereka Siapa?<br>
+		Unit 9: Kami Murid Aktif		
 		</td>
 		<td width="23%" style="text-align: left">
-		第十六课 飞进书的世界<br>
-		第十七课 夜市真热闹<br>
-		第十八课 新加坡真好玩<br>
-		第十九课 我们的生活少不了水
+		Unit 10: Tempat Tinggal Saya<br>
+		Unit 11: Adikku Sayang<br>
+		Unit 12: Mahu ke Mana
 		</td>
 	</tr>
 	<tr>
