@@ -103,29 +103,22 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 	<tr height="65px" style="font-size:12px">
 		<th width="8%" style="text-align: center">Topic</th>
 		<td width="23%" style="text-align: left">
-		第一课 我们的愿望<br>
-		第二课 我的朋友和家人<br>
-		第三课 我的好伙伴<br>
-		第四课 奇妙的变化
+		Unit 1: Kembali ke Sekolah<br>
+		Unit 2: Pilihan Saya<br>
+		Unit 3: Boleh Lakukan Sendiri
 		</td>
 		<td width="23%" style="text-align: left">
-		第五课 难忘的一天<br>
-		第六课 是我不好<br>
-		第七课 留张便条<br>
-		第八课 我真能干<br>
-		第九课 我有办法
+		Unit 4: Keluarga Ibu<br>
+		Unit 5: Peraduan Bercerita		
 		</td>
 		<td width="23%" style="text-align: left">
-		第十课 我住的地方真干净<br>
-		第十一课 环保小天使<br>
-		第十二课 我爱新加坡<br>
-		第十三课 动物世界
+		Unit 6: Permainan Tradisional<br>
+		Unit 7: Usaha untuk Berjaya<br>
+		Unit 8: Saya Sayang akan Singapura
 		</td>
 		<td width="23%" style="text-align: left">
-		第十四课 奇妙的动物<br>
-		第十五课 华文真有趣<br>
-		第十六课 学习要认真<br>
-		第十七课 好孩子
+		Unit 9: Hidup Berjiran<br>
+		Unit 10: Singapuraku Hijau
 		</td>
 	</tr>
 	<tr>
@@ -146,29 +139,21 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 	<tr height="65px" style="font-size:12px">
 		<th width="8%" style="text-align: center">Topic</th>
 		<td width="23%" style="text-align: left">
-		第一课 一起看电视<br>
-		第二课 我们是兄弟姐妹<br>
-		第三课 妈妈，对不起<br>
-		第四课 今天我值日
+		Unit 1: Saya Bertanggungjawab<br>
+		Unit 2: Teknologi di Sekolah<br>
+		Unit 3: Pengalaman Berharga		</td>
+		<td width="23%" style="text-align: left">
+		Unit 4: Suatu Masa Dahulu<br>
+		Unit 5: Legenda Singapura
 		</td>
 		<td width="23%" style="text-align: left">
-		第五课 我不怕打针<br>
-		第六课 我要参加什么活动呢<br>
-		第七课 他的脸红了<br>
-		第八课 马路入虎口<br>
-		第九课 爱心无障碍
+		Unit 6: Tokoh Kita<br>
+		Unit 7: Adab dan Sopan<br>
+		Unit 8: Mengenali Budaya Lain
 		</td>
 		<td width="23%" style="text-align: left">
-		第十课 这样才对<br>
-		第十一课 天天运动身体好<br>
-		第十二课 我是小导游<br>
-		第十三课 美猴王孙悟空
-		</td>
-		<td width="23%" style="text-align: left">
-		第十四课 奇妙的动物<br>
-		第十五课 华文真有趣<br>
-		第十六课 学习要认真<br>
-		第十七课 好孩子
+		Unit 9: Air, Oh Air<br>
+		Unit 10: Semuanya Sama
 		</td>
 	</tr>
 	<tr>
