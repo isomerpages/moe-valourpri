@@ -83,11 +83,11 @@ third_nav_title: General Information
 		</tr>
 		<tr>
 			<td width="40%">Telephone</td>
-			<td width="60%">9857 5143 (Mr Eugene Khoo)</td>
+			<td width="60%">8949 7561 (Ms Natasha)</td>
 		</tr>
 		<tr>
 			<td width="40%">Email</td>
-				<td width="60%"><a href="mailto:sales@siriustpt.com">sales@siriustpt.com</a></td>
+				<td width="60%"><a href="mailto:vp_schoolbus@siriustpt.com">vp_schoolbus@siriustpt.com</a></td>
 		</tr>
 	<tr>
 	</tr>

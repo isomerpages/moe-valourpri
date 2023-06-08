@@ -17,6 +17,149 @@ To provide quality and customised teaching and authentic learning experience to 
 
 மாணவர்களின் தமிழ்மொழி மற்றும் கலாச்சாரத்தின் மீது உள்ள பற்றை வளர்க்க,&nbsp;அவர்களுக்கு ஏற்ற வகையில் தரமான,&nbsp;கற்பித்தல் மற்றும் கற்றல் அனுபவத்தை வழங்குவது.&nbsp;&nbsp;
 
+### Tamil Language Curriculum for 2023
+##### Primary 1
+<table>
+	<tbody>
+	<tr>
+		<th width="8%" style="text-align: center">Term</th>
+		<th width="23%" style="text-align: center">T1</th>
+		<th width="23%" style="text-align: center">T2</th>
+		<th width="23%" style="text-align: center">T3</th>
+		<th width="23%" style="text-align: center">T4</th>
+	</tr>
+	<tr height="65px" style="font-size:12px">
+		<th width="8%" style="text-align: center">Topic</th>
+		<td width="23%" style="text-align: left">
+பாடம் 1 : <br>கருத்துப்பரிமாற்ற நடவடிக்கைகள்<br>
+பாடம் 2 : <br>கருத்துப்பரிமாற்ற நடவடிக்கைகள்<br>
+பாடம் 3 : <br>எழுத்து அறிமுகம் - ட,ட்,டா, ப,ப்,பா,ம,ம்,மா<br>
+பாடம் 4 : <br>எழுத்து அறிமுகம் - ர, ர், ரா மற்றும் ச, ச், சா<br>
+பாடம் 5 : <br>எழுத்து அறிமுகம் - க, க், கா<br>
+பாடம் 6 : <br>எழுத்து அறிமுகம் - த, த், தா மற்றும் ந, ந், நா<br>
+பாடம் 7 : <br>எழுத்து அறிமுகம் - வ, வ், வா<br>
+பாடம் 8 : <br>எழுத்து அறிமுகம் -அ, ஆ<br>
+		</td>
+		<td width="23%" style="text-align: left">
+பாடம் 9 : <br>எழுத்து அறிமுகம் - ன, ன், னா<br>
+பாடம் 10 : <br>எழுத்து அறிமுகம் - ண, ண், ணா<br>
+பாடம் 11 : <br>எழுத்து அறிமுகம் - ல, ல், லா<br>
+பாடம் 12 : <br>எழுத்து அறிமுகம் - ள, ள், ளா,ழ, ழ், ழா<br>
+பாடம் 13 : <br>எழுத்து அறிமுகம் - ய, ய், யா, ங, ங், ஙா<br>
+பாடம் 14: <br>எழுத்து அறிமுகம் - ஞ, ஞ், ஞா, ற, ற், றா
+		</td>
+		<td width="23%" style="text-align: left">
+பாடம் 1 : <br>பாடத்திருப்பம்<br>
+பாடம் 2 : <br>எழுத்து அறிமுகம் - இ<br>
+பாடம் 3 : <br>எழுத்து அறிமுகம் - இகர உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 4 : <br>எழுத்து அறிமுகம் - இகர உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 5 : <br>எழுத்து அறிமுகம் - இகர உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 6 : <br>எழுத்து அறிமுகம் - ஈ<br>
+பாடம் 7 : <br>எழுத்து அறிமுகம் - ஈகார உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 8 : <br>எழுத்து அறிமுகம் - உ 		</td>
+		<td width="23%" style="text-align: left">
+பாடம் 9 : <br>எழுத்து அறிமுகம் - உகர உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 10 : <br>எழுத்து அறிமுகம் - உகர உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 11 : <br>எழுத்து அறிமுகம் - ஊ<br>
+பாடம் 12 : <br>எழுத்து அறிமுகம் - ஊகார உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 13 : <br>எழுத்து அறிமுகம் - ஊகார உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 14 : <br>உகர ஊகார வேறுபாடு 
+		</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
+##### Primary 2
+<table>
+	<tbody>
+	<tr>
+		<th width="8%" style="text-align: center">Term</th>
+		<th width="23%" style="text-align: center">T1</th>
+		<th width="23%" style="text-align: center">T2</th>
+		<th width="23%" style="text-align: center">T3</th>
+		<th width="23%" style="text-align: center">T4</th>
+	</tr>
+	<tr height="65px" style="font-size:12px">
+		<th width="8%" style="text-align: center">Topic</th>
+		<td width="23%" style="text-align: left">
+பாடம் 1 : <br>பாடத்திருப்பம் - இகர ஈகார உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 2 : <br>பாடத்திருப்பம் - உகர ஊகார உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 3 : <br>எழுத்து அறிமுகம் - எ<br>
+பாடம் 4 : <br>எழுத்து அறிமுகம் - எகர உயிர்மெய்யெழுத்துகள் <br>
+பாடம் 5 : <br>எழுத்து அறிமுகம் - ஏ<br>
+பாடம் 6 : <br>எழுத்து அறிமுகம் - ஏகார உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 7 : <br>எகர ஏகார வேறுபாடு<br>
+பாடம் 8 : <br>ஐ ஐகார உயிர்மெய்யெழுத்துகள்
+		</td>
+		<td width="23%" style="text-align: left">
+பாடம் 9 : <br>ஐகார உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 10 : <br>எழுத்து அறிமுகம் - ஒ <br>
+பாடம் 11 : <br>ஒகர உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 12 : <br>எழுத்து அறிமுகம் - ஓ <br>
+பாடம் 13 : <br>ஓகார உயிர்மெய்யெழுத்துகள்<br>
+பாடம் 14 : <br>ஒகர ஓகார வேறுபாடு
+		</td>
+		<td width="23%" style="text-align: left">
+பாடம் 1 : <br>ஔ  ஔகார உயிர்மெய்யெழுத்துகள் , ஃ<br>
+பாடம் 2 : <br>உயிரெழுத்துகள் (பாடத்திருப்பம்)<br>
+பாடம் 3 : <br>மெய்யெழுத்துகள் (பாடத்திருப்பம்) <br>
+பாடம் 4 : <br>உயிர்மெய் எழுத்துகள்  (பாடத்திருப்பம்)<br> 
+பாடம் 5 :  <br>என்னைப் பற்றி<br>
+பாடம் 6 : <br>பொழுதுபோக்கு<br>
+பாடம் 7 : <br>குடும்ப உறுப்பினர்கள்<br>
+பாடம் 8 : <br>குடும்பத்தினருடன் ஈடுபடும் நடவடிக்கைகள்
+		</td>
+		<td width="23%" style="text-align: left">
+பாடம் 9 : <br>நண்பர்கள், ஆசிரியர்கள்<br>
+பாடம் 10 : <br>பள்ளியில் உள்ள மற்றவர்கள்<br> 
+பாடம் 11 : <br>அக்கம்பக்க வசதிகள்<br>
+பாடம் 12 : <br>பாரம்பரிய விழாக்கள் - பண்டிகை<br>
+பாடம் 13 : <br>நான்கு இன ஒற்றுமை<br>
+பாடம் 14 : <br>கண்கவர் இடங்கள்
+		</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
+##### Primary 3
+<table>
+	<tbody>
+	<tr>
+		<th width="8%" style="text-align: center">Term</th>
+		<th width="23%" style="text-align: center">T1</th>
+		<th width="23%" style="text-align: center">T2</th>
+		<th width="23%" style="text-align: center">T3</th>
+		<th width="23%" style="text-align: center">T4</th>
+	</tr>
+	<tr height="65px" style="font-size:12px">
+		<th width="8%" style="text-align: center">Topic</th>
+		<td width="23%" style="text-align: left">
+தொகுதி 1: <br>பொழுதுபோக்குகள்<br>
+தொகுதி 2: <br>குடும்பம் / குடும்பக் கொண்டாட்டங்கள்<br>
+தொகுதி 3: <br>பள்ளி / நண்பர்களைத் தெரிவுசெய்தல்
+		</td>
+		<td width="23%" style="text-align: left">
+தொகுதி 4 : <br>சமூகம் / சமூக நற்பண்புகள்<br>
+தொகுதி 5 : <br>நாடு / நாட்டைப் பற்றி
+		</td>
+		<td width="23%" style="text-align: left">
+தொகுதி 6: <br>உலகம் / பன்னாட்டுக் கதைகள்<br>
+தொகுதி 7: <br>குடும்பம் / குடும்பப் பண்புகள்<br>
+தொகுதி 8: <br>பள்ளி / பள்ளி நடவடிக்கைகள்
+		</td>
+		<td width="23%" style="text-align: left">
+தொகுதி 9 : <br>சமூகம் / மலாய் இனப் பண்பாடுகள்<br>
+தொகுதி 10 : <br>நாடு / பசுமை இயற்கை		</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
 ### Programmes
 
 ![reading programme](/images/mt-tl-2.png)
