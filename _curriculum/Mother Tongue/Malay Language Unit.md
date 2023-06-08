@@ -4,8 +4,7 @@ permalink: /subjects/mother-tongue/malay-language-unit/
 description: ""
 third_nav_title: Mother Tongue
 ---
-<img src="/images/mt-ml-1.png" 
-     style="width:40%">
+<img src="/images/mt-ml-1.png" style="width:40%">
 
 ### Focus and Belief
 
@@ -14,12 +13,182 @@ To provide quality and customised teaching and authentic learning experience to 
 
 Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpukan kepada pelajar agar dapat dipupuk minat dan cinta terhadap bahasa dan budaya Melayu.
 
+### Malay Language Curriculum for 2023
+##### Primary 1
+<table>
+	<tbody>
+	<tr>
+		<th width="8%" style="text-align: center">Term</th>
+		<th width="23%" style="text-align: center">T1</th>
+		<th width="23%" style="text-align: center">T2</th>
+		<th width="23%" style="text-align: center">T3</th>
+		<th width="23%" style="text-align: center">T4</th>
+	</tr>
+	<tr height="65px" style="font-size:12px">
+		<th width="8%" style="text-align: center">Topic</th>
+		<td width="23%" style="text-align: left">
+		Siap Sedia 
+		Unit 1: Sekolah Saya<br>
+		Unit 2: Diri Saya
+		</td>
+		<td width="23%" style="text-align: left">
+		Unit 3: Keluarga Saya<br>
+		Unit 4: Rakan-rakan Saya<br>
+		Unit 5: Kegemaran Saya
+		</td>
+		<td width="23%" style="text-align: left">
+		Unit 6: Bersiar-siar<br>
+		Unit 7: Aktiviti Harian<br>
+		Unit 8: Belajar Apa Hari Ini?
+		</td>
+		<td width="23%" style="text-align: left">
+		Unit 9: Aktif di Sekolah<br>
+		Unit 10: Rumah Saya<br>
+		Unit 11: Jiran Saya
+		</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
+##### Primary 2
+<table>
+	<tbody>
+	<tr>
+		<th width="8%" style="text-align: center">Term</th>
+		<th width="23%" style="text-align: center">T1</th>
+		<th width="23%" style="text-align: center">T2</th>
+		<th width="23%" style="text-align: center">T3</th>
+		<th width="23%" style="text-align: center">T4</th>
+	</tr>
+	<tr height="65px" style="font-size:12px">
+		<th width="8%" style="text-align: center">Topic</th>
+		<td width="23%" style="text-align: left">
+			第一课 我的衣服小了<br>
+			第二课 新年到了<br>
+			第三课 客人来了<br>
+			第四课 我是艺术家<br>
+			第五课 今天是学校开放日
+		</td>
+		<td width="23%" style="text-align: left">
+		第六课 你怎么上学<br>
+		第七课 在咖啡店吃早餐<br>
+		第八课 感谢我周围的人<br>
+		第九课 今天是晴天<br>
+		第十课 小侦探
+		</td>
+		<td width="23%" style="text-align: left">
+		第十一课 你玩过这个游戏吗<br>
+		第十二课 过生日<br>
+		第十三课 你想养什么宠物<br>
+		第十四课 我和小乐和好了<br>
+		第十五课 这些我都爱吃
+		</td>
+		<td width="23%" style="text-align: left">
+		第十六课 飞进书的世界<br>
+		第十七课 夜市真热闹<br>
+		第十八课 新加坡真好玩<br>
+		第十九课 我们的生活少不了水
+		</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
+##### Primary 3
+<table>
+	<tbody>
+	<tr>
+		<th width="8%" style="text-align: center">Term</th>
+		<th width="23%" style="text-align: center">T1</th>
+		<th width="23%" style="text-align: center">T2</th>
+		<th width="23%" style="text-align: center">T3</th>
+		<th width="23%" style="text-align: center">T4</th>
+	</tr>
+	<tr height="65px" style="font-size:12px">
+		<th width="8%" style="text-align: center">Topic</th>
+		<td width="23%" style="text-align: left">
+		第一课 我们的愿望<br>
+		第二课 我的朋友和家人<br>
+		第三课 我的好伙伴<br>
+		第四课 奇妙的变化
+		</td>
+		<td width="23%" style="text-align: left">
+		第五课 难忘的一天<br>
+		第六课 是我不好<br>
+		第七课 留张便条<br>
+		第八课 我真能干<br>
+		第九课 我有办法
+		</td>
+		<td width="23%" style="text-align: left">
+		第十课 我住的地方真干净<br>
+		第十一课 环保小天使<br>
+		第十二课 我爱新加坡<br>
+		第十三课 动物世界
+		</td>
+		<td width="23%" style="text-align: left">
+		第十四课 奇妙的动物<br>
+		第十五课 华文真有趣<br>
+		第十六课 学习要认真<br>
+		第十七课 好孩子
+		</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
+##### Primary 4
+<table>
+	<tbody>
+	<tr>
+		<th width="8%" style="text-align: center">Term</th>
+		<th width="23%" style="text-align: center">T1</th>
+		<th width="23%" style="text-align: center">T2</th>
+		<th width="23%" style="text-align: center">T3</th>
+		<th width="23%" style="text-align: center">T4</th>
+	</tr>
+	<tr height="65px" style="font-size:12px">
+		<th width="8%" style="text-align: center">Topic</th>
+		<td width="23%" style="text-align: left">
+		第一课 一起看电视<br>
+		第二课 我们是兄弟姐妹<br>
+		第三课 妈妈，对不起<br>
+		第四课 今天我值日
+		</td>
+		<td width="23%" style="text-align: left">
+		第五课 我不怕打针<br>
+		第六课 我要参加什么活动呢<br>
+		第七课 他的脸红了<br>
+		第八课 马路入虎口<br>
+		第九课 爱心无障碍
+		</td>
+		<td width="23%" style="text-align: left">
+		第十课 这样才对<br>
+		第十一课 天天运动身体好<br>
+		第十二课 我是小导游<br>
+		第十三课 美猴王孙悟空
+		</td>
+		<td width="23%" style="text-align: left">
+		第十四课 奇妙的动物<br>
+		第十五课 华文真有趣<br>
+		第十六课 学习要认真<br>
+		第十七课 好孩子
+		</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
+
 ### Programmes
 
 **1\. Reading Program (Program Membaca)**
 
-<img src="/images/mt-ml-2.png" 
-     style="width:50%">
+<img src="/images/mt-ml-2.png" style="width:50%">
 
 Reading is the key to success. Through a structured and meaningful reading programme, we hope to nurture Valourians to be life-long learners.
 
@@ -27,8 +196,7 @@ Budaya membaca, kunci kejayaan. Melalui Program Membaca yang berstruktur dan ber
 
 **2\. Mother Tongue Fortnight (Dwi-minggu Bahasa Ibunda)**
 
-<img src="/images/mt-ml-3.png" 
-     style="width:50%">
+<img src="/images/mt-ml-3.png" style="width:50%">
 		 
 Mother Tongue Fortnight activities is organised annually to provide opportunities for Valourians to gain a deeper understanding of Malay literature, culture and heritage through hands-on activities and programs.
 
@@ -36,9 +204,8 @@ Dwi-minggu Bahasa Ibunda merupakan program tahunan yang diisi dengan aktiviti-ak
 
 **3\. Enrichment Programme**
 
-<img src="/images/mt-ml-4.png" 
-     style="width:80%">
+<img src="/images/mt-ml-4.png" style="width:80%">
 		 
 These enrichment programmes are carried out to develop and foster our students’ self-confidence, imagination and creativity. Valourians will learn speech and drama or oral and presentation skills through a variety of creative and fun activities. These skills will enable them to express themselves articulately, motivated to speak in public and most importantly be confident speakers of the Malay Language.
 
-Program-program pengayaan ini dijalankan dengan tujuan untuk memupuk keyakinan diri, daya imaginasi dan kreativiti para pelajar. Pelajar-pelajar akan mempelajari drama dan pertuturan  atau kemahiran lisan dan gaya persembahan melalui aktiviti-aktiviti yang seronok dan menarik. Kemahiran yang dipelajari pasti akan menggalak pelajar bertutur dengan jelas di hadapan khalayak lantas menjadi penutur Bahasa Melayu yang yakin.
+Program-program pengayaan ini dijalankan dengan tujuan untuk memupuk keyakinan diri, daya imaginasi dan kreativiti para pelajar. Pelajar-pelajar akan mempelajari drama dan pertuturan&nbsp; atau kemahiran lisan dan gaya persembahan melalui aktiviti-aktiviti yang seronok dan menarik. Kemahiran yang dipelajari pasti akan menggalak pelajar bertutur dengan jelas di hadapan khalayak lantas menjadi penutur Bahasa Melayu yang yakin.
