@@ -138,23 +138,22 @@ To provide quality and customised teaching and authentic learning experience to 
 	<tr height="65px" style="font-size:12px">
 		<th width="8%" style="text-align: center">Topic</th>
 		<td width="23%" style="text-align: left">
-		Unit 1: Kembali ke Sekolah<br>
-		Unit 2: Pilihan Saya<br>
-		Unit 3: Boleh Lakukan Sendiri
+தொகுதி 1: <br>பொழுதுபோக்குகள்<br>
+தொகுதி 2: <br>குடும்பம் / குடும்பக் கொண்டாட்டங்கள்<br>
+தொகுதி 3: <br>பள்ளி / நண்பர்களைத் தெரிவுசெய்தல்
 		</td>
 		<td width="23%" style="text-align: left">
-		Unit 4: Keluarga Ibu<br>
-		Unit 5: Peraduan Bercerita		
+தொகுதி 4 : <br>சமூகம் / சமூக நற்பண்புகள்<br>
+தொகுதி 5 : <br>நாடு / நாட்டைப் பற்றி
 		</td>
 		<td width="23%" style="text-align: left">
-		Unit 6: Permainan Tradisional<br>
-		Unit 7: Usaha untuk Berjaya<br>
-		Unit 8: Saya Sayang akan Singapura
+தொகுதி 6: <br>உலகம் / பன்னாட்டுக் கதைகள்<br>
+தொகுதி 7: <br>குடும்பம் / குடும்பப் பண்புகள்<br>
+தொகுதி 8: <br>பள்ளி / பள்ளி நடவடிக்கைகள்
 		</td>
 		<td width="23%" style="text-align: left">
-		Unit 9: Hidup Berjiran<br>
-		Unit 10: Singapuraku Hijau
-		</td>
+தொகுதி 9 : <br>சமூகம் / மலாய் இனப் பண்பாடுகள்<br>
+தொகுதி 10 : <br>நாடு / பசுமை இயற்கை		</td>
 	</tr>
 	<tr>
 	</tr>
