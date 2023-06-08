@@ -160,43 +160,6 @@ To provide quality and customised teaching and authentic learning experience to 
 </tbody>
 </table>
 
-##### Primary 4
-<table>
-	<tbody>
-	<tr>
-		<th width="8%" style="text-align: center">Term</th>
-		<th width="23%" style="text-align: center">T1</th>
-		<th width="23%" style="text-align: center">T2</th>
-		<th width="23%" style="text-align: center">T3</th>
-		<th width="23%" style="text-align: center">T4</th>
-	</tr>
-	<tr height="65px" style="font-size:12px">
-		<th width="8%" style="text-align: center">Topic</th>
-		<td width="23%" style="text-align: left">
-		Unit 1: Saya Bertanggungjawab<br>
-		Unit 2: Teknologi di Sekolah<br>
-		Unit 3: Pengalaman Berharga		</td>
-		<td width="23%" style="text-align: left">
-		Unit 4: Suatu Masa Dahulu<br>
-		Unit 5: Legenda Singapura
-		</td>
-		<td width="23%" style="text-align: left">
-		Unit 6: Tokoh Kita<br>
-		Unit 7: Adab dan Sopan<br>
-		Unit 8: Mengenali Budaya Lain
-		</td>
-		<td width="23%" style="text-align: left">
-		Unit 9: Air, Oh Air<br>
-		Unit 10: Semuanya Sama
-		</td>
-	</tr>
-	<tr>
-	</tr>
-</tbody>
-</table>
-
-
-
 ### Programmes
 
 ![reading programme](/images/mt-tl-2.png)
