@@ -21,7 +21,7 @@ description: ""
 <table>
 	<tbody><tr>
 		<td>
-		
+		<img alt="Mr Aqil Esmail" style="width:200px;" src="/images/sac-mem1.png">
 		</td>
 		<td>
 		<img alt="Ms Koopmans Margriet" style="width:200px;" src="/images/sac-mem2.png">
