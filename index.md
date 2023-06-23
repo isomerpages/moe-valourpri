@@ -24,6 +24,7 @@ sections:
       button: Sign up here!
       url: https://moe-singapore.zoom.us/webinar/register/WN_xLJ0J3aGRpS6zdniKoATqA#/registration
       alt: Image alt text
+      image: /images/vps-oh23_poster.jpeg
   - infopic:
       title: VPS Virtual Tour
       description: Tour around our school campus guided by our mascot, Timba
