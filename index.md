@@ -23,7 +23,7 @@ sections:
       description: Happening on 4th July 2023. Sign up through the link below!
       button: Sign up here!
       url: https://moe-singapore.zoom.us/webinar/register/WN_xLJ0J3aGRpS6zdniKoATqA#/registration
-      alt: Signup for here
+      alt: E-open house poster
       image: /images/vps-oh23_poster.jpeg
   - infopic:
       title: VPS Virtual Tour
