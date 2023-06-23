@@ -19,6 +19,12 @@ sections:
           description: MK@Valour
           url: /moe-kindergarten/moe-kindergarten-at-valour/
   - infopic:
+      title: VPS E-Open House
+      description: Happening on 4th July 2023. Sign up through the link below!
+      button: Sign up here!
+      url: https://moe-singapore.zoom.us/webinar/register/WN_xLJ0J3aGRpS6zdniKoATqA#/registration
+      alt: Image alt text
+  - infopic:
       title: VPS Virtual Tour
       description: Tour around our school campus guided by our mascot, Timba
       button: Click here to watch
