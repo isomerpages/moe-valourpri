@@ -3,18 +3,8 @@ title: Learning for Life Programme
 permalink: /student-development/learning-for-life-programme/
 description: ""
 ---
-### Growing Kindness through the Outdoors
+### Nature & AdVenture (NAV) @ Valour
 
-Valour Primary School’s Learning for Life Programme (LLP) – **_Growing Kindness through the Outdoors_** – seeks to nurture a sense of wonder and commitment to care for the environment and others. Through it, our students will develop their life skills and socio-emotional competencies, so that they will grow in capability, capacity, courage and resilience, be able to face up to challenges and solve problems on their own and with others.  
+Valour Primary School’s Learning for Life Programme (LLP) – NAV @ Valour – focuses on 2 main ideas in how learning in the outdoors will be presented to the students – Nature and Adventure or NAV in short.
+The short name of our LLP NAV is a play on the word navigator and the most foundational ability of a navigator is to way find. Our LLP espouses our aim to help the children develop the spirit of the wayfinder.
 
-Kindness, one of the Valourian Hallmarks, is a key outcome of the programme. As our students learn more about themselves, others and the environment through their outdoor experiences, it is our hope that they will be able to demonstrate kindness to themselves, others and place, wherever they may be.
-
-<img src="/images/LLP-1.png" 
-     style="width:60%">
-
-<img src="/images/LLP-2.png" 
-     style="width:80%">
-
-The LLP programme is offered to all students as part of the school’s six-year holistic curriculum.
-
-Valourians will have the opportunity to go through experiences in the four main categories that the programme is built around – Adventure, Nature-related, Outdoor skills and Sustainability.
