@@ -14,4 +14,6 @@ What is the spirit of the way finder you might ask?
 It is the determination and adaptability to find a way through difficult or unknown terrain and situations and the ability to work as a team to learn from one another, support one another and share the responsibility of finding and navigating a “path”. 
 Through the programme, our students will develop life skills and socio-emotional competencies, so that they will grow in capability, capacity, courage and resilience, be able to face up to challenges and solve problems on their own and with others.
 
-<img style="max-width: 250px" src="/images/llp_climbing.jpg">
+<img style="max-width: 650px" src="/images/llp-climbing.png">
+
+The LLP programme is offered to all students as part of the school’s six-year holistic curriculum.
