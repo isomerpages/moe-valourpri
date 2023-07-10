@@ -96,8 +96,8 @@ third_nav_title: Our People
     <td class="tg-ktyi">latifah_abdul_aziz_a@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Ms Michelle Huang</td>
-    <td class="tg-ktyi">michelle_huang@moe.edu.sg</td>
+    <td class="tg-ktyi">Miss Goh Bee Ee</td>
+    <td class="tg-ktyi">goh_bee_ee@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -176,8 +176,8 @@ third_nav_title: Our People
     <td class="tg-ktyi">lim_may_ling_junie@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Ms Chua Mei Ling</td>
-    <td class="tg-ktyi">chua_mei_ling_a@moe.edu.sg</td>
+    <td class="tg-ktyi">Mr Khong Weng Keong</td>
+    <td class="tg-ktyi">khong_weng_keong@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2">2 - Sincerity</td>
@@ -230,8 +230,8 @@ third_nav_title: Our People
     <td class="tg-ktyi">cho_lye_ping_gwendalyn@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mr Syed Iskandar Bin Hamzah</td>
-    <td class="tg-ktyi">syed_iskandar_hamzah@moe.edu.sg</td>
+    <td class="tg-ktyi">Miss Elizabeth Ashvini Anthony</td>
+    <td class="tg-ktyi">elizabeth_ashvini_anthony@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2">3 - Loyalty</td>
@@ -257,8 +257,8 @@ third_nav_title: Our People
     <td class="tg-ktyi">sophie_ng_lai_san@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mr Ng Daojia</td>
-    <td class="tg-ktyi">ng_daojia@moe.edu.sg</td>
+    <td class="tg-ktyi">Ms Wang Ping</td>
+    <td class="tg-ktyi">wang_ping_b@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2">3 - Resilience</td>
@@ -347,8 +347,8 @@ third_nav_title: Our People
     <td class="tg-ktyi">tan_yan_lin_b@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mdm Siti Raudhah Bte Ishak</td>
-    <td class="tg-ktyi">siti_raudhah_ishak@moe.edu.sg</td>
+    <td class="tg-ktyi">Mrs Grace Loh</td>
+    <td class="tg-ktyi">lim_xiaotian_grace@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
