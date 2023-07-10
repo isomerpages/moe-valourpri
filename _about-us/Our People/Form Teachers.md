@@ -230,8 +230,8 @@ third_nav_title: Our People
     <td class="tg-ktyi">cho_lye_ping_gwendalyn@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mr Syed Iskandar Bin Hamzah</td>
-    <td class="tg-ktyi">syed_iskandar_hamzah@moe.edu.sg</td>
+    <td class="tg-ktyi">Miss Elizabeth Ashvini Anthony</td>
+    <td class="tg-ktyi">elizabeth_ashvini_anthony@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2">3 - Loyalty</td>
@@ -257,8 +257,8 @@ third_nav_title: Our People
     <td class="tg-ktyi">sophie_ng_lai_san@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mr Ng Daojia</td>
-    <td class="tg-ktyi">ng_daojia@moe.edu.sg</td>
+    <td class="tg-ktyi">Ms Wang Ping</td>
+    <td class="tg-ktyi">wang_ping_b@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2">3 - Resilience</td>
