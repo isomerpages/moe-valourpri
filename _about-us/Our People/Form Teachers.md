@@ -176,8 +176,8 @@ third_nav_title: Our People
     <td class="tg-ktyi">lim_may_ling_junie@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Ms Chua Mei Ling</td>
-    <td class="tg-ktyi">chua_mei_ling_a@moe.edu.sg</td>
+    <td class="tg-ktyi">Mr Khong Weng Keong</td>
+    <td class="tg-ktyi">khong_weng_keong@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2">2 - Sincerity</td>
