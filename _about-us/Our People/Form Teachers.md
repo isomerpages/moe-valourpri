@@ -347,8 +347,8 @@ third_nav_title: Our People
     <td class="tg-ktyi">tan_yan_lin_b@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mdm Siti Raudhah Bte Ishak</td>
-    <td class="tg-ktyi">siti_raudhah_ishak@moe.edu.sg</td>
+    <td class="tg-ktyi">Mrs Grace Loh</td>
+    <td class="tg-ktyi">lim_xiaotian_grace@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
