@@ -96,8 +96,8 @@ third_nav_title: Our People
     <td class="tg-ktyi">latifah_abdul_aziz_a@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Ms Michelle Huang</td>
-    <td class="tg-ktyi">michelle_huang@moe.edu.sg</td>
+    <td class="tg-ktyi">Miss Goh Bee Ee</td>
+    <td class="tg-ktyi">goh_bee_ee@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
