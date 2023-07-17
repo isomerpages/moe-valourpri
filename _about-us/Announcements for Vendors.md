@@ -39,7 +39,7 @@ description: ""
 <li>Submit the completed application form and documents by closing date via email OR to the School's General Office.</li>
 <ul>
 	<li>Address: 49 Punggol Central, S 828728</li>
-	<li>Contact No: 6242 6490</li>
+	<li>Contact No: 6242 6390</li>
 	<li>Email: valour_ps@moe.edu.sg</li>
 	<li>Contact Person: Ms Huong Siew Lin</li>
 	</ul>
