@@ -27,10 +27,10 @@ description: ""
 #### Application Procedure
 <ol>
 <li>Download and complete the application form. You may also request for a hardcopy from the School’s General Office.</li>
-
 <a href="/files/Announcements%20for%20Vendors/Canteen/application%20for%20canteen%20stall%20in%20existing%20school.pdf">Application for Canteen Stall in Existing School</a>
-
-<li>Attached the following documents together with the application form:</li>
+	
+<p>	
+</p><li>Attached the following documents together with the application form:</li>
 <ul>
 	<li>Photocopy of the NRIC (front and back)</li>
 	<li>List of proposed menu and pricing for all items</li>
