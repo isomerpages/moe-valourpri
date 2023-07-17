@@ -28,7 +28,9 @@ description: ""
 <ol>
 <li>Download and complete the application form. You may also request for a hardcopy from the School’s General Office.</li>
 
-[Application for Canteen Stall in Existing School](/files/Announcements%20for%20Vendors/Canteen/application%20for%20canteen%20stall%20in%20existing%20school.pdf)
+<a href="/files/Announcements%20for%20Vendors/Canteen/application%20for%20canteen%20stall%20in%20existing%20school.pdf">Application for Canteen Stall in Existing School</a>
+	
+Application for Canteen Stall in Existing School](/files/Announcements%20for%20Vendors/Canteen/application%20for%20canteen%20stall%20in%20existing%20school.pdf)
 
 <li>Attached the following documents together with the application form:</li>
 <ul>
