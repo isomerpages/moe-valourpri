@@ -5,7 +5,7 @@ description: ""
 ---
 ### Announcements for Vendors
 
-**School Canteen Advertisement**
+#### School Canteen Advertisement
 
 <table>
 	<tbody>
@@ -24,7 +24,7 @@ description: ""
 </tbody>
 </table>
 
-**Application Procedure**
+#### Application Procedure
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
