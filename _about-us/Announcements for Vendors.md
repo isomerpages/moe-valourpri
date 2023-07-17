@@ -26,16 +26,16 @@ description: ""
 
 #### Application Procedure
 
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+1.  Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
 [Application for Canteen Stall in Existing School](/files/Announcements%20for%20Vendors/Canteen/application%20for%20canteen%20stall%20in%20existing%20school.pdf)
 
-2. Attached the following documents together with the application form:
+2.  Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
+3.  Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
 * Address: 49 Punggol Central, S 828728
 * Contact No: 6242 6490
