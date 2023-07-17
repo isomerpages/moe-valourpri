@@ -28,6 +28,8 @@ description: ""
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
+[](/files/Announcements%20for%20Vendors/Canteen/application%20for%20canteen%20stall%20in%20existing%20school.pdf)
+
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
