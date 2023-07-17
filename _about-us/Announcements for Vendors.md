@@ -30,7 +30,6 @@ description: ""
 
 <a target="_blank" href="/files/Announcements%20for%20Vendors/Canteen/application%20for%20canteen%20stall%20in%20existing%20school.pdf">Application for Canteen Stall for Existing School</a>
 
-[](/files/Announcements%20for%20Vendors/Canteen/application%20for%20canteen%20stall%20in%20existing%20school.pdf)
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
