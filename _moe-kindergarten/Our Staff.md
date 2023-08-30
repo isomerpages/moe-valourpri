@@ -124,8 +124,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ktyi">Tamil Language Teacher</td>
-    <td class="tg-ktyi">Ms Kasturri Sivanesen Rajaretnam</td>
-    <td class="tg-ktyi">kasturri_sivanesen_rajaretnam@moe.edu.sg</td>
+    <td class="tg-ktyi">Ms Saasmitha Kalaihselvan</td>
+    <td class="tg-ktyi">saasmitha_kalaihselvan@moe.edu.sg</td>
   </tr>
 	<tr>
 	</tr>
