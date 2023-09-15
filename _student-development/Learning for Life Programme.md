@@ -5,7 +5,7 @@ description: ""
 ---
 ### Nature &amp; Adventure @ Valour (NAV)
 
-**Adventure** –The outdoors is the main environment which the students will learn in and about because of an element of unpredictability offered in an outdoor environment. The intent is to develop qualities like resilience, adaptability, courage and teamwork through the challenges afforded by the unpredictability of an outdoor environment.
+**Adventure** – The outdoors is the main environment which the students will learn in and about because of an element of unpredictability offered in an outdoor environment. The intent is to create opportunities for developing  qualities like resilience, adaptability, courage and teamwork through the challenges afforded by the unpredictability of an outdoor environment.
 
 **Nature** – While adventuring in the outdoors can be a catalyst for students to learn and grow, we also want our students to be able to pay attention to the environment. Students will understand that the places where learning happens are not just a convenient setting or a mere “backdrop”. Students will have opportunities to deepen their appreciation for Nature and its environment.
 
