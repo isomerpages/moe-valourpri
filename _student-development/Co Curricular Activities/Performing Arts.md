@@ -11,4 +11,4 @@ Performing Arts instill in students a sense of graciousness and an appreciation 
 <a target="_blank" href="/files/CCA2023/fd_info.png">Festival Drums</a><br>
 <a target="_blank" href="/files/CCA2023/ge_info.jpg">Guitar Ensemble</a><br>
 <a target="_blank" href="/files/CCA2023/dance_info.jpg">International Dance</a><br>
-<a target="_blank" href="/files/CCA2023/lion-dance-2023.jpg">Lion Dance</a><br>
+<a target="_blank" href="/files/CCA2023/lion-dance-2023.jpeg">Lion Dance</a><br>
