@@ -19,9 +19,9 @@ The following CCAs are offered to the Primary 2 students, first through the expe
 		<td width="25%" style="text-align: center"><b>Uniformed Groups</b></td>
 	</tr>
 	<tr>
-		<td style="text-align: center">Outdoor Club<br>Visual and Media Art Club</td>
-		<td style="text-align: center">Festival Drums<br>Guitar Ensemble<br>International Dance</td>
-		<td style="text-align: center">Floorball<br>Volleyball</td>
+		<td style="text-align: center">Infocomm Club <br>Outdoor Club<br>Visual and Media Art Club</td>
+		<td style="text-align: center">Choir<br>Festival Drums<br>Guitar Ensemble<br>International Dance<br>Lion Dance</td>
+		<td style="text-align: center">Floorball<br>Netball<br>Rugby<br>Volleyball</td>
 		<td style="text-align: center">Boys’ Brigade<br>Girls’ Brigade<br>Red Cross</td>
 	</tr>
 	<tr>
