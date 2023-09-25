@@ -90,6 +90,11 @@ third_nav_title: Our People
     <td class="tg-ktyi">Mr Li Xiang</td>
     <td class="tg-ktyi">li_xiang_a@moe.edu.sg</td>
   </tr>
+		<tr>
+    <td class="tg-ktyi">Mathematics</td>
+    <td class="tg-ktyi">Mrs Pauline Poon</td>
+    <td class="tg-ktyi">quek_pauline@moe.edu.sg</td>
+  </tr>
 	<tr>
     <td class="tg-ktyi">Science</td>
     <td class="tg-ktyi">Mdm Gwendalyn Cho</td>
