@@ -12,7 +12,7 @@ description: ""
 <div></div>  
 </div>
 		 
-[Buzz@Valour Issue 1 (June 2020)](/files/Buzz@Valour%20Issue%201_June%202020.pdf)
+[Buzz@Valour Issue 1 (June 2020)](/files/Buzz@Valour_Issue_1_June 2020.pdf)
 
 <br>
 <br>
