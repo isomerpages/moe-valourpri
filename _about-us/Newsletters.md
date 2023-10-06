@@ -43,7 +43,7 @@ description: ""
 		</td>
 		<td width="10%" style="text-align: center"></td>
 		<td width="10%" style="text-align: center">
-			<img src="/images/december_2020_pri_nl.jpg">
+			<img src="/images/december_2021_pri_nl.jpg">
 		</td>
 		<td width="35%">
 			<a href="https://drive.google.com/file/d/1ekVRaH9Ii21yxZgNy2Fw6X7918TeIPSW/view?usp=drive_link">
@@ -69,7 +69,7 @@ description: ""
 		</td>
 		<td width="10%" style="text-align: center"></td>
 		<td width="10%" style="text-align: center">
-			<img src="/images/december_2020_pri_nl.jpg">
+			<img src="/images/december_2022_pri_nl.jpg">
 		</td>
 		<td width="35%">
 			<a href="https://drive.google.com/file/d/1aJHHrvZTCeUMjvwiE8XDQVkIUqQ0d_ft/view?usp=drive_link">
@@ -85,7 +85,7 @@ description: ""
 <table>		
 	<tbody><tr>
 		<td width="10%">
-			<img src="/images/june_2022_pri_nl.png">
+			<img src="/images/june_2023_pri_nl.png">
 		</td>
 		<td width="35%">
 			<a href="https://drive.google.com/file/d/1FQjVvcA_Fgk1ohSQNjYQZBX4b19d9ShD/view?usp=drive_link">
