@@ -85,7 +85,7 @@ description: ""
 <table>		
 	<tbody><tr>
 		<td width="10%">
-			<img src="/images/june_2023_pri_nl.png">
+			<img src="/images/june_2023_pri_nl.jpg">
 		</td>
 		<td width="35%">
 			<a href="https://drive.google.com/file/d/1FQjVvcA_Fgk1ohSQNjYQZBX4b19d9ShD/view?usp=drive_link">
