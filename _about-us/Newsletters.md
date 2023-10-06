@@ -95,10 +95,8 @@ description: ""
 		</td>
 		<td width="10%" style="text-align: center"></td>
 		<td width="10%" style="text-align: center">
-			<img src="/images/december_2020_pri_nl.jpg">
 		</td>
 		<td width="35%">
-			Coming Soon
 		</td>
 	</tr>
 </tbody></table>
