@@ -5,9 +5,30 @@ description: ""
 ---
 ### 2020 NEWSLETTERS
 
+<table>
+	<tbody><tr>
+		<td width="10%">
+			<img src="/images/june_2020_pri_nl.jpg">
+		</td>
+		<td width="35%">
+			<a href="https://drive.google.com/file/d/1ORNXkbhmZaNflgYv3vNhLN6JcFNeOWRC/view?usp=drive_link">
+				Buzz@Valour Issue 1 (June 2020)</a></td>
+		<td width="10%" style="text-align: center"></td>
+		<td width="10%" style="text-align: center">
+			<img src="/images/december_2020_pri_nl.jpg">
+		</td>
+		<td width="35%">
+			<a href="https://drive.google.com/file/d/1rr3QspWBnt3gbGCHCYFvUVzWgY3ack91/view?usp=drive_link">
+			Buzz@Valour Issue 2 (December 2020)
+			</a>
+		</td>
+	</tr>
+</tbody></table>
+
+
 <div>  
 <div style="float: left">  
-<img src="/images/june_2020_pri_nl.jpg" style="width:70%">  
+
 </div>  
 <div></div>  
 </div>
