@@ -71,7 +71,7 @@ Please note that students who are in Competitive Team will be required to attend
 		<td style="text-align: center">27 Jan<br>03 Feb<br>10 Feb<br>17 Feb<br>24 Feb<br>03 Mar<br>10 Mar</td>
 		<td style="text-align: center">24 Mar<br>31 Mar<br>14 Apr<br>28 Apr<br>05 May<br>12 May<br>19 May</td>
 		<td style="text-align: center">30 Jun<br>07 Jul<br>14 Jul<br>21 Jul<br>28 Jul<br>04 Aug<br>11 Aug<br>18 Aug<br>25 Aug</td>
-		<td style="text-align: center">15 Sep<br>22 sep<br>29 Sep<br>03 Nov<br>10 Nov<br>17 Nov </td>
+		<td style="text-align: center">15 Sep<br>22 sep<br>29 Sep<br>03 Nov<br>10 Nov</td>
 	</tr>
 	<tr>
 	</tr>
