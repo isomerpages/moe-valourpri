@@ -237,10 +237,15 @@ third_nav_title: Our People
     <td class="tg-ktyi">Mdm Nurashikin Tohir</td>
     <td class="tg-ktyi">nurashikin_mohamed_tohir@moe.edu.sg</td>
   </tr>
-			<tr>
+	  <tr>
+    <td class="tg-ktyi">Character &amp; Citizenship Education (ST)</td>
+    <td class="tg-ktyi">Mdm Joyce Lee</td>
+    <td class="tg-ktyi">lee_poh_ling_joyce@moe.edu.sg</td>
+  </tr>
+	<tr>
 			<td></td>
 			<td></td>
 			<td></td>
-		</tr>
+	</tr>
 </tbody>
 </table>
