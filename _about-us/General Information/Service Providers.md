@@ -58,7 +58,7 @@ variant: markdown
 		</tr>
 		<tr>
 			<td width="40%">Email</td>
-				<td width="60%"><a href="mailto:contact.us@jeepsing.com.sg">contact.us@jeepsing.com.sg</a></td>
+				<td width="60%"><a target="_blank" href="mailto:contact.us@jeepsing.com.sg">contact.us@jeepsing.com.sg</a></td>
 		</tr>
 		<tr>
 			<td width="40%">Website</td>
