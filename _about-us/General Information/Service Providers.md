@@ -3,6 +3,7 @@ title: Service Providers
 permalink: /about-us/general-information/service-providers/
 description: ""
 third_nav_title: General Information
+variant: markdown
 ---
 ### BOOKS AND STATIONERIES
   
@@ -61,7 +62,7 @@ third_nav_title: General Information
 		</tr>
 		<tr>
 			<td width="40%">Website</td>
-				<td width="60%"><a href="www.jeepsinguniform.com.sg">www.jeepsinguniform.com.sg</a></td>
+				<td width="60%"><a href="https://www.jeepsinguniform.com.sg"> https://www.jeepsinguniform.com.sg</a></td>
 		</tr>
 	<tr>
 	</tr>
