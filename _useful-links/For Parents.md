@@ -2,6 +2,7 @@
 title: For Parents
 permalink: /useful-links/for-parents/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -31,6 +32,10 @@ description: ""
   <tr>
     <td class="tg-cly1">Ministry of Education</td>
     <td class="tg-corx"><a href="https://www.moe.gov.sg/"><span style="text-decoration:none;color:#46A247">https://www.moe.gov.sg/</span></a></td>
+  </tr>
+	<tr>
+    <th class="tg-cly1">School Newsletter</th>
+    <th class="tg-corx"><a href="/about-us/general-information/newsletters/"><span style="text-decoration:none;color:#46A247">https://www.valourpri.moe.edu.sg/about-us/general-information/newsletters/</span></a></th>
   </tr>
 	<tr>
   </tr>

@@ -3,6 +3,7 @@ title: CCA Policy
 permalink: /valourian-experience/student-development/co-curricular-activities/cca-policy/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ###  1. PARTICIPATION
 
@@ -11,16 +12,6 @@ third_nav_title: Co Curricular Activities
 1.2         CCAs are open to Primary 3 to 6 students and students are to participate in one CCA.
 
 1.3         To develop CCA-specific knowledge, skills and attitudes progressively, students are strongly encouraged to stay in one CCA from Primary 3 to 6. 
-
-A one-year CCA commitment period is necessary to be considered for a change of CCA.
-
-Applications to change CCA will open at the end of the year.
-
-•              Students are only allowed to apply to change CCA after 1 year.      
-
-•              Students may opt to change their CCA at any time on medical grounds.
-
-•              Changing of CCA is subjected to school’s approval and the availability of vacancies.
 
 1.4         Attendance is compulsory at every CCA session. A medical certificate or a letter from the parent is necessary if the student is absent.
 
