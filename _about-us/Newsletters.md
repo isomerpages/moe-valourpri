@@ -105,7 +105,7 @@ variant: markdown
 			<img src="/images/december_2023_pri_nl.jpg">
 		</td>
 		<td width="35%">
-			<a target="_blank" href="https://drive.google.com/file/d/1aJHHrvZTCeUMjvwiE8XDQVkIUqQ0d_ft/view?usp=drive_link">
+			<a target="_blank" href="https://drive.google.com/file/d/17iNbpq8Dqfb56C12a1r_9GW1Cgmn6tZM/view?usp=drive_link">
 			Buzz@Valour Issue 8<br>
 			(December 2023)
 			</a>
