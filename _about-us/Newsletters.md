@@ -2,6 +2,7 @@
 title: Newsletters
 permalink: /about-us/general-information/newsletters/
 description: ""
+variant: markdown
 ---
 ### 2020 NEWSLETTERS
 
@@ -57,7 +58,8 @@ description: ""
 ### 2022 NEWSLETTERS
 
 <table>		
-	<tbody><tr>
+	<tbody>
+		<tr>
 		<td width="10%">
 			<img src="/images/june_2022_pri_nl.png">
 		</td>
@@ -83,7 +85,8 @@ description: ""
 ### 2023 NEWSLETTERS
 
 <table>		
-	<tbody><tr>
+	<tbody>
+		<tr>
 		<td width="10%">
 			<img src="/images/june_2023_pri_nl.jpg">
 		</td>
@@ -95,8 +98,13 @@ description: ""
 		</td>
 		<td width="10%" style="text-align: center"></td>
 		<td width="10%" style="text-align: center">
+			<img src="/images/december_2023_pri_nl.jpg">
 		</td>
 		<td width="35%">
+			<a target="_blank" href="https://drive.google.com/file/d/17iNbpq8Dqfb56C12a1r_9GW1Cgmn6tZM/view?usp=drive_link">
+			Buzz@Valour Issue 8<br>
+			(December 2023)
+			</a>
 		</td>
 	</tr>
 </tbody></table>
