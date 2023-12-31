@@ -85,7 +85,8 @@ variant: markdown
 ### 2023 NEWSLETTERS
 
 <table>		
-	<tbody><tr>
+	<tbody>
+		<tr>
 		<td width="10%">
 			<img src="/images/june_2023_pri_nl.jpg">
 		</td>
@@ -96,11 +97,6 @@ variant: markdown
 			</a>
 		</td>
 		<td width="10%" style="text-align: center"></td>
-		<td width="10%" style="text-align: center">
-		</td>
-		<td width="35%">
-		</td>
-				<td width="10%" style="text-align: center"></td>
 		<td width="10%" style="text-align: center">
 			<img src="/images/december_2023_pri_nl.jpg">
 		</td>
