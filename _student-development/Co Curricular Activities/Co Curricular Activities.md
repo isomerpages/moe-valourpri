@@ -91,28 +91,7 @@ Applicable to <u>ALL</u> P3 to P5 Students<br>
 ### Competitive Team CCA Schedule
 <b>Primary 3 to 5 CCA Schedule Y2024</b><br>
 Applicable to <u>ONLY</u> selected students<br>
-Please note that students who are in Competitive Team will be required to attend additional training stated in the schedule below<br>
-<table>
-	<tbody>
-		<tr>
-		<th style="text-align: center" colspan="4">Friday 2:15pm - 4:15pm</th>	
-		</tr>
-	<tr>
-		<td width="25%" style="text-align: center"><b>Term 1</b></td>
-		<td width="25%" style="text-align: center"><b>Term 2</b></td>
-		<td width="25%" style="text-align: center"><b>Term 3</b></td>
-		<td width="25%" style="text-align: center"><b>Term 4</b></td>
-	</tr>
-	<tr>
-		<td style="text-align: center">27 Jan<br>03 Feb<br>10 Feb<br>17 Feb<br>24 Feb<br>03 Mar<br>10 Mar</td>
-		<td style="text-align: center">24 Mar<br>31 Mar<br>14 Apr<br>28 Apr<br>05 May<br>12 May<br>19 May</td>
-		<td style="text-align: center">30 Jun<br>07 Jul<br>14 Jul<br>21 Jul<br>28 Jul<br>04 Aug<br>11 Aug<br>18 Aug<br>25 Aug</td>
-		<td style="text-align: center">15 Sep<br>22 sep<br>29 Sep<br>03 Nov<br>10 Nov</td>
-	</tr>
-	<tr>
-	</tr>
-</tbody>
-</table>
+Schedule to be updated
 
 ##### [Clubs](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/clubs) <br>
 Clubs allow students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialised areas.
