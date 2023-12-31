@@ -30,20 +30,17 @@ The following CCAs are offered to the Primary 2 students, first through the expe
 </tbody></table>
 
 
-### CCA Schedule (Y2023)
+### CCA Schedule (Y2024)
 <b>Primary 3 &amp; 4 CCA Schedule Y2023</b><br>
-Applicable to <u>ALL</u> P3 &amp; P4 Students<br>
+Applicable to <u>ALL</u> P3 to P5 Students<br>
 *Subject to change <br>
 <table>
 	<tbody>
 	<tr>
-		<th style="text-align: center" colspan="4">Thursday 2:15pm - 4:15pm</th>	
-		</tr>
-	<tr>
-		<td width="25%" style="text-align: center"><b>Term 1</b><br>Week 4 to 10</td>
-		<td width="25%" style="text-align: center"><b>Term 2</b><br>Week 1 to 9</td>
-		<td width="25%" style="text-align: center"><b>Term 3</b><br>Week 2 to 6<br>Week 8 &amp; 9</td>
-		<td width="25%" style="text-align: center"><b>Term 4</b><br>Week 1 to 3<br>Week 8 to 10</td>
+		<td width="25%" style="text-align: center"><b>Term 1</b></td>
+		<td width="25%" style="text-align: center"><b>Term 2</b></td>
+		<td width="25%" style="text-align: center"><b>Term 3</b></td>
+		<td width="25%" style="text-align: center"><b>Term 4</b></td>
 	</tr>
 	<tr>
 		<td style="text-align: center">
@@ -91,7 +88,8 @@ Applicable to <u>ALL</u> P3 &amp; P4 Students<br>
 		</tr>
 </tbody></table>
 
-<b>Primary 3 &amp; 4 Competitive Team CCA Schedule</b><br>
+### Competitive Team CCA Schedule
+<b>Primary 3 to 5 CCA Schedule Y2024</b><br>
 Applicable to <u>ONLY</u> selected students<br>
 Please note that students who are in Competitive Team will be required to attend additional training stated in the schedule below<br>
 <table>
