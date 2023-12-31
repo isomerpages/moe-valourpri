@@ -3,6 +3,7 @@ title: Co Curricular Activities
 permalink: /student-development/co-curricular-activities/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Co-curricular Activities
 CCAs are a key part of students’ holistic development in their primary school experience. CCAs provide a platform for students to discover their interests and talents and to realise their potential through these pursuits. Students also develop their character, values, and social emotional competencies and related skills to prepare them to take on challenges in the future.
@@ -32,6 +33,7 @@ The following CCAs are offered to the Primary 2 students, first through the expe
 ### CCA Schedule (Y2023)
 <b>Primary 3 &amp; 4 CCA Schedule Y2023</b><br>
 Applicable to <u>ALL</u> P3 &amp; P4 Students<br>
+*Subject to change <br>
 <table>
 	<tbody>
 	<tr>
@@ -44,10 +46,46 @@ Applicable to <u>ALL</u> P3 &amp; P4 Students<br>
 		<td width="25%" style="text-align: center"><b>Term 4</b><br>Week 1 to 3<br>Week 8 to 10</td>
 	</tr>
 	<tr>
-		<td style="text-align: center">26 Jan<br>02 Feb<br>09 Feb<br>16 Feb<br>23 Feb<br>02 Mar (P3 only)<br>09 Mar</td>
-		<td style="text-align: center">23 Mar<br>30 Mar<br>06 Apr<br>13Apr<br>20 Apr<br>27 Apr<br>04 May<br>11 May<br>18 May</td>
-		<td style="text-align: center">06 Jul<br>13 Jul<br>20 Jul<br>27 Jul<br>03 Aug<br>17 Aug<br>24 Aug</td>
-		<td style="text-align: center">14 Sep<br>21 sep<br>28 Sep<br>02 Nov<br>09 Nov<br>16 Nov</td>
+		<td style="text-align: center">
+			18 Jan<br>
+			25Jan<br>
+			01 Feb<br>
+			08 Feb<br>
+			15 Feb<br>
+			22 Feb<br>
+			29 Feb<br>
+			07 Mar
+		</td>
+		<td style="text-align: center">
+			21 Mar<br>
+			28 Mar<br>
+			04 Apr<br>
+			11 Apr<br>
+			18 Apr<br>
+			25 Apr<br>
+			02 May<br>
+			09 May<br>
+			16 May<br>
+			23 May
+		</td>
+		<td style="text-align: center">
+			27 Jun<br>
+			04 Jul<br>
+			11 Jul<br>
+			18 Jul<br>
+			25 Jul<br>
+			01 Aug<br>
+			15 Aug<br>
+			22 Aug<br>
+		</td>
+		<td style="text-align: center">
+			12 Sep<br>
+			19 sep<br>
+			26 Sep<br>
+			10 Oct<br>
+			31 Oct *<br>
+			07 Nov
+		</td>
 	</tr>
 		<tr>
 		</tr>
