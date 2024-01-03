@@ -3,6 +3,7 @@ title: Allied Educators
 permalink: /about-us/our-people/allied-educators/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -31,5 +32,12 @@ third_nav_title: Our People
     <td class="tg-ktyi">Miss Jesslyn Tan</td>
     <td class="tg-ktyi">jesslyn_tan_yu_xuan@moe.edu.sg</td>
   </tr>
+	<tr>
+    <td class="tg-ktyi">School Counsellor</td>
+    <td class="tg-ktyi">Mr Samuel Soh</td>
+    <td class="tg-ktyi">soh_wei_peng_samuel@moe.edu.sg</td>
+  </tr>
+	<tr>
+	</tr>
 </tbody>
 </table>
