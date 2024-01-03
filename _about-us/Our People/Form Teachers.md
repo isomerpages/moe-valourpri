@@ -354,5 +354,72 @@ variant: markdown
 </tbody>
 </table>
 
+#### Primary 5
+<table class="tg">
+	<tbody>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+  <tr>
+    <td class="tg-ktyi" rowspan="2" colspan="1">5 - Victory</td>
+    <td class="tg-ktyi">Mr Julian Victor</td>
+    <td class="tg-ktyi">julian_victor@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Mdm Lim Hui Shan</td>
+    <td class="tg-ktyi">lim_hui_shan@moe.edu.sg</td>
+  </tr>
+<tr>
+    <td class="tg-ktyi" rowspan="2" colspan="1">5 - Adventurous</td>
+    <td class="tg-ktyi">Mdm Ong Seng Kim</td>
+    <td class="tg-ktyi">ong_seng_kim@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Ms Grace Lim</td>
+    <td class="tg-ktyi">lim_xiaotian_grace@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" rowspan="2" colspan="1">5 - Loyalty</td>
+    <td class="tg-ktyi">Mdm Teo Wan Qi</td>
+    <td class="tg-ktyi">teo_wan_qi@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Miss Chan Siew Boon</td>
+    <td class="tg-ktyi">chan_siew_boon@moe.edu.sg</td>
+  </tr>
+<tr>
+    <td class="tg-ktyi" rowspan="2" colspan="1">5 - Optimism</td>
+    <td class="tg-ktyi">Mdm Nurashikin</td>
+    <td class="tg-ktyi">nurashikin_mohamed_tohir@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Mrs Melissa Ting</td>
+    <td class="tg-ktyi">lim_ping_siew_melissa@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" rowspan="2" colspan="1">5 - Upright</td>
+    <td class="tg-ktyi">Mdm Siti Raudhah</td>
+    <td class="tg-ktyi">siti_raudhah_ishak@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Mr Kenny Tan</td>
+    <td class="tg-ktyi">tan_khee_ngiap@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi" rowspan="2" colspan="1">5 - Resilience</td>
+    <td class="tg-ktyi">Mr Fabriz Tong</td>
+    <td class="tg-ktyi">tong_yi_jen_fabriz@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Mdm Nur Hafizah</td>
+    <td class="tg-ktyi">nur_hafizah_abdul_razak@moe.edu.sg</td>
+  </tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
 
-<table><tbody><tr><td rowspan="1" colspan="3"><h3>Primary 4</h3></td></tr><tr><td rowspan="2" colspan="1"><p>4 - Victory</p></td><td rowspan="1" colspan="1"><p>Mr Ashriq Ferdaus</p></td><td rowspan="1" colspan="1"><p>nur_ashriq_ferdaus_zulkepli@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Kong Weng Keong</p></td><td rowspan="1" colspan="1"><p>khong_weng_keong@moe.edu.sg</p></td></tr><tr><td rowspan="2" colspan="1"><p>4 - Adventurous</p></td><td rowspan="1" colspan="1"><p>Mr Timothy Chua</p></td><td rowspan="1" colspan="1"><p>chua_yu_yong_timothy@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Guo Xuanyun</p></td><td rowspan="1" colspan="1"><p>guo_xuanyun@moe.edu.sg</p></td></tr><tr><td rowspan="2" colspan="1"><p>4 - Loyalty</p></td><td rowspan="1" colspan="1"><p>Mdm Caroline Neo</p></td><td rowspan="1" colspan="1"><p>neo_bee_kim_caroline@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Anson Tan</p></td><td rowspan="1" colspan="1"><p>anson_tan@moe.edu.sg</p></td></tr><tr><td rowspan="2" colspan="1"><p>4 - Optimism</p></td><td rowspan="1" colspan="1"><p>Miss Tham Sook Lai</p></td><td rowspan="1" colspan="1"><p>tham_sook_lai@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Lim Yi Bin</p></td><td rowspan="1" colspan="1"><p>lim_yi_bin@moe.edu.sg</p></td></tr><tr><td rowspan="2" colspan="1"><p>4 - Upright</p></td><td rowspan="1" colspan="1"><p>Miss Sophie Ng</p></td><td rowspan="1" colspan="1"><p>sophie_ng_lai_san@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Sazali Othman</p></td><td rowspan="1" colspan="1"><p>sazali_othman@moe.edu.sg</p></td></tr><tr><td rowspan="2" colspan="1"><p>4 - Resilience</p></td><td rowspan="1" colspan="1"><p>Mr Chan Yong Yan</p></td><td rowspan="1" colspan="1"><p>chan_yong_yan@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss Tan Yan Lin</p></td><td rowspan="1" colspan="1"><p>tan_yan_lin_b@moe.edu.sg</p></td></tr><tr><td rowspan="2" colspan="1"><p>4 - Passion</p></td><td rowspan="1" colspan="1"><p>Miss Chia Yee Ling</p></td><td rowspan="1" colspan="1"><p>chia_yee_ling@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Hidayu</p></td><td rowspan="1" colspan="1"><p>nur_hidayu_masod@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><table><tbody><tr><th rowspan="1" colspan="3"><h3>Primary 5</h3></th></tr><tr><td rowspan="2" colspan="1"><p>5 - Victory</p></td><td rowspan="1" colspan="1"><p>Mr Julian Victor</p></td><td rowspan="1" colspan="1"><p>julian_victor@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Lim Hui Shan</p></td><td rowspan="1" colspan="1"><p>lim_hui_shan@moe.edu.sg</p></td></tr><tr><td rowspan="2" colspan="1"><p>5 - Adventurous</p></td><td rowspan="1" colspan="1"><p>Mdm Ong Seng Kim</p></td><td rowspan="1" colspan="1"><p>ong_seng_kim@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Grace Lim</p></td><td rowspan="1" colspan="1"><p>lim_xiaotian_grace@moe.edu.sg</p></td></tr><tr><td rowspan="2" colspan="1"><p>5 - Loyalty</p></td><td rowspan="1" colspan="1"><p>Mdm Teo Wan Qi</p></td><td rowspan="1" colspan="1"><p>teo_wan_qi@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss Chan Siew Boon</p></td><td rowspan="1" colspan="1"><p>chan_siew_boon@moe.edu.sg</p></td></tr><tr><td rowspan="2" colspan="1"><p>5 - Optimism</p></td><td rowspan="1" colspan="1"><p>Mdm Nurashikin</p></td><td rowspan="1" colspan="1"><p>nurashikin_mohamed_tohir@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Melissa Ting</p></td><td rowspan="1" colspan="1"><p>lim_ping_siew_melissa@moe.edu.sg</p></td></tr><tr><td rowspan="2" colspan="1"><p>5 - Upright</p></td><td rowspan="1" colspan="1"><p>Mdm Siti Raudhah</p></td><td rowspan="1" colspan="1"><p>siti_raudhah_ishak@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Kenny Tan</p></td><td rowspan="1" colspan="1"><p>tan_khee_ngiap@moe.edu.sg</p></td></tr><tr><td rowspan="2" colspan="1"><p>5 - Resilience</p></td><td rowspan="1" colspan="1"><p>Mr Fabriz Tong</p></td><td rowspan="1" colspan="1"><p>tong_yi_jen_fabriz@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Nur Hafizah</p></td><td rowspan="1" colspan="1"><p>nur_hafizah_abdul_razak@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
+
+<table><tbody><tr><th rowspan="1" colspan="3"><h3>Primary 5</h3></th></tr><tr><td rowspan="2" colspan="1"><p>5 - Victory</p></td><td rowspan="1" colspan="1"><p>Mr Julian Victor</p></td><td rowspan="1" colspan="1"><p>julian_victor@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Lim Hui Shan</p></td><td rowspan="1" colspan="1"><p>lim_hui_shan@moe.edu.sg</p></td></tr><tr><td rowspan="2" colspan="1"><p>5 - Adventurous</p></td><td rowspan="1" colspan="1"><p>Mdm Ong Seng Kim</p></td><td rowspan="1" colspan="1"><p>ong_seng_kim@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Grace Lim</p></td><td rowspan="1" colspan="1"><p>lim_xiaotian_grace@moe.edu.sg</p></td></tr><tr><td rowspan="2" colspan="1"><p>5 - Loyalty</p></td><td rowspan="1" colspan="1"><p>Mdm Teo Wan Qi</p></td><td rowspan="1" colspan="1"><p>teo_wan_qi@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss Chan Siew Boon</p></td><td rowspan="1" colspan="1"><p>chan_siew_boon@moe.edu.sg</p></td></tr><tr><td rowspan="2" colspan="1"><p>5 - Optimism</p></td><td rowspan="1" colspan="1"><p>Mdm Nurashikin</p></td><td rowspan="1" colspan="1"><p>nurashikin_mohamed_tohir@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Melissa Ting</p></td><td rowspan="1" colspan="1"><p>lim_ping_siew_melissa@moe.edu.sg</p></td></tr><tr><td rowspan="2" colspan="1"><p>5 - Upright</p></td><td rowspan="1" colspan="1"><p>Mdm Siti Raudhah</p></td><td rowspan="1" colspan="1"><p>siti_raudhah_ishak@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Kenny Tan</p></td><td rowspan="1" colspan="1"><p>tan_khee_ngiap@moe.edu.sg</p></td></tr><tr><td rowspan="2" colspan="1"><p>5 - Resilience</p></td><td rowspan="1" colspan="1"><p>Mr Fabriz Tong</p></td><td rowspan="1" colspan="1"><p>tong_yi_jen_fabriz@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Nur Hafizah</p></td><td rowspan="1" colspan="1"><p>nur_hafizah_abdul_razak@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
