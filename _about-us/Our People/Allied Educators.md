@@ -15,6 +15,11 @@ variant: markdown
 </style>
 <table class="tg">
 <thead>
+			<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
   <tr>
     <th class="tg-ktyi">Special Educational Needs Officer</th>
     <th class="tg-ktyi">Mr Jack Kua</th>
