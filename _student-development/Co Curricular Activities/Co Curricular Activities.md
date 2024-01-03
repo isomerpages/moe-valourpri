@@ -91,7 +91,10 @@ Applicable to <u>ALL</u> P3 to P5 Students<br>
 ### Competitive Team CCA Schedule
 <b>Primary 3 to 5 CCA Schedule Y2024</b><br>
 Applicable to <u>ONLY</u> selected students<br>
-Schedule to be updated
+
+<a target="_blank" href="images/cca_compet_2024/International_Dance_Competitive_Team_2024.jpg">International Dance</a> | Guitar Ensemble | Floorball | Volleyball
+
+
 
 ##### [Clubs](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/clubs) <br>
 Clubs allow students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialised areas.
