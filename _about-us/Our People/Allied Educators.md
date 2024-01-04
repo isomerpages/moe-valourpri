@@ -14,8 +14,7 @@ variant: markdown
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
-	</thead><tbody>
+<tbody>
 		<tr>
 			<td style="width:30%"></td>
 			<td style="width:30%"></td>
@@ -26,8 +25,6 @@ variant: markdown
     <th class="tg-ktyi">Mr Jack Kua</th>
     <th class="tg-ktyi">kua_chen_jiat_jack@moe.edu.sg</th>
   </tr>
-
-</tbody><tbody>
   <tr>
     <td class="tg-ktyi">Special Educational Needs Officer</td>
     <td class="tg-ktyi">Mdm Vadanaa</td>
