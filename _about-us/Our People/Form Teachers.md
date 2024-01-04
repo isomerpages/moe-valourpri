@@ -18,9 +18,9 @@ variant: markdown
 <table class="tg">
 	<tbody>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td style="width:20%"></td>
+			<td style="width:40%"></td>
+			<td style="width:40%"></td>
 		</tr>
   <tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">1 - Victory</td>
@@ -78,7 +78,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">1- Passion</td>
-    <td class="tg-ktyi">Miss Junie Lim</td>
+    <td class="tg-ktyi">Mrs Junie Sim</td>
     <td class="tg-ktyi">lim_may_ling_junie@moe.edu.sg</td>
   </tr>
 	<tr>
@@ -163,7 +163,7 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">2 - Resilience</td>
-    <td class="tg-ktyi">Miss Vernicia Lim</td>
+    <td class="tg-ktyi">Ms Vernicia Lim</td>
     <td class="tg-ktyi">vernicia_lim_su_yu@moe.edu.sg</td>
   </tr>
 	<tr>
@@ -266,7 +266,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">3 - Passion</td>
-    <td class="tg-ktyi">Mrs Vasaanthavalli</td>
+    <td class="tg-ktyi">Mdm Vasaanthavalli</td>
     <td class="tg-ktyi">allagarsamy_vasaanthavalli@moe.edu.sg</td>
   </tr>
 	<tr>
@@ -377,7 +377,7 @@ variant: markdown
     <td class="tg-ktyi">ong_seng_kim@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-ktyi">Ms Grace Lim</td>
+    <td class="tg-ktyi">Mrs Grace Loh</td>
     <td class="tg-ktyi">lim_xiaotian_grace@moe.edu.sg</td>
   </tr>
   <tr>
