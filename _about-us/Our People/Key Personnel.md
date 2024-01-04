@@ -3,6 +3,7 @@ title: Key Personnel
 permalink: /about-us/our-people/key-personnel/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 #### SCHOOL LEADERS
 
@@ -27,12 +28,12 @@ third_nav_title: Our People
     <td class="tg-ktyi">charis_wong@schools.gov.sg</td>
   </tr>
 	<tr>
-    <td class="tg-ktyi">Vice-Principal<br>(Curriculum)</td>
+    <td class="tg-ktyi">Vice-Principal<br>(Academic)</td>
     <td class="tg-ktyi">Mdm Tan Pin Pin</td>
     <td class="tg-ktyi">tan_pin_pin@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Vice-Principal<br>(Administration)</td>
+    <td class="tg-ktyi">Vice-Principal<br>(Admin)</td>
     <td class="tg-ktyi">Mr Boh Hong Jik</td>
     <td class="tg-ktyi">boh_hong_jik@schools.gov.sg</td>
   </tr>
@@ -197,10 +198,15 @@ third_nav_title: Our People
     <td class="tg-ktyi">Mr Ng Daojia</td>
     <td class="tg-ktyi">ng_daojia@moe.edu.sg</td>
   </tr>
+	<tr>
+    <td class="tg-ktyi">Subject Head - Co-Curricular Activities (CCA)</td>
+    <td class="tg-ktyi">Mdm Hazel Ng</td>
+    <td class="tg-ktyi"></td>
+  </tr>
   <tr>
     <td class="tg-ktyi">Level Head - Mathematics</td>
     <td class="tg-ktyi">Mrs Melissa Ting</td>
-    <td class="tg-ktyi">lim_ping_siew_melissa@moe.edu.sg</td>
+    <td class="tg-ktyi">ng_boey_ling@moe.edu.sg</td>
   </tr>
 			<tr>
 			<td></td>
@@ -237,7 +243,17 @@ third_nav_title: Our People
     <td class="tg-ktyi">Mdm Nurashikin Tohir</td>
     <td class="tg-ktyi">nurashikin_mohamed_tohir@moe.edu.sg</td>
   </tr>
-	  <tr>
+	<tr>
+    <td class="tg-ktyi">Chinese Language (ST)</td>
+    <td class="tg-ktyi">Mdm Karen Woo</td>
+    <td class="tg-ktyi">woo_shan_shan_karen@moe.edu.sg</td>
+  </tr>
+		<tr>
+    <td class="tg-ktyi">Science (ST)</td>
+    <td class="tg-ktyi">Mr Lim Yi Bin</td>
+    <td class="tg-ktyi">lim_yi_bin@moe.edu.sg</td>
+  </tr>
+	<tr>
     <td class="tg-ktyi">Character &amp; Citizenship Education (ST)</td>
     <td class="tg-ktyi">Mdm Joyce Lee</td>
     <td class="tg-ktyi">lee_poh_ling_joyce@moe.edu.sg</td>
