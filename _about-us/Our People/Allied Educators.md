@@ -15,18 +15,19 @@ variant: markdown
 </style>
 <table class="tg">
 <thead>
-			<tr>
-			<td></td>
-			<td></td>
-			<td></td>
+	</thead><tbody>
+		<tr>
+			<td style="width:30%"></td>
+			<td style="width:30%"></td>
+			<td style="width:40%"></td>
 		</tr>
   <tr>
     <th class="tg-ktyi">Special Educational Needs Officer</th>
     <th class="tg-ktyi">Mr Jack Kua</th>
     <th class="tg-ktyi">kua_chen_jiat_jack@moe.edu.sg</th>
   </tr>
-</thead>
-<tbody>
+
+</tbody><tbody>
   <tr>
     <td class="tg-ktyi">Special Educational Needs Officer</td>
     <td class="tg-ktyi">Mdm Vadanaa</td>
