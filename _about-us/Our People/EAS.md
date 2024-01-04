@@ -16,11 +16,11 @@ variant: markdown
 </style>
 <table class="tg">
 <tbody>
-  <tr>
-    <th class="tg-ktyi"></th>
-    <th class="tg-0lax"></th>
-    <th class="tg-0lax"></th>
-  </tr>
+<tr>
+      <td style="width:30%">
+      </td><td style="width:30%">
+      </td><td style="width:40%">
+</td></tr>
   <tr>
     <td class="tg-ktyi">Administrative Manager</td>
     <td class="tg-ktyi">Mdm Huong Siew Lin</td>
