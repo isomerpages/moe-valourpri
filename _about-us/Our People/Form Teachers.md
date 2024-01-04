@@ -18,9 +18,9 @@ variant: markdown
 <table class="tg">
 	<tbody>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td style="width:30%"></td>
+			<td style="width:30%"></td>
+			<td style="width:40%"></td>
 		</tr>
   <tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">1 - Victory</td>
@@ -112,9 +112,9 @@ variant: markdown
 <table class="tg">
 	<tbody>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td style="width:30%"></td>
+			<td style="width:30%"></td>
+			<td style="width:40%"></td>
 		</tr>
   <tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">2 - Victory</td>
@@ -206,9 +206,9 @@ variant: markdown
 <table class="tg">
 	<tbody>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td style="width:30%"></td>
+			<td style="width:30%"></td>
+			<td style="width:40%"></td>
 		</tr>
   <tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">3 - Victory</td>
@@ -282,9 +282,9 @@ variant: markdown
 <table class="tg">
 	<tbody>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td style="width:30%"></td>
+			<td style="width:30%"></td>
+			<td style="width:40%"></td>
 		</tr>
   <tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">4 - Victory</td>
@@ -358,9 +358,9 @@ variant: markdown
 <table class="tg">
 	<tbody>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td style="width:30%"></td>
+			<td style="width:30%"></td>
+			<td style="width:40%"></td>
 		</tr>
   <tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">5 - Victory</td>
