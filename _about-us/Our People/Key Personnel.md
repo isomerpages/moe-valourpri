@@ -18,9 +18,9 @@ variant: markdown
 <table class="tg">
 	<tbody>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td style="width:30%"></td>
+			<td style="width:30%"></td>
+			<td style="width:40%"></td>
 		</tr>
   <tr>
     <td class="tg-ktyi">Principal</td>
@@ -43,21 +43,12 @@ variant: markdown
 </table>
 
 #### SCHOOL STAFF DEVELOPER
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <tbody>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td style="width:30%"></td>
+			<td style="width:30%"></td>
+			<td style="width:40%"></td>
 		</tr>
   <tr>
 		<td class="tg-ktyi">School Staff Developer (SSD)</td>
@@ -70,22 +61,13 @@ variant: markdown
 </tbody></table>
 
 #### HEADS OF DEPARTMENTS (HOD)
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <tbody>
-	<tr>
-   <td class="tg-ktyi"></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-ktyi"></td>
-	</tr>
+		<tr>
+			<td style="width:30%"></td>
+			<td style="width:30%"></td>
+			<td style="width:40%"></td>
+		</tr>
 	<tr>
     <td class="tg-ktyi">Mother Tongue Languages and Partnership</td>
     <td class="tg-ktyi">Mr Li Xiang</td>
@@ -133,9 +115,9 @@ variant: markdown
 <table class="tg">
 <tbody>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td style="width:30%"></td>
+			<td style="width:30%"></td>
+			<td style="width:40%"></td>
 		</tr>
  	<tr>
     <td class="tg-ktyi">Year Head<br>(Lower Primary)</td>
@@ -166,22 +148,12 @@ variant: markdown
 </table>
 
 #### SUBJECT HEADS (SH) / LEVEL HEADS (LH)
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-km5g{background-color:#FFF;color:#46A247;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <tbody>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td style="width:30%"></td>
+			<td style="width:30%"></td>
+			<td style="width:40%"></td>
 		</tr>
   <tr>
     <td class="tg-0lax">Subject Head - Malay Language</td>
