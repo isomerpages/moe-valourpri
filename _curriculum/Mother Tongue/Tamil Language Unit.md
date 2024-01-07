@@ -3,6 +3,7 @@ title: Tamil Language Unit
 permalink: /subjects/mother-tongue/tamil-language-unit/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
 ### Focus and Beliefs
 
@@ -17,7 +18,7 @@ To provide quality and customised teaching and authentic learning experience to 
 
 மாணவர்களின் தமிழ்மொழி மற்றும் கலாச்சாரத்தின் மீது உள்ள பற்றை வளர்க்க,&nbsp;அவர்களுக்கு ஏற்ற வகையில் தரமான,&nbsp;கற்பித்தல் மற்றும் கற்றல் அனுபவத்தை வழங்குவது.&nbsp;&nbsp;
 
-### Tamil Language Curriculum for 2023
+### Tamil Language Curriculum for 2024
 ##### Primary 1
 <table>
 	<tbody>
