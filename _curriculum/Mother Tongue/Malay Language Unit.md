@@ -39,9 +39,7 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 			To be updated
 		</td>
 		<td width="23%" style="text-align: left">
-		Unit 9: Aktif di Sekolah<br>
-		Unit 10: Rumah Saya<br>
-		Unit 11: Jiran Saya
+			To be updated
 		</td>
 	</tr>
 	<tr>
@@ -183,8 +181,8 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 			Unit 6: Indahnya Bahasa
 		</td>
 		<td width="23%" style="text-align: left">
-		Unit 9: Air, Oh Air<br>
-		Unit 10: Semuanya Sama
+			Unit 7: Manusia dan Alam<br>
+			Unit 8: Pertahanan Sosial
 		</td>
 	</tr>
 	<tr>
