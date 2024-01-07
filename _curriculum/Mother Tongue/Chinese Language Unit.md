@@ -14,7 +14,7 @@ To provide quality and customised teaching and authentic learning experiences to
 
 提供高质量、适合学生程度和能力的教学，以及符合真实情景的学习体验，以培养学生对于华文和华族文化的热爱。
 
-### Chinese Language Curriculum for 2023
+### Chinese Language Curriculum for 2024
 ##### Primary 1
 <table>
 	<tbody>
