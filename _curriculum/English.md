@@ -2,6 +2,7 @@
 title: English
 permalink: /subjects/english/
 description: ""
+variant: markdown
 ---
 <img src="/images/english.jpg" style="width:50%">
 		 
@@ -10,7 +11,7 @@ Here at Valour Primary School, we strive to build a strong foundation in the Eng
 1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; lifelong readers with a love of reading. <br>
 2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; confident and effective communicators.
 
-### English Curriculum for 2023
+### English Curriculum for 2024
 
 ##### Primary 1
 <table>
@@ -198,6 +199,94 @@ Here at Valour Primary School, we strive to build a strong foundation in the Eng
 	<tr height="50px" style="font-size:12px">
 		<td width="9%" style="text-align: center">Unit 3:</td>
 		<td width="14%" style="text-align: left">The Paralympic Games</td>
+		<td width="9%" style="text-align: center"></td>
+		<td width="14%" style="text-align: left"></td>
+		<td width="9%" style="text-align: center"></td>
+		<td width="14%" style="text-align: left"></td>
+		<td width="9%" style="text-align: center"></td>
+		<td width="14%" style="text-align: left"></td>		
+	</tr>
+	<tr>
+	</tr>
+</tbody></table>
+
+##### Primary 5 (Standard)
+<table>
+	<tbody><tr>
+		<th style="text-align: center">Term</th>
+		<th colspan="2" style="text-align: center">T1</th>
+		<th colspan="2" style="text-align: center">T2</th>
+		<th colspan="2" style="text-align: center">T3</th>
+		<th colspan="2" style="text-align: center">T4</th>
+	</tr>
+	<tr height="50px" style="font-size:12px">
+		<th width="8%" rowspan="4" style="text-align: center">Topic</th>
+		<td width="9%" style="text-align: center">Unit 1:</td>
+		<td width="14%" style="text-align: left">Coolie Boy</td>
+		<td width="9%" style="text-align: center">Unit 4:</td>
+		<td width="14%" style="text-align: left">The Promise</td>
+		<td width="9%" style="text-align: center">Unit 6:</td>
+		<td width="14%" style="text-align: left">Martial Arts</td>
+		<td width="9%" style="text-align: center">Unit 8:</td>
+		<td width="14%" style="text-align: left">Making Every Drop Count</td>		
+	</tr>
+	<tr height="50px" style="font-size:12px">
+		<td width="9%" style="text-align: center">Unit 2:</td>
+		<td width="14%" style="text-align: left">Amazing Friends</td>
+		<td width="9%" style="text-align: center">Unit 5:</td>
+		<td width="14%" style="text-align: left">A Game of Emails</td>
+		<td width="9%" style="text-align: center">Unit 7:</td>
+		<td width="14%" style="text-align: left">Dogs with Jobs</td>
+		<td width="9%" style="text-align: center">Unit 9:</td>
+		<td width="14%" style="text-align: left">Urban Wildlife: Friend or Foe?</td>		
+	</tr>
+	<tr height="50px" style="font-size:12px">
+		<td width="9%" style="text-align: center">Unit 3:</td>
+		<td width="14%" style="text-align: left">Ten</td>
+		<td width="9%" style="text-align: center"></td>
+		<td width="14%" style="text-align: left"></td>
+		<td width="9%" style="text-align: center"></td>
+		<td width="14%" style="text-align: left"></td>
+		<td width="9%" style="text-align: center"></td>
+		<td width="14%" style="text-align: left"></td>		
+	</tr>
+	<tr>
+	</tr>
+</tbody></table>
+
+##### Primary 5 (Foundation)
+<table>
+	<tbody><tr>
+		<th style="text-align: center">Term</th>
+		<th colspan="2" style="text-align: center">T1</th>
+		<th colspan="2" style="text-align: center">T2</th>
+		<th colspan="2" style="text-align: center">T3</th>
+		<th colspan="2" style="text-align: center">T4</th>
+	</tr>
+	<tr height="50px" style="font-size:12px">
+		<th width="8%" rowspan="4" style="text-align: center">Topic</th>
+		<td width="9%" style="text-align: center">Unit 1:</td>
+		<td width="14%" style="text-align: left">Getting Ready to Learn</td>
+		<td width="9%" style="text-align: center">Unit 4:</td>
+		<td width="14%" style="text-align: left">Aunty Lin’s Story</td>
+		<td width="9%" style="text-align: center">Unit 6:</td>
+		<td width="14%" style="text-align: left">On the Job with a Photographer</td>
+		<td width="9%" style="text-align: center">Unit 8:</td>
+		<td width="14%" style="text-align: left">Martial Arts</td>		
+	</tr>
+	<tr height="50px" style="font-size:12px">
+		<td width="9%" style="text-align: center">Unit 2:</td>
+		<td width="14%" style="text-align: left">Mei’s Memorable Morning</td>
+		<td width="9%" style="text-align: center">Unit 5:</td>
+		<td width="14%" style="text-align: left">Creative Recycling</td>
+		<td width="9%" style="text-align: center">Unit 7:</td>
+		<td width="14%" style="text-align: left">An Unusual Friendship</td>
+		<td width="9%" style="text-align: center">Unit 9:</td>
+		<td width="14%" style="text-align: left">Dogs with Jobs</td>		
+	</tr>
+	<tr height="50px" style="font-size:12px">
+		<td width="9%" style="text-align: center">Unit 3:</td>
+		<td width="14%" style="text-align: left">Coolie Boy</td>
 		<td width="9%" style="text-align: center"></td>
 		<td width="14%" style="text-align: left"></td>
 		<td width="9%" style="text-align: center"></td>
