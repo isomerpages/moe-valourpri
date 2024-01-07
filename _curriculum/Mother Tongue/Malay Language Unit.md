@@ -3,6 +3,7 @@ title: Malay Language Unit
 permalink: /subjects/mother-tongue/malay-language-unit/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
 <img src="/images/mt-ml-1.png" style="width:40%">
 
@@ -13,7 +14,7 @@ To provide quality and customised teaching and authentic learning experience to 
 
 Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpukan kepada pelajar agar dapat dipupuk minat dan cinta terhadap bahasa dan budaya Melayu.
 
-### Malay Language Curriculum for 2023
+### Malay Language Curriculum for 2024
 ##### Primary 1
 <table>
 	<tbody>
@@ -27,9 +28,8 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 	<tr height="65px" style="font-size:12px">
 		<th width="8%" style="text-align: center">Topic</th>
 		<td width="23%" style="text-align: left">
-		Siap Sedia 
-		Unit 1: Sekolah Saya<br>
-		Unit 2: Diri Saya
+			Unit 1: Ting! Ayuh ke sekolah!<br>
+			Unit 2: Mari kita berkawan!
 		</td>
 		<td width="23%" style="text-align: left">
 		Unit 3: Keluarga Saya<br>
@@ -142,6 +142,41 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 		Unit 1: Saya Bertanggungjawab<br>
 		Unit 2: Teknologi di Sekolah<br>
 		Unit 3: Pengalaman Berharga		</td>
+		<td width="23%" style="text-align: left">
+		Unit 4: Suatu Masa Dahulu<br>
+		Unit 5: Legenda Singapura
+		</td>
+		<td width="23%" style="text-align: left">
+		Unit 6: Tokoh Kita<br>
+		Unit 7: Adab dan Sopan<br>
+		Unit 8: Mengenali Budaya Lain
+		</td>
+		<td width="23%" style="text-align: left">
+		Unit 9: Air, Oh Air<br>
+		Unit 10: Semuanya Sama
+		</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
+##### Primary 5
+<table>
+	<tbody>
+	<tr>
+		<th width="8%" style="text-align: center">Term</th>
+		<th width="23%" style="text-align: center">T1</th>
+		<th width="23%" style="text-align: center">T2</th>
+		<th width="23%" style="text-align: center">T3</th>
+		<th width="23%" style="text-align: center">T4</th>
+	</tr>
+	<tr height="65px" style="font-size:12px">
+		<th width="8%" style="text-align: center">Topic</th>
+		<td width="23%" style="text-align: left">
+			Unit 1: Menjadi Ketua darjah<br>
+			Unit 2: Mari Belajar Membaca
+		</td>
 		<td width="23%" style="text-align: left">
 		Unit 4: Suatu Masa Dahulu<br>
 		Unit 5: Legenda Singapura
