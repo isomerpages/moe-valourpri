@@ -32,14 +32,11 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 			Unit 2: Mari kita berkawan!
 		</td>
 		<td width="23%" style="text-align: left">
-		Unit 3: Keluarga Saya<br>
-		Unit 4: Rakan-rakan Saya<br>
-		Unit 5: Kegemaran Saya
+			Unit 3: Saya Boleh!<br>
+			Unit 4: Kenyangnya!
 		</td>
 		<td width="23%" style="text-align: left">
-		Unit 6: Bersiar-siar<br>
-		Unit 7: Aktiviti Harian<br>
-		Unit 8: Belajar Apa Hari Ini?
+			To be updated
 		</td>
 		<td width="23%" style="text-align: left">
 		Unit 9: Aktif di Sekolah<br>
@@ -178,13 +175,12 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 			Unit 2: Mari Belajar Membaca
 		</td>
 		<td width="23%" style="text-align: left">
-		Unit 4: Suatu Masa Dahulu<br>
-		Unit 5: Legenda Singapura
+			Unit 3: Jejak Budaya<br>
+			Unit 4: Kreatif Sungguh
 		</td>
 		<td width="23%" style="text-align: left">
-		Unit 6: Tokoh Kita<br>
-		Unit 7: Adab dan Sopan<br>
-		Unit 8: Mengenali Budaya Lain
+			Unit 5: Bumi Kita<br>
+			Unit 6: Indahnya Bahasa
 		</td>
 		<td width="23%" style="text-align: left">
 		Unit 9: Air, Oh Air<br>
