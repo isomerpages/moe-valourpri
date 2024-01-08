@@ -172,9 +172,56 @@ Every Valourian, a creative problem-solver.
 			7.    Rectangles and Squares<br>
 		</td>
     <td class="tg-ktyi">
-			8.     Decimals     Decimals Four Operations of Decimals<br>9.    Symmetry<br>10.  Area and Perimeter</td>
+			8.     Decimals<br>
+			9.     Four Operations of Decimals<br>
+			10.   Pie Charts
+			</td>
     <td class="tg-ktyi">
-			<br>12.  Time</td>
+			11.    Area and Perimeter<br>
+			12.   Nets<br>
+			13.   Symmetry
+		</td>
+  </tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
+##### Primary 5
+<table class="tg">
+<thead>
+  <tr>
+    <th width="8%" class="tg-9hzb">Term</th>
+    <th width="23%" class="tg-9hzb">T1</th>
+    <th width="23%" class="tg-9hzb">T2</th>
+    <th width="23%" class="tg-9hzb">T3</th>
+    <th width="23%" class="tg-9hzb">T4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td width="8%" class="tg-9hzb">Topic</td>
+    <td class="tg-ktyi">
+			1.    Whole Numbers<br>
+			2.    Four Operations of Whole Numbers<br>
+			3.    Fractions
+		</td>
+    <td class="tg-ktyi">
+			4.    Ratio<br>
+			5.    Area of Triangle<br>
+			6.   Volume
+		</td>
+    <td class="tg-ktyi">
+			7.    Decimals<br>
+			8.    Rate<br>
+			9.    Percentage<br>
+			10.  Average
+			</td>
+    <td class="tg-ktyi">
+			11.    Angles<br>
+			12.   Property of Triangles<br>
+			13.   Parallelogram, Rhombus and Trapezium
+		</td>
   </tr>
 	<tr>
 	</tr>
