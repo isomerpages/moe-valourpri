@@ -3,6 +3,7 @@ title: Malay Language Unit
 permalink: /subjects/mother-tongue/malay-language-unit/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
 <img src="/images/mt-ml-1.png" style="width:40%">
 
@@ -13,7 +14,7 @@ To provide quality and customised teaching and authentic learning experience to 
 
 Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpukan kepada pelajar agar dapat dipupuk minat dan cinta terhadap bahasa dan budaya Melayu.
 
-### Malay Language Curriculum for 2023
+### Malay Language Curriculum for 2024
 ##### Primary 1
 <table>
 	<tbody>
@@ -27,24 +28,18 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 	<tr height="65px" style="font-size:12px">
 		<th width="8%" style="text-align: center">Topic</th>
 		<td width="23%" style="text-align: left">
-		Siap Sedia 
-		Unit 1: Sekolah Saya<br>
-		Unit 2: Diri Saya
+			Unit 1: Ting! Ayuh ke sekolah!<br>
+			Unit 2: Mari kita berkawan!
 		</td>
 		<td width="23%" style="text-align: left">
-		Unit 3: Keluarga Saya<br>
-		Unit 4: Rakan-rakan Saya<br>
-		Unit 5: Kegemaran Saya
+			Unit 3: Saya Boleh!<br>
+			Unit 4: Kenyangnya!
 		</td>
 		<td width="23%" style="text-align: left">
-		Unit 6: Bersiar-siar<br>
-		Unit 7: Aktiviti Harian<br>
-		Unit 8: Belajar Apa Hari Ini?
+			To be updated
 		</td>
 		<td width="23%" style="text-align: left">
-		Unit 9: Aktif di Sekolah<br>
-		Unit 10: Rumah Saya<br>
-		Unit 11: Jiran Saya
+			To be updated
 		</td>
 	</tr>
 	<tr>
@@ -154,6 +149,40 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 		<td width="23%" style="text-align: left">
 		Unit 9: Air, Oh Air<br>
 		Unit 10: Semuanya Sama
+		</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
+##### Primary 5
+<table>
+	<tbody>
+	<tr>
+		<th width="8%" style="text-align: center">Term</th>
+		<th width="23%" style="text-align: center">T1</th>
+		<th width="23%" style="text-align: center">T2</th>
+		<th width="23%" style="text-align: center">T3</th>
+		<th width="23%" style="text-align: center">T4</th>
+	</tr>
+	<tr height="65px" style="font-size:12px">
+		<th width="8%" style="text-align: center">Topic</th>
+		<td width="23%" style="text-align: left">
+			Unit 1: Menjadi Ketua darjah<br>
+			Unit 2: Mari Belajar Membaca
+		</td>
+		<td width="23%" style="text-align: left">
+			Unit 3: Jejak Budaya<br>
+			Unit 4: Kreatif Sungguh
+		</td>
+		<td width="23%" style="text-align: left">
+			Unit 5: Bumi Kita<br>
+			Unit 6: Indahnya Bahasa
+		</td>
+		<td width="23%" style="text-align: left">
+			Unit 7: Manusia dan Alam<br>
+			Unit 8: Pertahanan Sosial
 		</td>
 	</tr>
 	<tr>

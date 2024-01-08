@@ -3,6 +3,7 @@ title: EAS
 permalink: /about-us/our-people/eas/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -14,14 +15,12 @@ third_nav_title: Our People
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi"></th>
-    <th class="tg-0lax"></th>
-    <th class="tg-0lax"></th>
-  </tr>
-</thead>
 <tbody>
+<tr>
+      <td style="width:30%">
+      </td><td style="width:30%">
+      </td><td style="width:40%">
+</td></tr>
   <tr>
     <td class="tg-ktyi">Administrative Manager</td>
     <td class="tg-ktyi">Mdm Huong Siew Lin</td>

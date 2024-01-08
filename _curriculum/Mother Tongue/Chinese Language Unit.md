@@ -3,6 +3,7 @@ title: Chinese Language Unit
 permalink: /subjects/mother-tongue/chinese-language-unit/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
 <img src="/images/mt_cl-1.png" style="width:80%">
 
@@ -13,7 +14,7 @@ To provide quality and customised teaching and authentic learning experiences to
 
 提供高质量、适合学生程度和能力的教学，以及符合真实情景的学习体验，以培养学生对于华文和华族文化的热爱。
 
-### Chinese Language Curriculum for 2023
+### Chinese Language Curriculum for 2024
 ##### Primary 1
 <table>
 	<tbody>
@@ -34,24 +35,17 @@ To provide quality and customised teaching and authentic learning experiences to
 			第五课 现在几点
 		</td>
 		<td width="23%" style="text-align: left">
-		第六课 我感冒了<br>
-		第七课 这是我的学校<br>
-		第八课 今天有体育课吗<br>
-		第九课 我的东西不见了<br>
-		第十课 课室里有什么<br>
+			第六课 这是我的学校<br>
+			第七课 我的东西不见了<br>
+			第八课 我感冒了<br>
+			第九课 今天有体育课吗<br>
+			第十课 课室里有什么
 		</td>
 		<td width="23%" style="text-align: left">
-		第十一课 我的同学<br>
-		第十二课 我爱干净<br>
-		第十三课 你看见我的袜子了吗<br>
-		第十四课 家里这么干净啊<br>
-		第十五课 你想吃什么
+			To be updated
 		</td>
 		<td width="23%" style="text-align: left">
-		第十六课 我最喜欢吃西瓜<br>
-		第十七课 我们一起来庆祝<br>
-		第十八课 到动物园去<br>
-		第十九课 我家附近有公园
+			To be updated
 		</td>
 	</tr>
 	<tr>
@@ -183,6 +177,47 @@ To provide quality and customised teaching and authentic learning experiences to
 		第十五课 华文真有趣<br>
 		第十六课 学习要认真<br>
 		第十七课 好孩子
+		</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
+##### Primary 5
+<table>
+	<tbody>
+	<tr>
+		<th width="8%" style="text-align: center">Term</th>
+		<th width="23%" style="text-align: center">T1</th>
+		<th width="23%" style="text-align: center">T2</th>
+		<th width="23%" style="text-align: center">T3</th>
+		<th width="23%" style="text-align: center">T4</th>
+	</tr>
+	<tr height="65px" style="font-size:12px">
+		<th width="8%" style="text-align: center">Topic</th>
+		<td width="23%" style="text-align: left">
+			第一课 到户外去<br>
+			第二课 身体会说话<br>
+			第三课 懂事的你<br>
+			第四课 分享是快乐的
+		</td>
+		<td width="23%" style="text-align: left">
+			第五课 我的东西找到了<br>
+			第六课 一千桶水<br>
+			第七课 和时间赛跑<br>
+			第八课 很久很久以前<br>
+		</td>
+		<td width="23%" style="text-align: left">
+		第九课 成长的烦恼<br>
+		第十课 同学之间<br>
+		第十一课 新加坡，我为你骄傲<br>
+		第十二课 汉字王国
+		</td>
+		<td width="23%" style="text-align: left">
+		第十三课 老师，谢谢您<br>
+		第十四课 相当一棵树<br>
+		第十五课 世界那么大
 		</td>
 	</tr>
 	<tr>

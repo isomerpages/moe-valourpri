@@ -31,7 +31,7 @@ The following CCAs are offered to the Primary 2 students, first through the expe
 
 
 ### CCA Schedule (Y2024)
-<b>Primary 3 &amp; 4 CCA Schedule Y2024</b><br>
+<b>Primary 3 to P5 CCA Schedule Y2024</b><br>
 Applicable to <u>ALL</u> P3 to P5 Students<br>
 *Subject to change <br>
 <table>
@@ -91,7 +91,10 @@ Applicable to <u>ALL</u> P3 to P5 Students<br>
 ### Competitive Team CCA Schedule
 <b>Primary 3 to 5 CCA Schedule Y2024</b><br>
 Applicable to <u>ONLY</u> selected students<br>
-Schedule to be updated
+
+<a target="_blank" href="/images/Cca_compet_2024/International_Dance_Competitive_Team_2024.JPG">International Dance</a> | <a target="_blank" href="/images/Cca_compet_2024/Guitar_Ensemble_Competitive_Team_2024.jpg">Guitar Ensemble</a> | <a target="_blank" href="/images/Cca_compet_2024/floorball_Competitive_Team_2024.jpg">Floorball</a> | <a target="_blank" href="/images/Cca_compet_2024/volleyball_Competitive_Team_2024.jpg">Volleyball</a>
+
+
 
 ##### [Clubs](https://moe-valourpri-staging.netlify.app/student-development/co-curricular-activities/clubs) <br>
 Clubs allow students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialised areas.
