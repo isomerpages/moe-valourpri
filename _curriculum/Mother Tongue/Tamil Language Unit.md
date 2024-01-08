@@ -160,6 +160,42 @@ To provide quality and customised teaching and authentic learning experience to 
 </tbody>
 </table>
 
+##### Primary 4
+<table>
+  <tbody>
+  <tr>
+    <th width="8%" style="text-align: center">Term</th>
+    <th width="23%" style="text-align: center">T1</th>
+    <th width="23%" style="text-align: center">T2</th>
+    <th width="23%" style="text-align: center">T3</th>
+    <th width="23%" style="text-align: center">T4</th>
+  </tr>
+  <tr height="65px" style="font-size:12px">
+    <th width="8%" style="text-align: center">Topic</th>
+    <td width="23%" style="text-align: left">
+			தொகுதி 1: <br>நான் / எண்ணங்கள், உணர்வுகள் <br>
+			தொகுதி 2: <br>குடும்பம் / குடும்பப் பிணைப்பு,  கொண்டாட்டங்கள்<br>
+			தொகுதி 3: <br>பள்ளி / உடல் நலம் பேணுதல் 
+    </td>
+    <td width="23%" style="text-align: left">
+			தொகுதி 4 : <br>சமூகம் / இன நல்லிணக்கம்<br>
+			தொகுதி 5 : <br>நாடு / நாட்டின் சிறப்பு 
+    </td>
+    <td width="23%" style="text-align: left">
+			தொகுதி 6: <br>உலகம் / சுற்றுலா - மலேசியா <br>
+			தொகுதி 7: <br>நாடு / தேசிய தினம் <br>
+			தொகுதி 8: <br>குடும்பம் / கதைகள் உணர்த்தும் உறவுகளும் பண்புகளும் 
+    </td>
+    <td width="23%" style="text-align: left">
+			தொகுதி 9 : <br>பள்ளி / அன்றும் இன்றும் <br>
+			தொகுதி 10 : <br>சமூகம் / கிறிஸ்துமஸ்
+		</td>
+  </tr>
+  <tr>
+  </tr>
+</tbody>
+</table>
+
 ### Programmes
 
 ![reading programme](/images/mt-tl-2.png)
