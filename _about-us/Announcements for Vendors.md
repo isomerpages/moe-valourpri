@@ -2,6 +2,7 @@
 title: Announcements for Vendors
 permalink: /about-us/announcements-for-vendors/
 description: ""
+variant: markdown
 ---
 ### Announcements for Vendors
 
