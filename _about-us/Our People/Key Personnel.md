@@ -173,12 +173,12 @@ variant: markdown
 	<tr>
     <td class="tg-ktyi">Subject Head - Co-Curricular Activities (CCA)</td>
     <td class="tg-ktyi">Mdm Hazel Ng</td>
-    <td class="tg-ktyi"></td>
+    <td class="tg-ktyi">ng_boey_ling@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Level Head - Mathematics</td>
     <td class="tg-ktyi">Mrs Melissa Ting</td>
-    <td class="tg-ktyi">ng_boey_ling@moe.edu.sg</td>
+    <td class="tg-ktyi">lim_ping_siew_melissa@moe.edu.sg</td>
   </tr>
 			<tr>
 			<td></td>
