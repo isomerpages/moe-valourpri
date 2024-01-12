@@ -42,41 +42,68 @@ You may click here for more information on MOE Sexuality Education.
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{
-					border-color:black;
-					border-style:solid;
-					font-family:Arial, sans-serif;
-					font-size:10px;
-					font-weight:bold;
-					text-align:center;
-					vertical-align:bottom;
+.tg .th{
+	font-family:Arial, sans-serif;
+	font-size:10px;
+	line-height: 1.8;
+	text-align:Center;
+	vertical-align:middle;
 					}
-.tg .th-ktyi{background-color:#E5E4E2;text-align:left;vertical-align:bottom;}
+	.tg .body-ca{
+	font-family:Arial, sans-serif;
+	font-size:10px;
+	line-height: 1.8;
+	text-align:Center;
+	vertical-align:middle;
+	}
+		.tg .body-la{
+	font-family:Arial, sans-serif;
+	font-size:10px;
+	line-height: 1.8;
+	text-align:left;
+	vertical-align:top;
+	}
+	.tg .toph{
+	font-family:Arial, sans-serif;
+	font-size:10px;
+	line-height: 1.8;
+	background-color:#E5E4E2;
+	text-align:Center;
+	vertical-align:bottom;
+	}
 </style>
 	<table class="tg">
 		<tbody><tr>
-			<th width="15%" class="th-ktyi">CCE(FTGP) THEME</th>
-			<th width="15%" class="th-ktyi">LESSON TITLE / DURATION</th>
-			<th width="55%" class="th-ktyi">LESSON OVERVIEW</th>
-			<th width="15%" class="th-ktyi">TIME PERIOD<br>(e.g. Term 1 Week 2)
+			<th width="10%" class="toph">CCE(FTGP) THEME</th>
+			<th width="20%" class="toph">LESSON TITLE / DURATION</th>
+			<th width="50%" class="toph">LESSON OVERVIEW</th>
+			<th width="20%" class="toph">TIME PERIOD<br>(e.g. Term 1 Week 2)
 </th>
 	</tr>
 	<tr>
-		<th rowspan="2">Growing Years</th>
-		<td>The Changes in Me<br>(60 min)</td>
-		<td>
-This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. 
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+		<th rowspan="4" class="th">Growing Years</th>
+		<td class="body-ca">The Changes in Me<br>(60 min)</td>
+		<td class="body-la">
+This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br>
+<i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
 		</td>
-		<td width="14%" style="text-align: left">Term 3 Week 2</td>
+		<td class="body-ca">Term 3 Week 2</td>
 	</tr>
-		<tr style="font-size:12px">
-		<td style="text-align: center">Did You Know?<br>(60 min)</td>
-		<td style="text-align: left">
-This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. 
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+		<tr>
+		<td class="body-ca">Did You Know?<br>(60 min)</td>
+		<td class="body-la">
+This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’.</b><br>
+<i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
 		</td>
-			<td width="14%" style="text-align: left">Term 3 Week 3</td>
+			<td class="body-ca">Term 3 Week 3</td>
+	</tr><tr>
+			</tr><tr>
+		<td class="body-ca">Keeping Myself Safe<br>(60 min)</td>
+		<td class="body-la">
+In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br>
+<i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
+		</td>
+			<td class="body-ca">Term 3 Week 3</td>
 	</tr><tr>
 		<td></td>
 		<td></td>
