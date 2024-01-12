@@ -45,28 +45,28 @@ You may click here for more information on MOE Sexuality Education.
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .th{
 	font-family:Arial, sans-serif;
-	font-size:10px;
+	font-size:12px;
 	line-height: 1.8;
 	text-align:Center;
 	vertical-align:middle;
 					}
 	.tg .body-ca{
 	font-family:Arial, sans-serif;
-	font-size:10px;
+	font-size:12px;
 	line-height: 1.8;
 	text-align:Center;
 	vertical-align:middle;
 	}
 		.tg .body-la{
 	font-family:Arial, sans-serif;
-	font-size:10px;
+	font-size:12px;
 	line-height: 1.8;
 	text-align:left;
 	vertical-align:top;
 	}
 	.tg .toph{
 	font-family:Arial, sans-serif;
-	font-size:10px;
+	font-size:12px;
 	line-height: 1.8;
 	background-color:#E5E4E2;
 	text-align:Center;
