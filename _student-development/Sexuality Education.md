@@ -38,4 +38,36 @@ You may click here for more information on MOE Sexuality Education.
 <li>The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require close guidance so that they can respond with discernment to the sexual messages in the media and other sources.</li>
 <p>
 </p><li>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.</li>
-</ol>
+<table>
+	<tbody>
+		<tr style="font-size:10px">
+			<th width="15%" style="text-align: center">CCE(FTGP) THEME</th>
+			<th width="15%" style="text-align: center">LESSON TITLE / DURATION</th>
+			<th width="55%" style="text-align: center">LESSON OVERVIEW</th>
+			<th width="15%" style="text-align: center">TIME PERIOD<br>(e.g. Term 1 Week 2)
+</th>
+	</tr>
+	<tr style="font-size:12px">
+		<th rowspan="2" width="8%" style="text-align: center">Growing Years</th>
+		<td width="9%" style="text-align: center">The Changes in Me<br>(60 min)</td>
+		<td width="9%" style="text-align: left">
+This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. 
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+		</td>
+		<td width="14%" style="text-align: left">Term 3 Week 2</td>
+	</tr>
+		<tr style="font-size:12px">
+		<td style="text-align: center">Did You Know?<br>(60 min)</td>
+		<td style="text-align: left">
+This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. 
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+		</td>
+		<td width="14%" style="text-align: left">Term 3 Week 2</td>
+	</tr>
+<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+</tr>
+</tbody>
+</table></ol>
