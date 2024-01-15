@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Character and Citizenship Education.md
-      - Sexuality Education.md
       - Programme for Active Learning (PAL).md
       - Learning for Life Programme.md
       - Co Curricular Activities/.keep
