@@ -2,6 +2,7 @@
 title: Announcements for Vendors
 permalink: /about-us/announcements-for-vendors/
 description: ""
+variant: markdown
 ---
 ### Announcements for Vendors
 
@@ -16,7 +17,7 @@ description: ""
 	</tr>
 	<tr>
 		<td width="28%" style="text-align: center">Vegetarian or any Asian Cuisines <br>(Halal or non-Halal)</td>
-		<td width="28%" style="text-align: center">15 September 2023 </td>
+		<td width="28%" style="text-align: center">23 February 2024</td>
 		<td width="44%" style="text-align: left">Rice or noodle foods are acceptable.</td>
 		</tr>
 	<tr>
