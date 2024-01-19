@@ -24,6 +24,7 @@ variant: markdown
 	</tr>
 </tbody>
 </table>
+* Dishwasher machines are provided for canteen vendor shared use
 
 #### Application Procedure
 <ol>

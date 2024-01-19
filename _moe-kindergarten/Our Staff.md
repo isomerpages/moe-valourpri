@@ -2,6 +2,7 @@
 title: Our Staff
 permalink: /moe-kindergarten/our-staff/
 description: ""
+variant: markdown
 ---
 ### DEPUTY CENTER HEAD
 
@@ -45,12 +46,8 @@ description: ""
 		<td></td>
 		<td></td>
 	</tr>
-	<tr>
-    <th class="tg-ktyi" rowspan="9">English Language Teachers</th>
-    <th class="tg-ktyi">Ms Melanie Lau (Level Head)</th>
-    <th class="tg-ktyi">melanie_lau_mei_ling@moe.edu.sg</th>
-  </tr>
   <tr>
+		<th class="tg-ktyi" rowspan="8">English Language Teachers</th>
     <th class="tg-ktyi">Ms Selene Erh (Level Head)</th>
     <th class="tg-ktyi">erh_anni_selene@moe.edu.sg</th>
   </tr>
@@ -85,13 +82,9 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ktyi" rowspan="7">Chinese Language Teachers</td>
-    <td class="tg-ktyi">Ms Qi Xiaojing (Senior Teacher)</td>
+    <td class="tg-ktyi" rowspan="6">Chinese Language Teachers</td>
+    <td class="tg-ktyi">Ms Qi Xiaojing<br>(Senior Teacher)</td>
     <td class="tg-ktyi">qi_xiaojing@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Ms Chen Baohua</td>
-    <td class="tg-ktyi">chen_baohua@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Ms Cheng Szu-I</td>
@@ -115,7 +108,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2">Malay Language Teachers</td>
-    <td class="tg-ktyi">Miss Fatin Amirah Jasmani</td>
+    <td class="tg-ktyi">Miss Fatin Amirah Jasmani (Senior Teacher)</td>
     <td class="tg-ktyi">fatin_amirah_jasmani@moe.edu.sg</td>
   </tr>
   <tr>
@@ -124,8 +117,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ktyi">Tamil Language Teacher</td>
-    <td class="tg-ktyi">Ms Saasmitha Kalaihselvan</td>
-    <td class="tg-ktyi">saasmitha_kalaihselvan@moe.edu.sg</td>
+    <td class="tg-ktyi">Ms Aneesa Aafreen</td>
+    <td class="tg-ktyi">aneesa_aafreen_shake_mohideen@moe.edu.sg</td>
   </tr>
 	<tr>
 	</tr>
