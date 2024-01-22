@@ -123,7 +123,7 @@ In this lesson, students will learn about sexual abuse, how it can happen during
 <ol start="8">
 <li>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
 <p>
-</p><li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable [here](/files/SEd/sed_parents_opt_out_form_valour_primary_school.pdf). The completed opt-out form is to be submitted by 10/02/2024.</li>
+</p><li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="/files/SEd/sed_parents_opt_out_form_valour_primary_school.pdf">here</a>. The completed opt-out form is to be submitted by 10/02/2024.</li>
 <p>
 </p><li>Parents can contact the school at tan_kim_seng_kelvin@schools.gov.sg for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
 </ol>
