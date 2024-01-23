@@ -76,11 +76,11 @@ variant: markdown
 <table style="width:100%" align="center">
 	<tbody>
 		<tr>
-			<td colspan="2"><b>Sirius Transport</b></td>
+			<td colspan="2"><b>Tian Lang Xing Singapore Pte Ltd</b></td>
 		</tr>
 		<tr>
 			<td width="40%">Mailing Address</td>
-			<td width="60%">Blk 20, Toa Payoh Lor 7,<br> Kim Keat Plum, Singapore 310020</td>
+			<td width="60%">7 Gambas Crescent, Ark@Gambas <br>#09-42 Singapore 757087</td>
 		</tr>
 		<tr>
 			<td width="40%">Telephone</td>
