@@ -92,7 +92,9 @@ Applicable to <u>ALL</u> P3 to P5 Students<br>
 <b>Primary 3 to 5 CCA Schedule Y2024</b><br>
 Applicable to <u>ONLY</u> selected students<br>
 
-<a href="/images/Cca_compet_2024/International_Dance_Competitive_Team_2024.JPG">International Dance</a> | <a target="_blank" href="/images/Cca_compet_2024/Guitar_Ensemble_Competitive_Team_2024.jpg">Guitar Ensemble</a> | <a target="_blank" href="/images/Cca_compet_2024/floorball_Competitive_Team_2024.jpg">Floorball</a> | <a target="_blank" href="/images/Cca_compet_2024/volleyball_Competitive_Team_2024.jpg">Volleyball</a>
+![](/images/Cca_compet_2024/Guitar_Ensemble_Competitive_Team_2024.JPG)
+
+<a href="/images/Cca_compet_2024/International_Dance_Competitive_Team_2024.JPG">International Dance</a> | <a target="_blank" href="/images/Cca_compet_2024/Guitar_Ensemble_Competitive_Team_2024.JPG">Guitar Ensemble</a> | <a target="_blank" href="/images/Cca_compet_2024/floorball_Competitive_Team_2024.JPG">Floorball</a> | <a target="_blank" href="/images/Cca_compet_2024/volleyball_Competitive_Team_2024.JPG">Volleyball</a>
 
 
 
