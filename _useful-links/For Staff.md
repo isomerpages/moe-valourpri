@@ -2,6 +2,7 @@
 title: For Staff
 permalink: /useful-links/for-staff/
 description: ""
+variant: markdown
 ---
 #### Internet Accessible
 <style type="text/css">
@@ -16,11 +17,15 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-cly1">School Cockpit</th>
-    <th class="tg-corx"><a href="https://schoolcockpit.moe.gov.sg/"><span style="text-decoration:none;color:#46A247">https://schoolcockpit.moe.gov.sg/</span></a></th>
+    <th class="tg-cly1">MOE Identity Management System (MIMS)</th>
+    <th class="tg-corx"><a href="https://mims.moe.gov.sg"><span style="text-decoration:none;color:#46A247">https://mims.moe.gov.sg</span></a></th>
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <th class="tg-cly1">School Cockpit</th>
+    <th class="tg-corx"><a href="https://schoolcockpit.moe.gov.sg/"><span style="text-decoration:none;color:#46A247">https://schoolcockpit.moe.gov.sg/</span></a></th>
+  </tr>	
 	<tr>
     <td class="tg-cly1">SC Mobile</td>
     <td class="tg-corx"><a href="https://scmobile.moe.edu.sg/"><span style="text-decoration:none;color:#46A247">https://scmobile.moe.edu.sg/</span></a></td>
