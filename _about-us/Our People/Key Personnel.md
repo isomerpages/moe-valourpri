@@ -216,7 +216,12 @@ variant: markdown
     <td class="tg-ktyi">Mdm Karen Woo</td>
     <td class="tg-ktyi">woo_shan_shan_karen@moe.edu.sg</td>
   </tr>
-		<tr>
+	<tr>
+    <td class="tg-ktyi">Chinese Language (ST)</td>
+    <td class="tg-ktyi">Mdm Lim Hui Shan</td>
+    <td class="tg-ktyi">lim_hui_shan@moe.edu.sg</td>
+  </tr>
+	<tr>
     <td class="tg-ktyi">Science (ST)</td>
     <td class="tg-ktyi">Mr Lim Yi Bin</td>
     <td class="tg-ktyi">lim_yi_bin@moe.edu.sg</td>
