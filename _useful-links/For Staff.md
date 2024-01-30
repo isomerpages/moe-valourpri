@@ -38,6 +38,14 @@ variant: markdown
     <td class="tg-cly1">Student Learning Space (SLS)</td>
     <td class="tg-corx"><a href="https://learning.moe.edu.sg/"><span style="text-decoration:none;color:#46A247">https://learning.moe.edu.sg/</span></a></td>
   </tr>
+  <tr>
+    <td class="tg-cly1">All Ears Form Builder</td>
+    <td class="tg-corx"><a href="https://forms.moe.edu.sg/"><span style="text-decoration:none;color:#46A247">https://forms.moe.edu.sg/</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Parents Gateway (PG)</td>
+    <td class="tg-corx"><a href="https://pg.moe.edu.sg/"><span style="text-decoration:none;color:#46A247">https://pg.moe.edu.sg/</span></a></td>
+  </tr>
 	<tr>
   </tr>
 </tbody>
