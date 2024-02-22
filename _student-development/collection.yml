@@ -1,0 +1,16 @@
+collections:
+  student-development:
+    output: true
+    order:
+      - Character and Citizenship Education.md
+      - Sexuality Education.md
+      - Programme for Active Learning (PAL).md
+      - Learning for Life Programme.md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Co Curricular Activities.md
+      - Co Curricular Activities/CCA Policy.md
+      - Co Curricular Activities/P2 CCA Experience (2023).md
+      - Co Curricular Activities/Clubs.md
+      - Co Curricular Activities/Performing Arts.md
+      - Co Curricular Activities/Physical Sports.md
+      - Co Curricular Activities/Uniformed Groups.md
