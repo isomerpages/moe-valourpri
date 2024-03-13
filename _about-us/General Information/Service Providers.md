@@ -16,7 +16,7 @@ variant: markdown
 		</tr>
 		<tr>
 			<td width="40%">Mailing Address</td>
-			<td width="60%">1013, Geylang East Avenue 3, #02-154<br>Singapore 389728</td>
+			<td width="60%">1013, Geylang East Avenue 3<br>#02-154, Singapore 389728</td>
 		</tr>
 		<tr>
 			<td width="40%">Telephone</td>
