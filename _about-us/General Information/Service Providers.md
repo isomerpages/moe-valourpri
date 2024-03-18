@@ -16,7 +16,7 @@ variant: markdown
 		</tr>
 		<tr>
 			<td width="40%">Mailing Address</td>
-			<td width="60%">1013, Geylang East Avenue 3, #02-154<br>Singapore 389728</td>
+			<td width="60%">1013, Geylang East Avenue 3<br>#02-154, Singapore 389728</td>
 		</tr>
 		<tr>
 			<td width="40%">Telephone</td>
@@ -80,7 +80,7 @@ variant: markdown
 		</tr>
 		<tr>
 			<td width="40%">Mailing Address</td>
-			<td width="60%">7 Gambas Crescent, Ark@Gambas <br>#09-42 Singapore 757087</td>
+			<td width="60%">11 Woodlands Close,<br>#04-16, Singapore 737853</td>
 		</tr>
 		<tr>
 			<td width="40%">Telephone</td>
