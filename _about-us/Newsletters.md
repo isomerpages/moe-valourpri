@@ -115,10 +115,10 @@ variant: markdown
 	<tbody>
 		<tr>
 		<td width="10%">
-			<img src="/images/june_2023_pri_nl.jpg">
+			<img src="/images/june_2024_pri_nl.jpg">
 		</td>
 		<td width="35%">
-			<a target="_blank" href="https://drive.google.com/file/d/1FQjVvcA_Fgk1ohSQNjYQZBX4b19d9ShD/view?usp=drive_link">
+			<a target="_blank" href="https://drive.google.com/file/d/1vg_Gldt_hrCfbVuN2JLLux2_00t--QlZ/view?usp=drive_link">
 				Buzz@Valour Issue 9<br>
 				(June 2024)
 			</a>
