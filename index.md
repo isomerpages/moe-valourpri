@@ -25,6 +25,7 @@ sections:
       button: Register here!
       url: https://go.gov.sg/vps-webinar
       alt: VPS EOH poster
+      image: /images/eoh2024poster.jpg
   - infopic:
       title: VPS Virtual Tour
       description: Tour around our school campus guided by our mascot, Timba
