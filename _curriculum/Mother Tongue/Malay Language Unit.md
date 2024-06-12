@@ -36,10 +36,12 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 			Unit 4: Kenyangnya!
 		</td>
 		<td width="23%" style="text-align: left">
-			To be updated
+			Unit 5: Seronoknya!<br>
+			Unit 6: Hai Kawan!
 		</td>
 		<td width="23%" style="text-align: left">
-			To be updated
+			Unit 7: Hati-Hati!<br>
+			Unit 8: Siapakah Itu?
 		</td>
 	</tr>
 	<tr>
