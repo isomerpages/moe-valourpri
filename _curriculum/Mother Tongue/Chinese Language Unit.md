@@ -42,10 +42,17 @@ To provide quality and customised teaching and authentic learning experiences to
 			第十课 课室里有什么
 		</td>
 		<td width="23%" style="text-align: left">
-			To be updated
+			第十一课 我的同学<br>
+			第十二课 你想吃什么<br>
+			第十三课 我爱干净<br>
+			第十四课 你看见我的袜子了吗<br>
+			第十五课 我最喜欢吃西瓜<br>
 		</td>
 		<td width="23%" style="text-align: left">
-			To be updated
+			第十六课 好帮手<br>
+			第十七课 我们一起来庆祝<br>
+			第十八课 到动物园去<br>
+			第十九课 我家附近有公园<br>
 		</td>
 	</tr>
 	<tr>
