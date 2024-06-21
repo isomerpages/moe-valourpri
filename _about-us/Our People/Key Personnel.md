@@ -165,17 +165,17 @@ variant: markdown
 		<td class="tg-0lax">Miss Juliana Teo</td>
     <td class="tg-0lax">juliana_teo_li_koon@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-ktyi">Subject Head - Outdoor Education</td>
-    <td class="tg-ktyi">Mr Ng Daojia</td>
-    <td class="tg-ktyi">ng_daojia@moe.edu.sg</td>
-  </tr>
 	<tr>
     <td class="tg-ktyi">Subject Head - Co-Curricular Activities (CCA)</td>
     <td class="tg-ktyi">Mdm Hazel Ng</td>
     <td class="tg-ktyi">ng_boey_ling@moe.edu.sg</td>
   </tr>
-  <tr>
+	<tr>
+    <td class="tg-ktyi">Subject Head - Student Wellbeing</td>
+    <td class="tg-ktyi">Miss Dianne Loh</td>
+    <td class="tg-ktyi">	yi_zhen_dianne_loh@moe.edu.sg</td>
+  </tr>  
+	<tr>
     <td class="tg-ktyi">Level Head - English</td>
     <td class="tg-ktyi">Mr Fabriz Tong</td>
     <td class="tg-ktyi">tong_yi_jen_fabriz@moe.edu.sg</td>
@@ -185,11 +185,11 @@ variant: markdown
     <td class="tg-ktyi">Mrs Melissa Ting</td>
     <td class="tg-ktyi">lim_ping_siew_melissa@moe.edu.sg</td>
   </tr>
-			<tr>
+	<tr>
 			<td></td>
 			<td></td>
 			<td></td>
-		</tr>
+	</tr>
 </tbody>
 </table>
 
