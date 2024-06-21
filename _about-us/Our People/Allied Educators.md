@@ -30,11 +30,6 @@ variant: markdown
     <td class="tg-ktyi">Mdm Vadanaa</td>
     <td class="tg-ktyi">vadanaa_muthulingam@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-ktyi">School Counsellor</td>
-    <td class="tg-ktyi">Miss Jesslyn Tan</td>
-    <td class="tg-ktyi">jesslyn_tan_yu_xuan@moe.edu.sg</td>
-  </tr>
 	<tr>
     <td class="tg-ktyi">School Counsellor</td>
     <td class="tg-ktyi">Mr Samuel Soh</td>
