@@ -2,8 +2,8 @@
 title: Privacy Statement
 permalink: /privacy/
 description: ""
+variant: markdown
 ---
-
 ##### VALOUR PRIMARY SCHOOL PRIVACY STATEMENT 
 
 1. This is a Valour Primary School website. Thank you for examining our privacy statement.   

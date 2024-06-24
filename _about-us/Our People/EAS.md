@@ -27,24 +27,9 @@ variant: markdown
     <td class="tg-ktyi">huong_siew_lin@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Operations Manager</td>
-    <td class="tg-ktyi">Mr Derek Ler</td>
-    <td class="tg-ktyi">ler_shan_ming_derek@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Operations Manager</td>
-    <td class="tg-ktyi">Mr John Selvamani</td>
-    <td class="tg-ktyi">john_selvamani@moe.edu.sg</td>
-  </tr>
-  <tr>
     <td class="tg-ktyi">ICT Manager</td>
     <td class="tg-ktyi">Mr Wilfred Chua</td>
     <td class="tg-ktyi">chua_chin_leong_wilfred@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Administrative Executive</td>
-    <td class="tg-ktyi">Mdm Nur Linda Eain</td>
-    <td class="tg-ktyi">nur_linda_eain_mohamed_hapik@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Administrative Executive</td>
@@ -65,11 +50,6 @@ variant: markdown
     <td class="tg-ktyi">Corporate Support Officer</td>
     <td class="tg-ktyi">Mdm Linda Sim</td>
     <td class="tg-ktyi">sim_poh_buay_linda@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Operations Support Officer</td>
-    <td class="tg-ktyi">Mr Mohamad Arshad Bin Omar</td>
-    <td class="tg-ktyi"> </td>
   </tr>
   <tr>
     <td class="tg-ktyi">Operations Support Officer</td>
