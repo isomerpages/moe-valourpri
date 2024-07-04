@@ -28,9 +28,9 @@ sections:
       image: /images/eoh2024poster.jpg
   - infopic:
       title: VPS Virtual Tour
-      description: Tour around our school campus guided by our mascot, Timba
+      description: Embark on a campus tour with Timba, our lively mascot!
       button: Click here to watch
-      url: https://www.youtube.com/watch?v=jivCWGWMpMk
+      url: https://go.gov.sg/vps-virtual-tour
       image: /images/157052937_1853501074804463_8038109740718483090_n.jpg
       alt: VPS Virtual Tour
 ---
