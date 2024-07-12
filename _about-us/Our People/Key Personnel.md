@@ -69,7 +69,7 @@ variant: markdown
 			<td style="width:40%"></td>
 		</tr>
 	<tr>
-    <td class="tg-ktyi">Mother Tongue Languages and Partnership</td>
+    <td class="tg-ktyi">Mother Tongue Languages</td>
     <td class="tg-ktyi">Mr Li Xiang</td>
     <td class="tg-ktyi">li_xiang_a@moe.edu.sg</td>
   </tr>
