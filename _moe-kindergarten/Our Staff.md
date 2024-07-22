@@ -4,7 +4,7 @@ permalink: /moe-kindergarten/our-staff/
 description: ""
 variant: markdown
 ---
-### DEPUTY CENTER HEAD
+### CENTER HEAD
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -22,7 +22,7 @@ variant: markdown
 		<td></td>
 	</tr>
 	<tr>
-    <td class="tg-ktyi">Deputy Center Head</td>
+    <td class="tg-ktyi">Center Head</td>
     <td class="tg-ktyi">Ms Shirley Koh</td>
     <td class="tg-ktyi">shirley_koh@moe.edu.sg</td>
   </tr>
@@ -60,10 +60,6 @@ variant: markdown
     <th class="tg-ktyi">marie_cheah_cheng_min@moe.edu.sg</th>
   </tr>
   <tr>
-    <th class="tg-ktyi">Miss Matilde Lai</th>
-    <th class="tg-ktyi">matilde_lai@moe.edu.sg</th>
-  </tr>
-  <tr>
     <th class="tg-ktyi">Miss Nadhirah Fatin Binte Mohamad Bahrain</th>
     <th class="tg-ktyi">nadhirah_fatin_mohamad_bahrain@moe.edu.sg</th>
   </tr>
@@ -78,6 +74,10 @@ variant: markdown
   <tr>
     <th class="tg-ktyi">Ms Sarah Mohd Rizal</th>
     <th class="tg-ktyi">sarah_mohd_rizal@moe.edu.sg</th>
+  </tr>
+  <tr>
+    <th class="tg-ktyi">Miss Seah Shu Lei Chloe</th>
+    <th class="tg-ktyi">seah_shu_lei_chloe@moe.edu.sg</th>
   </tr>
 </thead>
 <tbody>
@@ -112,7 +112,7 @@ variant: markdown
     <td class="tg-ktyi">fatin_amirah_jasmani@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Miss Nooramirah Bte Mohamed Rushdi</td>
+    <td class="tg-ktyi">Miss Nooramirah Bte Mohamed Rushdi<br>(Senior Teacher, Child Development)</td>
     <td class="tg-ktyi">nooramirah_mohamed_rushdi@moe.edu.sg</td>
   </tr>
   <tr>
