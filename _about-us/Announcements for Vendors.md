@@ -5,12 +5,7 @@ description: ""
 variant: markdown
 ---
 ### Announcements for Vendors
-
-| Type of Stall | Closing Date | Requirements |
-| Asia Cuisine (Non-Halal Japanese/Korean) | 31 August 2024 |
-
-
-
+##### School Canteen Advertisement
 <table>
 	<tbody>
 	<tr>
@@ -18,69 +13,40 @@ variant: markdown
 		<td></td>
 		<td></td>
 	</tr>
-	<tr height="65px" style="font-size:12px">
-		<td width="" style="text-align: center">Unit 5:</td>
-		<td width="14%" style="text-align: left">Crocodile Tea</td>
-		<td width="9%" style="text-align: center">Unit 9:</td>
+	<tr height="65px">
+		<td width="30%" style="text-align: center">Type of Stall</td>
+		<td width="30%" style="text-align: center">Closing Date</td>
+		<td width="40%" style="text-align: center">Requirements</td>
+	</tr>
+	<tr height="65px">
+		<td width="30%" style="text-align: center">Asia Cuisine<br>(Non-Halal Japanese/Korean)</td>
+		<td width="30%" style="text-align: center">31 August 2024</td>
+		<td width="40%" style="text-align: center"></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 </tbody>
 </table>
 
-##### Primary 2
-<table>
-	<tbody><tr>
-		<th style="text-align: center">Term</th>
-		<th colspan="2" style="text-align: center">T1</th>
-		<th colspan="2" style="text-align: center">T2</th>
-		<th colspan="2" style="text-align: center">T3</th>
-		<th colspan="2" style="text-align: center">T4</th>
-	</tr>
-	<tr height="65px" style="font-size:12px">
-		<th width="8%" rowspan="4" style="text-align: center">Topic</th>
-		<td width="9%" style="text-align: center">Unit 1:</td>
-		<td width="14%" style="text-align: left">Chicken Rice</td>
-		<td width="9%" style="text-align: center">Unit 5:</td>
-		<td width="14%" style="text-align: left">A Butterfly is Born</td>
-		<td width="9%" style="text-align: center">Unit 9:</td>
-		<td width="14%" style="text-align: left">Magnetic Max</td>
-		<td width="9%" style="text-align: center">Unit 12:</td>
-		<td width="14%" style="text-align: left">Willy and Hugh</td>		
-	</tr>
-	<tr height="65px" style="font-size:12px">
-		<td width="9%" style="text-align: center">Unit 2:</td>
-		<td width="14%" style="text-align: left">Bad Dreams</td>
-		<td width="9%" style="text-align: center">Unit 6:</td>
-		<td width="14%" style="text-align: left">Life in a Shell</td>
-		<td width="9%" style="text-align: center">Unit 10:</td>
-		<td width="14%" style="text-align: left">A Snake in the Garden</td>
-		<td width="9%" style="text-align: center">Unit 13:</td>
-		<td width="14%" style="text-align: left">Postcards to David</td>		
-	</tr>
-	<tr height="65px" style="font-size:12px">
-		<td width="9%" style="text-align: center">Unit 3:</td>
-		<td width="14%" style="text-align: left">Mr Gumpy's Outing</td>
-		<td width="9%" style="text-align: center">Unit 7:</td>
-		<td width="14%" style="text-align: left">The Growl</td>
-		<td width="9%" style="text-align: center">Unit 11:</td>
-		<td width="14%" style="text-align: left">The Feast</td>
-		<td width="9%" style="text-align: center">Unit 14:</td>
-		<td width="14%" style="text-align: left">The Bicycle Race</td>		
-	</tr>
-	<tr height="65px" style="font-size:12px">
-		<td width="9%" style="text-align: center">Unit 4:</td>
-		<td width="14%" style="text-align: left">A Day in the Kitchen with Grandma</td>
-		<td width="9%" style="text-align: center">Unit 8:</td>
-		<td width="14%" style="text-align: left">Roti Prata</td>
-		<td width="9%" style="text-align: center"></td>
-		<td width="14%" style="text-align: left"></td>
-		<td width="9%" style="text-align: center"></td>
-		<td width="14%" style="text-align: left"></td>		
-	</tr>
-	<tr>
-	</tr>
-</tbody></table>
+#### Application Procedure
+1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-No current vendor announcements available.
+2. Attached the following documents together with the application form:
+* Photocopy of the NRIC (front and back)
+* List of proposed menu and pricing for all items
+* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
+
+3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
+
+* Address: 49 Punggol Central, S 828728
+* Contact No: 6242 6390
+* Email: valour_ps@moe.edu.sg
+* Contact Person: Ms Huong Siew Lin
+
+
 
 ### Service Providers
 
