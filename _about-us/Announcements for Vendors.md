@@ -43,7 +43,7 @@ variant: markdown
 
 * Address: 49 Punggol Central, S 828728
 * Contact No: 6242 6390
-* Email: valour_ps@moe.edu.sg
+* Email: [valour_ps@moe.edu.sg](mailto:valour_ps@moe.edu.sg)
 * Contact Person: Ms Huong Siew Lin
 
 
