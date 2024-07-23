@@ -19,14 +19,6 @@ sections:
           description: MK@Valour
           url: /moe-kindergarten/moe-kindergarten-at-valour/
   - infopic:
-      title: E-Open House 2024
-      id: infopic
-      description: Register for our 2024 E-Open House happening on 5 July 2024
-      button: Register here!
-      url: https://go.gov.sg/vps-webinar
-      alt: VPS EOH poster
-      image: /images/eoh2024poster.jpg
-  - infopic:
       title: VPS Virtual Tour
       description: Embark on a campus tour with Timba, our lively mascot!
       button: Click here to watch
