@@ -32,7 +32,8 @@ variant: markdown
 </table>
 
 #### Application Procedure
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+1. Download and complete the <a target="_blank" href="/files/Announcements for Vendors
+Canteen/application for canteen stall in existing school.pdf">application form</a>. You may also request for a hardcopy from the School’s General Office.
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
