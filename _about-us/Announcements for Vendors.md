@@ -46,6 +46,11 @@ variant: markdown
 * Email: [valour_ps@moe.edu.sg](mailto:valour_ps@moe.edu.sg)
 * Contact Person: Ms Huong Siew Lin
 
+**How to get there?**
+* Nearest MRT: Punggol MRT (NE17 line) – 5 minutes walking distance
+* Punggol Bus Interchange: 5 minutes walking distance
+
+
 
 
 ### Service Providers
