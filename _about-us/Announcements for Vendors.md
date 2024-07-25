@@ -19,7 +19,7 @@ variant: markdown
 		<td width="40%" style="text-align: center">Requirements</td>
 	</tr>
 	<tr height="65px">
-		<td width="30%" style="text-align: center">Asia Cuisine<br>(Non-Halal Japanese/Korean)</td>
+		<td width="30%" style="text-align: center">Asia Cuisine<br>(Halal/ Non-Halal Japanese/Korean)</td>
 		<td width="30%" style="text-align: center">31 August 2024</td>
 		<td width="40%" style="text-align: center"></td>
 	</tr>
