@@ -80,4 +80,4 @@ for the rich culture and heritage of a multi-racial society.&nbsp;</p>
 <h5><strong><a href="/student-development/co-curricular-activities/uniformed-groups/" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a></strong><br></h5>
 <p>Uniformed Group activities aim to make good citizens of students by inculcating
 in them self-reliance, resilience, discipline and a spirit of service to
-others.</p>
+other</p>
