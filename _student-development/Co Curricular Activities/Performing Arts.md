@@ -3,12 +3,13 @@ title: Performing Arts
 permalink: /student-development/co-curricular-activities/performing-arts/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Performing Arts
 Performing Arts instill in students a sense of graciousness and an appreciation for the rich culture and heritage of a multi-racial society.
 
-<a target="_blank" href="/files/CCA2023/choir-2023.jpg">Choir</a><br>
-<a target="_blank" href="/files/CCA2023/fd_info.png">Festival Drums</a><br>
-<a target="_blank" href="/files/CCA2023/ge_info.jpg">Guitar Ensemble</a><br>
-<a target="_blank" href="/files/CCA2023/dance_info.jpg">International Dance</a><br>
-<a target="_blank" href="/files/CCA2023/lion-dance-2023.jpeg">Lion Dance</a><br>
+[Choir](/files/CCA_poster/choir2024.pdf)<br>
+[Festival Drums](/files/CCA_poster/festdrum2024.pdf)<br>
+[Guitar Ensemble](/files/CCA_poster/guitarensemble2024.pdf)<br>
+[International Dance](/files/CCA_poster/dance2024.pdf)<br>
+[Lion Dance](/files/CCA_poster/liondance2024.pdf)

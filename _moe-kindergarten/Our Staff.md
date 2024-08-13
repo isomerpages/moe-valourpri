@@ -4,7 +4,7 @@ permalink: /moe-kindergarten/our-staff/
 description: ""
 variant: markdown
 ---
-### CENTER HEAD
+### CENTRE HEAD
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -22,7 +22,7 @@ variant: markdown
 		<td></td>
 	</tr>
 	<tr>
-    <td class="tg-ktyi">Center Head</td>
+    <td class="tg-ktyi">Centre Head</td>
     <td class="tg-ktyi">Ms Shirley Koh</td>
     <td class="tg-ktyi">shirley_koh@moe.edu.sg</td>
   </tr>
