@@ -13,7 +13,7 @@ through four different CCA experiences of their choice in Semester 2, 2023.</p>
 be like if they joined it. This helps to give students a good idea of what
 they may expect when they come for CCA sessions weekly.</p>
 <h3>Primary 2 CCA Experience Schedule (Y2024)</h3>
-<h6>Time: Fridays, 2:15pm - 4.00pm</h6>
+<h6>Time: Fridays, 2:00pm - 3.45pm</h6>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
