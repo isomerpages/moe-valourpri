@@ -3,10 +3,11 @@ title: Clubs
 permalink: /student-development/co-curricular-activities/clubs/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Clubs
 Clubs allow students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialised areas.&nbsp;
 
-<a target="_blank" href="/files/CCA2023/infocomm-club-2023.png">Infocomm Club</a><br>
-<a target="_blank" href="/files/CCA2023/odc_info.png">Outdoor Club</a><br>
-<a target="_blank" href="/files/CCA2023/vmac_info.jpg">Visual and Media Art Club</a><br>
+[Infocomm Club](/files/CCA_poster/infocomm2024.pdf)<br>
+[Outdoor Club](/files/CCA_poster/outdoorclub2024.pdf)<br>
+[Visual and Media Art Club](/files/CCA_poster/visualmediaart2024.pdf)
