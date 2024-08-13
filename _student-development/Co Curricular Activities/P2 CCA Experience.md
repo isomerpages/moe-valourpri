@@ -30,7 +30,7 @@ they may expect when they come for CCA sessions weekly.</p>
 <p>CCA Experience Session 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13 September 2024</p>
+<p>13 September</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ they may expect when they come for CCA sessions weekly.</p>
 <p>CCA Experience Session 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 September 2024</p>
+<p>20 September</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ they may expect when they come for CCA sessions weekly.</p>
 <p>CCA Experience Session 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Session 1</p>
+<p>27 September</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ they may expect when they come for CCA sessions weekly.</p>
 <p>CCA Experience Session 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Session 1</p>
+<p>11 October</p>
 </td>
 </tr>
 <tr>
