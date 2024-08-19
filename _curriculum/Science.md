@@ -81,7 +81,7 @@ Human system (Digestive system)
 </tbody>
 </table>
 
-##### Primary 5 (Primary Science Syllabus 2024)
+##### Primary 5 (Primary Science Syllabus 2014)
 <table class="tg">
 <thead>
   <tr>
