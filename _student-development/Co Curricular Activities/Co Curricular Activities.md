@@ -33,7 +33,7 @@ The following CCAs are offered to the Primary 2 students, first through the expe
 ### CCA Schedule (Y2024)
 <b>Primary 3 to P5 CCA Schedule Y2024</b><br>
 Applicable to <u>ALL</u> P3 to P5 Students<br>
-*Subject to change <br>
+
 <table>
 	<tbody>
 	<tr>
@@ -80,7 +80,6 @@ Applicable to <u>ALL</u> P3 to P5 Students<br>
 			19 sep<br>
 			26 Sep<br>
 			10 Oct<br>
-			31 Oct *<br>
 			07 Nov
 		</td>
 	</tr>
