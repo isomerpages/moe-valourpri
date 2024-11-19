@@ -47,13 +47,13 @@ variant: markdown
 		<td></td>
 	</tr>
   <tr>
-		<th class="tg-ktyi" rowspan="8">English Language Teachers</th>
+    <th class="tg-ktyi" rowspan="8">English Language Teachers</th>
+		<th class="tg-ktyi">Ms Linda Chong (Level Head)</th>
+    <th class="tg-ktyi">chong_pei_mun@moe.edu.sg</th>
+  </tr>
+	<tr>
     <th class="tg-ktyi">Ms Selene Erh (Level Head)</th>
     <th class="tg-ktyi">erh_anni_selene@moe.edu.sg</th>
-  </tr>
-  <tr>
-    <th class="tg-ktyi">Ms Linda Chong</th>
-    <th class="tg-ktyi">chong_pei_mun@moe.edu.sg</th>
   </tr>
   <tr>
     <th class="tg-ktyi">Ms Marie Cheah</th>
@@ -71,11 +71,15 @@ variant: markdown
     <th class="tg-ktyi">Miss Ng Yi Le</th>
     <th class="tg-ktyi">ng_yi_le@moe.edu.sg</th>
   </tr>
+	<tr>
+    <th class="tg-ktyi">Miss Tan Li Ling Jovena</th>
+    <th class="tg-ktyi">tan_li_ling_jovena@moe.edu.sg</th>
+  </tr>
   <tr>
     <th class="tg-ktyi">Ms Sarah Mohd Rizal</th>
     <th class="tg-ktyi">sarah_mohd_rizal@moe.edu.sg</th>
-  </tr>
-  <tr>
+	</tr>
+	<tr>
     <th class="tg-ktyi">Miss Seah Shu Lei Chloe</th>
     <th class="tg-ktyi">seah_shu_lei_chloe@moe.edu.sg</th>
   </tr>
