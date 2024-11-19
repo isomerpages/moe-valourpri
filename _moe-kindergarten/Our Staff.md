@@ -47,7 +47,7 @@ variant: markdown
 		<td></td>
 	</tr>
   <tr>
-    <th class="tg-ktyi" rowspan="8">English Language Teachers</th>
+    <th class="tg-ktyi" rowspan="9">English Language Teachers</th>
 		<th class="tg-ktyi">Ms Linda Chong (Level Head)</th>
     <th class="tg-ktyi">chong_pei_mun@moe.edu.sg</th>
   </tr>
