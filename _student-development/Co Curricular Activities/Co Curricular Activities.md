@@ -253,13 +253,59 @@ All CCAs <u>except Volleyball and Outdoor Club</u><br>
 </tbody>
 </table>
 
-### Competitive Team CCA Schedule
-<b>Primary 3 to 5 CCA Schedule Y2024</b><br>
-Applicable to <u>ONLY</u> selected students<br>
-
-<a target="_blank" href="/images/Cca_compet_2024/International_Dance_Competitive_Team_2024.JPG">International Dance</a> | <a target="_blank" href="/images/Cca_compet_2024/Guitar_Ensemble_Competitive_Team_2024.jpg">Guitar Ensemble</a> | <a target="_blank" href="/images/Cca_compet_2024/Floorball_Competitive_Team_2024.JPG">Floorball</a> | <a target="_blank" href="/images/Cca_compet_2024/Netball_Competitive_Team_2024.jpg">Netball</a> | <a target="_blank" href="/images/Cca_compet_2024/Rugby_Competitive_Team_2024.jpg">Rugby</a> | <a target="_blank" href="/images/Cca_compet_2024/Volleyball_Competitive_Team_2024.JPG">Volleyball</a>
-
-
+### Competitive Team Training Schedule
+<b>Primary 3 to 6 (Fridays)</b><br>
+Applicable to <u>ONLY</u> selected students for Netball, Rugby, Choir, Guitar Ensemble and International Dance<br>
+<table>
+	<tbody>
+	<tr>
+		<td width="25%" style="text-align: center"><b>Term 1</b></td>
+		<td width="25%" style="text-align: center"><b>Term 2</b></td>
+		<td width="25%" style="text-align: center"><b>Term 3</b></td>
+		<td width="25%" style="text-align: center"><b>Term 4</b></td>
+	</tr>
+	<tr>
+		<td style="text-align: center">
+			24 Jan<br>
+			07 Feb<br>
+			14 Feb<br>
+			21 Feb<br>
+			28 Feb<br>
+			07 Mar<br>
+			14 Mar
+		</td>
+		<td style="text-align: center">
+			28 Mar<br>
+			04 Apr<br>
+			11 Apr<br>
+			25 Apr<br>
+			02 May<br>
+			09 May<br>
+			16 May<br>
+			23 May
+		</td>
+		<td style="text-align: center">
+			04 Jul<br>
+			11 Jul<br>
+			18 Jul<br>
+			01 Aug<br>
+			15 Aug<br>
+			22 Aug<br>
+			29 Aug
+		</td>
+		<td style="text-align: center">
+			19 Sep<br>
+			26 Sep<br>
+			10 Oct<br>
+			17 Oct<br>
+			07 Nov<br>
+			14 Nov
+		</td>
+	</tr>
+		<tr>
+		</tr>
+</tbody>
+</table>
 
 ##### [Clubs](/student-development/co-curricular-activities/clubs) <br>
 Clubs allow students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialised areas.
