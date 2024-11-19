@@ -253,6 +253,8 @@ All CCAs <u>except Volleyball and Outdoor Club</u><br>
 </tbody>
 </table>
 
+
+
 ### Competitive Team Training Schedule
 <b>Primary 3 to 6 (Fridays)</b><br>
 Applicable to <u>ONLY</u> selected students for Netball, Rugby, Choir, Guitar Ensemble and International Dance<br>
@@ -300,6 +302,63 @@ Applicable to <u>ONLY</u> selected students for Netball, Rugby, Choir, Guitar En
 			17 Oct<br>
 			07 Nov<br>
 			14 Nov
+		</td>
+	</tr>
+		<tr>
+		</tr>
+</tbody>
+</table>
+
+<b>Primary 3 and Primary 6</b> (Wednesdays)<br>
+   Applicable to <u>ONLY</u> selected students for Floorball and Volleyball.<br>
+
+<table>
+	<tbody>
+	<tr>
+		<td width="25%" style="text-align: center"><b>Term 1</b></td>
+		<td width="25%" style="text-align: center"><b>Term 2</b></td>
+		<td width="25%" style="text-align: center"><b>Term 3</b></td>
+		<td width="25%" style="text-align: center"><b>Term 4</b></td>
+	</tr>
+	<tr>
+		<td style="text-align: center">
+			22 Jan<br>
+			05 Feb<br>
+			12 Feb<br>
+			19 Feb<br>
+			26 Feb<br>
+			05 Mar<br>
+			12 Mar
+		</td>
+		<td style="text-align: center">
+			26 Mar<br>
+			02 Apr<br>
+			09 Apr<br>
+			16 Apr<br>
+			23 Apr<br>
+			30 Apr<br>
+			07 May<br>
+			14 May<br>
+			21 May<br>
+			28 May
+		</td>
+		<td style="text-align: center">
+			02 Jul<br>
+			09 Jul<br>
+			16 Jul<br>
+			23 Jul<br>
+			30 Jul<br>
+			06 Aug<br>
+			13 Aug<br>
+			20 Aug<br>
+			27 Aug
+		</td>
+		<td style="text-align: center">
+			17 Sep<br>
+			24 Sep<br>
+			08 Oct<br>
+			15 Oct<br>
+			05 Nov
 		</td>
 	</tr>
 		<tr>
