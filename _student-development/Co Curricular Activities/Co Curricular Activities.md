@@ -30,9 +30,9 @@ The following CCAs are offered to the Primary 2 students, first through the expe
 </tbody></table>
 
 
-### CCA Schedule (Y2024)
-<b>Primary 3 to P5 CCA Schedule Y2024</b><br>
-Applicable to <u>ALL</u> P3 to P5 Students<br>
+### CCA Schedule (Y2025)
+<b>Primary 3 and Primary 4</b> (Thursdays)<br>
+All CCAs <u>except Volleyball</u><br>
 
 <table>
 	<tbody>
@@ -44,21 +44,75 @@ Applicable to <u>ALL</u> P3 to P5 Students<br>
 	</tr>
 	<tr>
 		<td style="text-align: center">
-			18 Jan<br>
-			25Jan<br>
-			01 Feb<br>
-			08 Feb<br>
-			15 Feb<br>
-			22 Feb<br>
-			29 Feb<br>
-			07 Mar
+			23 Jan<br>
+			06 Feb<br>
+			13 Feb<br>
+			20 Feb<br>
+			27 Feb<br>
+			06 Mar<br>
+			13 Mar
 		</td>
 		<td style="text-align: center">
-			21 Mar<br>
+			27 Mar<br>
+			03 Apr<br>
+			10 Apr<br>
+			17 Apr<br>
+			24 Apr<br>
+			08 May<br>
+			15 May<br>
+			22 May<br>
+			29 May
+		</td>
+		<td style="text-align: center">
+			03 Jul<br>
+			10 Jul<br>
+			17 Jul<br>
+			24 Jul<br>
+			31 Jul<br>
+			07 Aug<br>
+			14 Aug<br>
+			21 Aug<br>
+			28 Aug
+		</td>
+		<td style="text-align: center">
+			18 Sep<br>
+			25 Sep<br>
+			09 Oct<br>
+			16 Oct<br>
+			06 Nov<br>
+			13 Nov
+		</td>
+	</tr>
+		<tr>
+		</tr>
+</tbody>
+</table>
+
+<b>Primary 3 and Primary 4</b> (Fridays)<br>
+<u>Volleyball only</u><br>
+
+<table>
+	<tbody>
+	<tr>
+		<td width="25%" style="text-align: center"><b>Term 1</b></td>
+		<td width="25%" style="text-align: center"><b>Term 2</b></td>
+		<td width="25%" style="text-align: center"><b>Term 3</b></td>
+		<td width="25%" style="text-align: center"><b>Term 4</b></td>
+	</tr>
+	<tr>
+		<td style="text-align: center">
+			24 Jan<br>
+			07 Feb<br>
+			14 Feb<br>
+			21 Feb<br>
+			28 Feb<br>
+			07 Mar<br>
+			14 Mar
+		</td>
+		<td style="text-align: center">
 			28 Mar<br>
 			04 Apr<br>
 			11 Apr<br>
-			18 Apr<br>
 			25 Apr<br>
 			02 May<br>
 			09 May<br>
@@ -66,26 +120,138 @@ Applicable to <u>ALL</u> P3 to P5 Students<br>
 			23 May
 		</td>
 		<td style="text-align: center">
-			27 Jun<br>
 			04 Jul<br>
 			11 Jul<br>
 			18 Jul<br>
-			25 Jul<br>
 			01 Aug<br>
 			15 Aug<br>
 			22 Aug<br>
+			29 Aug
 		</td>
 		<td style="text-align: center">
-			12 Sep<br>
-			19 sep<br>
+			19 Sep<br>
 			26 Sep<br>
 			10 Oct<br>
-			07 Nov
+			17 Oct<br>
+			07 Nov<br>
+			14 Nov
 		</td>
 	</tr>
 		<tr>
 		</tr>
-</tbody></table>
+</tbody>
+</table>
+
+<b>Primary 5 and Primary 6</b> (Thursdays)<br>
+All CCAs <u>except Volleyball and Outdoor Club</u><br>
+
+<table>
+	<tbody>
+	<tr>
+		<td width="25%" style="text-align: center"><b>Term 1</b></td>
+		<td width="25%" style="text-align: center"><b>Term 2</b></td>
+		<td width="25%" style="text-align: center"><b>Term 3</b></td>
+		<td width="25%" style="text-align: center"><b>Term 4</b></td>
+	</tr>
+	<tr>
+		<td style="text-align: center">
+			23 Jan<br>
+			06 Feb<br>
+			13 Feb<br>
+			20 Feb<br>
+			27 Feb<br>
+			06 Mar<br>
+			13 Mar
+		</td>
+		<td style="text-align: center">
+			27 Mar<br>
+			03 Apr<br>
+			10 Apr<br>
+			17 Apr<br>
+			24 Apr<br>
+			08 May<br>
+			15 May<br>
+			22 May<br>
+			29 May
+		</td>
+		<td style="text-align: center">
+			03 Jul<br>
+			10 Jul<br>
+			17 Jul<br>
+			24 Jul<br>
+			31 Jul<br>
+			07 Aug<br>
+			14 Aug<br>
+			21 Aug<br>
+			28 Aug
+		</td>
+		<td style="text-align: center">
+			18 Sep<br>
+			25 Sep<br>
+			09 Oct<br>
+			16 Oct<br>
+			06 Nov<br>
+			13 Nov
+		</td>
+	</tr>
+		<tr>
+		</tr>
+</tbody>
+</table>
+
+<b>Primary 5 and Primary 6</b> (Fridays)<br>
+<u>Volleyball and Outdoor Club only</u><br>
+
+<table>
+	<tbody>
+	<tr>
+		<td width="25%" style="text-align: center"><b>Term 1</b></td>
+		<td width="25%" style="text-align: center"><b>Term 2</b></td>
+		<td width="25%" style="text-align: center"><b>Term 3</b></td>
+		<td width="25%" style="text-align: center"><b>Term 4</b></td>
+	</tr>
+	<tr>
+		<td style="text-align: center">
+			24 Jan<br>
+			07 Feb<br>
+			14 Feb<br>
+			21 Feb<br>
+			28 Feb<br>
+			07 Mar<br>
+			14 Mar
+		</td>
+		<td style="text-align: center">
+			28 Mar<br>
+			04 Apr<br>
+			11 Apr<br>
+			25 Apr<br>
+			02 May<br>
+			09 May<br>
+			16 May<br>
+			23 May
+		</td>
+		<td style="text-align: center">
+			04 Jul<br>
+			11 Jul<br>
+			18 Jul<br>
+			01 Aug<br>
+			15 Aug<br>
+			22 Aug<br>
+			29 Aug
+		</td>
+		<td style="text-align: center">
+			19 Sep<br>
+			26 Sep<br>
+			10 Oct<br>
+			17 Oct<br>
+			07 Nov<br>
+			14 Nov
+		</td>
+	</tr>
+		<tr>
+		</tr>
+</tbody>
+</table>
 
 ### Competitive Team CCA Schedule
 <b>Primary 3 to 5 CCA Schedule Y2024</b><br>
