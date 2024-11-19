@@ -6,30 +6,7 @@ variant: markdown
 ---
 ### Announcements for Vendors
 ##### School Canteen Advertisement
-<table>
-	<tbody>
-	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr height="65px">
-		<td width="30%" style="text-align: center">Type of Stall</td>
-		<td width="30%" style="text-align: center">Closing Date</td>
-		<td width="40%" style="text-align: center">Requirements</td>
-	</tr>
-	<tr height="65px">
-		<td width="30%" style="text-align: center">Asia Cuisine<br>(Halal/ Non-Halal Japanese/Korean)</td>
-		<td width="30%" style="text-align: center">31 August 2024</td>
-		<td width="40%" style="text-align: center"></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-</tbody>
-</table>
+There are currently no advertisements for school canteen vendors. Please check back again soon.
 
 #### Application Procedure
 1. Download and complete the [application form](/files/Announcements%20for%20Vendors/Canteen/application%20for%20canteen%20stall%20in%20existing%20school.pdf). You may also request for a hardcopy from the School’s General Office.
