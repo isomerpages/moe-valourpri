@@ -32,6 +32,11 @@ variant: markdown
     <td class="tg-ktyi">Mdm Tan Pin Pin</td>
     <td class="tg-ktyi">tan_pin_pin@schools.gov.sg</td>
   </tr>
+	<tr>
+    <td class="tg-ktyi">Vice-Principal<br>(Academic)</td>
+    <td class="tg-ktyi">Mr Lee Wei Te</td>
+    <td class="tg-ktyi">lee_wei_te@schools.gov.sg</td>
+  </tr>
   <tr>
     <td class="tg-ktyi">Vice-Principal<br>(Admin)</td>
     <td class="tg-ktyi">Mr Boh Hong Jik</td>
