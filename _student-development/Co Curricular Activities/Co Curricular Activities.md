@@ -60,8 +60,7 @@ All CCAs <u>except Volleyball</u><br>
 			24 Apr<br>
 			08 May<br>
 			15 May<br>
-			22 May<br>
-			29 May
+			22 May
 		</td>
 		<td style="text-align: center">
 			03 Jul<br>
@@ -70,13 +69,11 @@ All CCAs <u>except Volleyball</u><br>
 			24 Jul<br>
 			31 Jul<br>
 			07 Aug<br>
-			14 Aug<br>
 			21 Aug<br>
 			28 Aug
 		</td>
 		<td style="text-align: center">
 			18 Sep<br>
-			25 Sep<br>
 			09 Oct<br>
 			16 Oct<br>
 			06 Nov<br>
