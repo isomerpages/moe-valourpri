@@ -74,6 +74,11 @@ variant: markdown
 			<td style="width:40%"></td>
 		</tr>
 	<tr>
+    <td class="tg-ktyi">English Language</td>
+    <td class="tg-ktyi">Mdm Morier Valerie</td>
+    <td class="tg-ktyi">morier_valerie@moe.edu.sg</td>
+  </tr>
+	<tr>
     <td class="tg-ktyi">Mother Tongue Languages</td>
     <td class="tg-ktyi">Mr Li Xiang</td>
     <td class="tg-ktyi">li_xiang_a@moe.edu.sg</td>
@@ -85,13 +90,13 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-ktyi">Science</td>
-    <td class="tg-ktyi">Mdm Gwendalyn Cho</td>
-    <td class="tg-ktyi">cho_lye_ping_gwendalyn@moe.edu.sg</td>
+    <td class="tg-ktyi">Miss Joanne Tan</td>
+    <td class="tg-ktyi">tan_ee_teck_joanne@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-ktyi">Physical Education (PHE), Aesthetics and Co-Curricular Activities (CCA)</td>
-    <td class="tg-ktyi">Miss Michelle Huang</td>
-    <td class="tg-ktyi">michelle_huang@moe.edu.sg</td>
+    <td class="tg-ktyi">Physical Education (PHE) and Co-Curricular Activities (CCA)</td>
+    <td class="tg-ktyi">Mdm Casey Ng</td>
+    <td class="tg-ktyi">ng_hui_wun_casey@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Character &amp; Citizenship Education (CCE)</td>
