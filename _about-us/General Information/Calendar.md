@@ -111,49 +111,49 @@ This schedule is an information guide for you.&nbsp; You will be informed separa
 		<tr>
 			<td rowspan="3" style="text-align: center" width="30%">Term 1</td>
 			<td style="text-align: center" width="30%">New Year’s Day</td>
-		<td style="text-align: left" width="40%">	Mon 1 Jan</td>
+		<td style="text-align: left" width="40%">	Wed 1 Jan</td>
 	</tr>
 		<tr>
 		<td rowspan="2" style="text-align: center" width="20%">	Chinese New Year</td>
-		<td style="text-align: left" width="50%">Sat 10 Feb</td>
+		<td style="text-align: left" width="50%">Wed 29 Jan</td>
 	</tr>
 		<tr>
-		<td style="text-align: left" width="50%">Sun 11 Feb3***</td>
+		<td style="text-align: left" width="50%">Thu 30 Jan</td>
 	</tr>
 	<tr>
 			<td rowspan="4" style="text-align: center" width="30%">Term 2</td>
-			<td style="text-align: center" width="30%">Good Friday</td>
-		<td style="text-align: left" width="40%">	Fri 29 Mar</td>
-	</tr>
-	<tr>
 		<td style="text-align: center" width="20%">Hari Raya Puasa</td>
-		<td style="text-align: left" width="50%">Wed 10 Apr</td>
+		<td style="text-align: left" width="50%">Mon 31 Mar</td>
+	</tr>
+		<tr>
+		<td style="text-align: center" width="30%">Good Friday</td>
+		<td style="text-align: left" width="40%">	Fri 18 Apr</td>
 	</tr>
 	<tr>
 		<td style="text-align: center" width="20%">Labour Day</td>
-		<td style="text-align: left" width="50%">Wed 1 May</td>
+		<td style="text-align: left" width="50%">Thu 1 May</td>
 	</tr>
 	<tr>
 		<td style="text-align: center" width="20%">Vesak Day</td>
-		<td style="text-align: left" width="50%">Wed 22 May</td>
+		<td style="text-align: left" width="50%">Mon 12 May</td>
 	</tr>
 	<tr>
 			<td rowspan="2" style="text-align: center" width="30%">Term 3</td>
 			<td style="text-align: center" width="30%">Hari Raya Haji</td>
-		<td style="text-align: left" width="40%">	Mon 17 Jun</td>
+		<td style="text-align: left" width="40%">	Sat 7 Jun***</td>
 	</tr>
 	<tr>
 		<td style="text-align: center" width="20%">National Day</td>
-		<td style="text-align: left" width="50%">Fri 9 Aug</td>
+		<td style="text-align: left" width="50%">Sat 9 Aug****</td>
 	</tr>
 	<tr>
 			<td rowspan="2" style="text-align: center" width="30%">Term 4</td>
 			<td style="text-align: center" width="30%">Deepavali</td>
-		<td style="text-align: left" width="40%">Thu 31 Oct</td>
+		<td style="text-align: left" width="40%">Mon 20 Oct</td>
 	</tr>
 	<tr>
 		<td style="text-align: center" width="20%">Christmas Day</td>
-		<td style="text-align: left" width="50%">Wed 25 Dec</td>
+		<td style="text-align: left" width="50%">Thu 25 Dec</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -162,4 +162,5 @@ This schedule is an information guide for you.&nbsp; You will be informed separa
 	</tr>
 </tbody>
 </table>
- *** Mon, 12 Feb will be a public holiday and Tue, 13 Feb will be a school holiday and a designated day off-in-lieu. Schools will be closed, including the General Office, Student Care Centres and Kindergarten Care (KCare) Centres.
+ *** Mon, 9 Jun will be a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres and KCare Centres.<br>
+**** &nbsp;Mon, 11 Aug will be a school holiday and a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres and KCare Centres.
