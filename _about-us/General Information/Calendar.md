@@ -162,5 +162,4 @@ This schedule is an information guide for you.&nbsp; You will be informed separa
 	</tr>
 </tbody>
 </table>
- *** Mon, 9 Jun will be a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres and KCare Centres.<br>
-**** &nbsp;Mon, 11 Aug will be a school holiday and a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres and KCare Centres.
+###### ***&nbsp;Mon, 9 Jun will be a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres and KCare Centres.<br>****&nbsp;Mon, 11 Aug will be a school holiday and a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres and KCare Centres.
