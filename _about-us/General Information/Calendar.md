@@ -53,20 +53,20 @@ This schedule is an information guide for you.&nbsp; You will be informed separa
 	<tr>
 		<td style="text-align: center" width="30%" rowspan="2">Semester 1</td>
 		<td style="text-align: center" width="20%">After Term 1</td>
-		<td style="text-align: left" width="50%">Sat 9 Mar to Sun 17 Mar</td>
+		<td style="text-align: left" width="50%">Sat 15 Mar to Sun 23 Mar</td>
 	</tr>
 		<tr>
 		<td style="text-align: center" width="20%">After Term 2</td>
-		<td style="text-align: left" width="50%">Sat 25 May to Sun 23 Jun</td>
+		<td style="text-align: left" width="50%">Sat 31 May to Sun 29 Jun</td>
 	</tr>
 		<tr>
 		<td style="text-align: center" width="30%" rowspan="2">Semester 2</td>
 		<td style="text-align: center" width="20%">After Term 3</td>
-		<td style="text-align: left" width="50%">Sat 31 Aug to Sun 8 Sep</td>
+		<td style="text-align: left" width="50%">Sat 6 Sep to Sun 14 Sep</td>
 	</tr>
 		<tr>
 		<td style="text-align: center" width="20%">After Term 4</td>
-		<td style="text-align: left" width="50%">Sat 16 Nov to Tue 31 Dec</td>
+		<td style="text-align: left" width="50%">Sat 22 Nov to Wed 31 Dec</td>
 	</tr>
 	<tr>
 		<td></td>
