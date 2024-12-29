@@ -5,7 +5,7 @@ description: ""
 third_nav_title: General Information
 variant: markdown
 ---
-### School Terms and Holidays For 2024
+### School Terms and Holidays For 2025
 
 This schedule is an information guide for you.&nbsp; You will be informed separately should there be any changes mentioned herein.
 
@@ -20,27 +20,27 @@ This schedule is an information guide for you.&nbsp; You will be informed separa
 	<tr>
 		<td style="text-align: center" width="30%" rowspan="2">Semester 1</td>
 		<td style="text-align: center" width="20%">Term 1</td>
-		<td style="text-align: left" width="50%">Tue 2 Jan* to Fri 8 Mar</td>
+		<td style="text-align: left" width="50%">Thu 2 Jan* to Fri 14 Mar</td>
 	</tr>
 		<tr>
 		<td style="text-align: center" width="20%">Term 2</td>
-		<td style="text-align: left" width="50%">Mon 18 Mar to Fri 24 May</td>
+		<td style="text-align: left" width="50%">Mon 30 Mar to Fri 30 May</td>
 	</tr>
 		<tr>
 		<td style="text-align: center" width="30%" rowspan="2">Semester 2</td>
 		<td style="text-align: center" width="20%">Term 3</td>
-		<td style="text-align: left" width="50%">Mon 24 Jun to Fri 30 Aug</td>
+		<td style="text-align: left" width="50%">Mon 24 Jun to Fri 5 Sep</td>
 	</tr>
 		<tr>
 		<td style="text-align: center" width="20%">Term 4</td>
-		<td style="text-align: left" width="50%">Mon 9 Sep to Fri 15 Nov**</td>
+		<td style="text-align: left" width="50%">Mon 15 Sep to Fri 21 Nov**</td>
 	</tr>
 	<tr>
 	</tr>
 </tbody>
 </table>
 
-###### *&nbsp;Primary 1 and Kindergarten 1 will start school on Tuesday, 2 January 2024. Primary 2 to 6 and Kindergarten 2 will start school on Wednesday, 3 January 2024. <br>**&nbsp;The last day of the final school term for schools which will be used as venues for the GCE O-Level written examinations, will be Friday, 25 October 2024.
+###### *&nbsp;Primary 1 and Kindergarten 1 will start school on Thursday, 2 January 2025. Primary 2 to 6 and Kindergarten 2 will start school on Friday, 3 January 2024. <br>**&nbsp;The last day of the final school term for schools which will be used as venues for the GCE O-Level written examinations, will be Friday, 25 October 2025.
 
 ### School Vacation
 <table style="width:100%" align="center">
