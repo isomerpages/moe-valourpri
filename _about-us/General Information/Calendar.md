@@ -85,15 +85,15 @@ This schedule is an information guide for you.&nbsp; You will be informed separa
 	</tr>
 		<tr>
 		<td style="text-align: center" width="30%">Youth Day</td>
-		<td style="text-align: left" width="70%">Sun 30 Jun<br>(The following Mon 1 Jul will be a school holiday)</td>
+		<td style="text-align: left" width="70%">Sun 6 Jul<br>(The following Mon 7 Jul will be a school holiday)</td>
 	</tr>
 	<tr>
 		<td style="text-align: center" width="30%">Teachers’ Day</td>
-		<td style="text-align: left" width="70%">	Fri 30 Aug</td>
+		<td style="text-align: left" width="70%">	Fri 5 Sep</td>
 	</tr>
 	<tr>
 		<td style="text-align: center" width="30%">Children’s Day</td>
-		<td style="text-align: left" width="70%">Fri 4 Oct</td>
+		<td style="text-align: left" width="70%">Fri 3 Oct</td>
 	</tr>
 	<tr>
 	</tr>
