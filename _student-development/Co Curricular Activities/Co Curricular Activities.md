@@ -167,7 +167,6 @@ Applicable to <u>ONLY</u> selected students for Netball, Rugby, Choir, Guitar En
 			04 Apr<br>
 			11 Apr<br>
 			25 Apr<br>
-			02 May<br>
 			09 May<br>
 			16 May<br>
 			23 May
@@ -176,6 +175,7 @@ Applicable to <u>ONLY</u> selected students for Netball, Rugby, Choir, Guitar En
 			04 Jul<br>
 			11 Jul<br>
 			18 Jul<br>
+			25 Jul<br>
 			01 Aug<br>
 			15 Aug<br>
 			22 Aug<br>
@@ -183,7 +183,6 @@ Applicable to <u>ONLY</u> selected students for Netball, Rugby, Choir, Guitar En
 		</td>
 		<td style="text-align: center">
 			19 Sep<br>
-			26 Sep<br>
 			10 Oct<br>
 			17 Oct<br>
 			07 Nov<br>
