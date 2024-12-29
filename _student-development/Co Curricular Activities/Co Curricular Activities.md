@@ -194,7 +194,7 @@ Applicable to <u>ONLY</u> selected students for Netball, Rugby, Choir, Guitar En
 </tbody>
 </table>
 
-<b>Primary 3 and Primary 6</b> (Wednesdays)<br>
+<b>Primary 3 to Primary 6</b> (Wednesdays)<br>
    Applicable to <u>ONLY</u> selected students for Floorball and Volleyball.<br>
 
 <table>
@@ -221,7 +221,6 @@ Applicable to <u>ONLY</u> selected students for Netball, Rugby, Choir, Guitar En
 			09 Apr<br>
 			16 Apr<br>
 			23 Apr<br>
-			30 Apr<br>
 			07 May<br>
 			14 May<br>
 			21 May<br>
@@ -232,15 +231,12 @@ Applicable to <u>ONLY</u> selected students for Netball, Rugby, Choir, Guitar En
 			09 Jul<br>
 			16 Jul<br>
 			23 Jul<br>
-			30 Jul<br>
 			06 Aug<br>
-			13 Aug<br>
 			20 Aug<br>
 			27 Aug
 		</td>
 		<td style="text-align: center">
 			17 Sep<br>
-			24 Sep<br>
 			08 Oct<br>
 			15 Oct<br>
 			05 Nov
