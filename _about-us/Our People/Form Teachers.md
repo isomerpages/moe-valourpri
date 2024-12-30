@@ -411,3 +411,70 @@ variant: markdown
 	</tr>
 </tbody>
 </table>
+
+#### Primary 6
+<table class="tg">
+	<tbody>
+		<tr>
+			<td style="width:30%"></td>
+			<td style="width:30%"></td>
+			<td style="width:40%"></td>
+		</tr>
+  <tr>
+    <td class="tg-ktyi" rowspan="2" colspan="1">6 - Victory</td>
+    <td class="tg-ktyi">Mr Julian Victor</td>
+    <td class="tg-ktyi">julian_victor@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Mdm Kuek Tsing Xiu</td>
+    <td class="tg-ktyi">kuek_tsing_xiu@moe.edu.sg</td>
+  </tr>
+<tr>
+    <td class="tg-ktyi" rowspan="2" colspan="1">6 - Adventurous</td>
+    <td class="tg-ktyi">Mdm Ong Seng Kim</td>
+    <td class="tg-ktyi">ong_seng_kim@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Mr Lim Yi Bin</td>
+    <td class="tg-ktyi">lim_yi_bin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" rowspan="2" colspan="1">6 - Loyalty</td>
+    <td class="tg-ktyi">Mdm Teo Wan Qi</td>
+    <td class="tg-ktyi">teo_wan_qi@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Miss Chan Siew Boon</td>
+    <td class="tg-ktyi">chan_siew_boon@moe.edu.sg</td>
+  </tr>
+<tr>
+    <td class="tg-ktyi" rowspan="2" colspan="1">5 - Optimism</td>
+    <td class="tg-ktyi">Mdm Nurashikin</td>
+    <td class="tg-ktyi">nurashikin_mohamed_tohir@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Mdm Karen Woo</td>
+    <td class="tg-ktyi">woo_shan_shan_karen@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" rowspan="2" colspan="1">5 - Upright</td>
+    <td class="tg-ktyi">Mdm Siti Raudhah</td>
+    <td class="tg-ktyi">siti_raudhah_ishak@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Mr Kenny Tan</td>
+    <td class="tg-ktyi">tan_khee_ngiap@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi" rowspan="2" colspan="1">5 - Resilience</td>
+    <td class="tg-ktyi">Mr Fabriz Tong</td>
+    <td class="tg-ktyi">tong_yi_jen_fabriz@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Mdm Nur Hafizah</td>
+    <td class="tg-ktyi">nur_hafizah_abdul_razak@moe.edu.sg</td>
+  </tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
