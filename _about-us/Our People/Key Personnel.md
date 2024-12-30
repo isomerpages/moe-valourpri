@@ -247,6 +247,11 @@ variant: markdown
     <td class="tg-ktyi">lim_hui_shan@moe.edu.sg</td>
   </tr>
 	<tr>
+    <td class="tg-ktyi">Malay Language (ST)</td>
+    <td class="tg-ktyi">Mdm Siti Raudhah Bte Ishak </td>
+    <td class="tg-ktyi">siti_raudhah_ishak@moe.edu.sg</td>
+  </tr>
+	<tr>
     <td class="tg-ktyi">Science (ST)</td>
     <td class="tg-ktyi">Mr Lim Yi Bin</td>
     <td class="tg-ktyi">lim_yi_bin@moe.edu.sg</td>
