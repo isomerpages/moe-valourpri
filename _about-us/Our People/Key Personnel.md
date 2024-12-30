@@ -113,6 +113,11 @@ variant: markdown
     <td class="tg-ktyi">Mr Anson Tan</td>
     <td class="tg-ktyi">anson_tan@moe.edu.sg</td>
   </tr>
+  <tr>
+    <td class="tg-ktyi">Partnership</td>
+    <td class="tg-ktyi">Miss Minjoot Jacqueline Constance</td>
+    <td class="tg-ktyi">jacqueline_minjoot@moe.edu.sg</td>
+  </tr>
 	<tr>
     <td class="tg-ktyi"></td>
     <td class="tg-ktyi"></td>
@@ -130,22 +135,27 @@ variant: markdown
 			<td style="width:40%"></td>
 		</tr>
  	<tr>
-    <td class="tg-ktyi">Year Head<br>(Lower Primary)</td>
+    <td class="tg-ktyi">Year Head - Lower Primary<br>(Pri 1 to Pri 2)</td>
     <td class="tg-ktyi">Mr Choo Wee Kiat</td>
     <td class="tg-ktyi">choo_wee_kiat@moe.edu.sg</td>
   </tr>
-  	<tr>
-    <td class="tg-ktyi">Assistant Year Head<br>(Lower Primary)</td>
+  <tr>
+    <td class="tg-ktyi">Assistant Year Head - Lower Primary</td>
     <td class="tg-ktyi">Mr Benjamin Tay</td>
     <td class="tg-ktyi">tay_zhi_yang_benjamin@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Year Head<br>(Middle Primary)</td>
+    <td class="tg-ktyi">Year Head - Middle Primary<br>(Pri 3 to Pri 4)</td>
+    <td class="tg-ktyi">Mdm Gwendalyn Cho</td>
+    <td class="tg-ktyi">cho_lye_ping_gwendalyn@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Year Head - Upper Primary<br>(Pri 5 to Pri 6)</td>
     <td class="tg-ktyi">Mr Lim Kok Meng</td>
     <td class="tg-ktyi">lim_kok_meng_b@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Assistant Year Head<br>(Middle Primary)</td>
+    <td class="tg-ktyi">Assistant Year Head - Upper Primary</td>
     <td class="tg-ktyi">Ms Chin Eileen</td>
     <td class="tg-ktyi">chin_eileen@moe.edu.sg</td>
   </tr>
