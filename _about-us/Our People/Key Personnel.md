@@ -177,8 +177,8 @@ variant: markdown
 		</tr>
   <tr>
     <td class="tg-0lax">Subject Head - Malay Language</td>
-		<td class="tg-0lax">Mdm Siti Raudhah bte Ishak</td>
-    <td class="tg-0lax">siti_raudhah_ishak@moe.edu.sg</td>
+		<td class="tg-0lax">Mdm Nur Hafizah</td>
+    <td class="tg-0lax">nur_hafizah_abdul_razak@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">Subject Head - Student Leadership</td>
@@ -191,10 +191,15 @@ variant: markdown
     <td class="tg-ktyi">ng_boey_ling@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-ktyi">Subject Head - Student Wellbeing</td>
-    <td class="tg-ktyi">Miss Dianne Loh</td>
-    <td class="tg-ktyi">	yi_zhen_dianne_loh@moe.edu.sg</td>
+    <td class="tg-ktyi">Subject Head - Physical Education</td>
+    <td class="tg-ktyi">Mdm Jean Wong</td>
+    <td class="tg-ktyi">wong_sensen@moe.edu.sg</td>
   </tr>  
+	<tr>
+    <td class="tg-ktyi">Subject Head - National Education &amp; Social Studies</td>
+    <td class="tg-ktyi">Mdm Jeannette Ngoh</td>
+    <td class="tg-ktyi">jeannette_ngoh@moe.edu.sg</td>
+  </tr> 
 	<tr>
     <td class="tg-ktyi">Level Head - English</td>
     <td class="tg-ktyi">Mr Fabriz Tong</td>
