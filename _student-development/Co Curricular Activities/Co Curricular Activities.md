@@ -60,8 +60,7 @@ All CCAs <u>except Volleyball</u><br>
 			24 Apr<br>
 			08 May<br>
 			15 May<br>
-			22 May<br>
-			29 May
+			22 May
 		</td>
 		<td style="text-align: center">
 			03 Jul<br>
@@ -70,13 +69,11 @@ All CCAs <u>except Volleyball</u><br>
 			24 Jul<br>
 			31 Jul<br>
 			07 Aug<br>
-			14 Aug<br>
 			21 Aug<br>
 			28 Aug
 		</td>
 		<td style="text-align: center">
 			18 Sep<br>
-			25 Sep<br>
 			09 Oct<br>
 			16 Oct<br>
 			06 Nov<br>
@@ -88,8 +85,8 @@ All CCAs <u>except Volleyball</u><br>
 </tbody>
 </table>
 
-<b>Primary 3 and Primary 4</b> (Fridays)<br>
-<u>Volleyball only</u><br>
+<b>Primary 3 and Primary 6</b> (Fridays)<br>
+<u>Volleyball and Primary 5 &amp; 6 Outdoor Club</u><br>
 
 <table>
 	<tbody>
@@ -114,7 +111,6 @@ All CCAs <u>except Volleyball</u><br>
 			04 Apr<br>
 			11 Apr<br>
 			25 Apr<br>
-			02 May<br>
 			09 May<br>
 			16 May<br>
 			23 May
@@ -123,6 +119,7 @@ All CCAs <u>except Volleyball</u><br>
 			04 Jul<br>
 			11 Jul<br>
 			18 Jul<br>
+			25 Jul<br>
 			01 Aug<br>
 			15 Aug<br>
 			22 Aug<br>
@@ -130,7 +127,6 @@ All CCAs <u>except Volleyball</u><br>
 		</td>
 		<td style="text-align: center">
 			19 Sep<br>
-			26 Sep<br>
 			10 Oct<br>
 			17 Oct<br>
 			07 Nov<br>
@@ -142,116 +138,6 @@ All CCAs <u>except Volleyball</u><br>
 </tbody>
 </table>
 
-<b>Primary 5 and Primary 6</b> (Thursdays)<br>
-All CCAs <u>except Volleyball and Outdoor Club</u><br>
-
-<table>
-	<tbody>
-	<tr>
-		<td width="25%" style="text-align: center"><b>Term 1</b></td>
-		<td width="25%" style="text-align: center"><b>Term 2</b></td>
-		<td width="25%" style="text-align: center"><b>Term 3</b></td>
-		<td width="25%" style="text-align: center"><b>Term 4</b></td>
-	</tr>
-	<tr>
-		<td style="text-align: center">
-			23 Jan<br>
-			06 Feb<br>
-			13 Feb<br>
-			20 Feb<br>
-			27 Feb<br>
-			06 Mar<br>
-			13 Mar
-		</td>
-		<td style="text-align: center">
-			27 Mar<br>
-			03 Apr<br>
-			10 Apr<br>
-			17 Apr<br>
-			24 Apr<br>
-			08 May<br>
-			15 May<br>
-			22 May<br>
-			29 May
-		</td>
-		<td style="text-align: center">
-			03 Jul<br>
-			10 Jul<br>
-			17 Jul<br>
-			24 Jul<br>
-			31 Jul<br>
-			07 Aug<br>
-			14 Aug<br>
-			21 Aug<br>
-			28 Aug
-		</td>
-		<td style="text-align: center">
-			18 Sep<br>
-			25 Sep<br>
-			09 Oct<br>
-			16 Oct<br>
-			06 Nov<br>
-			13 Nov
-		</td>
-	</tr>
-		<tr>
-		</tr>
-</tbody>
-</table>
-
-<b>Primary 5 and Primary 6</b> (Fridays)<br>
-<u>Volleyball and Outdoor Club only</u><br>
-
-<table>
-	<tbody>
-	<tr>
-		<td width="25%" style="text-align: center"><b>Term 1</b></td>
-		<td width="25%" style="text-align: center"><b>Term 2</b></td>
-		<td width="25%" style="text-align: center"><b>Term 3</b></td>
-		<td width="25%" style="text-align: center"><b>Term 4</b></td>
-	</tr>
-	<tr>
-		<td style="text-align: center">
-			24 Jan<br>
-			07 Feb<br>
-			14 Feb<br>
-			21 Feb<br>
-			28 Feb<br>
-			07 Mar<br>
-			14 Mar
-		</td>
-		<td style="text-align: center">
-			28 Mar<br>
-			04 Apr<br>
-			11 Apr<br>
-			25 Apr<br>
-			02 May<br>
-			09 May<br>
-			16 May<br>
-			23 May
-		</td>
-		<td style="text-align: center">
-			04 Jul<br>
-			11 Jul<br>
-			18 Jul<br>
-			01 Aug<br>
-			15 Aug<br>
-			22 Aug<br>
-			29 Aug
-		</td>
-		<td style="text-align: center">
-			19 Sep<br>
-			26 Sep<br>
-			10 Oct<br>
-			17 Oct<br>
-			07 Nov<br>
-			14 Nov
-		</td>
-	</tr>
-		<tr>
-		</tr>
-</tbody>
-</table>
 
 
 
@@ -281,7 +167,6 @@ Applicable to <u>ONLY</u> selected students for Netball, Rugby, Choir, Guitar En
 			04 Apr<br>
 			11 Apr<br>
 			25 Apr<br>
-			02 May<br>
 			09 May<br>
 			16 May<br>
 			23 May
@@ -290,6 +175,7 @@ Applicable to <u>ONLY</u> selected students for Netball, Rugby, Choir, Guitar En
 			04 Jul<br>
 			11 Jul<br>
 			18 Jul<br>
+			25 Jul<br>
 			01 Aug<br>
 			15 Aug<br>
 			22 Aug<br>
@@ -297,7 +183,6 @@ Applicable to <u>ONLY</u> selected students for Netball, Rugby, Choir, Guitar En
 		</td>
 		<td style="text-align: center">
 			19 Sep<br>
-			26 Sep<br>
 			10 Oct<br>
 			17 Oct<br>
 			07 Nov<br>
@@ -309,7 +194,7 @@ Applicable to <u>ONLY</u> selected students for Netball, Rugby, Choir, Guitar En
 </tbody>
 </table>
 
-<b>Primary 3 and Primary 6</b> (Wednesdays)<br>
+<b>Primary 3 to Primary 6</b> (Wednesdays)<br>
    Applicable to <u>ONLY</u> selected students for Floorball and Volleyball.<br>
 
 <table>
@@ -336,7 +221,6 @@ Applicable to <u>ONLY</u> selected students for Netball, Rugby, Choir, Guitar En
 			09 Apr<br>
 			16 Apr<br>
 			23 Apr<br>
-			30 Apr<br>
 			07 May<br>
 			14 May<br>
 			21 May<br>
@@ -347,15 +231,12 @@ Applicable to <u>ONLY</u> selected students for Netball, Rugby, Choir, Guitar En
 			09 Jul<br>
 			16 Jul<br>
 			23 Jul<br>
-			30 Jul<br>
 			06 Aug<br>
-			13 Aug<br>
 			20 Aug<br>
 			27 Aug
 		</td>
 		<td style="text-align: center">
 			17 Sep<br>
-			24 Sep<br>
 			08 Oct<br>
 			15 Oct<br>
 			05 Nov

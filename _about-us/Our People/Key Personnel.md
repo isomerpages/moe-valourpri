@@ -32,6 +32,11 @@ variant: markdown
     <td class="tg-ktyi">Mdm Tan Pin Pin</td>
     <td class="tg-ktyi">tan_pin_pin@schools.gov.sg</td>
   </tr>
+	<tr>
+    <td class="tg-ktyi">Vice-Principal<br>(Academic)</td>
+    <td class="tg-ktyi">Mr Lee Wei Te</td>
+    <td class="tg-ktyi">lee_wei_te@schools.gov.sg</td>
+  </tr>
   <tr>
     <td class="tg-ktyi">Vice-Principal<br>(Admin)</td>
     <td class="tg-ktyi">Mr Boh Hong Jik</td>
@@ -69,6 +74,11 @@ variant: markdown
 			<td style="width:40%"></td>
 		</tr>
 	<tr>
+    <td class="tg-ktyi">English Language</td>
+    <td class="tg-ktyi">Mdm Morier Valerie</td>
+    <td class="tg-ktyi">morier_valerie@moe.edu.sg</td>
+  </tr>
+	<tr>
     <td class="tg-ktyi">Mother Tongue Languages</td>
     <td class="tg-ktyi">Mr Li Xiang</td>
     <td class="tg-ktyi">li_xiang_a@moe.edu.sg</td>
@@ -80,13 +90,13 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-ktyi">Science</td>
-    <td class="tg-ktyi">Mdm Gwendalyn Cho</td>
-    <td class="tg-ktyi">cho_lye_ping_gwendalyn@moe.edu.sg</td>
+    <td class="tg-ktyi">Miss Joanne Tan</td>
+    <td class="tg-ktyi">tan_ee_teck_joanne@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-ktyi">Physical Education (PHE), Aesthetics and Co-Curricular Activities (CCA)</td>
-    <td class="tg-ktyi">Miss Michelle Huang</td>
-    <td class="tg-ktyi">michelle_huang@moe.edu.sg</td>
+    <td class="tg-ktyi">Physical Education (PHE) and Co-Curricular Activities (CCA)</td>
+    <td class="tg-ktyi">Mdm Casey Ng</td>
+    <td class="tg-ktyi">ng_hui_wun_casey@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Character &amp; Citizenship Education (CCE)</td>
@@ -102,6 +112,11 @@ variant: markdown
     <td class="tg-ktyi">Information and Communication Technology</td>
     <td class="tg-ktyi">Mr Anson Tan</td>
     <td class="tg-ktyi">anson_tan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Partnership</td>
+    <td class="tg-ktyi">Miss Minjoot Jacqueline Constance</td>
+    <td class="tg-ktyi">jacqueline_minjoot@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-ktyi"></td>
@@ -120,22 +135,27 @@ variant: markdown
 			<td style="width:40%"></td>
 		</tr>
  	<tr>
-    <td class="tg-ktyi">Year Head<br>(Lower Primary)</td>
+    <td class="tg-ktyi">Year Head - Lower Primary<br>(Pri 1 to Pri 2)</td>
     <td class="tg-ktyi">Mr Choo Wee Kiat</td>
     <td class="tg-ktyi">choo_wee_kiat@moe.edu.sg</td>
   </tr>
-  	<tr>
-    <td class="tg-ktyi">Assistant Year Head<br>(Lower Primary)</td>
+  <tr>
+    <td class="tg-ktyi">Assistant Year Head - Lower Primary</td>
     <td class="tg-ktyi">Mr Benjamin Tay</td>
     <td class="tg-ktyi">tay_zhi_yang_benjamin@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Year Head<br>(Middle Primary)</td>
+    <td class="tg-ktyi">Year Head - Middle Primary<br>(Pri 3 to Pri 4)</td>
+    <td class="tg-ktyi">Mdm Gwendalyn Cho</td>
+    <td class="tg-ktyi">cho_lye_ping_gwendalyn@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Year Head - Upper Primary<br>(Pri 5 to Pri 6)</td>
     <td class="tg-ktyi">Mr Lim Kok Meng</td>
     <td class="tg-ktyi">lim_kok_meng_b@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Assistant Year Head<br>(Middle Primary)</td>
+    <td class="tg-ktyi">Assistant Year Head - Upper Primary</td>
     <td class="tg-ktyi">Ms Chin Eileen</td>
     <td class="tg-ktyi">chin_eileen@moe.edu.sg</td>
   </tr>
@@ -157,8 +177,8 @@ variant: markdown
 		</tr>
   <tr>
     <td class="tg-0lax">Subject Head - Malay Language</td>
-		<td class="tg-0lax">Mdm Siti Raudhah bte Ishak</td>
-    <td class="tg-0lax">siti_raudhah_ishak@moe.edu.sg</td>
+		<td class="tg-0lax">Mdm Nur Hafizah</td>
+    <td class="tg-0lax">nur_hafizah_abdul_razak@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">Subject Head - Student Leadership</td>
@@ -171,10 +191,15 @@ variant: markdown
     <td class="tg-ktyi">ng_boey_ling@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-ktyi">Subject Head - Student Wellbeing</td>
-    <td class="tg-ktyi">Miss Dianne Loh</td>
-    <td class="tg-ktyi">	yi_zhen_dianne_loh@moe.edu.sg</td>
+    <td class="tg-ktyi">Subject Head - Physical Education</td>
+    <td class="tg-ktyi">Mdm Jean Wong</td>
+    <td class="tg-ktyi">wong_sensen@moe.edu.sg</td>
   </tr>  
+	<tr>
+    <td class="tg-ktyi">Subject Head - National Education &amp; Social Studies</td>
+    <td class="tg-ktyi">Mdm Jeannette Ngoh</td>
+    <td class="tg-ktyi">jeannette_ngoh@moe.edu.sg</td>
+  </tr> 
 	<tr>
     <td class="tg-ktyi">Level Head - English</td>
     <td class="tg-ktyi">Mr Fabriz Tong</td>
@@ -220,6 +245,11 @@ variant: markdown
     <td class="tg-ktyi">Chinese Language (ST)</td>
     <td class="tg-ktyi">Mdm Lim Hui Shan</td>
     <td class="tg-ktyi">lim_hui_shan@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Malay Language (ST)</td>
+    <td class="tg-ktyi">Mdm Siti Raudhah Bte Ishak </td>
+    <td class="tg-ktyi">siti_raudhah_ishak@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-ktyi">Science (ST)</td>
