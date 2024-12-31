@@ -189,6 +189,9 @@ variant: markdown
     <td class="tg-ktyi">lim_huishan@moe.edu.sg</td>
   </tr>
 	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 </tbody>
 </table>
