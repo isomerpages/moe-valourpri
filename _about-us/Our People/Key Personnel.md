@@ -93,11 +93,6 @@ variant: markdown
     <td class="tg-ktyi">Miss Joanne Tan</td>
     <td class="tg-ktyi">tan_ee_teck_joanne@moe.edu.sg</td>
   </tr>
-	<tr>
-    <td class="tg-ktyi">Physical Education (PHE) and Co-Curricular Activities (CCA)</td>
-    <td class="tg-ktyi">Mdm Casey Ng</td>
-    <td class="tg-ktyi">ng_hui_wun_casey@moe.edu.sg</td>
-  </tr>
   <tr>
     <td class="tg-ktyi">Character &amp; Citizenship Education (CCE)</td>
     <td class="tg-ktyi">Mr Khong Weng Keong</td>
@@ -186,15 +181,20 @@ variant: markdown
     <td class="tg-0lax">juliana_teo_li_koon@moe.edu.sg</td>
   </tr>
 	<tr>
+    <td class="tg-ktyi">Subject Head - Physical Education (PE)</td>
+    <td class="tg-ktyi">Mdm Jean Wong</td>
+    <td class="tg-ktyi">wong_sensen@moe.edu.sg</td>
+  </tr>  
+	<tr>
+	    <td class="tg-ktyi">Subject Head - Outdoor Education (OE)</td>
+    <td class="tg-ktyi">Mdm Casey Ng</td>
+    <td class="tg-ktyi">ng_hui_wun_casey@moe.edu.sg</td>
+	</tr>
+	<tr>
     <td class="tg-ktyi">Subject Head - Co-Curricular Activities (CCA)</td>
     <td class="tg-ktyi">Mdm Hazel Ng</td>
     <td class="tg-ktyi">ng_boey_ling@moe.edu.sg</td>
   </tr>
-	<tr>
-    <td class="tg-ktyi">Subject Head - Physical Education</td>
-    <td class="tg-ktyi">Mdm Jean Wong</td>
-    <td class="tg-ktyi">wong_sensen@moe.edu.sg</td>
-  </tr>  
 	<tr>
     <td class="tg-ktyi">Subject Head - National Education &amp; Social Studies</td>
     <td class="tg-ktyi">Mdm Jeannette Ngoh</td>
