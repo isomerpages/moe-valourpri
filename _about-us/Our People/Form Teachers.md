@@ -260,11 +260,11 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">3 - Passion</td>
-    <td class="tg-ktyi">Ms Hui Sou Kuin</td>
+    <td class="tg-ktyi">Miss Hui Sou Kuin</td>
     <td class="tg-ktyi">hui_sou_kuin@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-ktyi">Miss Vernicia Lim</td>
+    <td class="tg-ktyi">Ms Vernicia Lim</td>
     <td class="tg-ktyi">vernicia_lim_su_yu@moe.edu.sg</td>
   </tr>
 	<tr>
@@ -336,7 +336,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">4 - Passion</td>
-    <td class="tg-ktyi">Mrs Vasaanthavalli</td>
+    <td class="tg-ktyi">Mdm Vasaanthavalli</td>
     <td class="tg-ktyi">allagarsamy_vasaanthavalli@moe.edu.sg</td>
   </tr>
 	<tr>
@@ -379,7 +379,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">5 - Loyalty</td>
-    <td class="tg-ktyi">Miss Goh Bee Eei</td>
+    <td class="tg-ktyi">Miss Goh Bee Ee</td>
     <td class="tg-ktyi">goh_bee_ee@moe.edu.sg</td>
   </tr>
 	<tr>
