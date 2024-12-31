@@ -34,7 +34,7 @@ variant: markdown
 <tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">1 - Adventurous</td>
     <td class="tg-ktyi">Mdm Mulyani Binte Djafar</td>
-    <td class="tg-ktyi">hiang_cheng_woon@moe.edu.sg</td>
+    <td class="tg-ktyi">mulyani_djafar@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-ktyi">Mdm Yvonne Lee</td>
