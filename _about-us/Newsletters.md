@@ -126,6 +126,7 @@ variant: markdown
 		<td width="10%" style="text-align: center"></td>
 		<td width="10%" style="text-align: center"></td>
 		<td width="35%">
+			<a target="_blank" href="https://drive.google.com/file/d/15La87fNceHVJ2JO3jPAfWqICg-LRDwQ1/view?usp=sharing">Buzz@Valour Issue 10<br>(December 2024)</a>
 		</td>
 	</tr>
 </tbody></table>
