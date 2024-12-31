@@ -36,6 +36,16 @@ variant: markdown
     <td class="tg-ktyi">soh_wei_peng_samuel@moe.edu.sg</td>
   </tr>
 	<tr>
+    <td class="tg-ktyi">School Counsellor</td>
+    <td class="tg-ktyi">Ms Nareeman</td>
+    <td class="tg-ktyi">abdul_latheef_nareeman@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Student Welfare Officer</td>
+    <td class="tg-ktyi">Mdm Mas Sumiyani</td>
+    <td class="tg-ktyi">mas_sumiyani_abdul_gani@moe.edu.sg</td>
+  </tr>
+	<tr>
 	</tr>
 </tbody>
 </table>
