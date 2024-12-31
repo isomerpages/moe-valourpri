@@ -195,7 +195,6 @@ variant: markdown
     <td class="tg-ktyi">Mdm Hazel Ng</td>
     <td class="tg-ktyi">ng_boey_ling@moe.edu.sg</td>
   </tr>
-
 	<tr>
     <td class="tg-ktyi">Subject Head - National Education &amp; Social Studies</td>
     <td class="tg-ktyi">Mdm Jeannette Ngoh</td>
