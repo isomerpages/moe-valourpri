@@ -372,6 +372,8 @@ The English Department embraces the 3S approach—Support, Strengthen, and Stret
 
 A series of book themes are introduced throughout the year, aligned with various school events and in collaboration with other departments. The thematic focus allows for the promotion of books and activities which provide our students exposure to a wide range of genres and topics. Some themes that have been featured in the past include “Celebrating Singapore” and “Science and Sustainability”.
 
+<img src="/images/el_1.jpg" style="width:75%">
+
 **Book Week**
 
 Once a year, the EL Department celebrates reading by curating a week-long programme featuring events such as book sharing, author talks, recess activities and book fairs. These are aimed at introducing students to new books and genres. Students also get to see stories come to life by dressing up as their favourite book characters.
