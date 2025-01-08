@@ -62,14 +62,12 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 	<tr height="65px" style="font-size:12px">
 		<th width="8%" style="text-align: center">Topic</th>
 		<td width="23%" style="text-align: left">
-		Unit 1: Peraturan Sekolah<br>
-		Unit 2: Sihat Selalu<br>
-		Unit 3: Saudara-mara Saya
+		Unit 1: Jalan-jalan<br>
+		Unit 2: Haiwanku Sihat
 		</td>
 		<td width="23%" style="text-align: left">
-		Unit 4: Masa Bersama Rakan-rakan<br>
-		Unit 5: Cerita Datuk dan Nenek<br>
-		Unit 6: Saya Ingin Menjadi
+		Unit 3: Oh, Robot!<br>
+		Unit 4: Sayang Semuanya
 		</td>
 		<td width="23%" style="text-align: left">
 		Unit 7: Cerita Binatang<br>
@@ -105,8 +103,7 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 		Unit 3: Boleh Lakukan Sendiri
 		</td>
 		<td width="23%" style="text-align: left">
-		Unit 4: Keluarga Ibu<br>
-		Unit 5: Peraduan Bercerita		
+		Unit 4: Keluarga Ibu
 		</td>
 		<td width="23%" style="text-align: left">
 		Unit 6: Permainan Tradisional<br>
@@ -192,6 +189,39 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 </tbody>
 </table>
 
+##### Primary 6
+<table>
+	<tbody>
+	<tr>
+		<th width="8%" style="text-align: center">Term</th>
+		<th width="23%" style="text-align: center">T1</th>
+		<th width="23%" style="text-align: center">T2</th>
+		<th width="23%" style="text-align: center">T3</th>
+		<th width="23%" style="text-align: center">T4</th>
+	</tr>
+	<tr height="65px" style="font-size:12px">
+		<th width="8%" style="text-align: center">Topic</th>
+		<td width="23%" style="text-align: left">
+			Unit 1: Bahasa Kita, Budaya Kita<br>
+			Unit 2: Gaya Hidup Sihat
+		</td>
+		<td width="23%" style="text-align: left">
+			Unit 3: Samudera<br>
+			Unit 4: Cerita Rakyat
+		</td>
+		<td width="23%" style="text-align: left">
+			Unit 5: Bumi Kita<br>
+			Unit 6: Indahnya Bahasa
+		</td>
+		<td width="23%" style="text-align: left">
+			Unit 7: Manusia dan Alam<br>
+			Unit 8: Pertahanan Sosial
+		</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
 
 ### Programmes
 
