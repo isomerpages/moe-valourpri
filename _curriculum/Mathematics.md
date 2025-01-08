@@ -94,12 +94,12 @@ Every Valourian, a creative problem-solver.
     <td class="tg-ktyi">
 			8.    Addition and Subtraction<br>
 			9.    Multiplication Tables of 3 and 4<br>
-			10.  Pircture Graphs<br>
+			10.  Picture Graphs<br>
 			11.   Fractions</td>
     <td class="tg-ktyi">
 			12.  Volume<br>
 			13.  Time (2A)<br>
-			14.  1Money</td>
+			14.  Money</td>
   </tr>
 	<tr>
 	</tr>
@@ -123,8 +123,8 @@ Every Valourian, a creative problem-solver.
     <td class="tg-ktyi">
 			1.    Numbers to 10 000<br>
 			2.   Addition and Subtraction<br>
-			3.    Money<br>
-			4.    Multiplication tables of 6, 7, 8 and 9
+			3.   Money<br>
+			4.   Multiplication tables of 6, 7, 8 and 9
 		</td>
     <td class="tg-ktyi">
 			5.    Multiplication and Division<br>
@@ -163,23 +163,24 @@ Every Valourian, a creative problem-solver.
     <td class="tg-ktyi">
 			1.    Whole Numbers<br>
 			2.    Factors and Multiples 2<br>
-			3.    Four Operations of Whole Numbers
+			3.    Four Operations of Whole Numbers<br>
 			4.    Tables and Line Graphs		
 		</td>
     <td class="tg-ktyi">
 			5.    Fractions (I)<br>
 			6.    Fractions (II)<br>
-			7.    Rectangles and Squares<br>
+			7.    Angles
+			8.    Rectangles and Squares<br>
 		</td>
     <td class="tg-ktyi">
-			8.     Decimals<br>
-			9.     Four Operations of Decimals<br>
-			10.   Pie Charts
+			9.     Decimals<br>
+			10.   Four Operations of Decimals<br>
+			11.   Pie Charts
 			</td>
     <td class="tg-ktyi">
-			11.    Area and Perimeter<br>
-			12.   Nets<br>
-			13.   Symmetry
+			12.    Area and Perimeter<br>
+			13.   Nets<br>
+			14.   Symmetry
 		</td>
   </tr>
 	<tr>
