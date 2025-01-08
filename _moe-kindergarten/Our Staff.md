@@ -107,7 +107,7 @@ variant: markdown
     <td class="tg-ktyi">mah_souk_chin@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Ms Poh Suet Yeng</td>
+    <td class="tg-ktyi">Ms Karine Poh</td>
     <td class="tg-ktyi">karine_poh_suet_yeng@moe.edu.sg</td>
   </tr>
   <tr>
