@@ -32,7 +32,7 @@ To complement STELLAR, authentic learning opportunities will be provided for Val
 		<th colspan="2" style="text-align: center">T4</th>
 	</tr>
 	<tr height="65px" style="font-size:12px">
-		<th width="8%" rowspan="4" style="text-align: center">Topic</th>
+		<th width="8%" rowspan="4" style="text-align: center">Title</th>
 		<td width="9%" style="text-align: center">Unit 1:</td>
 		<td width="14%" style="text-align: left">Dan the Flying Man</td>
 		<td width="9%" style="text-align: center">Unit 5:</td>
@@ -87,7 +87,7 @@ To complement STELLAR, authentic learning opportunities will be provided for Val
 		<th colspan="2" style="text-align: center">T4</th>
 	</tr>
 	<tr height="65px" style="font-size:12px">
-		<th width="8%" rowspan="4" style="text-align: center">Topic</th>
+		<th width="8%" rowspan="4" style="text-align: center">Title</th>
 		<td width="9%" style="text-align: center">Unit 1:</td>
 		<td width="14%" style="text-align: left">Chicken Rice</td>
 		<td width="9%" style="text-align: center">Unit 5:</td>
@@ -141,7 +141,7 @@ To complement STELLAR, authentic learning opportunities will be provided for Val
 		<th colspan="2" style="text-align: center">T4</th>
 	</tr>
 	<tr height="50px" style="font-size:12px">
-		<th width="8%" rowspan="4" style="text-align: center">Topic</th>
+		<th width="8%" rowspan="4" style="text-align: center">Title</th>
 		<td width="9%" style="text-align: center">Unit 1:</td>
 		<td width="14%" style="text-align: left">Fearless Phil</td>
 		<td width="9%" style="text-align: center">Unit 4:</td>
@@ -185,7 +185,7 @@ To complement STELLAR, authentic learning opportunities will be provided for Val
 		<th colspan="2" style="text-align: center">T4</th>
 	</tr>
 	<tr height="50px" style="font-size:12px">
-		<th width="8%" rowspan="4" style="text-align: center">Topic</th>
+		<th width="8%" rowspan="4" style="text-align: center">Title</th>
 		<td width="9%" style="text-align: center">Unit 1:</td>
 		<td width="14%" style="text-align: left">Making Ice Cream</td>
 		<td width="9%" style="text-align: center">Unit 4:</td>
@@ -229,7 +229,7 @@ To complement STELLAR, authentic learning opportunities will be provided for Val
 		<th colspan="2" style="text-align: center">T4</th>
 	</tr>
 	<tr height="50px" style="font-size:12px">
-		<th width="8%" rowspan="4" style="text-align: center">Topic</th>
+		<th width="8%" rowspan="4" style="text-align: center">Title</th>
 		<td width="9%" style="text-align: center">Unit 1:</td>
 		<td width="14%" style="text-align: left">Coolie Boy</td>
 		<td width="9%" style="text-align: center">Unit 4:</td>
@@ -273,7 +273,7 @@ To complement STELLAR, authentic learning opportunities will be provided for Val
 		<th colspan="2" style="text-align: center">T4</th>
 	</tr>
 	<tr height="50px" style="font-size:12px">
-		<th width="8%" rowspan="4" style="text-align: center">Topic</th>
+		<th width="8%" rowspan="4" style="text-align: center">Title</th>
 		<td width="9%" style="text-align: center">Unit 1:</td>
 		<td width="14%" style="text-align: left">Getting Ready to Learn</td>
 		<td width="9%" style="text-align: center">Unit 4:</td>
@@ -316,7 +316,7 @@ To complement STELLAR, authentic learning opportunities will be provided for Val
 		<th colspan="2" style="text-align: center">T2</th>
 	</tr>
 	<tr height="50px" style="font-size:12px">
-		<th width="8%" rowspan="4" style="text-align: center">Topic</th>
+		<th width="8%" rowspan="4" style="text-align: center">Title</th>
 		<td width="9%" style="text-align: center">Unit 1:</td>
 		<td width="14%" style="text-align: left">Stop Thief</td>
 		<td width="9%" style="text-align: center">Unit 4:</td>
@@ -347,7 +347,7 @@ To complement STELLAR, authentic learning opportunities will be provided for Val
 		<th colspan="2" style="text-align: center">T2</th>
 	</tr>
 	<tr height="50px" style="font-size:12px">
-		<th width="8%" rowspan="4" style="text-align: center">Topic</th>
+		<th width="8%" rowspan="4" style="text-align: center">Title</th>
 		<td width="9%" style="text-align: center">Unit 1:</td>
 		<td width="14%" style="text-align: left">Getting Ready to Learn </td>
 		<td width="9%" style="text-align: center">Unit 4:</td>
