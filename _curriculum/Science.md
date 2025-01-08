@@ -36,11 +36,11 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-fyfk">Term</th>
-    <th class="tg-fyfk">T1</th>
-    <th class="tg-fyfk">T2</th>
-    <th class="tg-fyfk">T3</th>
-    <th class="tg-fyfk">T4</th>
+    <th width="8%" class="tg-9hzb">Term</th>
+    <th width="23%" class="tg-9hzb">T1</th>
+    <th width="23%" class="tg-9hzb">T2</th>
+    <th width="23%" class="tg-9hzb">T3</th>
+    <th width="23%" class="tg-9hzb">T4</th>
   </tr>
 </thead>
 <tbody>
@@ -58,11 +58,11 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-9hzb">Term</th>
-    <th class="tg-9hzb">T1</th>
-    <th class="tg-9hzb">T2</th>
-    <th class="tg-9hzb">T3</th>
-    <th class="tg-9hzb">T4</th>
+    <th width="8%" class="tg-9hzb">Term</th>
+    <th width="23%" class="tg-9hzb">T1</th>
+    <th width="23%" class="tg-9hzb">T2</th>
+    <th width="23%" class="tg-9hzb">T3</th>
+    <th width="23%" class="tg-9hzb">T4</th>
   </tr>
 </thead>
 <tbody>
@@ -89,11 +89,11 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-9hzb">Term</th>
-    <th class="tg-9hzb">T1</th>
-    <th class="tg-9hzb">T2</th>
-    <th class="tg-9hzb">T3</th>
-    <th class="tg-9hzb">T4</th>
+    <th width="8%" class="tg-9hzb">Term</th>
+    <th width="23%" class="tg-9hzb">T1</th>
+    <th width="23%" class="tg-9hzb">T2</th>
+    <th width="23%" class="tg-9hzb">T3</th>
+    <th width="23%" class="tg-9hzb">T4</th>
   </tr>
 </thead>
 <tbody>
@@ -120,11 +120,11 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-9hzb">Term</th>
-    <th class="tg-9hzb">T1</th>
-    <th class="tg-9hzb">T2</th>
-    <th class="tg-9hzb">T3</th>
-    <th class="tg-9hzb">T4</th>
+    <th width="8%" class="tg-9hzb">Term</th>
+    <th width="23%" class="tg-9hzb">T1</th>
+    <th width="23%" class="tg-9hzb">T2</th>
+    <th width="23%" class="tg-9hzb">T3</th>
+    <th width="23%" class="tg-9hzb">T4</th>
   </tr>
 </thead>
 <tbody>
