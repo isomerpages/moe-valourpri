@@ -4,7 +4,7 @@ permalink: /subjects/english/
 description: ""
 variant: markdown
 ---
-<img src="/images/english.jpg" style="width:50%">
+<img src="/images/english_1.jpg" style="width:75%">
 		 
 ### Focus and Beliefs
 At Valour Primary School, we are committed to nurturing a vibrant community of engaged learners who **are confident and effective communicators.** We also aim to cultivate **lifelong readers** who possess a genuine love for reading, fostering curiosity and a passion for learning. 
