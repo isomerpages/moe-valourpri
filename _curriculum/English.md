@@ -366,34 +366,17 @@ The English Department embraces the 3S approach—Support, Strengthen, and Stret
 </table>
 
 ### Programmes
-**Lifelong Readers with a Love of Reading**
+The English Department embraces the 3S approach—Support, Strengthen, and Stretch—to tailor programmes and activities that meet the diverse needs of our students. We believe that English language proficiency is nurtured through meaningful and engaging learning experiences. Our programmes are designed to foster the effective use of English by focusing on the key skills of listening, speaking, reading, and writing.
 
-<center>
-<strong> Reading for Pleasure </strong><br>
-<i> The doorway to success </i> <br>
+**Theme-Based Reading Programme**
 
-<img src="/images/english1.png" style="width:50%">
+A series of book themes are introduced throughout the year, aligned with various school events and in collaboration with other departments. The thematic focus allows for the promotion of books and activities which provide our students exposure to a wide range of genres and topics. Some themes that have been featured in the past include “Celebrating Singapore” and “Science and Sustainability”.
 
-</center>
+**Book Week**
 
-We believe in the power of reading. Reading feeds one’s imagination and opens up a treasure-house of wonder and joy for curious young minds. We advocate free voluntary reading (Krashen, 1993) whereby our students can read whatever they want to read and there is little or no accountability in the form of book reports and journal entries. 
-* Book Week
-* Class library
-* Library periods
-* Weekly read-alouds
-* Sustained silent reading
+Once a year, the EL Department celebrates reading by curating a week-long programme featuring events such as book sharing, author talks, recess activities and book fairs. These are aimed at introducing students to new books and genres. Students also get to see stories come to life by dressing up as their favourite book characters.
 
-<u> Recommended Reading Lists: </u><br> 
-to be updated
+**National Curriculum for 2025: STELLAR 2.0 (Strategies for English Language Learning And Reading)**
 
-**Confident and Effective Communicators** <br>
-We hope to develop confident and effective communicators who possess the values, dispositions and skills to listen actively to different perspectives while collaborating with others to work towards shared goals. Opportunities are given for our students to discuss issues, listen to different perspectives and develop their own opinions.
-
-Valourians are also taught the 6 traits of speaking for oral presentations.
-
-**STELLAR**
-<img src="/images/el%20stellar.jpg" style="width:50%">
-
-Our students will embark on the STELLAR programme in primary school. STELLAR, short for&nbsp;**St**rategies for&nbsp;**E**nglish&nbsp;**L**anguage&nbsp;**L**earning and&nbsp;**R**eading, aims to strengthen children’s language and reading skills as well as promote a positive attitude towards learning. A unit starts with a shared reading experience whereby our students read a book with the teacher and engage in oral discussions. This is followed by explicit teaching of language items and shared writing experiences.
-
-To complement STELLAR, authentic learning opportunities will be provided for Valourians to communicate confidently, effectively and sensitively. They will also be encouraged to explore ideas, concepts and areas of interest beyond the curriculum, developing them to be creative and critical inquirers.
+STELLAR is an interactive literacy programme that fosters confidence in learning English using children's literature. A unit starts with a shared reading experience whereby our students read a book with the teacher and engage in oral discussions. This is followed by explicit teaching of language items and shared writing experiences.
+To complement STELLAR, authentic learning opportunities will be provided for Valourians to communicate confidently, effectively and sensitively. They will also be encouraged to explore ideas, concepts and areas of interest beyond the curriculum, developing them to be creative and critical inquirers. 
