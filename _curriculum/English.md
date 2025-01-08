@@ -7,9 +7,9 @@ variant: markdown
 <img src="/images/english.jpg" style="width:50%">
 		 
 ### Focus and Beliefs
-Here at Valour Primary School, we strive to build a strong foundation in the English Language and develop: <br>
-1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; lifelong readers with a love of reading. <br>
-2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; confident and effective communicators.
+At Valour Primary School, we are committed to nurturing a vibrant community of engaged learners who **are confident and effective communicators.** We also aim to cultivate **lifelong readers** who possess a genuine love for reading, fostering curiosity and a passion for learning. 
+
+To achieve this, we emphasise the development of 21st-century competencies through the teaching of the English Language. This includes a strong focus on **Multiliteracies** to navigate diverse forms of communication, **Metacognitive skills** to enhance self-awareness in learning, and **Inquiry Through Dialogue** to encourage critical thinking, collaboration, and meaningful discussions.
 
 ### English Curriculum for 2024
 
