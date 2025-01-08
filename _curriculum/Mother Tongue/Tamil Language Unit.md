@@ -18,7 +18,7 @@ To provide quality and customised teaching and authentic learning experience to 
 
 மாணவர்களின் தமிழ்மொழி மற்றும் கலாச்சாரத்தின் மீது உள்ள பற்றை வளர்க்க,&nbsp;அவர்களுக்கு ஏற்ற வகையில் தரமான,&nbsp;கற்பித்தல் மற்றும் கற்றல் அனுபவத்தை வழங்குவது.&nbsp;&nbsp;
 
-### Tamil Language Curriculum for 2024
+### Tamil Language Curriculum for 2025
 ##### Primary 1
 <table>
 	<tbody>
@@ -181,6 +181,42 @@ To provide quality and customised teaching and authentic learning experience to 
     <td width="23%" style="text-align: left">
 			தொகுதி 9 : <br>பள்ளி / அன்றும் இன்றும் <br>
 			தொகுதி 10 : <br>சமூகம் / கிறிஸ்துமஸ்
+		</td>
+  </tr>
+  <tr>
+  </tr>
+</tbody>
+</table>
+
+##### Primary 5
+<table>
+  <tbody>
+  <tr>
+    <th width="8%" style="text-align: center">Term</th>
+    <th width="23%" style="text-align: center">T1</th>
+    <th width="23%" style="text-align: center">T2</th>
+    <th width="23%" style="text-align: center">T3</th>
+    <th width="23%" style="text-align: center">T4</th>
+  </tr>
+  <tr height="65px" style="font-size:12px">
+    <th width="8%" style="text-align: center">Topic</th>
+    <td width="23%" style="text-align: left">
+			தொகுதி 1: <br>சமூகம் / சீனர்களின் விழாக்களும் பண்பாடும் <br>
+			தொகுதி 2: <br>குடும்பம் / பொறுப்புகளும் உரிமைகளும் <br>
+			தொகுதி 3: <br>நான் / புனைகதைகள்  
+    </td>
+    <td width="23%" style="text-align: left">
+			தொகுதி 4 : <br>பள்ளி / மறக்க முடியாத அனுபவங்களும் மனிதர்களும் <br>
+			தொகுதி 5 : <br>உலகம் / பன்னாட்டுக் கலைகள்  
+    </td>
+    <td width="23%" style="text-align: left">
+			தொகுதி 6: <br>குடும்பம் / பாரம்பரிய பழக்கவழக்கங்கள்  <br>
+			தொகுதி 7: <br>சமூகம் / சடங்குகள்  <br>
+			தொகுதி 8: <br>உலகம் / ஏட்டில் எழுதாத இலக்கியங்கள் 
+    </td>
+    <td width="23%" style="text-align: left">
+			தொகுதி 9 : <br>நாடு / மறைந்ததும் மாறியதும்  <br>
+			தொகுதி 10 : <br>உலகம் / உலக அதிசயங்கள், புகழ்பெற்ற இடங்கள் 
 		</td>
   </tr>
   <tr>
