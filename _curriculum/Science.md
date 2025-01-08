@@ -15,7 +15,7 @@ Aligned with the Science Curriculum Framework (see figure 1), the Science Depart
 <figcaption> Figure 1: Science Curriculum Framework </figcaption>  
 </figure>
 
-### Science Curriculum for 2024
+### Science Curriculum for 2025
 
 The science syllabus has been organised to ensure a progressive development of concepts within and across levels  
 
@@ -48,7 +48,7 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
     <td class="tg-fyfk">Topic</td>
     <td class="tg-jxgv">Diversity of living and non-living things (General characteristics and classification)</td>
     <td class="tg-jxgv"> Diversity of materials<br> </td>
-    <td class="tg-jxgv">Cycles in plants and animals (Life cycles)</td>
+    <td class="tg-jxgv">Cycles in Plants and Animals (Life Cycles)</td>
     <td class="tg-jxgv">Interaction of forces (Magnets)<br> </td>
   </tr>
 </tbody>
@@ -68,20 +68,24 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
 <tbody>
   <tr>
     <td class="tg-9hzb">Topic</td>
-    <td class="tg-ktyi">Plant system (Plant parts and functions)<br>
-Human system (Digestive system)
-		</td>
-    <td class="tg-ktyi">Cycles in matter and water (Matter)</td>
-    <td class="tg-ktyi">Energy forms and uses (Heat)
+    <td class="tg-ktyi">
+			Cycles in Matter and Water (Matter)
 		</td>
     <td class="tg-ktyi">
-			Energy forms and uses (Light)
+			Energy Forms and Uses (Light)
+		</td>
+    <td class="tg-ktyi">
+			Energy Forms and Uses (Heat)
+		</td>
+    <td class="tg-ktyi">
+			Plant System (Plant Parts and Functions)<br>
+			Human System (Digestive System)
 		</td>
   </tr>
 </tbody>
 </table>
 
-##### Primary 5 (Primary Science Syllabus 2014)
+##### Primary 5 (Primary Science Syllabus 2023)
 <table class="tg">
 <thead>
   <tr>
@@ -96,18 +100,47 @@ Human system (Digestive system)
   <tr>
     <td class="tg-9hzb">Topic</td>
     <td class="tg-ktyi">
-			Cycles in matter and water (Water)
+			Cycles in Matter and Water (Water)
 		</td>
     <td class="tg-ktyi">
-				Cell system<br>
-				Cycles in plants and animals (Reproduction)
+				Electrical System
 		</td>
     <td class="tg-ktyi">
 			Plant system (Respiratory and circulatory systems)<br>
 			Human system (Respiratory and circulatory systems)
 		</td>
     <td class="tg-ktyi">
-			Electrical system
+			Cycles in Plants and Animals (Reproduction)
+		</td>
+  </tr>
+</tbody>
+</table>
+
+##### Primary 6 (Primary Science Syllabus 2016)
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9hzb">Term</th>
+    <th class="tg-9hzb">T1</th>
+    <th class="tg-9hzb">T2</th>
+    <th class="tg-9hzb">T3</th>
+    <th class="tg-9hzb">T4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9hzb">Topic</td>
+    <td class="tg-ktyi">
+			Energy Forms and Uses (Photosynthesis)
+		</td>
+    <td class="tg-ktyi">
+				Energy Conversion<br>
+				Interaction of Forces (Frictional Force, Gravitational Force, Elastic Spring ForceElectrical System
+		</td>
+    <td class="tg-ktyi">
+				Interactions Within the Environment
+		</td>
+    <td class="tg-ktyi">-
 		</td>
   </tr>
 </tbody>
