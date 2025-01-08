@@ -70,14 +70,10 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 		Unit 4: Sayang Semuanya
 		</td>
 		<td width="23%" style="text-align: left">
-		Unit 7: Cerita Binatang<br>
-		Unit 8: Mereka Siapa?<br>
-		Unit 9: Kami Murid Aktif		
+		To be updated
 		</td>
 		<td width="23%" style="text-align: left">
-		Unit 10: Tempat Tinggal Saya<br>
-		Unit 11: Adikku Sayang<br>
-		Unit 12: Mahu ke Mana
+		To be updated
 		</td>
 	</tr>
 	<tr>
@@ -103,7 +99,8 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 		Unit 3: Boleh Lakukan Sendiri
 		</td>
 		<td width="23%" style="text-align: left">
-		Unit 4: Keluarga Ibu
+		Unit 4: Keluarga Ibu<br>
+		Unit 5: Peraduan Bercerita	
 		</td>
 		<td width="23%" style="text-align: left">
 		Unit 6: Permainan Tradisional<br>
@@ -210,8 +207,8 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 			Unit 4: Cerita Rakyat
 		</td>
 		<td width="23%" style="text-align: left">
-			Unit 5: Bumi Kita<br>
-			Unit 6: Indahnya Bahasa
+			Unit 5: Hulurkan Bantuan<br>
+			Unit 6: Bersatu Teguh
 		</td>
 		<td width="23%" style="text-align: left">
 			Unit 7: Manusia dan Alam<br>
