@@ -11,8 +11,13 @@ At Valour Primary School, we are committed to nurturing a vibrant community of e
 
 To achieve this, we emphasise the development of 21st-century competencies through the teaching of the English Language. This includes a strong focus on **Multiliteracies** to navigate diverse forms of communication, **Metacognitive skills** to enhance self-awareness in learning, and **Inquiry Through Dialogue** to encourage critical thinking, collaboration, and meaningful discussions.
 
-### Key Programmes
-The English Department embraces the 3S approach—Support, Strengthen, and Stretch—to tailor programmes and activities that meet the diverse needs of our students. We believe that English language proficiency is nurtured through meaningful and engaging learning experiences. Our programmes are designed to foster the effective use of English by focusing on the key skills of listening, speaking, reading, and writing.
+### National Curriculum for 2025: STELLAR 2.0 (Strategies for English Language Learning And Reading)
+
+STELLAR is an interactive literacy programme that fosters confidence in learning English using children's literature. A unit starts with a shared reading experience whereby our students read a book with the teacher and engage in oral discussions. This is followed by explicit teaching of language items and shared writing experiences.
+To complement STELLAR, authentic learning opportunities will be provided for Valourians to communicate confidently, effectively and sensitively. They will also be encouraged to explore ideas, concepts and areas of interest beyond the curriculum, developing them to be creative and critical inquirers.
+
+<img src="/images/el_3.jpg" style="width:75%">
+
 
 
 ### English Curriculum for 2025
@@ -366,12 +371,6 @@ The English Department embraces the 3S approach—Support, Strengthen, and Stret
 </table>
 
 ### Programmes
-**National Curriculum for 2025: STELLAR 2.0 (Strategies for English Language Learning And Reading)**
-
-STELLAR is an interactive literacy programme that fosters confidence in learning English using children's literature. A unit starts with a shared reading experience whereby our students read a book with the teacher and engage in oral discussions. This is followed by explicit teaching of language items and shared writing experiences.
-To complement STELLAR, authentic learning opportunities will be provided for Valourians to communicate confidently, effectively and sensitively. They will also be encouraged to explore ideas, concepts and areas of interest beyond the curriculum, developing them to be creative and critical inquirers.
-
-<img src="/images/el_3.jpg" style="width:75%">
 
 **Theme-Based Reading Programme**
 
