@@ -379,4 +379,4 @@ Once a year, the EL Department celebrates reading by curating a week-long progra
 **National Curriculum for 2025: STELLAR 2.0 (Strategies for English Language Learning And Reading)**
 
 STELLAR is an interactive literacy programme that fosters confidence in learning English using children's literature. A unit starts with a shared reading experience whereby our students read a book with the teacher and engage in oral discussions. This is followed by explicit teaching of language items and shared writing experiences.
-To complement STELLAR, authentic learning opportunities will be provided for Valourians to communicate confidently, effectively and sensitively. They will also be encouraged to explore ideas, concepts and areas of interest beyond the curriculum, developing them to be creative and critical inquirers. 
+To complement STELLAR, authentic learning opportunities will be provided for Valourians to communicate confidently, effectively and sensitively. They will also be encouraged to explore ideas, concepts and areas of interest beyond the curriculum, developing them to be creative and critical inquirers.
