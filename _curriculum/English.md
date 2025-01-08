@@ -11,7 +11,11 @@ At Valour Primary School, we are committed to nurturing a vibrant community of e
 
 To achieve this, we emphasise the development of 21st-century competencies through the teaching of the English Language. This includes a strong focus on **Multiliteracies** to navigate diverse forms of communication, **Metacognitive skills** to enhance self-awareness in learning, and **Inquiry Through Dialogue** to encourage critical thinking, collaboration, and meaningful discussions.
 
-### English Curriculum for 2024
+### Key Programmes
+The English Department embraces the 3S approach—Support, Strengthen, and Stretch—to tailor programmes and activities that meet the diverse needs of our students. We believe that English language proficiency is nurtured through meaningful and engaging learning experiences. Our programmes are designed to foster the effective use of English by focusing on the key skills of listening, speaking, reading, and writing.
+
+
+### English Curriculum for 2025
 
 ##### Primary 1
 <table>
@@ -296,7 +300,70 @@ To achieve this, we emphasise the development of 21st-century competencies throu
 	</tr>
 	<tr>
 	</tr>
-</tbody></table>
+</tbody>
+</table>
+
+##### Primary 6 (Standard)
+<table>
+	<tbody><tr>
+		<th style="text-align: center">Term</th>
+		<th colspan="2" style="text-align: center">T1</th>
+		<th colspan="2" style="text-align: center">T2</th>
+	</tr>
+	<tr height="50px" style="font-size:12px">
+		<th width="8%" rowspan="4" style="text-align: center">Topic</th>
+		<td width="9%" style="text-align: center">Unit 1:</td>
+		<td width="14%" style="text-align: left">Stop Thief</td>
+		<td width="9%" style="text-align: center">Unit 4:</td>
+		<td width="14%" style="text-align: left">Causes and Effects of a Tsunami</td>
+	</tr>
+	<tr height="50px" style="font-size:12px">
+		<td width="9%" style="text-align: center">Unit 2:</td>
+		<td width="14%" style="text-align: left">We Did It!</td>
+		<td width="9%" style="text-align: center">Unit 5:</td>
+		<td width="14%" style="text-align: left">The Fall of the Castle</td>
+	</tr>
+	<tr height="50px" style="font-size:12px">
+		<td width="9%" style="text-align: center">Unit 3:</td>
+		<td width="14%" style="text-align: left">The Problem with Rain</td>
+		<td width="9%" style="text-align: center">Unit 6:</td>
+		<td width="14%" style="text-align: left">Angkor Wat</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
+##### Primary 6 (Foundation)
+<table>
+	<tbody><tr>
+		<th style="text-align: center">Term</th>
+		<th colspan="2" style="text-align: center">T1</th>
+		<th colspan="2" style="text-align: center">T2</th>
+	</tr>
+	<tr height="50px" style="font-size:12px">
+		<th width="8%" rowspan="4" style="text-align: center">Topic</th>
+		<td width="9%" style="text-align: center">Unit 1:</td>
+		<td width="14%" style="text-align: left">Getting Ready to Learn </td>
+		<td width="9%" style="text-align: center">Unit 4:</td>
+		<td width="14%" style="text-align: left">What is Frictional Force?</td>
+	</tr>
+	<tr height="50px" style="font-size:12px">
+		<td width="9%" style="text-align: center">Unit 2:</td>
+		<td width="14%" style="text-align: left">A Meal to Remember</td>
+		<td width="9%" style="text-align: center">Unit 5:</td>
+		<td width="14%" style="text-align: left">Singapore Botanic Gardens</td>
+	</tr>
+	<tr height="50px" style="font-size:12px">
+		<td width="9%" style="text-align: center">Unit 3:</td>
+		<td width="14%" style="text-align: left">Pop Stars + What Happens When You Get Stage Fright</td>
+		<td width="9%" style="text-align: center">Unit 6:</td>
+		<td width="14%" style="text-align: left">Angkor Wat</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
 
 ### Programmes
 **Lifelong Readers with a Love of Reading**
