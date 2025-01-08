@@ -14,7 +14,7 @@ To provide quality and customised teaching and authentic learning experience to 
 
 Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpukan kepada pelajar agar dapat dipupuk minat dan cinta terhadap bahasa dan budaya Melayu.
 
-### Malay Language Curriculum for 2024
+### Malay Language Curriculum for 2025
 ##### Primary 1
 <table>
 	<tbody>
