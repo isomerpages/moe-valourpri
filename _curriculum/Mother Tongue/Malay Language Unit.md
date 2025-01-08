@@ -211,8 +211,7 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 			Unit 6: Bersatu Teguh
 		</td>
 		<td width="23%" style="text-align: left">
-			Unit 7: Manusia dan Alam<br>
-			Unit 8: Pertahanan Sosial
+			Unit 7: Teruskan Perjalanan
 		</td>
 	</tr>
 	<tr>
