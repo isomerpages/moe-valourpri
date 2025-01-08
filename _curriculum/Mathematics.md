@@ -188,7 +188,7 @@ Every Valourian, a creative problem-solver.
 </tbody>
 </table>
 
-##### Primary 5
+##### Primary 5 Standard
 <table class="tg">
 <thead>
   <tr>
@@ -205,12 +205,13 @@ Every Valourian, a creative problem-solver.
     <td class="tg-ktyi">
 			1.    Whole Numbers<br>
 			2.    Four Operations of Whole Numbers<br>
-			3.    Fractions
+			3.    Fractions &amp; Division<br>
+			4.    Four Operations of Fractions (Part 1)
 		</td>
     <td class="tg-ktyi">
-			4.    Ratio<br>
+			4.    Four Operations of Fraction (Part 2)<br>
 			5.    Area of Triangle<br>
-			6.   Volume
+			6.    Volume
 		</td>
     <td class="tg-ktyi">
 			7.    Decimals<br>
@@ -219,9 +220,8 @@ Every Valourian, a creative problem-solver.
 			10.  Average
 			</td>
     <td class="tg-ktyi">
-			11.    Angles<br>
-			12.   Property of Triangles<br>
-			13.   Parallelogram, Rhombus and Trapezium
+			11.   Property of Triangles<br>
+			13.  Parallelogram, Rhombus and Trapezium
 		</td>
   </tr>
 	<tr>
@@ -229,6 +229,125 @@ Every Valourian, a creative problem-solver.
 </tbody>
 </table>
 
+##### Primary 5 Foundation
+<table class="tg">
+<thead>
+  <tr>
+    <th width="8%" class="tg-9hzb">Term</th>
+    <th width="23%" class="tg-9hzb">T1</th>
+    <th width="23%" class="tg-9hzb">T2</th>
+    <th width="23%" class="tg-9hzb">T3</th>
+    <th width="23%" class="tg-9hzb">T4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td width="8%" class="tg-9hzb">Topic</td>
+    <td class="tg-ktyi">
+			1.	   Numbers to 10 Million<br>
+			2.	  Four Operations of Whole Numbers<br>
+			3.	  Factors and Multiples<br>
+			4.	  Fraction as Part of a Whole (Part 1)
+		</td>
+    <td class="tg-ktyi">
+			4.	  Fraction as Part of a Whole (Part 2)<br>
+			5.	  Time<br>
+			6.	  Angles<br>
+			7.	  Rectangles and Squares<br>
+			8.	  Mixed Numbers and Improper Fractions
+		</td>
+    <td class="tg-ktyi">
+			9.	  Multiplication of Fractions<br>
+			10.	 Decimals<br>
+			11.	  Four Operations of Decimals<br>
+			12.	 Rate
+			</td>
+    <td class="tg-ktyi">
+			13.	 Area and Perimeter<br>
+			14.	 Volume<br>
+			15.	 Tables and Graphs
+		</td>
+  </tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
+##### Primary 6 Standard
+<table class="tg">
+<thead>
+  <tr>
+    <th width="8%" class="tg-9hzb">Term</th>
+    <th width="23%" class="tg-9hzb">T1</th>
+    <th width="23%" class="tg-9hzb">T2</th>
+    <th width="23%" class="tg-9hzb">T3</th>
+    <th width="23%" class="tg-9hzb">T4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td width="8%" class="tg-9hzb">Topic</td>
+    <td class="tg-ktyi">
+			1.   Fractions<br>
+			2.   Ratio<br>
+			3.   Percentage<br>
+			4.   Angles in Geometrical Figures
+		</td>
+    <td class="tg-ktyi">
+			4.   Angles in Geometrical Figures<br>
+			5.   Circles<br>
+			6.   Pie Charts<br>
+			7.   Algebra
+		</td>
+    <td class="tg-ktyi">
+			8.   Volume<br>
+			9.   Solid Figures &amp; Nets<br>
+			10.  Speed
+			</td>
+    <td class="tg-ktyi">
+		</td>
+  </tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
+##### Primary 6 Foundation
+<table class="tg">
+<thead>
+  <tr>
+    <th width="8%" class="tg-9hzb">Term</th>
+    <th width="23%" class="tg-9hzb">T1</th>
+    <th width="23%" class="tg-9hzb">T2</th>
+    <th width="23%" class="tg-9hzb">T3</th>
+    <th width="23%" class="tg-9hzb">T4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td width="8%" class="tg-9hzb">Topic</td>
+    <td class="tg-ktyi">
+				1.	  Fractions<br>
+				2.	  Decimals<br>
+				3.	  Percentage (Part 1)
+		</td>
+    <td class="tg-ktyi">
+				3.    Percentage (Part 2)<br>
+				4.	  Area &amp; Perimeter<br>
+				5.	  Triangles; Rectangles &amp; Squares<br>
+				6.	  Pie Chart
+		</td>
+    <td class="tg-ktyi">
+				7.	  Average<br>
+				8.	  Volume
+			</td>
+    <td class="tg-ktyi">
+		</td>
+  </tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
 
 ### Programmes
 **Mathematics is All Around Us**
