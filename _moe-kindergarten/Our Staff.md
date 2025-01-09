@@ -47,7 +47,7 @@ variant: markdown
 		<td></td>
 	</tr>
   <tr>
-    <th class="tg-ktyi" rowspan="10">English Language Teachers</th>
+    <th class="tg-ktyi" rowspan="11">English Language Teachers</th>
 		<th class="tg-ktyi">Ms Linda Chong (Level Head)</th>
     <th class="tg-ktyi">chong_pei_mun@moe.edu.sg</th>
   </tr>
@@ -66,6 +66,10 @@ variant: markdown
 	<tr>
     <th class="tg-ktyi">Ms Marie Cheah</th>
     <th class="tg-ktyi">marie_cheah_cheng_min@moe.edu.sg</th>
+  </tr>
+  <tr>
+    <th class="tg-ktyi">Miss Nabila Ashiblie Abu Bakar</th>
+    <th class="tg-ktyi">nabila_ashiblie_abu_bakar_a@moe.edu.sg</th>
   </tr>
   <tr>
     <th class="tg-ktyi">Miss Nadhirah Fatin Binte Mohamad Bahrain</th>
