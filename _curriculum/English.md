@@ -4,14 +4,23 @@ permalink: /subjects/english/
 description: ""
 variant: markdown
 ---
-<img src="/images/english.jpg" style="width:50%">
+<img src="/images/english_1.jpg" style="width:75%">
 		 
 ### Focus and Beliefs
-Here at Valour Primary School, we strive to build a strong foundation in the English Language and develop: <br>
-1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; lifelong readers with a love of reading. <br>
-2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; confident and effective communicators.
+At Valour Primary School, we are committed to nurturing a vibrant community of engaged learners who **are confident and effective communicators.** We also aim to cultivate **lifelong readers** who possess a genuine love for reading, fostering curiosity and a passion for learning. 
 
-### English Curriculum for 2024
+To achieve this, we emphasise the development of 21st-century competencies through the teaching of the English Language. This includes a strong focus on **Multiliteracies** to navigate diverse forms of communication, **Metacognitive skills** to enhance self-awareness in learning, and **Inquiry Through Dialogue** to encourage critical thinking, collaboration, and meaningful discussions.
+
+### National Curriculum for 2025: STELLAR 2.0 (Strategies for English Language Learning And Reading)
+
+STELLAR is an interactive literacy programme that fosters confidence in learning English using children's literature. A unit starts with a shared reading experience whereby our students read a book with the teacher and engage in oral discussions. This is followed by explicit teaching of language items and shared writing experiences.
+To complement STELLAR, authentic learning opportunities will be provided for Valourians to communicate confidently, effectively and sensitively. They will also be encouraged to explore ideas, concepts and areas of interest beyond the curriculum, developing them to be creative and critical inquirers.
+
+<img src="/images/el_3.jpg" style="width:75%">
+
+
+
+### English Curriculum for 2025
 
 ##### Primary 1
 <table>
@@ -23,7 +32,7 @@ Here at Valour Primary School, we strive to build a strong foundation in the Eng
 		<th colspan="2" style="text-align: center">T4</th>
 	</tr>
 	<tr height="65px" style="font-size:12px">
-		<th width="8%" rowspan="4" style="text-align: center">Topic</th>
+		<th width="8%" rowspan="4" style="text-align: center">Titles</th>
 		<td width="9%" style="text-align: center">Unit 1:</td>
 		<td width="14%" style="text-align: left">Dan the Flying Man</td>
 		<td width="9%" style="text-align: center">Unit 5:</td>
@@ -78,7 +87,7 @@ Here at Valour Primary School, we strive to build a strong foundation in the Eng
 		<th colspan="2" style="text-align: center">T4</th>
 	</tr>
 	<tr height="65px" style="font-size:12px">
-		<th width="8%" rowspan="4" style="text-align: center">Topic</th>
+		<th width="8%" rowspan="4" style="text-align: center">Titles</th>
 		<td width="9%" style="text-align: center">Unit 1:</td>
 		<td width="14%" style="text-align: left">Chicken Rice</td>
 		<td width="9%" style="text-align: center">Unit 5:</td>
@@ -132,7 +141,7 @@ Here at Valour Primary School, we strive to build a strong foundation in the Eng
 		<th colspan="2" style="text-align: center">T4</th>
 	</tr>
 	<tr height="50px" style="font-size:12px">
-		<th width="8%" rowspan="4" style="text-align: center">Topic</th>
+		<th width="8%" rowspan="4" style="text-align: center">Titles</th>
 		<td width="9%" style="text-align: center">Unit 1:</td>
 		<td width="14%" style="text-align: left">Fearless Phil</td>
 		<td width="9%" style="text-align: center">Unit 4:</td>
@@ -176,7 +185,7 @@ Here at Valour Primary School, we strive to build a strong foundation in the Eng
 		<th colspan="2" style="text-align: center">T4</th>
 	</tr>
 	<tr height="50px" style="font-size:12px">
-		<th width="8%" rowspan="4" style="text-align: center">Topic</th>
+		<th width="8%" rowspan="4" style="text-align: center">Titles</th>
 		<td width="9%" style="text-align: center">Unit 1:</td>
 		<td width="14%" style="text-align: left">Making Ice Cream</td>
 		<td width="9%" style="text-align: center">Unit 4:</td>
@@ -220,7 +229,7 @@ Here at Valour Primary School, we strive to build a strong foundation in the Eng
 		<th colspan="2" style="text-align: center">T4</th>
 	</tr>
 	<tr height="50px" style="font-size:12px">
-		<th width="8%" rowspan="4" style="text-align: center">Topic</th>
+		<th width="8%" rowspan="4" style="text-align: center">Titles</th>
 		<td width="9%" style="text-align: center">Unit 1:</td>
 		<td width="14%" style="text-align: left">Coolie Boy</td>
 		<td width="9%" style="text-align: center">Unit 4:</td>
@@ -264,7 +273,7 @@ Here at Valour Primary School, we strive to build a strong foundation in the Eng
 		<th colspan="2" style="text-align: center">T4</th>
 	</tr>
 	<tr height="50px" style="font-size:12px">
-		<th width="8%" rowspan="4" style="text-align: center">Topic</th>
+		<th width="8%" rowspan="4" style="text-align: center">Titles</th>
 		<td width="9%" style="text-align: center">Unit 1:</td>
 		<td width="14%" style="text-align: left">Getting Ready to Learn</td>
 		<td width="9%" style="text-align: center">Unit 4:</td>
@@ -296,37 +305,81 @@ Here at Valour Primary School, we strive to build a strong foundation in the Eng
 	</tr>
 	<tr>
 	</tr>
-</tbody></table>
+</tbody>
+</table>
+
+##### Primary 6 (Standard)
+<table>
+	<tbody><tr>
+		<th style="text-align: center">Term</th>
+		<th colspan="2" style="text-align: center">T1</th>
+		<th colspan="2" style="text-align: center">T2</th>
+	</tr>
+	<tr height="50px" style="font-size:12px">
+		<th width="8%" rowspan="4" style="text-align: center">Titles</th>
+		<td width="9%" style="text-align: center">Unit 1:</td>
+		<td width="14%" style="text-align: left">Stop Thief</td>
+		<td width="9%" style="text-align: center">Unit 4:</td>
+		<td width="14%" style="text-align: left">Causes and Effects of a Tsunami</td>
+	</tr>
+	<tr height="50px" style="font-size:12px">
+		<td width="9%" style="text-align: center">Unit 2:</td>
+		<td width="14%" style="text-align: left">We Did It!</td>
+		<td width="9%" style="text-align: center">Unit 5:</td>
+		<td width="14%" style="text-align: left">The Fall of the Castle</td>
+	</tr>
+	<tr height="50px" style="font-size:12px">
+		<td width="9%" style="text-align: center">Unit 3:</td>
+		<td width="14%" style="text-align: left">The Problem with Rain</td>
+		<td width="9%" style="text-align: center">Unit 6:</td>
+		<td width="14%" style="text-align: left">Angkor Wat</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
+##### Primary 6 (Foundation)
+<table>
+	<tbody><tr>
+		<th style="text-align: center">Term</th>
+		<th colspan="2" style="text-align: center">T1</th>
+		<th colspan="2" style="text-align: center">T2</th>
+	</tr>
+	<tr height="50px" style="font-size:12px">
+		<th width="8%" rowspan="4" style="text-align: center">Titles</th>
+		<td width="9%" style="text-align: center">Unit 1:</td>
+		<td width="14%" style="text-align: left">Getting Ready to Learn </td>
+		<td width="9%" style="text-align: center">Unit 4:</td>
+		<td width="14%" style="text-align: left">What is Frictional Force?</td>
+	</tr>
+	<tr height="50px" style="font-size:12px">
+		<td width="9%" style="text-align: center">Unit 2:</td>
+		<td width="14%" style="text-align: left">A Meal to Remember</td>
+		<td width="9%" style="text-align: center">Unit 5:</td>
+		<td width="14%" style="text-align: left">Singapore Botanic Gardens</td>
+	</tr>
+	<tr height="50px" style="font-size:12px">
+		<td width="9%" style="text-align: center">Unit 3:</td>
+		<td width="14%" style="text-align: left">Pop Stars + What Happens When You Get Stage Fright</td>
+		<td width="9%" style="text-align: center">Unit 6:</td>
+		<td width="14%" style="text-align: left">Angkor Wat</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
 
 ### Programmes
-**Lifelong Readers with a Love of Reading**
 
-<center>
-<strong> Reading for Pleasure </strong><br>
-<i> The doorway to success </i> <br>
+**Theme-Based Reading Programme**
 
-<img src="/images/english1.png" style="width:50%">
+A series of book themes are introduced throughout the year, aligned with various school events and in collaboration with other departments. The thematic focus allows for the promotion of books and activities which provide our students exposure to a wide range of genres and topics. Some themes that have been featured in the past include “Celebrating Singapore” and “Science and Sustainability”.
 
-</center>
+<img src="/images/el_1.jpg" style="width:75%">
 
-We believe in the power of reading. Reading feeds one’s imagination and opens up a treasure-house of wonder and joy for curious young minds. We advocate free voluntary reading (Krashen, 1993) whereby our students can read whatever they want to read and there is little or no accountability in the form of book reports and journal entries. 
-* Book Week
-* Class library
-* Library periods
-* Weekly read-alouds
-* Sustained silent reading
+**Book Week**
 
-<u> Recommended Reading Lists: </u><br> 
-to be updated
+Once a year, the EL Department celebrates reading by curating a week-long programme featuring events such as book sharing, author talks, recess activities and book fairs. These are aimed at introducing students to new books and genres. Students also get to see stories come to life by dressing up as their favourite book characters.
 
-**Confident and Effective Communicators** <br>
-We hope to develop confident and effective communicators who possess the values, dispositions and skills to listen actively to different perspectives while collaborating with others to work towards shared goals. Opportunities are given for our students to discuss issues, listen to different perspectives and develop their own opinions.
-
-Valourians are also taught the 6 traits of speaking for oral presentations.
-
-**STELLAR**
-<img src="/images/el%20stellar.jpg" style="width:50%">
-
-Our students will embark on the STELLAR programme in primary school. STELLAR, short for&nbsp;**St**rategies for&nbsp;**E**nglish&nbsp;**L**anguage&nbsp;**L**earning and&nbsp;**R**eading, aims to strengthen children’s language and reading skills as well as promote a positive attitude towards learning. A unit starts with a shared reading experience whereby our students read a book with the teacher and engage in oral discussions. This is followed by explicit teaching of language items and shared writing experiences.
-
-To complement STELLAR, authentic learning opportunities will be provided for Valourians to communicate confidently, effectively and sensitively. They will also be encouraged to explore ideas, concepts and areas of interest beyond the curriculum, developing them to be creative and critical inquirers.
+<img src="/images/el_2.jpg" style="width:75%">

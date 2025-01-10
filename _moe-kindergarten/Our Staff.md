@@ -47,7 +47,7 @@ variant: markdown
 		<td></td>
 	</tr>
   <tr>
-    <th class="tg-ktyi" rowspan="9">English Language Teachers</th>
+    <th class="tg-ktyi" rowspan="11">English Language Teachers</th>
 		<th class="tg-ktyi">Ms Linda Chong (Level Head)</th>
     <th class="tg-ktyi">chong_pei_mun@moe.edu.sg</th>
   </tr>
@@ -56,32 +56,40 @@ variant: markdown
     <th class="tg-ktyi">erh_anni_selene@moe.edu.sg</th>
   </tr>
   <tr>
+    <th class="tg-ktyi">Ms Hor Swee Peng</th>
+    <th class="tg-ktyi">hor_swee_peng@moe.edu.sg</th>
+  </tr>  
+	<tr>
+    <th class="tg-ktyi">Ms Indriana Zainal Abidin</th>
+    <th class="tg-ktyi">indriana_zainal_abidin@moe.edu.sg</th>
+  </tr>
+	<tr>
     <th class="tg-ktyi">Ms Marie Cheah</th>
     <th class="tg-ktyi">marie_cheah_cheng_min@moe.edu.sg</th>
+  </tr>
+  <tr>
+    <th class="tg-ktyi">Miss Nabila Ashiblie Abu Bakar</th>
+    <th class="tg-ktyi">nabila_ashiblie_abu_bakar_a@moe.edu.sg</th>
   </tr>
   <tr>
     <th class="tg-ktyi">Miss Nadhirah Fatin Binte Mohamad Bahrain</th>
     <th class="tg-ktyi">nadhirah_fatin_mohamad_bahrain@moe.edu.sg</th>
   </tr>
   <tr>
-    <th class="tg-ktyi">Ms Ng Choi Mei</th>
-    <th class="tg-ktyi">ng_choi_mei@moe.edu.sg</th>
-  </tr>
-  <tr>
     <th class="tg-ktyi">Miss Ng Yi Le</th>
     <th class="tg-ktyi">ng_yi_le@moe.edu.sg</th>
+  </tr>
+	<tr>
+    <th class="tg-ktyi">Miss Seah Shu Lei Chloe</th>
+    <th class="tg-ktyi">seah_shu_lei_chloe@moe.edu.sg</th>
   </tr>
 	<tr>
     <th class="tg-ktyi">Miss Tan Li Ling Jovena</th>
     <th class="tg-ktyi">tan_li_ling_jovena@moe.edu.sg</th>
   </tr>
-  <tr>
-    <th class="tg-ktyi">Ms Sarah Mohd Rizal</th>
-    <th class="tg-ktyi">sarah_mohd_rizal@moe.edu.sg</th>
-	</tr>
 	<tr>
-    <th class="tg-ktyi">Miss Seah Shu Lei Chloe</th>
-    <th class="tg-ktyi">seah_shu_lei_chloe@moe.edu.sg</th>
+    <th class="tg-ktyi">Miss Victoria Esther Joy Chin</th>
+    <th class="tg-ktyi">victoria_esther_joy_chin@moe.edu.sg</th>
   </tr>
 </thead>
 <tbody>
@@ -103,7 +111,7 @@ variant: markdown
     <td class="tg-ktyi">mah_souk_chin@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Ms Poh Suet Yeng</td>
+    <td class="tg-ktyi">Ms Karine Poh</td>
     <td class="tg-ktyi">karine_poh_suet_yeng@moe.edu.sg</td>
   </tr>
   <tr>

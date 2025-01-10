@@ -14,7 +14,7 @@ To provide quality and customised teaching and authentic learning experiences to
 
 提供高质量、适合学生程度和能力的教学，以及符合真实情景的学习体验，以培养学生对于华文和华族文化的热爱。
 
-### Chinese Language Curriculum for 2024
+### Chinese Language Curriculum for 2025
 ##### Primary 1
 <table>
 	<tbody>
@@ -225,6 +225,45 @@ To provide quality and customised teaching and authentic learning experiences to
 		第十三课 老师，谢谢您<br>
 		第十四课 相当一棵树<br>
 		第十五课 世界那么大
+		</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+
+##### Primary 6
+<table>
+	<tbody>
+	<tr>
+		<th width="8%" style="text-align: center">Term</th>
+		<th width="23%" style="text-align: center">T1</th>
+		<th width="23%" style="text-align: center">T2</th>
+		<th width="23%" style="text-align: center">T3</th>
+		<th width="23%" style="text-align: center">T4</th>
+	</tr>
+	<tr height="65px" style="font-size:12px">
+		<th width="8%" style="text-align: center">Topic</th>
+		<td width="23%" style="text-align: left">
+			第一课 加油！加油！<br>
+			第二课 祖孙情<br>
+			第三课 美食小侦探<br>
+			第四课 宝贵的礼物<br>
+		</td>
+		<td width="23%" style="text-align: left">
+			第五课 小故事，大道理<br>
+			第六课 精彩三国<br>
+			第七课 新加坡的过去和现在<br>
+			第八课 走遍天下书为伴
+		</td>
+		<td width="23%" style="text-align: left">
+			第九课 拥抱未来<br>
+			第十课 再见，亲爱的伙伴
+			总复习
+		</td>
+		<td width="23%" style="text-align: left">
+			总复习<br>
+			考后活动
 		</td>
 	</tr>
 	<tr>
