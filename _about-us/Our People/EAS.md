@@ -76,5 +76,15 @@ variant: markdown
     <td class="tg-ktyi">Mdm Tan Choon Keng</td>
     <td class="tg-ktyi"></td>
   </tr>
+  <tr>
+    <td class="tg-ktyi">Operations Support Officer</td>
+    <td class="tg-ktyi">Mr Chan Cheow Jien</td>
+    <td class="tg-ktyi"></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"></td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-ktyi"></td>
+  </tr>
 </tbody>
 </table>
