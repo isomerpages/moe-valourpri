@@ -10,7 +10,7 @@ variant: markdown
 The mastery of mathematics concepts and skills will enable our students to be equipped for life. Mathematical problem solving is the heart to mathematics learning. It involves the acquisition and application of mathematics concepts and skills in a wide range of situation, including non-routine, open-ended and real-world problems.
 
 Every Valourian, a self-directed problem solver.
-### Mathematics Curriculum for 2024
+### Mathematics Curriculum for 2025
 
 ##### Primary 1
 
