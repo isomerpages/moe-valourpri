@@ -43,6 +43,7 @@ description: ""
 <p>
 </p><li>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.</li>
 <p>
+</p></ol>
 	
 ### 2025 SEXUALITY EDUCATION LESSONS IN CCE
 ##### Primary 5
@@ -119,7 +120,71 @@ In this lesson, students will learn about sexual abuse, how it can happen during
 </tr>
 </tbody>
 </table>
-</p></ol>
+<p></p>
+
+##### Primary 6
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .th{
+	font-family:Arial, sans-serif;
+	font-size:12px;
+	line-height: 1.8;
+	text-align:Center;
+	vertical-align:middle;
+					}
+	.tg .body-ca{
+	font-family:Arial, sans-serif;
+	font-size:12px;
+	line-height: 1.8;
+	text-align:Center;
+	vertical-align:middle;
+	}
+		.tg .body-la{
+	font-family:Arial, sans-serif;
+	font-size:12px;
+	line-height: 1.8;
+	text-align:left;
+	vertical-align:top;
+	}
+	.tg .toph{
+	font-family:Arial, sans-serif;
+	font-size:12px;
+	line-height: 1.8;
+	background-color:#E5E4E2;
+	text-align:Center;
+	vertical-align:bottom;
+	}
+</style>
+<table class="tg">
+		<tbody><tr>
+			<th width="10%" class="toph">CCE(FTGP) THEME</th>
+			<th width="20%" class="toph">LESSON TITLE / DURATION</th>
+			<th width="50%" class="toph">LESSON OVERVIEW</th>
+			<th width="20%" class="toph">TIME PERIOD<br>(e.g. Term 1 Week 2)
+</th>
+	</tr>
+	<tr>
+		<th rowspan="3" class="th">Growing Years</th>
+		<td class="body-ca">Are We More than Friends?<br>Lesson 1<br>(60 min)</td>
+		<td class="body-la">
+In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.
+		</td>
+		<td class="body-ca">Term 4 Week 4</td>
+	</tr>
+		<tr>
+		<td class="body-ca">Are We More than Friends?<br>Lesson 2<br>(60 min)</td>
+		<td class="body-la">
+In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.
+		</td>
+			<td class="body-ca">Term 4 Week 6</td>
+	</tr>
+	<tr>
+	</tr>
+</tbody>
+</table>
+<p></p>
 												 
 #### INFORMATION FOR PARENTS
 
