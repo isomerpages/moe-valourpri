@@ -15,6 +15,6 @@ If you are interested in visiting us, kindly fill up the registration form by cl
 ### Details of 2025 MK Registration Exercise
 The 2025 MK Registration Exercise is open to SC and PR children born between 2 January 2021 and 1 January 2022, both dates inclusive. Parents can register their child for admission to an MK via the MK website (www.moe.gov.sg/mk), from 9am on 7 February 2025 to 4pm on 17 February 2025. Parents will be informed of the registration outcome by 15 April 2025. Parents seeking admission to K1 or K2 for their child outside the registration period, should contact the MK directly to check if there are vacancies.
 
-For more details about MK @ , click here to view/ download the slides.
+For more details about MK @ , click [here](/files/MKOH/MKOH_2025_Website.pdf) to view/ download the slides.
 
-You can also watch the video of [A Day At An MOE Kindergarten (youtube.com)](https://www.youtube.com/watch?v=QXvV21a-TqE&feature=youtu.be). 
+You can also watch the video of [A Day At An MOE Kindergarten (youtube.com)](https://www.youtube.com/watch?v=QXvV21a-TqE&feature=youtu.be).
