@@ -17,4 +17,4 @@ The 2025 MK Registration Exercise is open to SC and PR children born between 2 J
 
 For more details about MK @ Valour , click [here](/files/MKOH/MKOH_2025_Website.pdf) to view/ download the slides.
 
-You can also watch the video of <a target="_blank" href="https://www.youtube.com/watch?v=QXvV21a-TqE&amp;feature=youtu.be">A Day At An MOE Kindergarten (youtube.com)</a>
+You can also watch the video of <a target="_blank" href="https://www.youtube.com/watch?v=QXvV21a-TqE&amp;feature=youtu.be">A Day At An MOE Kindergarten (youtube.com).</a>
