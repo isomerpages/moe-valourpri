@@ -2,6 +2,7 @@
 title: Learning for Life Programme
 permalink: /student-development/learning-for-life-programme/
 description: ""
+variant: markdown
 ---
 ### Nature &amp; Adventure @ Valour (NAV)
 
@@ -18,3 +19,7 @@ What is the spirit of the wayfinder you might ask? It is the determination and a
 <img style="max-width: 650px" src="/images/llp-climbing.png">
 
 The LLP programme is offered to all students as part of the school’s six-year holistic curriculum.
+
+#### NAV Awards Webpage
+
+Please click <a target="_blank" href="https://sites.google.com/moe.edu.sg/vps-nav2025/home">here</a> to view a summary of all the NAV task that the students can complete throughout the year.
