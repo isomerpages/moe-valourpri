@@ -415,7 +415,7 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">5 - Passion</td>
-    <td class="tg-ktyi">Mdm Jean Wong</td>
+    <td class="tg-ktyi">Ms Jean Wong</td>
     <td class="tg-ktyi">wong_sensen@moe.edu.sg</td>
   </tr>
 	<tr>
