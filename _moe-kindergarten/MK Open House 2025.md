@@ -6,7 +6,7 @@ description: mk, valour, open, house, mkoh2025
 ---
 ![Mk Open House 2025](/images/mkoh2025poster.png)
 
-For visitors coming by vehicle, do note that there will be no parking available in school. The nearest alternative parking is available at the HDC carpark located at 308C Punggol Walk
+For visitors coming by vehicle, do note that there will be no parking available in school. The nearest alternative parking is available at the HDB carpark located at 308C Punggol Walk
 
 ### Open House Registration
 If you are interested in visiting us, kindly fill up the registration form by clicking [here](https://form.gov.sg/67440d2352ba8c426f31566e)
