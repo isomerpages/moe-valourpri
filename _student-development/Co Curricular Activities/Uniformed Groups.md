@@ -8,6 +8,6 @@ variant: markdown
 ### Uniformed Groups
 Uniformed Group activities aim to make good citizens of students by inculcating in them self-reliance, resilience, discipline and a spirit of service to others.
 
-[Boys' Brigade](/files/CCA_poster/bb2024.pdf)<br>
-[Girls' Brigade](/files/CCA_poster/gb2024.pdf)<br>
-[Red Cross](/files/CCA_poster/redcross2024.pdf)
+<a target="_blank" href="https://sites.google.com/moe.edu.sg/vps-ccas/uniformed-groups/boys-brigade">Boys' Brigade</a><br>
+<a target="_blank" href="https://sites.google.com/moe.edu.sg/vps-ccas/uniformed-groups/girls-brigade">Girls' Brigade</a><br>
+<a target="_blank" href="https://sites.google.com/moe.edu.sg/vps-ccas/uniformed-groups/red-cross">Red Cross</a>
