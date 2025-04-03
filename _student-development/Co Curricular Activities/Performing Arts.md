@@ -8,8 +8,8 @@ variant: markdown
 ### Performing Arts
 Performing Arts instill in students a sense of graciousness and an appreciation for the rich culture and heritage of a multi-racial society.
 
-[Choir](/files/CCA_poster/choir2024.pdf)<br>
-[Festival Drums](/files/CCA_poster/festdrum2024.pdf)<br>
-[Guitar Ensemble](/files/CCA_poster/guitarensemble2024.pdf)<br>
-[International Dance](/files/CCA_poster/dance2024.pdf)<br>
-[Lion Dance](/files/CCA_poster/liondance2024.pdf)
+<a target="_blank" href="https://sites.google.com/moe.edu.sg/vps-ccas/performing-arts/choir">Choir</a><br>
+<a target="_blank" href="https://sites.google.com/moe.edu.sg/vps-ccas/performing-arts/festival-drums">Festival Drums</a><br>
+<a target="_blank" href="https://sites.google.com/moe.edu.sg/vps-ccas/performing-arts/guitar-ensemble">Guitar Ensemble</a><br>
+<a target="_blank" href="https://sites.google.com/moe.edu.sg/vps-ccas/performing-arts/international-dance">International Dance</a><br>
+<a target="_blank" href="https://sites.google.com/moe.edu.sg/vps-ccas/performing-arts/lion-dance">Lion Dance</a>
