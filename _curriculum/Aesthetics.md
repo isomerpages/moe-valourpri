@@ -6,9 +6,9 @@ variant: markdown
 ---
 ### Focus and Beliefs
 
-The Aesthetics department strives to cultivate a vibrant arts culture wherestudents inspire and learn from one another, celebrating each child’s creativeexpression. We aim to provide every student with opportunities to collaborate,grow, and thrive together through the learning, creation, and appreciation ofdiverse forms of the arts.
+The Aesthetics department strives to cultivate a vibrant arts culture where students inspire and learn from one another, celebrating each child’s creative expression. We aim to provide every student with opportunities to collaborate, grow, and thrive together through the learning, creation, and appreciation of diverse forms of the arts.
 
-In addition to the MOE Art and Music Syllabus, our students also build essential21st-century skills and attitudes by inspiring thinking, connection, communicationand confidence through the following Art &amp; Music programmes:
+In addition to the MOE Art and Music Syllabus, our students also build essential21st-century skills and attitudes by inspiring thinking, connection, communication and confidence through the following Art &amp; Music programmes:
 
 **Art** <br>
 The focus of our Art curriculum is for each child to be actively able to see, express and appreciate the value of art.
