@@ -8,7 +8,7 @@ variant: markdown
 ### Physical Sports
 Physical Sports develop robustness, fair play and team spirit in students.
 
-[Floorball](/files/CCA_poster/floorball2024.pdf)<br>
-[Netball](/files/CCA_poster/netball2024.pdf)<br>
-[Rugby](/files/CCA_poster/rugby2024.pdf)<br>
-[Volleyball](/files/CCA_poster/volleyball2024.pdf)
+<a target="_blank" href="https://sites.google.com/moe.edu.sg/vps-ccas/physical-sports/floorball">Floorball</a><br>
+<a target="_blank" href="https://sites.google.com/moe.edu.sg/vps-ccas/physical-sports/netball-girls">Netball</a><br>
+<a target="_blank" href="https://sites.google.com/moe.edu.sg/vps-ccas/physical-sports/rugby-boys">Rugby</a><br>
+<a target="_blank" href="https://sites.google.com/moe.edu.sg/vps-ccas/physical-sports/volleyball">Volleyball</a>
