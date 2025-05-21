@@ -16,6 +16,7 @@ communication and confidence through the following Art &amp; Music programmes:</
 <h3>Programmes</h3>
 <p><strong>Art &amp; Music Programmes</strong>
 </p>
+<p>&lt;pic&gt;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -24,10 +25,10 @@ communication and confidence through the following Art &amp; Music programmes:</
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Level</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Programme Name</p>
 </th>
 </tr>
 <tr>
@@ -59,8 +60,7 @@ and connect our subject matter to real-world applications</p>
 </tbody>
 </table>
 <p><strong>Art Programmes</strong>
-<br>
-</p>
+<br>&lt;pic&gt;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -72,7 +72,7 @@ and connect our subject matter to real-world applications</p>
 <p>Level</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Programme Name</p>
 </th>
 </tr>
 <tr>
@@ -100,7 +100,7 @@ to drawings through observations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 3 to 6</p>
+<p>Primary 3 - 6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Tech-Enhanced Art Modules</strong>
@@ -163,5 +163,100 @@ experience of glazing their final art work.</p>
 </tr>
 </tbody>
 </table>
-<h3></h3>
+<p></p>
+<p><strong>Music Programmes</strong>
+</p>
+<p>&lt;pic&gt;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 1 - 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Music Companion Booklets</strong>
+<br>Supplementary music activities for students complementing the MOE Music
+Syllabus.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 1 and 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Music Culture</strong>
+<br>Our school’s music program celebrates Singapore's rich musical heritage,
+immersing students in local music culture.</p>
+<p><strong>Music Instrumentation Programme</strong>
+<br>Students will explore classroom percussion instruments for rhythm and
+coordination, resonator bells for pitch recogonition and music theory,
+and boom whackers for fun, vibrant rhythm practice. These activities promote
+collaboration, listening skills, and a love for music.</p>
+<p><strong>Digital Music </strong>
+<br>Our new P2 program, Osmo Jam, introduces students to the world of digital
+music creation. Osmo Jam offers an interactive and hands-on approach, allowing
+students to experiment with different sounds, rhythms, and melodies, fostering
+creativity and digital literacy.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3 and 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Music Culture </strong>
+<br>Our school’s music program offers a dynamic exploration of both ASEAN
+and Western music cultures. This program promotes cultural appreciation,
+creativity, and a deeper understanding of the diverse musical traditions
+from both regions.</p>
+<p><strong>Music Instrumentation Programme</strong> 
+<br>There is a variety of instruments to engage students in musical learning.
+P3 students will explore the ukulele and learn traditional rhythms with
+the kompang and anklung. In P4, students will dive into Orff Instruments,
+like xylophones, to explore melody and rhythm, while also developing piano
+skills, music theory, and composition through the keyboard program.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5 and 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Music Culture</strong> 
+<br>Our school’s music program explores world and local music cultures, allowing
+students to experience diverse musical traditions from around the globe.</p>
+<p><strong>Music Instrumentation Programme </strong>
+<br>Students will learn fundamental rhythms and techniques on the Cajon, discovering
+how to produce distinctive sounds. This instrument promotes rhythm development,
+teamwork, and creativity, offering a fun and interactive way for students
+to engage with music. Digital Music Our school’s Digital Music Program
+introduces students to music production using GarageBand. Students will
+dive into sound design, composition, and track creation with GarageBand’s
+user-friendly tools. They can explore advanced features such as automated
+mixing and personalized sound recommendations, enhancing their creative
+experience.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
