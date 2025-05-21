@@ -35,7 +35,8 @@ communication and confidence through the following Art &amp; Music programmes:</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 1-6</p>
+<p><strong>Primary 1-6</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>ArtMuse Exhibition</strong>
@@ -83,7 +84,8 @@ and connect our subject matter to real-world applications</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 1-6</p>
+<p><strong>Primary 1-6</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Little Artist</strong>
@@ -96,7 +98,8 @@ MOE Art Syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 1 and 2</p>
+<p><strong>Primary 1 and 2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Outdoor Learning</strong>
@@ -106,7 +109,8 @@ to drawings through observations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 3 - 6</p>
+<p><strong>Primary 3 - 6</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Tech-Enhanced Art Modules</strong>
@@ -138,7 +142,8 @@ school memories (P6)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 4</p>
+<p><strong>Primary 4</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Museum Based Learning</strong>
@@ -150,7 +155,8 @@ our pioneer artists.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 5</p>
+<p><strong>Primary 5</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ceramics <br></strong>Students embark on an 8-week Ceramics module
@@ -192,7 +198,8 @@ experience of glazing their final art work.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 1 - 6</p>
+<p><strong>Primary 1 - 6</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Music Companion Booklets</strong>
@@ -202,7 +209,8 @@ Syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 1 and 2</p>
+<p><strong>Primary 1 and 2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Music Culture</strong>
@@ -222,7 +230,8 @@ creativity and digital literacy.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 3 and 4</p>
+<p><strong>Primary 3 and 4</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Music Culture </strong>
@@ -240,7 +249,8 @@ skills, music theory, and composition through the keyboard program.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 5 and 6</p>
+<p><strong>Primary 5 and 6</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Music Culture</strong> 
