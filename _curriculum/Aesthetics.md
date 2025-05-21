@@ -260,12 +260,13 @@ students to experience diverse musical traditions from around the globe.</p>
 <br>Students will learn fundamental rhythms and techniques on the Cajon, discovering
 how to produce distinctive sounds. This instrument promotes rhythm development,
 teamwork, and creativity, offering a fun and interactive way for students
-to engage with music. Digital Music Our school’s Digital Music Program
-introduces students to music production using GarageBand. Students will
-dive into sound design, composition, and track creation with GarageBand’s
-user-friendly tools. They can explore advanced features such as automated
-mixing and personalized sound recommendations, enhancing their creative
-experience.</p>
+to engage with music.</p>
+<p><strong>Digital Music </strong>
+<br>Our school’s Digital Music Program introduces students to music production
+using GarageBand. Students will dive into sound design, composition, and
+track creation with GarageBand’s user-friendly tools. They can explore
+advanced features such as automated mixing and personalized sound recommendations,
+enhancing their creative experience.</p>
 </td>
 </tr>
 <tr>
