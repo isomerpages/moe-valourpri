@@ -185,8 +185,8 @@ variant: markdown
     <td class="tg-ktyi">elizabeth_ashvini_anthony@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-ktyi">Mdm Lim Huishan</td>
-    <td class="tg-ktyi">lim_huishan@moe.edu.sg</td>
+    <td class="tg-ktyi">Mdm Lim Hui Shan</td>
+    <td class="tg-ktyi">lim_hui_shan@moe.edu.sg</td>
   </tr>
 	<tr>
 		<td></td>
