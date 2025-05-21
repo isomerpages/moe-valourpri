@@ -16,7 +16,9 @@ communication and confidence through the following Art &amp; Music programmes:</
 <h3>Programmes</h3>
 <p><strong>Art &amp; Music Programmes</strong>
 </p>
-<p>&lt;pic&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aest_1.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -60,7 +62,11 @@ and connect our subject matter to real-world applications</p>
 </tbody>
 </table>
 <p><strong>Art Programmes</strong>
-<br>&lt;pic&gt;</p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aest_2.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -166,7 +172,10 @@ experience of glazing their final art work.</p>
 <p></p>
 <p><strong>Music Programmes</strong>
 </p>
-<p>&lt;pic&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aest_3.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
