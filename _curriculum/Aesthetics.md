@@ -242,7 +242,7 @@ from both regions.</p>
 <p><strong>Music Instrumentation Programme</strong> 
 <br>There is a variety of instruments to engage students in musical learning.
 P3 students will explore the ukulele and learn traditional rhythms with
-the Kompang and Angklung. In P4, students will dive into Orff Instruments,
+the kompang and angklung. In P4, students will dive into Orff Instruments,
 like xylophones, to explore melody and rhythm, while also developing piano
 skills, music theory, and composition through the keyboard program.</p>
 </td>
