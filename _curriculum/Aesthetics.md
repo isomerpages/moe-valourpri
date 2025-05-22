@@ -146,7 +146,7 @@ school memories (P6)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Museum Based Learning</strong>
+<p><strong>Museum-based Learning</strong>
 <br>Students embark on a 10-week Museum programme where they learn in-depth
 about museums and galleries. They learn different ways of looking at art
 and go on art trails to the National Gallery Singapore to learn more about
