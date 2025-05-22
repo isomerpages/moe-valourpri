@@ -102,7 +102,7 @@ MOE Art Syllabus.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Outdoor Learning</strong>
+<p><strong>Art Outdoor Learning</strong>
 <br>Students learn to translate basic visual qualities from naturalistic environment
 to drawings through observations.</p>
 </td>
