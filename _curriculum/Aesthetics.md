@@ -49,7 +49,7 @@ that promotes mental wellness and collaborative learning.</p>
 <p><strong>ArtMuse Assembly</strong> 
 <br>We invite practicing artists and musicians from our local scene to share
 about different music genres and art styles, inspiring students to learn
-and connect our subject matter to real-world applications</p>
+and connect our subject matter to real-world applications.</p>
 </td>
 </tr>
 <tr>
@@ -125,7 +125,7 @@ Cantonese Opera. (P3)</p>
 personality. (P4)</p>
 </li>
 <li>
-<p>Use of FlippaClip to introduce animation (P4)</p>
+<p>Use of FlipaClip to introduce animation (P4)</p>
 </li>
 <li>
 <p>Use of ProCreate to create GIFs (P5)</p>
