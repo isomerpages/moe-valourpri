@@ -38,13 +38,13 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ktyi">Administrative Executive</td>
-    <td class="tg-ktyi">Mdm Karen Goh</td>
-    <td class="tg-ktyi">karen_sk_goh@moe.edu.sg</td>
+    <td class="tg-ktyi">Mdm Jasmine Lee</td>
+    <td class="tg-ktyi">lee_pei_fen_jasmine@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Corporate Support Officer</td>
-    <td class="tg-ktyi">Ms Elaine Sng</td>
-    <td class="tg-ktyi">sng_elaine@moe.edu.sg</td>
+    <td class="tg-ktyi">Administrative Executive</td>
+    <td class="tg-ktyi">Mdm Karen Goh</td>
+    <td class="tg-ktyi">karen_sk_goh@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Corporate Support Officer</td>
@@ -52,6 +52,36 @@ variant: markdown
     <td class="tg-ktyi">sim_poh_buay_linda@moe.edu.sg</td>
   </tr>
   <tr>
+    <td class="tg-ktyi">Corporate Support Officer</td>
+    <td class="tg-ktyi">Ms Elaine Sng</td>
+    <td class="tg-ktyi">sng_elaine@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Operations Manager</td>
+    <td class="tg-ktyi">Mr Mohamed Roslan</td>
+    <td class="tg-ktyi">mohamed_roslan_mohamed@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Operations Support Officer</td>
+    <td class="tg-ktyi">Muhamad Iskandar</td>
+    <td class="tg-ktyi">muhamad_iskandar_sarkawai@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Operations Support Officer</td>
+    <td class="tg-ktyi">Mr Chan Cheow Jien</td>
+    <td class="tg-ktyi"></td>
+  </tr>  
+  <tr>
+    <td class="tg-ktyi">Operations Support Officer</td>
+    <td class="tg-ktyi">Mdm Tan Choon Keng</td>
+    <td class="tg-ktyi"></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Operations Support Officer</td>
+    <td class="tg-ktyi">Mdm Toh Lee Hwa</td>
+    <td class="tg-ktyi"> </td>
+  </tr>
+	<tr>
     <td class="tg-ktyi">Operations Support Officer</td>
     <td class="tg-ktyi">Mdm Wong Mui Lee</td>
     <td class="tg-ktyi"> </td>
@@ -63,23 +93,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ktyi">Operations Support Officer</td>
-    <td class="tg-ktyi">Mdm Toh Lee Hwa</td>
-    <td class="tg-ktyi"> </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Operations Support Officer</td>
     <td class="tg-ktyi">Mr Wong Thiam Lin</td>
     <td class="tg-ktyi"> </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Operations Support Officer</td>
-    <td class="tg-ktyi">Mdm Tan Choon Keng</td>
-    <td class="tg-ktyi"></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Operations Support Officer</td>
-    <td class="tg-ktyi">Mr Chan Cheow Jien</td>
-    <td class="tg-ktyi"></td>
   </tr>
   <tr>
     <td class="tg-ktyi"></td>
