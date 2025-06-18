@@ -27,11 +27,6 @@ variant: markdown
     <td class="tg-ktyi">huong_siew_lin@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">ICT Manager</td>
-    <td class="tg-ktyi">Mr Wilfred Chua</td>
-    <td class="tg-ktyi">chua_chin_leong_wilfred@moe.edu.sg</td>
-  </tr>
-  <tr>
     <td class="tg-ktyi">Administrative Executive</td>
     <td class="tg-ktyi">Mdm Charlene Neo</td>
     <td class="tg-ktyi">neo_siew_lian@moe.edu.sg</td>
@@ -57,12 +52,17 @@ variant: markdown
     <td class="tg-ktyi">sng_elaine@moe.edu.sg</td>
   </tr>
   <tr>
+    <td class="tg-ktyi">ICT Manager</td>
+    <td class="tg-ktyi">Mr Wilfred Chua</td>
+    <td class="tg-ktyi">chua_chin_leong_wilfred@moe.edu.sg</td>
+  </tr>
+  <tr>
     <td class="tg-ktyi">Operations Manager</td>
     <td class="tg-ktyi">Mr Mohamed Roslan</td>
     <td class="tg-ktyi">mohamed_roslan_mohamed@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Operations Support Officer</td>
+    <td class="tg-ktyi">Operations Manager</td>
     <td class="tg-ktyi">Muhamad Iskandar</td>
     <td class="tg-ktyi">muhamad_iskandar_sarkawai@moe.edu.sg</td>
   </tr>
