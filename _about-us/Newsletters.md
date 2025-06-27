@@ -139,7 +139,7 @@ variant: markdown
 	<tbody>
 		<tr>
 		<td width="10%">
-			<img src="/images/june_2024_pri_nl.jpg">
+			<img src="/images/june_2025_pri_nl.jpg">
 		</td>
 		<td width="35%">
 			<a target="_blank" href="https://drive.google.com/file/d/1DfiWWwUgzk3XGIK1wII0KkUl6bVoptpT/view?usp=sharing">
