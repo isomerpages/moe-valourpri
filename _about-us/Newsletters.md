@@ -132,3 +132,23 @@ variant: markdown
 		</td>
 	</tr>
 </tbody></table>
+
+### 2025 NEWSLETTERS
+
+<table>		
+	<tbody>
+		<tr>
+		<td width="10%">
+			<img src="/images/june_2024_pri_nl.jpg">
+		</td>
+		<td width="35%">
+			<a target="_blank" href="https://drive.google.com/file/d/1DfiWWwUgzk3XGIK1wII0KkUl6bVoptpT/view?usp=sharing">
+				Buzz@Valour Issue 11<br>
+				(June 2025)
+			</a>
+		</td>
+		<td width="10%" style="text-align: center"></td>
+		<td width="10%" style="text-align: center"></td>
+		<td width="35%"></td>
+	</tr>
+</tbody></table>
