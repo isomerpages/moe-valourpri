@@ -19,6 +19,13 @@ sections:
           description: MK@Valour
           url: /moe-kindergarten/moe-kindergarten-at-valour/
   - infopic:
+      title: E-Open House 2025
+      id: infopic
+      description: Register for our upcoming e-Open House 2025
+      button: Sign up here!
+      url: https://go.gov.sg/vps-webinar
+      alt: Image alt text
+  - infopic:
       title: VPS Virtual Tour
       description: Embark on a campus tour with Timba, our lively mascot!
       button: Click here to watch
