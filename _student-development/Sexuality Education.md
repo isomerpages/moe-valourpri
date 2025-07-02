@@ -112,7 +112,7 @@ This lesson focuses on helping students know what pornography is and how it can 
 In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br>
 <i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
 		</td>
-			<td class="body-ca">Term 4 Week 2</td>
+			<td class="body-ca">Term 4 Week 5</td>
 	</tr><tr>
 		<td></td>
 		<td></td>
@@ -178,7 +178,7 @@ In this lesson, students will learn to distinguish between the characteristics o
 		<td class="body-la">
 In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.
 		</td>
-			<td class="body-ca">Term 4 Week 6</td>
+			<td class="body-ca">Term 4 Week 9</td>
 	</tr>
 	<tr>
 	</tr>
