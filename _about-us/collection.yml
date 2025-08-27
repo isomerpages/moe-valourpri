@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Partners/.keep
       - School Identity/.keep
       - School Identity/School Crest.md
       - General Information/Service Providers.md
