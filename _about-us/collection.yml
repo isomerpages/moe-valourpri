@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Identity/Vision, Mission & Motto.md
       - School Identity/.keep
       - School Identity/School Crest.md
       - General Information/.keep
