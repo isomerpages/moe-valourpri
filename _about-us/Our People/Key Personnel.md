@@ -206,11 +206,6 @@ variant: markdown
     <td class="tg-ktyi">tong_yi_jen_fabriz@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-ktyi">Level Head - Mathematics</td>
-    <td class="tg-ktyi">Mrs Melissa Ting</td>
-    <td class="tg-ktyi">lim_ping_siew_melissa@moe.edu.sg</td>
-  </tr>
-	<tr>
 			<td></td>
 			<td></td>
 			<td></td>
