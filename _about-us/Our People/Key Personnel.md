@@ -94,7 +94,7 @@ variant: markdown
     <td class="tg-ktyi">tan_ee_teck_joanne@moe.edu.sg</td>
   </tr>
 	<tr>
-	    <td class="tg-ktyi">Physical Education (PE), Outdoor Education (OE) &amp; Co Curriculum Activity (CCA)</td>
+	    <td class="tg-ktyi">Physical Education (PE), Outdoor Education (OE) &amp; Co-Curricular Activities (CCA)</td>
     <td class="tg-ktyi">Mdm Casey Ng</td>
     <td class="tg-ktyi">ng_hui_wun_casey@moe.edu.sg</td>
 	</tr>
