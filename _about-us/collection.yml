@@ -2,10 +2,11 @@ collections:
   about-us:
     output: true
     order:
+      - School Identity/Vision, Mission & Motto.md
       - School Identity/.keep
       - School Identity/School Crest.md
-      - General Information/Service Providers.md
       - General Information/.keep
+      - General Information/Service Providers.md
       - General Information/Homework Policy.md
       - General Information/Calendar.md
       - Newsletters.md
@@ -15,6 +16,9 @@ collections:
       - Our People/Allied Educators.md
       - Our People/Other Subject Teachers.md
       - Our People/EAS.md
+      - Our Partners/.keep
+      - Our Partners/Parent Support Group (PSG).md
+      - Our Partners/School Advisory Committee (SAC).md
       - Privacy Statement.md
       - Announcements for Vendors.md
       - Contact Us.md

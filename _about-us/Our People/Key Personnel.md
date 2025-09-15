@@ -93,6 +93,11 @@ variant: markdown
     <td class="tg-ktyi">Miss Joanne Tan</td>
     <td class="tg-ktyi">tan_ee_teck_joanne@moe.edu.sg</td>
   </tr>
+	<tr>
+	    <td class="tg-ktyi">Physical Education (PE), Outdoor Education (OE) &amp; Co-Curricular Activities (CCA)</td>
+    <td class="tg-ktyi">Mdm Casey Ng</td>
+    <td class="tg-ktyi">ng_hui_wun_casey@moe.edu.sg</td>
+	</tr>
   <tr>
     <td class="tg-ktyi">Character &amp; Citizenship Education (CCE)</td>
     <td class="tg-ktyi">Mr Khong Weng Keong</td>
@@ -186,11 +191,6 @@ variant: markdown
     <td class="tg-ktyi">wong_sensen@moe.edu.sg</td>
   </tr>  
 	<tr>
-	    <td class="tg-ktyi">Subject Head - Outdoor Education (OE)</td>
-    <td class="tg-ktyi">Mdm Casey Ng</td>
-    <td class="tg-ktyi">ng_hui_wun_casey@moe.edu.sg</td>
-	</tr>
-	<tr>
     <td class="tg-ktyi">Subject Head - Co-Curricular Activities (CCA)</td>
     <td class="tg-ktyi">Mdm Hazel Ng</td>
     <td class="tg-ktyi">ng_boey_ling@moe.edu.sg</td>
@@ -255,6 +255,11 @@ variant: markdown
     <td class="tg-ktyi">Science (ST)</td>
     <td class="tg-ktyi">Mr Lim Yi Bin</td>
     <td class="tg-ktyi">lim_yi_bin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Lower Primary (ST)</td>
+    <td class="tg-ktyi">Mdm Lydia</td>
+    <td class="tg-ktyi">nur_suhaila_lydia_ab@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-ktyi">Character &amp; Citizenship Education (ST)</td>
