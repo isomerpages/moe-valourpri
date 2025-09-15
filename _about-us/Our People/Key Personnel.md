@@ -256,6 +256,11 @@ variant: markdown
     <td class="tg-ktyi">Mr Lim Yi Bin</td>
     <td class="tg-ktyi">lim_yi_bin@moe.edu.sg</td>
   </tr>
+  <tr>
+    <td class="tg-ktyi">Lower Primary (ST)</td>
+    <td class="tg-ktyi">Mdm Lydia</td>
+    <td class="tg-ktyi">nur_suhaila_lydia_ab@moe.edu.sg</td>
+  </tr>
 	<tr>
     <td class="tg-ktyi">Character &amp; Citizenship Education (ST)</td>
     <td class="tg-ktyi">Mdm Joyce Lee</td>
