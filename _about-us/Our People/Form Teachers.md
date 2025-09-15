@@ -59,9 +59,13 @@ variant: markdown
     <td class="tg-ktyi">nur_ain_farah_iskandar@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi" rowspan="2" colspan="1">1- Upright</td>
+    <td class="tg-ktyi" rowspan="3" colspan="1">1- Upright</td>
     <td class="tg-ktyi">Miss Ng Qian Hui</td>
     <td class="tg-ktyi">ng_qian_hui_a@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Mdm Hazel Ng</td>
+    <td class="tg-ktyi">ng_boey_ling@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-ktyi">Mr Luqmanul Hakim</td>
@@ -391,13 +395,9 @@ variant: markdown
     <td class="tg-ktyi">khong_weng_keong@moe.edu.sg</td>
 	</tr>
 <tr>
-    <td class="tg-ktyi" rowspan="3" colspan="1">5 - Optimism</td>
+    <td class="tg-ktyi" rowspan="2" colspan="1">5 - Optimism</td>
     <td class="tg-ktyi">Mr Chan Yong Yan</td>
     <td class="tg-ktyi">chan_yong_yan@moe.edu.sg</td>
-  </tr>
-	<tr>
-    <td class="tg-ktyi">Mdm Hazel Ng</td>
-    <td class="tg-ktyi">ng_boey_ling@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-ktyi">Mdm Charmain Cheong</td>
