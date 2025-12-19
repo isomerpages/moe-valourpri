@@ -43,7 +43,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ktyi">Administrative Executive</td>
-    <td class="tg-ktyi">Mdm Nur Linda Eain Mohamed Hapik</td>
+    <td class="tg-ktyi">Mdm Nur Linda</td>
     <td class="tg-ktyi">nur_linda_eain_mohamed_hapik@moe.edu.sg</td>
   </tr>
   <tr>
