@@ -42,6 +42,11 @@ variant: markdown
     <td class="tg-ktyi">karen_sk_goh@moe.edu.sg</td>
   </tr>
   <tr>
+    <td class="tg-ktyi">Administrative Executive</td>
+    <td class="tg-ktyi">Mdm Nur Linda Eain Mohamed Hapik</td>
+    <td class="tg-ktyi">nur_linda_eain_mohamed_hapik@moe.edu.sg</td>
+  </tr>
+  <tr>
     <td class="tg-ktyi">Corporate Support Officer</td>
     <td class="tg-ktyi">Mdm Linda Sim</td>
     <td class="tg-ktyi">sim_poh_buay_linda@moe.edu.sg</td>
@@ -60,11 +65,6 @@ variant: markdown
     <td class="tg-ktyi">Operations Manager</td>
     <td class="tg-ktyi">Mr Mohamed Roslan</td>
     <td class="tg-ktyi">mohamed_roslan_mohamed@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Operations Manager</td>
-    <td class="tg-ktyi">Muhamad Iskandar</td>
-    <td class="tg-ktyi">muhamad_iskandar_sarkawai@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Operations Support Officer</td>
@@ -95,6 +95,11 @@ variant: markdown
     <td class="tg-ktyi">Operations Support Officer</td>
     <td class="tg-ktyi">Mr Wong Thiam Lin</td>
     <td class="tg-ktyi"> </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Operations Support Officer</td>
+    <td class="tg-ktyi">Mr John Selva Mani S/O Avadey</td>
+    <td class="tg-ktyi"></td>
   </tr>
   <tr>
     <td class="tg-ktyi"></td>
