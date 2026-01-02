@@ -148,7 +148,13 @@ variant: markdown
 			</a>
 		</td>
 		<td width="10%" style="text-align: center"></td>
-		<td width="10%" style="text-align: center"></td>
-		<td width="35%"></td>
+		<td width="10%" style="text-align: center">
+			<img src="/images/december_2025_pri_nl.jpg">
+		</td>
+		<td width="35%">
+			<a target="_blank" href="https://drive.google.com/file/d/1WhoinTRSN6Ci0IXa-Ymjz0sqK59w4c1I/view?usp=sharing">
+				Buzz@Valour Issue 12<br>
+				(December 2025)</a>
+		</td>
 	</tr>
 </tbody></table>
