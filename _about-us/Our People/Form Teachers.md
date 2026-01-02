@@ -213,9 +213,9 @@ variant: markdown
 		<td style="width:40%"></td>
 </tr>
 	<tr>
-    <td class="tg-ktyi" rowspan="2" colspan="1">1 - Victory</td>
-    <td class="tg-ktyi">Miss Elizabeth Ashvini Anthony</td>
-    <td class="tg-ktyi">elizabeth_ashvini_anthony@moe.edu.sg</td>
+    <td class="tg-ktyi" rowspan="2" colspan="1">2 - Victory</td>
+    <td class="tg-ktyi">Ms Susanne Lim</td>
+    <td class="tg-ktyi">lim_shu_ling_susanne@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-ktyi">Mr Li Xiang</td>
