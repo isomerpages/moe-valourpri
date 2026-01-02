@@ -90,8 +90,8 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-ktyi">Science</td>
-    <td class="tg-ktyi">Miss Joanne Tan</td>
-    <td class="tg-ktyi">tan_ee_teck_joanne@moe.edu.sg</td>
+    <td class="tg-ktyi">Lim Kok Meng</td>
+    <td class="tg-ktyi">lim_kok_meng_b@moe.edu.sg</td>
   </tr>
 	<tr>
 	    <td class="tg-ktyi">Physical Education (PE), Co-Curricular Activities (CCA) &amp; Learning for Life Programme (LLP)</td>
@@ -145,14 +145,14 @@ variant: markdown
     <td class="tg-ktyi">chia_yee_ling@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Assistant Year Head - Lower Primary</td>
-    <td class="tg-ktyi">Mr Benjamin Tay</td>
-    <td class="tg-ktyi">tay_zhi_yang_benjamin@moe.edu.sg</td>
-  </tr>
-  <tr>
     <td class="tg-ktyi">Year Head - Middle Primary<br>(Pri 3 to Pri 4)</td>
     <td class="tg-ktyi">Mr Anson Tan</td>
     <td class="tg-ktyi">anson_tan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Assistant Year Head - Lower Primary</td>
+    <td class="tg-ktyi">Mr Benjamin Tay</td>
+    <td class="tg-ktyi">tay_zhi_yang_benjamin@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Year Head - Upper Primary<br>(Pri 5 to Pri 6)</td>
