@@ -22,15 +22,15 @@ variant: markdown
 		<td style="width:30%"></td>
 		<td style="width:40%"></td>
 </tr>
-<tr>
+	<tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">1 - Victory</td>
-    <td class="tg-ktyi">Mdm Casey Ng</td>
-    <td class="tg-ktyi">ng_hui_wun_casey@moe.edu.sg</td>
-</tr>
-<tr>
-    <td class="tg-ktyi">Mdm Latifah Bte Abdul Aziz</td>
-    <td class="tg-ktyi">latifah_abdul_aziz_a@moe.edu.sg</td>
-</tr>
+    <td class="tg-ktyi">Miss Elizabeth Ashvini Anthony</td>
+    <td class="tg-ktyi">elizabeth_ashvini_anthony@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Mr Li Xiang</td>
+    <td class="tg-ktyi">li_xiang_a@moe.edu.sg</td>
+  </tr>
 <tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">1 - Adventurous</td>
     <td class="tg-ktyi">Mdm Mulyani Binte Djafar</td>
