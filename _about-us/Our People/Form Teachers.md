@@ -253,8 +253,8 @@ variant: markdown
     <td class="tg-ktyi">tan_yan_lin_b@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-ktyi">Ms Vernicia Lim</td>
-    <td class="tg-ktyi">vernicia_lim_su_yu@moe.edu.sg</td>
+    <td class="tg-ktyi">Mr Timothy Chua</td>
+    <td class="tg-ktyi">chua_yu_yong_timothy@moe.edu.sg</td>
   </tr>
 	<tr>
 	</tr>
