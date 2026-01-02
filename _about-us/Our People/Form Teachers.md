@@ -231,26 +231,26 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">3 - Upright</td>
-    <td class="tg-ktyi">Mdm Grace Lim</td>
-    <td class="tg-ktyi">lim_xiaotian_grace@moe.edu.sg</td>
+    <td class="tg-ktyi">Mr Mohd Suhairy</td>
+    <td class="tg-ktyi">mohamed_suhairy_mohd_salleh@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-ktyi">Mdm Miao Rui</td>
-    <td class="tg-ktyi">miao_rui@moe.edu.sg</td>
+    <td class="tg-ktyi">Ms Chua Mei Ling</td>
+    <td class="tg-ktyi">chua_mei_ling_a@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">3 - Resilience</td>
-    <td class="tg-ktyi">Miss Raspal Kaur</td>
-    <td class="tg-ktyi">raspal_kaur_narayana_singh@moe.edu.sg</td>
+    <td class="tg-ktyi">Miss Minjoot Jacqueline Constance</td>
+    <td class="tg-ktyi">jacqueline_minjoot@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-ktyi">Mdm Jeannette Ngoh</td>
-    <td class="tg-ktyi">jeannette_ngoh@moe.edu.sg</td>
+    <td class="tg-ktyi">Mr Han Ji</td>
+    <td class="tg-ktyi">han_ji@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">3 - Passion</td>
-    <td class="tg-ktyi">Miss Hui Sou Kuin</td>
-    <td class="tg-ktyi">hui_sou_kuin@moe.edu.sg</td>
+    <td class="tg-ktyi">Ms Tan Yan Lin</td>
+    <td class="tg-ktyi">tan_yan_lin_b@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-ktyi">Ms Vernicia Lim</td>
