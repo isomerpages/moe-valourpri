@@ -171,7 +171,7 @@ variant: markdown
     <td class="tg-ktyi">tan_chin_li_adeline@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-ktyi" rowspan="2" colspan="1">1 - Sincerity</td>
+    <td class="tg-ktyi" rowspan="2" colspan="1">2 - Sincerity</td>
     <td class="tg-ktyi">Mdm Chanel Victoria Louis</td>
     <td class="tg-ktyi">chanel_victoria_louis@moe.edu.sg</td>
   </tr>
