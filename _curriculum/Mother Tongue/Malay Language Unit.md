@@ -70,12 +70,13 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 		Unit 4: Sayang Semuanya
 		</td>
 		<td width="23%" style="text-align: left">
-		To be updated
+		Unit 5: Kita Sihat! Kita Kuat!<br>
+		Unit 6: Saya Mahu...
 		</td>
 		<td width="23%" style="text-align: left">
-		To be updated
-		</td>
-	</tr>
+			Unit 7: Seronok Bersukan!<br>
+			Unit 8: Saya ada Idea!
+	</td></tr>
 	<tr>
 	</tr>
 </tbody>
@@ -94,22 +95,18 @@ Menyediakan pengajaran dan pembelajaran yang autentik, berkualiti dan bertumpuka
 	<tr height="65px" style="font-size:12px">
 		<th width="8%" style="text-align: center">Topic</th>
 		<td width="23%" style="text-align: left">
-		Unit 1: Kembali ke Sekolah<br>
-		Unit 2: Pilihan Saya<br>
-		Unit 3: Boleh Lakukan Sendiri
+			Unit 1: Pintar Digital<br>
+			Unit 2: Ke Sini dan Ke Sana
 		</td>
 		<td width="23%" style="text-align: left">
-		Unit 4: Keluarga Ibu<br>
-		Unit 5: Peraduan Bercerita	
+			Unit 3: Masih Berguna<br>
+			Unit 4: Siasat Dahulu
 		</td>
 		<td width="23%" style="text-align: left">
-		Unit 6: Permainan Tradisional<br>
-		Unit 7: Usaha untuk Berjaya<br>
-		Unit 8: Saya Sayang akan Singapura
+		To be updated
 		</td>
 		<td width="23%" style="text-align: left">
-		Unit 9: Hidup Berjiran<br>
-		Unit 10: Singapuraku Hijau
+		To be updated
 		</td>
 	</tr>
 	<tr>
