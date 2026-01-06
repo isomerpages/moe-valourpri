@@ -150,7 +150,7 @@ variant: markdown
     <td class="tg-ktyi">anson_tan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Assistant Year Head - Lower Primary</td>
+    <td class="tg-ktyi">Assistant Year Head - Middle Primary</td>
     <td class="tg-ktyi">Mr Benjamin Tay</td>
     <td class="tg-ktyi">tay_zhi_yang_benjamin@moe.edu.sg</td>
   </tr>
