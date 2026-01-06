@@ -461,7 +461,7 @@ variant: markdown
     <td class="tg-ktyi">charmain_cheong@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi" rowspan="2" colspan="1">5 - Upright</td>
+    <td class="tg-ktyi" rowspan="2" colspan="1">6 - Upright</td>
     <td class="tg-ktyi">Mdm Caroline Neo</td>
     <td class="tg-ktyi">neo_bee_kim_caroline@moe.edu.sg</td>
   </tr>
@@ -470,7 +470,7 @@ variant: markdown
     <td class="tg-ktyi">hew_li_bin@moe.edu.sg</td>
 	</tr>
 	<tr>
-    <td class="tg-ktyi" rowspan="2" colspan="1">5 - Resilience</td>
+    <td class="tg-ktyi" rowspan="2" colspan="1">6 - Resilience</td>
     <td class="tg-ktyi">Mdm Hidayu</td>
     <td class="tg-ktyi">nur_hidayu_masod@moe.edu.sg</td>
   </tr>
@@ -479,7 +479,7 @@ variant: markdown
     <td class="tg-ktyi">kuek_tsing_xiu@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-ktyi" rowspan="2" colspan="1">5 - Passion</td>
+    <td class="tg-ktyi" rowspan="2" colspan="1">6 - Passion</td>
     <td class="tg-ktyi">Mdm Guo Xuanyun</td>
     <td class="tg-ktyi">guo_xuanyun@moe.edu.sg</td>
   </tr>
