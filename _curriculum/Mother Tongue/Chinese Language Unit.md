@@ -14,7 +14,7 @@ To provide quality and customised teaching and authentic learning experiences to
 
 提供高质量、适合学生程度和能力的教学，以及符合真实情景的学习体验，以培养学生对于华文和华族文化的热爱。
 
-### Chinese Language Curriculum for 2025
+### Chinese Language Curriculum for 2026
 ##### Primary 1
 <table>
 	<tbody>
@@ -118,7 +118,7 @@ To provide quality and customised teaching and authentic learning experiences to
 	<tr height="65px" style="font-size:12px">
 		<th width="8%" style="text-align: center">Topic</th>
 		<td width="23%" style="text-align: left">
-		第一课 我们的愿望<br>
+		第一课 美丽的愿望<br>
 		第二课 我的朋友和家人<br>
 		第三课 我的好伙伴<br>
 		第四课 奇妙的变化
