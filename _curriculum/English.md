@@ -7,9 +7,10 @@ variant: markdown
 <img src="/images/english_1.jpg" style="width:75%">
 		 
 ### Focus and Beliefs
-At Valour Primary School, we are committed to nurturing a vibrant community of engaged learners who **are confident and effective communicators.** We also aim to cultivate **lifelong readers** who possess a genuine love for reading, fostering curiosity and a passion for learning. 
+At Valour Primary School, we are committed to nurturing a vibrant community of engaged learners who are **confident and empathetic communicators**. Guided by our English mission, we design purposeful and engaging learning experiences that develop strong language skills, nurture critical thinking, and foster a lifelong love for the language. Through rich texts and authentic learning experiences, students are encouraged to inquire, reflect, and make meaningful connections, sparking curiosity, deepening understanding, and inspiring a joy of learning that extends beyond the classroom.
 
-To achieve this, we emphasise the development of 21st-century competencies through the teaching of the English Language. This includes a strong focus on **Multiliteracies** to navigate diverse forms of communication, **Metacognitive skills** to enhance self-awareness in learning, and **Inquiry Through Dialogue** to encourage critical thinking, collaboration, and meaningful discussions.
+To support this, we place a strong emphasis on developing 21st-century competencies through English Language learning. This includes a strong focus on **Multiliteracies** to navigate diverse forms of communication, **Metacognitive** skills to enhance self-awareness in learning, and **Inquiry Through Dialogue** to encourage critical thinking, collaboration, and meaningful discussions.
+
 
 ### National Curriculum for 2025: STELLAR 2.0 (Strategies for English Language Learning And Reading)
 
@@ -20,7 +21,7 @@ To complement STELLAR, authentic learning opportunities will be provided for Val
 
 
 
-### English Curriculum for 2025
+### English Curriculum for 2026
 
 ##### Primary 1
 <table>
@@ -236,16 +237,16 @@ To complement STELLAR, authentic learning opportunities will be provided for Val
 		<td width="14%" style="text-align: left">The Promise</td>
 		<td width="9%" style="text-align: center">Unit 6:</td>
 		<td width="14%" style="text-align: left">Martial Arts</td>
-		<td width="9%" style="text-align: center">Unit 8:</td>
-		<td width="14%" style="text-align: left">Making Every Drop Count</td>		
+		<td width="9%" style="text-align: center">Unit 7:</td>
+		<td width="14%" style="text-align: left">Dogs with Jobs</td>
 	</tr>
 	<tr height="50px" style="font-size:12px">
 		<td width="9%" style="text-align: center">Unit 2:</td>
 		<td width="14%" style="text-align: left">Amazing Friends</td>
 		<td width="9%" style="text-align: center">Unit 5:</td>
 		<td width="14%" style="text-align: left">A Game of Emails</td>
-		<td width="9%" style="text-align: center">Unit 7:</td>
-		<td width="14%" style="text-align: left">Dogs with Jobs</td>
+		<td width="9%" style="text-align: center">Unit 8:</td>
+		<td width="14%" style="text-align: left">Making Every Drop Count</td>
 		<td width="9%" style="text-align: center">Unit 9:</td>
 		<td width="14%" style="text-align: left">Urban Wildlife: Friend or Foe?</td>		
 	</tr>
@@ -278,16 +279,16 @@ To complement STELLAR, authentic learning opportunities will be provided for Val
 		<td width="14%" style="text-align: left">Getting Ready to Learn</td>
 		<td width="9%" style="text-align: center">Unit 4:</td>
 		<td width="14%" style="text-align: left">Aunty Lin’s Story</td>
-		<td width="9%" style="text-align: center">Unit 6:</td>
-		<td width="14%" style="text-align: left">On the Job with a Photographer</td>
+		<td width="9%" style="text-align: center">Unit 5:</td>
+		<td width="14%" style="text-align: left">Creative Recycling</td>
 		<td width="9%" style="text-align: center">Unit 8:</td>
 		<td width="14%" style="text-align: left">Martial Arts</td>		
 	</tr>
 	<tr height="50px" style="font-size:12px">
 		<td width="9%" style="text-align: center">Unit 2:</td>
 		<td width="14%" style="text-align: left">Mei’s Memorable Morning</td>
-		<td width="9%" style="text-align: center">Unit 5:</td>
-		<td width="14%" style="text-align: left">Creative Recycling</td>
+		<td width="9%" style="text-align: center">Unit 6:</td>
+		<td width="14%" style="text-align: left">On the Job with a Photographer</td>
 		<td width="9%" style="text-align: center">Unit 7:</td>
 		<td width="14%" style="text-align: left">An Unusual Friendship</td>
 		<td width="9%" style="text-align: center">Unit 9:</td>
