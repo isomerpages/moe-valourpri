@@ -18,4 +18,5 @@ during family screen time because digital wellness begins at home.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/screen_guide_info_tn.jpg">
 </div>
-<p></p>
+<p><a href="/files/screen_guide_info.pdf" rel="noopener nofollow" target="_blank">Screen Guide Infographics </a>
+</p>
