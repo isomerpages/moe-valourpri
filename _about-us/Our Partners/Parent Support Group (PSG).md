@@ -14,9 +14,6 @@ our children's educational experience.</p>
 <h3>Digital Wellness Together</h3>
 <p>Join us in building healthy screen habits by practicing VALOUR's Hallmarks
 during family screen time because digital wellness begins at home.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/screen_guide_info_tn.jpg">
-</div>
-<p><a href="/files/screen_guide_info.pdf" rel="noopener nofollow" target="_blank">Screen Guide Infographics </a>
+<p></p><a class="isomer-image-wrapper" href="/files/screen_guide_info.pdf"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/screen_guide_info_tn.jpg"></a>
+<p><a href="/files/screen_guide_info.pdf" rel="noopener nofollow" target="_blank">Screen Guide Infographics</a>
 </p>
