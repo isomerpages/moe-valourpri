@@ -16,6 +16,6 @@ our children's educational experience.</p>
 during family screen time because digital wellness begins at home.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/screen_guide_info_tn.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/screen_guide_info_tn.jpg">
 </div>
 <p></p>
