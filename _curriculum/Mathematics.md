@@ -67,8 +67,7 @@ Every Valourian, a self-directed problem solver.
 </table>
 
 ##### Primary 2
-
-		  11.   Picture Graphs<br><table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th width="8%" class="tg-9hzb">Term</th>
@@ -138,6 +137,7 @@ Every Valourian, a self-directed problem solver.
 			11.   Length, Mass and Volume
 		</td>
     <td class="tg-ktyi">
+			11.   Length, Mass and Volume<br>
 			12.  Area and Perimeter<br>
 			13.  Time</td>
   </tr>
@@ -161,8 +161,8 @@ Every Valourian, a self-directed problem solver.
   <tr>
     <td width="8%" class="tg-9hzb">Topic</td>
     <td class="tg-ktyi">
-			1.    Whole Numbers<br>
-			2.    Factors and Multiples 2<br>
+			1.    Numbers to 100 000<br>
+			2.    Factors and Multiples<br>
 			3.    Four Operations of Whole Numbers<br>
 			4.    Tables and Line Graphs		
 		</td>
@@ -203,7 +203,7 @@ Every Valourian, a self-directed problem solver.
   <tr>
     <td width="8%" class="tg-9hzb">Topic</td>
     <td class="tg-ktyi">
-			1.    Whole Numbers<br>
+			1.     Four Operations of Fraction (Part 2)<br>
 			2.    Four Operations of Whole Numbers<br>
 			3.    Fractions &amp; Division<br>
 			4.    Four Operations of Fractions (Part 1)
