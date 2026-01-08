@@ -41,22 +41,22 @@ Every Valourian, a self-directed problem solver.
 			1.    Numbers to 10<br>
 			2.    Addition within 10<br>
 			3.    Subtraction within 10<br>
-			4.    Shapes<br>
-			5.    Ordinal Numbers
+			4.    Shapes
 		</td>
     <td class="tg-ktyi">
+			5.    Ordinal Numbers<br>
 			6.    Numbers to 20<br>
 			7.     Addition and Subtraction within 20<br>
-			8.    Numbers to 100<br>
-			9.    Addition and Subtraction within 100
+			8.    Picture Graphs<br>
+			9.    Numbers to 100
 			</td>
     <td class="tg-ktyi">
-			10.  Picture Graphs<br>
-			11.  Multiplication<br>
-			12. Division
+			10.   Addition and Subtraction within 100
+			11.   Length<br>			
+			12.  Multiplication
 		</td>
     <td class="tg-ktyi">
-			13.  Length<br>
+			13. Division<br>
 			14.  Time<br>
 			15.  Money
 		</td>
@@ -67,7 +67,8 @@ Every Valourian, a self-directed problem solver.
 </table>
 
 ##### Primary 2
-<table class="tg">
+
+		  11.   Picture Graphs<br><table class="tg">
 <thead>
   <tr>
     <th width="8%" class="tg-9hzb">Term</th>
@@ -89,16 +90,15 @@ Every Valourian, a self-directed problem solver.
 			4.    Multiplication and Division<br>
 			5.    Multiplication Tables of 2, 5 and 10<br>
 			6.    Mass<br>
-			7.     Shapes (2B)
+			7.     Time
 		</td>
     <td class="tg-ktyi">
 			8.    Addition and Subtraction<br>
 			9.    Multiplication Tables of 3 and 4<br>
-			10.  Picture Graphs<br>
-			11.   Fractions</td>
+			10.  Fractions</td> 
     <td class="tg-ktyi">
 			12.  Volume<br>
-			13.  Time (2A)<br>
+			13.  Shapes<br>
 			14.  Money</td>
   </tr>
 	<tr>
