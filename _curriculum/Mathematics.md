@@ -217,7 +217,7 @@ Every Valourian, a self-directed problem solver.
 			7.    Decimals<br>
 			8.    Rate<br>
 			9.    Percentage<br>
-			10.  Average
+			10.  Angles
 			</td>
     <td class="tg-ktyi">
 			11.   Property of Triangles<br>
@@ -253,14 +253,15 @@ Every Valourian, a self-directed problem solver.
 			4.	  Fraction as Part of a Whole (Part 2)<br>
 			5.	  Time<br>
 			6.	  Angles<br>
-			7.	  Rectangles and Squares<br>
-			8.	  Mixed Numbers and Improper Fractions
+			7.	  Perpendicular &amp; Parallel Lines<br>
+			8.	  Rectangles and Squares
 		</td>
     <td class="tg-ktyi">
-			9.	  Multiplication of Fractions<br>
-			10.	 Decimals<br>
-			11.	  Four Operations of Decimals<br>
-			12.	 Rate
+			9.	  Mixed Numbers and Improper Fractions
+			10.  Multiplication of Fractions<br>
+			11.	  Decimals<br>
+			12.	 Four Operations of Decimals<br>
+			13.	 Rate
 			</td>
     <td class="tg-ktyi">
 			13.	 Area and Perimeter<br>
