@@ -297,13 +297,12 @@ Every Valourian, a self-directed problem solver.
     <td class="tg-ktyi">
 			4.   Angles in Geometrical Figures<br>
 			5.   Circles<br>
-			6.   Pie Charts<br>
-			7.   Algebra
+			6.   Volume of Cube and Cuboid (Part 1)
 		</td>
     <td class="tg-ktyi">
-			8.   Volume<br>
-			9.   Solid Figures &amp; Nets<br>
-			10.  Speed
+			6.   Volume of Cube and Cuboid (Part 2)<br>
+			7.    Average<br>
+			8.   Algebra
 			</td>
     <td class="tg-ktyi">
 		</td>
