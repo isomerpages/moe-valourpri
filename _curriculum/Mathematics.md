@@ -333,13 +333,14 @@ Every Valourian, a self-directed problem solver.
 		</td>
     <td class="tg-ktyi">
 				3.    Percentage (Part 2)<br>
-				4.	  Area &amp; Perimeter<br>
-				5.	  Triangles; Rectangles &amp; Squares<br>
-				6.	  Pie Chart
+				4.	  Average<br>
+				5.	  Volume<br>
+				6.	  Pie Charts
 		</td>
     <td class="tg-ktyi">
-				7.	  Average<br>
-				8.	  Volume
+				7.	  Area of Triangle<br>
+				8.	 Properties of Triangles<br>
+			  9.	 Angles in Triangles, Squares and Rectangles
 			</td>
     <td class="tg-ktyi">
 		</td>
