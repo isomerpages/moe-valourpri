@@ -143,14 +143,9 @@ To provide quality and customised teaching and authentic learning experience to 
 தொகுதி 3: <br>மனித உறவுகள் <br>
 தொகுதி 4: <br>சமூகமும் நானும்
 		</td>
-		<td width="23%" style="text-align: left">
-தொகுதி 6: <br>உலகம் / பன்னாட்டுக் கதைகள்<br>
-தொகுதி 7: <br>குடும்பம் / குடும்பப் பண்புகள்<br>
-தொகுதி 8: <br>பள்ளி / பள்ளி நடவடிக்கைகள்
+		<td width="23%" colspan="2" style="text-align: center">
+			(மேல்விவரங்கள் இணைக்கப்படும்)  
 		</td>
-		<td width="23%" style="text-align: left">
-தொகுதி 9 : <br>சமூகம் / மலாய் இனப் பண்பாடுகள்<br>
-தொகுதி 10 : <br>நாடு / பசுமை இயற்கை		</td>
 	</tr>
 	<tr>
 	</tr>
