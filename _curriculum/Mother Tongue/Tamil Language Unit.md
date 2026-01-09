@@ -136,13 +136,12 @@ To provide quality and customised teaching and authentic learning experience to 
 	<tr height="65px" style="font-size:12px">
 		<th width="8%" style="text-align: center">Topic</th>
 		<td width="23%" style="text-align: left">
-தொகுதி 1: <br>பொழுதுபோக்குகள்<br>
-தொகுதி 2: <br>குடும்பம் / குடும்பக் கொண்டாட்டங்கள்<br>
-தொகுதி 3: <br>பள்ளி / நண்பர்களைத் தெரிவுசெய்தல்
+தொகுதி 1:<br>மரபும் பண்பாடும்<br> 
+தொகுதி 2:<br>என்னைப்பற்றி 
 		</td>
 		<td width="23%" style="text-align: left">
-தொகுதி 4 : <br>சமூகம் / சமூக நற்பண்புகள்<br>
-தொகுதி 5 : <br>நாடு / நாட்டைப் பற்றி
+தொகுதி 3: <br>மனித உறவுகள் <br>
+தொகுதி 4: <br>சமூகமும் நானும்
 		</td>
 		<td width="23%" style="text-align: left">
 தொகுதி 6: <br>உலகம் / பன்னாட்டுக் கதைகள்<br>
