@@ -18,7 +18,7 @@ To provide quality and customised teaching and authentic learning experience to 
 
 மாணவர்களின் தமிழ்மொழி மற்றும் கலாச்சாரத்தின் மீது உள்ள பற்றை வளர்க்க,&nbsp;அவர்களுக்கு ஏற்ற வகையில் தரமான,&nbsp;கற்பித்தல் மற்றும் கற்றல் அனுபவத்தை வழங்குவது.&nbsp;&nbsp;
 
-### Tamil Language Curriculum for 2025
+### Tamil Language Curriculum for 2026
 ##### Primary 1
 <table>
 	<tbody>
