@@ -110,6 +110,12 @@ To provide quality and customised teaching and authentic learning experience to 
 			பாடம் 7 : <br>ஒகர - ஓகார வேறுபாடு
 		</td>
 		<td width="23%" style="text-align: left">
+			பாடம் 8:<br>ஔகார உயிர்மெய்யெழுத்துகள்<br>
+			பாடம் 9: <br>இலக்கணம்- மூவிடப்பெயர்<br>
+			பாடம் 10: <br>இலக்கணம்- மூவிடப்பெயர்<br>
+			பாடம் 11: <br>இலக்கணம்- <br>வினாப்பெயர்
+			பாடம் 12: <br>சொல்வளம், வடிவங்கள்<br>
+			பாடம் 13: <br>தெரிநிலை வினைமுற்று வாக்கியங்கள்
 		</td>
 	</tr>
 	<tr>
