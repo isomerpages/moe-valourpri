@@ -58,4 +58,4 @@ Our annual Primary 3 Sleepover Camp and the Primary 4 Outdoor Adventure Learning
 
 Through carefully planned activities such as outdoor orienteering and team-building challenges, students are encouraged to step out of their comfort zones, overcome challenges and strengthen bonds with their peers. The camps also deepen students’ appreciation of nature while cultivating essential life skills and values. 
 
-By the end of the camps, students gain memorable experiences and grow as confident individuals, ready to take on future challenges with resilience and courage. 
+By the end of the camps, students gain memorable experiences and grow as confident individuals, ready to take on future challenges with resilience and courage.
