@@ -20,27 +20,27 @@ This schedule is an information guide for you.&nbsp; You will be informed separa
 	<tr>
 		<td style="text-align: center" width="30%" rowspan="2">Semester 1</td>
 		<td style="text-align: center" width="20%">Term 1</td>
-		<td style="text-align: left" width="50%">Thu 2 Jan* to Fri 14 Mar</td>
+		<td style="text-align: left" width="50%">Fri 2 Jan* to Fri 13 Mar</td>
 	</tr>
 		<tr>
 		<td style="text-align: center" width="20%">Term 2</td>
-		<td style="text-align: left" width="50%">Mon 30 Mar to Fri 30 May</td>
+		<td style="text-align: left" width="50%">Mon 23 Mar** to Fri 29 May</td>
 	</tr>
 		<tr>
 		<td style="text-align: center" width="30%" rowspan="2">Semester 2</td>
 		<td style="text-align: center" width="20%">Term 3</td>
-		<td style="text-align: left" width="50%">Mon 24 Jun to Fri 5 Sep</td>
+		<td style="text-align: left" width="50%">Mon 29 Jun to Fri 4 Sep</td>
 	</tr>
 		<tr>
 		<td style="text-align: center" width="20%">Term 4</td>
-		<td style="text-align: left" width="50%">Mon 15 Sep to Fri 21 Nov**</td>
+		<td style="text-align: left" width="50%">Mon 14 Sep to Fri 20 Nov***</td>
 	</tr>
 	<tr>
 	</tr>
 </tbody>
 </table>
 
-###### *&nbsp;Primary 1 and Kindergarten 1 will start school on Thursday, 2 January 2025. Primary 2 to 6 and Kindergarten 2 will start school on Friday, 3 January 2024. <br>**&nbsp;The last day of the final school term for schools which will be used as venues for the GCE O-Level written examinations, will be Friday, 25 October 2025.
+###### *  &nbsp;Primary 1 and Kindergarten 1 will start school on Friday, 2 January 2026. Primary 2 to 6 and Kindergarten 2 will start school on Monday, 5 January 2026. <br>*** &nbsp;The last day of the final school term for schools which will be used as venues for the GCE O-Level written examinations, will be Friday, 25 October 2025.
 
 ### School Vacation
 <table style="width:100%" align="center">
@@ -53,20 +53,20 @@ This schedule is an information guide for you.&nbsp; You will be informed separa
 	<tr>
 		<td style="text-align: center" width="30%" rowspan="2">Semester 1</td>
 		<td style="text-align: center" width="20%">After Term 1</td>
-		<td style="text-align: left" width="50%">Sat 15 Mar to Sun 23 Mar</td>
+		<td style="text-align: left" width="50%">Sat 14 Mar to Sun 22 Mar</td>
 	</tr>
 		<tr>
 		<td style="text-align: center" width="20%">After Term 2</td>
-		<td style="text-align: left" width="50%">Sat 31 May to Sun 29 Jun</td>
+		<td style="text-align: left" width="50%">Sat 30 May to Sun 28 Jun</td>
 	</tr>
 		<tr>
 		<td style="text-align: center" width="30%" rowspan="2">Semester 2</td>
 		<td style="text-align: center" width="20%">After Term 3</td>
-		<td style="text-align: left" width="50%">Sat 6 Sep to Sun 14 Sep</td>
+		<td style="text-align: left" width="50%">Sat 5 Sep to Sun 13 Sep</td>
 	</tr>
 		<tr>
 		<td style="text-align: center" width="20%">After Term 4</td>
-		<td style="text-align: left" width="50%">Sat 22 Nov to Wed 31 Dec</td>
+		<td style="text-align: left" width="50%">Sat 21 Nov to Wed 31 Dec</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -85,15 +85,15 @@ This schedule is an information guide for you.&nbsp; You will be informed separa
 	</tr>
 		<tr>
 		<td style="text-align: center" width="30%">Youth Day</td>
-		<td style="text-align: left" width="70%">Sun 6 Jul<br>(The following Mon 7 Jul will be a school holiday)</td>
+		<td style="text-align: left" width="70%">Sun56 Jul<br>(The following Mon 6 Jul will be a school holiday)</td>
 	</tr>
 	<tr>
 		<td style="text-align: center" width="30%">Teachers’ Day</td>
-		<td style="text-align: left" width="70%">	Fri 5 Sep</td>
+		<td style="text-align: left" width="70%">	Fri 4 Sep</td>
 	</tr>
 	<tr>
 		<td style="text-align: center" width="30%">Children’s Day</td>
-		<td style="text-align: left" width="70%">Fri 3 Oct</td>
+		<td style="text-align: left" width="70%">Fri 2 Oct</td>
 	</tr>
 	<tr>
 	</tr>
