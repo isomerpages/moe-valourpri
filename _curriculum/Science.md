@@ -85,14 +85,16 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
 		</p></td>
     <td class="tg-ktyi">
 			Heat<p>
+			Effects of Heat
 		</p></td>
     <td class="tg-ktyi">
-			Energy Forms and Uses (Heat)
-		</td>
+			Light<p>
+			Shadows
+		</p></td>
     <td class="tg-ktyi">
-			Plant System (Plant Parts and Functions)<br>
-			Human System (Digestive System)
-		</td>
+			Plant System<p>
+			Human System
+		</p></td>
   </tr>
 </tbody>
 </table>
@@ -112,14 +114,15 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
   <tr>
     <td class="tg-9hzb">Topic</td>
     <td class="tg-ktyi">
-			Cycles in Matter and Water (Water)
-		</td>
+			Electrical Systems<p>
+			Simple Series and Parallel Electric Circuits
+			Reproduction in Animals and Plants
+		</p></td>
     <td class="tg-ktyi">
-				Electrical System
-		</td>
+			Reproduction in Animals and Plants<p>
+			Cycles in Water
+		</p></td>
     <td class="tg-ktyi">
-			Plant system (Respiratory and circulatory systems)<br>
-			Human system (Respiratory and circulatory systems)
 		</td>
     <td class="tg-ktyi">
 			Cycles in Plants and Animals (Reproduction)
