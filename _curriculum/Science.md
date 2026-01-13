@@ -15,7 +15,7 @@ Aligned with the Science Curriculum Framework (see figure 1), the Science Depart
 <figcaption> Figure 1: Science Curriculum Framework </figcaption>  
 </figure>
 
-### Science Curriculum for 2025
+### Science Curriculum for 2026
 
 The science syllabus has been organised to ensure a progressive development of concepts within and across levels  
 
@@ -46,10 +46,21 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
 <tbody>
   <tr>
     <td class="tg-fyfk">Topic</td>
-    <td class="tg-jxgv">Diversity of living and non-living things (General characteristics and classification)</td>
-    <td class="tg-jxgv"> Diversity of materials<br> </td>
-    <td class="tg-jxgv">Cycles in Plants and Animals (Life Cycles)</td>
-    <td class="tg-jxgv">Interaction of forces (Magnets)<br> </td>
+    <td class="tg-jxgv">
+			Diversity of Living and Non-living things<p>
+			Classification of Living Things
+		</p></td>
+    <td class="tg-jxgv">
+			Diversity of Materials<p> 
+		</p></td>
+    <td class="tg-jxgv">
+			Life Cycles of Plants <p>
+			Life Cycles OF Animals
+		</p></td>
+    <td class="tg-jxgv">
+			Properties of Magnets<p>
+			Making and Using Magnets
+		</p></td>
   </tr>
 </tbody>
 </table>
@@ -69,11 +80,12 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
   <tr>
     <td class="tg-9hzb">Topic</td>
     <td class="tg-ktyi">
-			Cycles in Matter and Water (Matter)
-		</td>
+			Matter<p>
+			Heat
+		</p></td>
     <td class="tg-ktyi">
-			Energy Forms and Uses (Light)
-		</td>
+			Heat<p>
+		</p></td>
     <td class="tg-ktyi">
 			Energy Forms and Uses (Heat)
 		</td>
