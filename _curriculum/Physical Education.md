@@ -18,7 +18,7 @@ Throughout their primary school PE journey, students are given opportunities to 
 ### Programmes
 **Healthy Snack Breaks**
 
-<img src="/images/PE-2a.png" style="width:70%">
+<img src="/images/PE-4.jpg" style="width:70%">
 
 An active lifestyle and healthy eating go hand in hand. Healthy eating supports students’ growth, development and focus while reducing the risk of chronic diseases such as heart disease, obesity and type 2 diabetes. 
 
