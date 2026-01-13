@@ -47,9 +47,9 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
   <tr>
     <td class="tg-fyfk">Topic</td>
     <td class="tg-jxgv">
-			Diversity of Living and Non-living things<p>
+			Diversity of Living and Non-living things<br>
 			Classification of Living Things
-		</p></td>
+	</td>
     <td class="tg-jxgv">
 			Diversity of Materials<p> 
 		</p></td>
