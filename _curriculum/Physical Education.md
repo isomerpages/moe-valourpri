@@ -55,6 +55,8 @@ The Sports Carnival serves as an authentic learning context where students put t
 
 **Outdoor Adventure Learning Camps**
 
+<img src="/images/PE-6a.png" style="width:50%">
+
 Our annual Primary 3 Sleepover Camp and the Primary 4 Outdoor Adventure Learning Cohort Camp provide our students with unique experiential learning opportunities beyond the classroom. In line with MOE’s Outdoor Education goals, students build outdoor competencies and confidence through authentic learning experiences such as camps. 
 
 Through carefully planned activities such as outdoor orienteering and team-building challenges, students are encouraged to step out of their comfort zones, overcome challenges and strengthen bonds with their peers. The camps also deepen students’ appreciation of nature while cultivating essential life skills and values. 
