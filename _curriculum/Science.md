@@ -51,16 +51,16 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
 			Classification of Living Things
 	</td>
     <td class="tg-jxgv">
-			Diversity of Materials<p> 
-		</p></td>
+			Diversity of Materials<br> 
+		<p></p></td>
     <td class="tg-jxgv">
-			Life Cycles of Plants <p>
+			Life Cycles of Plants <br>
 			Life Cycles OF Animals
-		</p></td>
+		<p></p></td>
     <td class="tg-jxgv">
-			Properties of Magnets<p>
+			Properties of Magnets<br>
 			Making and Using Magnets
-		</p></td>
+		<p></p></td>
   </tr>
 </tbody>
 </table>
