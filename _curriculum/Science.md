@@ -127,13 +127,13 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
 		The Human Respiratory and Circulatory Systems
 		</td>
     <td class="tg-ktyi">
-			Cycles in Plants and Animals (Reproduction)
+			The Human Respiratory and Circulatory Systems
 		</td>
   </tr>
 </tbody>
 </table>
 
-##### Primary 6 (Primary Science Syllabus 2016)
+##### Primary 6 (Primary Science Syllabus 2023)
 <table class="tg">
 <thead>
   <tr>
@@ -148,29 +148,33 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
   <tr>
     <td class="tg-9hzb">Topic</td>
     <td class="tg-ktyi">
-			Energy Forms and Uses (Photosynthesis)
+			Interaction of Forces<br><br>
+			Energy Conversion
 		</td>
     <td class="tg-ktyi">
-				Energy Conversion<br>
-				Interaction of Forces (Frictional Force, Gravitational Force, Elastic Spring ForceElectrical System
+			Energy Conversion<br><br>
+			Photosynthesis<br><br>
+			Interactions Within the Environment<br><br>
+			Surviving in the Environment
 		</td>
     <td class="tg-ktyi">
-				Interactions Within the Environment
+			Surviving in the Environment
 		</td>
-    <td class="tg-ktyi">-
+    <td class="tg-ktyi">
+			-
 		</td>
   </tr>
 </tbody>
 </table>
 
 ### Programmes
-**Science Valour Interaction Times (VITs)**
+**Science Valour Curriculum Time (VCT)**
 
 <img src="/images/science-3.png" style="width:90%">
 
 At Valour Primary School, we introduce Science to our students from as early as Primary 1 and 2.
 
-By introducing Science to our younger learners, we aim for them to see that Science goes beyond a subject learnt in Primary 3, but that it exists in their everyday lives. At the Primary 3 level where Science is formally introduced in the students’ curriculum, we use Science VITs to expose Valourians to the scientific method and also explicitly teach process skills.
+By introducing Science to our younger learners, we aim for them to see that Science goes beyond a subject learnt in Primary 3, but that it exists in their everyday lives. At the Primary 3 level where Science is formally introduced in the students’ curriculum, we use Science VCT to expose Valourians to the scientific method and also explicitly teach process skills.
 
 Additionally, our students get to apply what they have learnt and extend their learning during Science recess activities planned for them.
 
