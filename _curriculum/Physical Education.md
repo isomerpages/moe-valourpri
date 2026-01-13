@@ -9,9 +9,8 @@ At Valour, we believe that Physical Education (PE) is about movement - movement 
 
 Throughout their primary school PE journey, students are given opportunities to experience a wide variety of physical activities and learn skills that they can carry beyond school. These activities are carefully sequenced to support the outcomes of the PE syllabus, and are conducted in an environment where both mastery and achievement are celebrated.
 
-
 <figure>
-<img src="/images/PE-1a.png" style="width:50%">
+<img src="/images/PE_1a.png" style="width:70%">
 <figcaption> The Physical Education Framework (PE Teaching and Learning Syllabus 2024, p.1) </figcaption>  
 </figure>
 
