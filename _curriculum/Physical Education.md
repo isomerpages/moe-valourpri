@@ -32,7 +32,7 @@ The Healthy Lifestyle Programme brings Valourians together to promote a healthy 
 
 **Sports Education Programme**
 
-<img src="/images/PE_4a.png" style="width:50%">
+<img src="/images/PE_4a.png" style="width:100%">
 
 The Sports Education Programme (SEP) is a collaborative partnership between Sport Singapore (SportSG) and the Ministry of Education (MOE). At Valour, the programme aims to expose students to sports that they can continue pursuing beyond school as interests and lifelong healthy living activities.  
 
