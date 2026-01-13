@@ -44,6 +44,9 @@ The Sports Education Programme (SEP) is a collaborative partnership between Spor
 
 **Sports Carnival**
 
+<img src="/images/PE_5a.png" style="width:100%">
+
+
 The annual sports carnival is a highly anticipated event across all levels, providing students with opportunities to showcase the skills developed during their PE lessons. It fosters healthy competition through a variety of events, ranging from individual challenges such as throwing at targets to class-based competitions such as modified Netball and Volleyball.
 The Sports Carnival serves as an authentic learning context where students put the Valourian hallmarks into practice through every game, activity and challenge: 
 * **Grit** - not giving up
