@@ -47,18 +47,18 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
   <tr>
     <td class="tg-fyfk">Topic</td>
     <td class="tg-jxgv">
-			Diversity of Living and Non-living things<br>
+			Diversity of Living and Non-living things<br><br>
 			Classification of Living Things
 	</td>
     <td class="tg-jxgv">
 			Diversity of Materials<br> 
-		<p></p></td>
+		</td>
     <td class="tg-jxgv">
-			Life Cycles of Plants <br>
+			Life Cycles of Plants <br><br>
 			Life Cycles OF Animals
 		<p></p></td>
     <td class="tg-jxgv">
-			Properties of Magnets<br>
+			Properties of Magnets<br><br>
 			Making and Using Magnets
 		<p></p></td>
   </tr>
@@ -80,21 +80,21 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
   <tr>
     <td class="tg-9hzb">Topic</td>
     <td class="tg-ktyi">
-			Matter<p>
+			Matter<br><br>
 			Heat
-		</p></td>
+		</td>
     <td class="tg-ktyi">
-			Heat<p>
+			Heat<br><br>
 			Effects of Heat
-		</p></td>
+		</td>
     <td class="tg-ktyi">
-			Light<p>
+			Light<br><br>
 			Shadows
-		</p></td>
+		</td>
     <td class="tg-ktyi">
-			Plant System<p>
+			Plant System<br><br>
 			Human System
-		</p></td>
+		</td>
   </tr>
 </tbody>
 </table>
@@ -114,15 +114,17 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
   <tr>
     <td class="tg-9hzb">Topic</td>
     <td class="tg-ktyi">
-			Electrical Systems<p>
-			Simple Series and Parallel Electric Circuits
+			Electrical Systems<br><br>
+			Simple Series and Parallel Electric Circuits<br><br>
 			Reproduction in Animals and Plants
-		</p></td>
+		<p></p></td>
     <td class="tg-ktyi">
-			Reproduction in Animals and Plants<p>
+			Reproduction in Animals and Plants<br><br>
 			Cycles in Water
-		</p></td>
+		</td>
     <td class="tg-ktyi">
+		Plant Transport System<br><br>
+		The Human Respiratory and Circulatory Systems
 		</td>
     <td class="tg-ktyi">
 			Cycles in Plants and Animals (Reproduction)
