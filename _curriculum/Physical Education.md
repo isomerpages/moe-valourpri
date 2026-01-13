@@ -26,6 +26,8 @@ At Valour, we aim to strengthen partnerships with parents by sharing health-rela
 
 **Healthy Lifestyle Programme**
 
+<img src="/images/PE_3a.png" style="width:30%">
+
 The Healthy Lifestyle Programme brings Valourians together to promote a healthy and active lifestyle. Students engage in a range of physical activities aligned with school-wide themes, such as Racial Harmony Week, enriching their learning experiences while staying active.  
 
 **Sports Education Programme**
