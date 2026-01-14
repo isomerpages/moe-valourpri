@@ -133,6 +133,41 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
 </tbody>
 </table>
 
+##### Primary 5 Foundation (Primary Science Syllabus 2023)
+<table class="tg">
+<thead>
+  <tr>
+    <th width="8%" class="tg-9hzb">Term</th>
+    <th width="23%" class="tg-9hzb">T1</th>
+    <th width="23%" class="tg-9hzb">T2</th>
+    <th width="23%" class="tg-9hzb">T3</th>
+    <th width="23%" class="tg-9hzb">T4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9hzb">Topic</td>
+    <td class="tg-ktyi">
+			Electrical Systems<br><br>
+			Simple Series Electric Circuits<br><br>
+			Reproduction in Animals and Plants
+		<p></p></td>
+    <td class="tg-ktyi">
+			Reproduction in Animals and Plants<br><br>
+			Cycles in Water
+		</td>
+    <td class="tg-ktyi">
+		Plant Transport System<br><br>
+		The Human Respiratory and Circulatory Systems
+		</td>
+    <td class="tg-ktyi">
+			The Human Respiratory and Circulatory Systems
+		</td>
+  </tr>
+</tbody>
+</table>
+
+
 ##### Primary 6 (Primary Science Syllabus 2023)
 <table class="tg">
 <thead>
@@ -149,11 +184,11 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
     <td class="tg-9hzb">Topic</td>
     <td class="tg-ktyi">
 			Interaction of Forces<br><br>
+			Photosynthesis<br><br>
 			Energy Conversion
 		</td>
     <td class="tg-ktyi">
 			Energy Conversion<br><br>
-			Photosynthesis<br><br>
 			Interactions Within the Environment<br><br>
 			Surviving in the Environment
 		</td>
