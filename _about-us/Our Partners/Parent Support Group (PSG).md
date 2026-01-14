@@ -11,3 +11,9 @@ our children's educational experience.</p>
 <p><a href="https://sites.google.com/view/vpspsg/home" rel="noopener nofollow" target="_blank">Click here to learn more about us and what we do</a>
 </p>
 <p></p>
+<h3>Digital Wellness Together</h3>
+<p>Join us in building healthy screen habits by practicing VALOUR's Hallmarks
+during family screen time because digital wellness begins at home.</p>
+<p></p><a class="isomer-image-wrapper" href="/files/screen_guide_info.pdf"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/screen_guide_info_tn.jpg"></a>
+<p><a href="/files/screen_guide_info.pdf" rel="noopener nofollow" target="_blank">Screen Guide Infographics</a>
+</p>

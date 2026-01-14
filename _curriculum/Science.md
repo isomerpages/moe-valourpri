@@ -15,7 +15,7 @@ Aligned with the Science Curriculum Framework (see figure 1), the Science Depart
 <figcaption> Figure 1: Science Curriculum Framework </figcaption>  
 </figure>
 
-### Science Curriculum for 2025
+### Science Curriculum for 2026
 
 The science syllabus has been organised to ensure a progressive development of concepts within and across levels  
 
@@ -46,10 +46,21 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
 <tbody>
   <tr>
     <td class="tg-fyfk">Topic</td>
-    <td class="tg-jxgv">Diversity of living and non-living things (General characteristics and classification)</td>
-    <td class="tg-jxgv"> Diversity of materials<br> </td>
-    <td class="tg-jxgv">Cycles in Plants and Animals (Life Cycles)</td>
-    <td class="tg-jxgv">Interaction of forces (Magnets)<br> </td>
+    <td class="tg-jxgv">
+			Diversity of Living and Non-living things<br><br>
+			Classification of Living Things
+	</td>
+    <td class="tg-jxgv">
+			Diversity of Materials<br> 
+		</td>
+    <td class="tg-jxgv">
+			Life Cycles of Plants <br><br>
+			Life Cycles OF Animals
+		<p></p></td>
+    <td class="tg-jxgv">
+			Properties of Magnets<br><br>
+			Making and Using Magnets
+		<p></p></td>
   </tr>
 </tbody>
 </table>
@@ -69,17 +80,20 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
   <tr>
     <td class="tg-9hzb">Topic</td>
     <td class="tg-ktyi">
-			Cycles in Matter and Water (Matter)
+			Matter<br><br>
+			Heat
 		</td>
     <td class="tg-ktyi">
-			Energy Forms and Uses (Light)
+			Heat<br><br>
+			Effects of Heat
 		</td>
     <td class="tg-ktyi">
-			Energy Forms and Uses (Heat)
+			Light<br><br>
+			Shadows
 		</td>
     <td class="tg-ktyi">
-			Plant System (Plant Parts and Functions)<br>
-			Human System (Digestive System)
+			Plant System<br><br>
+			Human System
 		</td>
   </tr>
 </tbody>
@@ -100,23 +114,26 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
   <tr>
     <td class="tg-9hzb">Topic</td>
     <td class="tg-ktyi">
-			Cycles in Matter and Water (Water)
+			Electrical Systems<br><br>
+			Simple Series and Parallel Electric Circuits<br><br>
+			Reproduction in Animals and Plants
+		<p></p></td>
+    <td class="tg-ktyi">
+			Reproduction in Animals and Plants<br><br>
+			Cycles in Water
 		</td>
     <td class="tg-ktyi">
-				Electrical System
+		Plant Transport System<br><br>
+		The Human Respiratory and Circulatory Systems
 		</td>
     <td class="tg-ktyi">
-			Plant system (Respiratory and circulatory systems)<br>
-			Human system (Respiratory and circulatory systems)
-		</td>
-    <td class="tg-ktyi">
-			Cycles in Plants and Animals (Reproduction)
+			The Human Respiratory and Circulatory Systems
 		</td>
   </tr>
 </tbody>
 </table>
 
-##### Primary 6 (Primary Science Syllabus 2016)
+##### Primary 5 Foundation (Primary Science Syllabus 2023)
 <table class="tg">
 <thead>
   <tr>
@@ -131,29 +148,102 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
   <tr>
     <td class="tg-9hzb">Topic</td>
     <td class="tg-ktyi">
-			Energy Forms and Uses (Photosynthesis)
+			Electrical Systems<br><br>
+			Simple Series Electric Circuits<br><br>
+			Reproduction in Animals and Plants
+		<p></p></td>
+    <td class="tg-ktyi">
+			Reproduction in Animals and Plants<br><br>
+			Cycles in Water
 		</td>
     <td class="tg-ktyi">
-				Energy Conversion<br>
-				Interaction of Forces (Frictional Force, Gravitational Force, Elastic Spring ForceElectrical System
+		Plant Transport System<br><br>
+		The Human Respiratory and Circulatory Systems
 		</td>
     <td class="tg-ktyi">
-				Interactions Within the Environment
-		</td>
-    <td class="tg-ktyi">-
+			The Human Respiratory and Circulatory Systems
 		</td>
   </tr>
 </tbody>
 </table>
 
+
+##### Primary 6 (Primary Science Syllabus 2023)
+<table class="tg">
+<thead>
+  <tr>
+    <th width="8%" class="tg-9hzb">Term</th>
+    <th width="23%" class="tg-9hzb">T1</th>
+    <th width="23%" class="tg-9hzb">T2</th>
+    <th width="23%" class="tg-9hzb">T3</th>
+    <th width="23%" class="tg-9hzb">T4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9hzb">Topic</td>
+    <td class="tg-ktyi">
+			Interaction of Forces<br><br>
+			Photosynthesis<br><br>
+			Energy Conversion
+		</td>
+    <td class="tg-ktyi">
+			Energy Conversion<br><br>
+			Interactions Within the Environment<br><br>
+			Surviving in the Environment
+		</td>
+    <td class="tg-ktyi">
+			Surviving in the Environment
+		</td>
+    <td class="tg-ktyi">
+			-
+		</td>
+  </tr>
+</tbody>
+</table>
+
+##### Primary 6 Foundation (Primary Science Syllabus 2023)
+<table class="tg">
+<thead>
+  <tr>
+    <th width="8%" class="tg-9hzb">Term</th>
+    <th width="23%" class="tg-9hzb">T1</th>
+    <th width="23%" class="tg-9hzb">T2</th>
+    <th width="23%" class="tg-9hzb">T3</th>
+    <th width="23%" class="tg-9hzb">T4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9hzb">Topic</td>
+    <td class="tg-ktyi">
+			Interaction of Forces<br><br>
+			Photosynthesis
+		</td>
+    <td class="tg-ktyi">
+			Photosynthesis<br><br>
+			Interactions Within the Environment<br><br>
+			Surviving in the Environment
+		</td>
+    <td class="tg-ktyi">
+			Surviving in the Environment
+		</td>
+    <td class="tg-ktyi">
+			-
+		</td>
+  </tr>
+</tbody>
+</table>
+
+
 ### Programmes
-**Science Valour Interaction Times (VITs)**
+**Science Valour Curriculum Time (VCT)**
 
 <img src="/images/science-3.png" style="width:90%">
 
 At Valour Primary School, we introduce Science to our students from as early as Primary 1 and 2.
 
-By introducing Science to our younger learners, we aim for them to see that Science goes beyond a subject learnt in Primary 3, but that it exists in their everyday lives. At the Primary 3 level where Science is formally introduced in the students’ curriculum, we use Science VITs to expose Valourians to the scientific method and also explicitly teach process skills.
+By introducing Science to our younger learners, we aim for them to see that Science goes beyond a subject learnt in Primary 3, but that it exists in their everyday lives. At the Primary 3 level where Science is formally introduced in the students’ curriculum, we use Science VCT to expose Valourians to the scientific method and also explicitly teach process skills.
 
 Additionally, our students get to apply what they have learnt and extend their learning during Science recess activities planned for them.
 

@@ -10,7 +10,7 @@ variant: markdown
 The mastery of mathematics concepts and skills will enable our students to be equipped for life. Mathematical problem solving is the heart to mathematics learning. It involves the acquisition and application of mathematics concepts and skills in a wide range of situation, including non-routine, open-ended and real-world problems.
 
 Every Valourian, a self-directed problem solver.
-### Mathematics Curriculum for 2025
+### Mathematics Curriculum for 2026
 
 ##### Primary 1
 
@@ -41,22 +41,22 @@ Every Valourian, a self-directed problem solver.
 			1.    Numbers to 10<br>
 			2.    Addition within 10<br>
 			3.    Subtraction within 10<br>
-			4.    Shapes<br>
-			5.    Ordinal Numbers
+			4.    Shapes
 		</td>
     <td class="tg-ktyi">
+			5.    Ordinal Numbers<br>
 			6.    Numbers to 20<br>
 			7.     Addition and Subtraction within 20<br>
-			8.    Numbers to 100<br>
-			9.    Addition and Subtraction within 100
+			8.    Picture Graphs<br>
+			9.    Numbers to 100
 			</td>
     <td class="tg-ktyi">
-			10.  Picture Graphs<br>
-			11.  Multiplication<br>
-			12. Division
+			10.   Addition and Subtraction within 100
+			11.   Length<br>			
+			12.  Multiplication
 		</td>
     <td class="tg-ktyi">
-			13.  Length<br>
+			13. Division<br>
 			14.  Time<br>
 			15.  Money
 		</td>
@@ -89,16 +89,15 @@ Every Valourian, a self-directed problem solver.
 			4.    Multiplication and Division<br>
 			5.    Multiplication Tables of 2, 5 and 10<br>
 			6.    Mass<br>
-			7.     Shapes (2B)
+			7.     Time
 		</td>
     <td class="tg-ktyi">
 			8.    Addition and Subtraction<br>
 			9.    Multiplication Tables of 3 and 4<br>
-			10.  Picture Graphs<br>
-			11.   Fractions</td>
+			10.  Fractions</td> 
     <td class="tg-ktyi">
 			12.  Volume<br>
-			13.  Time (2A)<br>
+			13.  Shapes<br>
 			14.  Money</td>
   </tr>
 	<tr>
@@ -138,6 +137,7 @@ Every Valourian, a self-directed problem solver.
 			11.   Length, Mass and Volume
 		</td>
     <td class="tg-ktyi">
+			11.   Length, Mass and Volume<br>
 			12.  Area and Perimeter<br>
 			13.  Time</td>
   </tr>
@@ -161,8 +161,8 @@ Every Valourian, a self-directed problem solver.
   <tr>
     <td width="8%" class="tg-9hzb">Topic</td>
     <td class="tg-ktyi">
-			1.    Whole Numbers<br>
-			2.    Factors and Multiples 2<br>
+			1.    Numbers to 100 000<br>
+			2.    Factors and Multiples<br>
 			3.    Four Operations of Whole Numbers<br>
 			4.    Tables and Line Graphs		
 		</td>
@@ -203,7 +203,7 @@ Every Valourian, a self-directed problem solver.
   <tr>
     <td width="8%" class="tg-9hzb">Topic</td>
     <td class="tg-ktyi">
-			1.    Whole Numbers<br>
+			1.     Four Operations of Fraction (Part 2)<br>
 			2.    Four Operations of Whole Numbers<br>
 			3.    Fractions &amp; Division<br>
 			4.    Four Operations of Fractions (Part 1)
@@ -217,7 +217,7 @@ Every Valourian, a self-directed problem solver.
 			7.    Decimals<br>
 			8.    Rate<br>
 			9.    Percentage<br>
-			10.  Average
+			10.  Angles
 			</td>
     <td class="tg-ktyi">
 			11.   Property of Triangles<br>
@@ -253,14 +253,15 @@ Every Valourian, a self-directed problem solver.
 			4.	  Fraction as Part of a Whole (Part 2)<br>
 			5.	  Time<br>
 			6.	  Angles<br>
-			7.	  Rectangles and Squares<br>
-			8.	  Mixed Numbers and Improper Fractions
+			7.	  Perpendicular &amp; Parallel Lines<br>
+			8.	  Rectangles and Squares
 		</td>
     <td class="tg-ktyi">
-			9.	  Multiplication of Fractions<br>
-			10.	 Decimals<br>
-			11.	  Four Operations of Decimals<br>
-			12.	 Rate
+			9.	  Mixed Numbers and Improper Fractions
+			10.  Multiplication of Fractions<br>
+			11.	  Decimals<br>
+			12.	 Four Operations of Decimals<br>
+			13.	 Rate
 			</td>
     <td class="tg-ktyi">
 			13.	 Area and Perimeter<br>
@@ -296,13 +297,12 @@ Every Valourian, a self-directed problem solver.
     <td class="tg-ktyi">
 			4.   Angles in Geometrical Figures<br>
 			5.   Circles<br>
-			6.   Pie Charts<br>
-			7.   Algebra
+			6.   Volume of Cube and Cuboid (Part 1)
 		</td>
     <td class="tg-ktyi">
-			8.   Volume<br>
-			9.   Solid Figures &amp; Nets<br>
-			10.  Speed
+			6.   Volume of Cube and Cuboid (Part 2)<br>
+			7.    Average<br>
+			8.   Algebra
 			</td>
     <td class="tg-ktyi">
 		</td>
@@ -333,13 +333,14 @@ Every Valourian, a self-directed problem solver.
 		</td>
     <td class="tg-ktyi">
 				3.    Percentage (Part 2)<br>
-				4.	  Area &amp; Perimeter<br>
-				5.	  Triangles; Rectangles &amp; Squares<br>
-				6.	  Pie Chart
+				4.	  Average<br>
+				5.	  Volume<br>
+				6.	  Pie Charts
 		</td>
     <td class="tg-ktyi">
-				7.	  Average<br>
-				8.	  Volume
+				7.	  Area of Triangle<br>
+				8.	 Properties of Triangles<br>
+			  9.	 Angles in Triangles, Squares and Rectangles
 			</td>
     <td class="tg-ktyi">
 		</td>

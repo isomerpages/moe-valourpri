@@ -18,7 +18,7 @@ To provide quality and customised teaching and authentic learning experience to 
 
 மாணவர்களின் தமிழ்மொழி மற்றும் கலாச்சாரத்தின் மீது உள்ள பற்றை வளர்க்க,&nbsp;அவர்களுக்கு ஏற்ற வகையில் தரமான,&nbsp;கற்பித்தல் மற்றும் கற்றல் அனுபவத்தை வழங்குவது.&nbsp;&nbsp;
 
-### Tamil Language Curriculum for 2025
+### Tamil Language Curriculum for 2026
 ##### Primary 1
 <table>
 	<tbody>
@@ -110,6 +110,12 @@ To provide quality and customised teaching and authentic learning experience to 
 			பாடம் 7 : <br>ஒகர - ஓகார வேறுபாடு
 		</td>
 		<td width="23%" style="text-align: left">
+			பாடம் 8:<br>ஔகார உயிர்மெய்யெழுத்துகள்<br>
+			பாடம் 9: <br>இலக்கணம்- மூவிடப்பெயர்<br>
+			பாடம் 10: <br>இலக்கணம்- மூவிடப்பெயர்<br>
+			பாடம் 11: <br>இலக்கணம்- <br>வினாப்பெயர்
+			பாடம் 12: <br>சொல்வளம், வடிவங்கள்<br>
+			பாடம் 13: <br>தெரிநிலை வினைமுற்று வாக்கியங்கள்
 		</td>
 	</tr>
 	<tr>
@@ -130,22 +136,16 @@ To provide quality and customised teaching and authentic learning experience to 
 	<tr height="65px" style="font-size:12px">
 		<th width="8%" style="text-align: center">Topic</th>
 		<td width="23%" style="text-align: left">
-தொகுதி 1: <br>பொழுதுபோக்குகள்<br>
-தொகுதி 2: <br>குடும்பம் / குடும்பக் கொண்டாட்டங்கள்<br>
-தொகுதி 3: <br>பள்ளி / நண்பர்களைத் தெரிவுசெய்தல்
+தொகுதி 1:<br>மரபும் பண்பாடும்<br> 
+தொகுதி 2:<br>என்னைப்பற்றி 
 		</td>
 		<td width="23%" style="text-align: left">
-தொகுதி 4 : <br>சமூகம் / சமூக நற்பண்புகள்<br>
-தொகுதி 5 : <br>நாடு / நாட்டைப் பற்றி
+தொகுதி 3: <br>மனித உறவுகள் <br>
+தொகுதி 4: <br>சமூகமும் நானும்
 		</td>
-		<td width="23%" style="text-align: left">
-தொகுதி 6: <br>உலகம் / பன்னாட்டுக் கதைகள்<br>
-தொகுதி 7: <br>குடும்பம் / குடும்பப் பண்புகள்<br>
-தொகுதி 8: <br>பள்ளி / பள்ளி நடவடிக்கைகள்
+		<td width="23%" colspan="2" style="text-align: center">
+			(மேல்விவரங்கள் இணைக்கப்படும்)  
 		</td>
-		<td width="23%" style="text-align: left">
-தொகுதி 9 : <br>சமூகம் / மலாய் இனப் பண்பாடுகள்<br>
-தொகுதி 10 : <br>நாடு / பசுமை இயற்கை		</td>
 	</tr>
 	<tr>
 	</tr>

@@ -2,59 +2,67 @@
 title: Physical Education
 permalink: /subjects/physical-education/
 description: ""
+variant: markdown
 ---
-
-
-
 ### Focus and Beliefs
-Physical Education (PE) is about movement - movement that is essential to life, work, and play. The PE programme at Valour Primary School aims to develop our students to have sound fundamental movement skills, a good knowledge of the outdoors and a safety mindset.
+At Valour, we believe that Physical Education (PE) is about movement - movement that is essential to life, work, and play. The PE programme at Valour Primary School aims to develop our students to have sound fundamental movement skills, an appreciation of the outdoors and a safety mindset.
 
-Throughout our students’ primary school PE education, we endeavour to provide opportunities for them to experience a variety of physical activities. These physical activities are carefully sequenced to effect the outcomes of the PE syllabus, in an environment where both mastery and achievement are celebrated.
+Throughout their primary school PE journey, students are given opportunities to experience a wide variety of physical activities and learn skills that they can carry beyond school. These activities are carefully sequenced to support the outcomes of the PE syllabus, and are conducted in an environment where both mastery and achievement are celebrated.
 
 <figure>
-<img src="/images/PE-1.png" 
-     style="width:50%">
-<figcaption> The Physical Education Framework (PE Teaching and Learning Syllabus 2014, p.18) </figcaption>  
+<img src="/images/PE_1a.png" style="width:70%">
+<figcaption> The Physical Education Framework (PE Teaching and Learning Syllabus 2024, p.1) </figcaption>  
 </figure>
 
 ### Programmes
-**Healthy Lifestyle Programme**
-
-<img src="/images/PE-2.png" 
-     style="width:70%">
-
-The aim of the Healthy Lifestyle Programme is to bring Valourians together for a dedicated fortnight which focuses on promoting a healthy and active lifestyle through the enactment of physical activities enjoyed together with friends. It is about raising awareness to live and maintain a healthy, active life!
-
-**Sports Carnival**
-
-![](/images/PE-3.png)
-
-The annual sports carnival is a culminating event to consolidate the different skills learnt for the year. Our students compete as a class against other classes within their level, scoring points to add to their tally from the Healthy Lifestyle weeks over the year. The winning class is conferred the “Healthy Active Class” of their level, together with a medal to commemorate their victory and effort for the year.
-
 **Healthy Snack Breaks**
 
-<img src="/images/PE-4.jpg" 
-     style="width:30%">
+<img src="/images/PE-4.jpg" style="width:50%">
 
-Healthy eating is essential for good health, growth and development. Healthy eating in childhood can help to reduce the chances of developing chronic diseases like heart diseases, obesity and type 2 diabetes. Healthy food choices can help our students to maintain a healthy weight, and stay alert and focused in class throughout the day.
+An active lifestyle and healthy eating go hand in hand. Healthy eating supports students’ growth, development and focus while reducing the risk of chronic diseases such as heart disease, obesity and type 2 diabetes. 
 
-We encourage all students to play a part in deciding and packing their own snacks for snack time, and to have balanced meals during recess
+Students are encouraged to make healthy food choices by eating nutritious snacks during snack time and having balanced meals during recess.
+At Valour, we aim to strengthen partnerships with parents by sharing health-related messages and nutritional guidance to support healthy living beyond the classroom.
+
+**Healthy Lifestyle Programme**
+
+<img src="/images/PE_3a.png" style="width:50%">
+
+The Healthy Lifestyle Programme brings Valourians together to promote a healthy and active lifestyle. Students engage in a range of physical activities aligned with school-wide themes, such as Racial Harmony Week, enriching their learning experiences while staying active.  
 
 **Sports Education Programme**
 
-![](/images/PE-5.png)
+<img src="/images/PE_4a.png" style="width:100%">
 
-The Sports Education Programme (SEP) is a collaborative partnership between Sport Singapore (SportSG) and the Ministry of Education (MOE).
-
-The SEP aims to increase sporting opportunities for our students by catering for development of skills and sports knowledge through different sport programmes. This allows for them to have more sporting experiences.
+The Sports Education Programme (SEP) is a collaborative partnership between Sport Singapore (SportSG) and the Ministry of Education (MOE). At Valour, the programme aims to expose students to sports that they can continue pursuing beyond school as interests and lifelong healthy living activities.  
 
 | Level | SEP Programme |
 |---|---|
 | Primary 1 | i-Bounce |
 | Primary 2 | Skipping |
 | Primary 3 | Archery |
-| | |
+| Primary 4 | Tchoukball |
+| Primary 5 | Inline Skating |
+| Primary 6 | Goalball (Appreciation of Paralympics sports) |
+|||
 
-<center>
-<i> Activities subjected to prevailing SMM, national posture, and change without prior notice. </i> 
-</center>
+**Sports Carnival**
+
+<img src="/images/PE_5a.png" style="width:100%">
+
+The annual sports carnival is a highly anticipated event across all levels, providing students with opportunities to showcase the skills developed during their PE lessons. It fosters healthy competition through a variety of events, ranging from individual challenges such as throwing at targets to class-based competitions such as modified Netball and Volleyball.
+The Sports Carnival serves as an authentic learning context where students put the Valourian hallmarks into practice through every game, activity and challenge: 
+* **Grit** - not giving up
+* **Courage** – playing their best for their class
+*	**Kindness and Empathy** – showing care and respect for others
+*	**Adaptability** – adjusting to different levels and challenges in play 
+
+**Outdoor Adventure Learning Camps**
+
+<img src="/images/PE_6a.png" style="width:100%">
+
+Our annual Primary 3 Sleepover Camp and the Primary 4 Outdoor Adventure Learning Cohort Camp provide our students with unique experiential learning opportunities beyond the classroom. In line with MOE’s Outdoor Education goals, students build outdoor competencies and confidence through authentic learning experiences such as camps. 
+
+Through carefully planned activities such as outdoor orienteering and team-building challenges, students are encouraged to step out of their comfort zones, overcome challenges and strengthen bonds with their peers. The camps also deepen students’ appreciation of nature while cultivating essential life skills and values. 
+
+By the end of the camps, students gain memorable experiences and grow as confident individuals, ready to take on future challenges with resilience and courage.
