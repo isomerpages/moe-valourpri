@@ -202,6 +202,40 @@ In Valour Primary School, we use an inquiry-based learning approach to help our 
 </tbody>
 </table>
 
+##### Primary 6 Foundation (Primary Science Syllabus 2023)
+<table class="tg">
+<thead>
+  <tr>
+    <th width="8%" class="tg-9hzb">Term</th>
+    <th width="23%" class="tg-9hzb">T1</th>
+    <th width="23%" class="tg-9hzb">T2</th>
+    <th width="23%" class="tg-9hzb">T3</th>
+    <th width="23%" class="tg-9hzb">T4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9hzb">Topic</td>
+    <td class="tg-ktyi">
+			Interaction of Forces<br><br>
+			Photosynthesis
+		</td>
+    <td class="tg-ktyi">
+			Photosynthesis<br><br>
+			Interactions Within the Environment<br><br>
+			Surviving in the Environment
+		</td>
+    <td class="tg-ktyi">
+			Surviving in the Environment
+		</td>
+    <td class="tg-ktyi">
+			-
+		</td>
+  </tr>
+</tbody>
+</table>
+
+
 ### Programmes
 **Science Valour Curriculum Time (VCT)**
 
