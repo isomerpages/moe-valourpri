@@ -166,7 +166,7 @@ In this lesson, students will learn about sexual abuse, how it can happen during
 </th>
 	</tr>
 	<tr>
-		<th rowspan="3" class="th">Growing Years</th>
+		<th rowspan="2" class="th">Growing Years</th>
 		<td class="body-ca">Are We More than Friends?<br>Lesson 1<br>(60 min)</td>
 		<td class="body-la">
 In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.
@@ -178,7 +178,7 @@ In this lesson, students will learn to distinguish between the characteristics o
 		<td class="body-la">
 In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.
 		</td>
-			<td class="body-ca">Term 4 Week 9</td>
+			<td class="body-ca">Term 4 Week 5</td>
 	</tr>
 	<tr>
 	</tr>
