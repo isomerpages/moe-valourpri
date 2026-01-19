@@ -25,7 +25,7 @@ description: ""
 	You may click <a target="_blank" href="https://go.gov.sg/moe-sexuality-education">here</a> for more information on MOE Sexuality Education. 
  </ol>
  
-#### OVERVIEW OF VALOUR PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025
+#### OVERVIEW OF VALOUR PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026
 <ol start="4&quot;">
 <li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a target="_blank" href="https://go.gov.sg/moe-sexuality-education-scope">here</a>  for more information on the scope of Sexuality Education in the school curriculum.</li>
 <p>
@@ -45,7 +45,7 @@ description: ""
 <p>
 </p></ol>
 	
-### 2025 SEXUALITY EDUCATION LESSONS IN CCE
+### 2026 SEXUALITY EDUCATION LESSONS IN CCE
 ##### Primary 5
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -96,7 +96,7 @@ description: ""
 This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br>
 <i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
 		</td>
-		<td class="body-ca">Term 3 Week 2</td>
+		<td class="body-ca">Term 3 Week 5</td>
 	</tr>
 		<tr>
 		<td class="body-ca">Did You Know?<br>(60 min)</td>
@@ -104,7 +104,7 @@ This lesson focuses on helping students identify the emotions and stress caused 
 This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’.</b><br>
 <i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
 		</td>
-			<td class="body-ca">Term 4 Week 1</td>
+			<td class="body-ca">Term 4 Week 6</td>
 	</tr><tr>
 			</tr><tr>
 		<td class="body-ca">Keeping Myself Safe<br>(60 min)</td>
@@ -112,7 +112,7 @@ This lesson focuses on helping students know what pornography is and how it can 
 In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br>
 <i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
 		</td>
-			<td class="body-ca">Term 4 Week 5</td>
+			<td class="body-ca">Term 4 Week 7</td>
 	</tr><tr>
 		<td></td>
 		<td></td>
@@ -166,7 +166,7 @@ In this lesson, students will learn about sexual abuse, how it can happen during
 </th>
 	</tr>
 	<tr>
-		<th rowspan="3" class="th">Growing Years</th>
+		<th rowspan="2" class="th">Growing Years</th>
 		<td class="body-ca">Are We More than Friends?<br>Lesson 1<br>(60 min)</td>
 		<td class="body-la">
 In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.
@@ -178,7 +178,7 @@ In this lesson, students will learn to distinguish between the characteristics o
 		<td class="body-la">
 In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.
 		</td>
-			<td class="body-ca">Term 4 Week 9</td>
+			<td class="body-ca">Term 4 Week 5</td>
 	</tr>
 	<tr>
 	</tr>
@@ -191,7 +191,7 @@ In this lesson, students will learn healthy ways to manage the emotions arising 
 <ol start="8">
 <li>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
 <p>
-</p><li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a target="_blank" href="/files/SEd/sed_parents_opt_out_form_valour_primary_school_2025.pdf">here</a>. The completed opt-out form is to be submitted by 10/02/2025.</li>
+</p><li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a target="_blank" href="/files/SEd/sed_parents_opt_out_form_valour_primary_school.pdf">here</a> The completed opt-out form is to be submitted by 10/02/2026.</li>
 <p>
-</p><li>Parents can contact the school at tan_kim_seng_kelvin@schools.gov.sg for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
+</p><li>Parents can contact the school at <a href="mailto:tan_kim_seng_kelvin@schools.gov.sg">tan_kim_seng_kelvin@schools.gov.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
 </ol>
