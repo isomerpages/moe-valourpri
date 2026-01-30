@@ -47,7 +47,7 @@ variant: markdown
 		<td></td>
 	</tr>
   <tr>
-    <th class="tg-ktyi" rowspan="11">English Language Teachers</th>
+    <th class="tg-ktyi" rowspan="10">English Language Teachers</th>
 		<th class="tg-ktyi">Ms Linda Chong (Level Head)</th>
     <th class="tg-ktyi">chong_pei_mun@moe.edu.sg</th>
   </tr>
@@ -55,13 +55,13 @@ variant: markdown
     <th class="tg-ktyi">Ms Selene Erh (Level Head)</th>
     <th class="tg-ktyi">erh_anni_selene@moe.edu.sg</th>
   </tr>
-  <tr>
-    <th class="tg-ktyi">Ms Hor Swee Peng</th>
-    <th class="tg-ktyi">hor_swee_peng@moe.edu.sg</th>
-  </tr>  
 	<tr>
-    <th class="tg-ktyi">Ms Indriana Zainal Abidin</th>
-    <th class="tg-ktyi">indriana_zainal_abidin@moe.edu.sg</th>
+    <th class="tg-ktyi">Miss Carrie Loh</th>
+    <th class="tg-ktyi">loh_carrie@moe.edu.sg</th>
+  </tr>
+	<tr>
+    <th class="tg-ktyi">Miss Cheryl Lim</th>
+    <th class="tg-ktyi">cheryl_lim_zhi_qi@moe.edu.sg</th>
   </tr>
 	<tr>
     <th class="tg-ktyi">Ms Marie Cheah</th>
@@ -86,10 +86,6 @@ variant: markdown
 	<tr>
     <th class="tg-ktyi">Miss Tan Li Ling Jovena</th>
     <th class="tg-ktyi">tan_li_ling_jovena@moe.edu.sg</th>
-  </tr>
-	<tr>
-    <th class="tg-ktyi">Miss Victoria Esther Joy Chin</th>
-    <th class="tg-ktyi">victoria_esther_joy_chin@moe.edu.sg</th>
   </tr>
 </thead>
 <tbody>
@@ -129,8 +125,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ktyi">Tamil Language Teacher</td>
-    <td class="tg-ktyi">Ms Aneesa Aafreen</td>
-    <td class="tg-ktyi">aneesa_aafreen_shake_mohideen@moe.edu.sg</td>
+    <td class="tg-ktyi">Mdm Dhivya Selvaraj</td>
+    <td class="tg-ktyi">dhivya_selvaraj@moe.edu.sg</td>
   </tr>
 	<tr>
 	</tr>
