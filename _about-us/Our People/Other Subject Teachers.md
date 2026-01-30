@@ -57,7 +57,11 @@ third_nav_title: Our People
     <td class="tg-ktyi">syed_iskandar_hamzah_a@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Ms Wang Ping</td>
+    <td class="tg-ktyi">Miss Tham Sook Lai</td>
+    <td class="tg-ktyi">tham_sook_lai@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Miss Wang Ping</td>
     <td class="tg-ktyi">wang_ping_b@moe.edu.sg</td>
   </tr>
 	<tr>
