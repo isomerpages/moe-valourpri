@@ -29,10 +29,10 @@ third_nav_title: Our People
     <td class="tg-ktyi">neo_jenny@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Ms Julie Kha</td>
-    <td class="tg-ktyi">kha_hui_li_julie@moe.edu.sg</td>
+    <td class="tg-ktyi">Mdm Marsiah Rohim</td>
+    <td class="tg-ktyi">marsiah_rohim@moe.edu.sg</td>
   </tr>
-  <tr>
+	<tr>
     <td class="tg-ktyi">Ms Loh Wai Yee</td>
     <td class="tg-ktyi">loh_wai_yee_a@moe.edu.sg</td>
   </tr>
@@ -45,16 +45,24 @@ third_nav_title: Our People
     <td class="tg-ktyi">ng_chi_cheng@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Ms Nor Adilah Binte Abdul Hamid</td>
+    <td class="tg-ktyi">Mdm Nor Adilah Binte Abdul Hamid</td>
     <td class="tg-ktyi">nor_adilah_abdul_hamid_a@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mr Simon Neo</td>
-    <td class="tg-ktyi">neo_kat_ngee_simon_a@moe.edu.sg</td>
+    <td class="tg-ktyi">Mdm Rini Farhanah</td>
+    <td class="tg-ktyi">rini_farhanah@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Mr Syed Iskandar Bin Hamzah</td>
     <td class="tg-ktyi">syed_iskandar_hamzah_a@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Miss Tham Sook Lai</td>
+    <td class="tg-ktyi">tham_sook_lai@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Miss Wang Ping</td>
+    <td class="tg-ktyi">wang_ping_b@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-ktyi"></td>

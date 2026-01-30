@@ -16,11 +16,10 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-cly1">MOE Identity Management System (MIMS) </td>
+    <td class="tg-cly1">MOE Identity Management System (MIMS)</td>
     <td class="tg-corx"><a href="https://mims.moe.gov.sg/"><span style="text-decoration:none;color:#46A247">https://mims.moe.gov.sg/</span></a></td>
 </tr></thead>
 <tbody> 
-	 
 	<tr>
     <th class="tg-cly1">Student Learning Space</th>
     <th class="tg-corx"><a href="https://learning.moe.edu.sg/"><span style="text-decoration:none;color:#46A247">https://learning.moe.edu.sg</span></a></th>
@@ -29,6 +28,10 @@ variant: markdown
     <td class="tg-cly1">Microsoft 365</td>
     <td class="tg-corx"><a href="https://www.office.com/"><span style="text-decoration:none;color:#46A247">https://www.office.com/</span></a></td>
   </tr>
+	<tr>
+    <td class="tg-cly1">N.A.V Awards Webpage </td>
+    <td class="tg-corx"><a target="_blank" href="https://sites.google.com/moe.edu.sg/vps-nav2026/home"><span style="text-decoration:none;color:#46A247">https://sites.google.com/moe.edu.sg/vps-nav2026/home</span></a>
+	</td></tr>
 	<tr>
 	</tr>
 </tbody>

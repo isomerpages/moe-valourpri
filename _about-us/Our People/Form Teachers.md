@@ -324,13 +324,9 @@ variant: markdown
     <td class="tg-ktyi">ang_mia_kuang_marc@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi" rowspan="2" colspan="1">4 - Passion</td>
+    <td class="tg-ktyi" colspan="1">4 - Passion</td>
     <td class="tg-ktyi">Ms Vernicia Lim</td>
     <td class="tg-ktyi">vernicia_lim_su_yu@moe.edu.sg</td>
-  </tr>
-	<tr>
-    <td class="tg-ktyi">Ms Xing Dongmei</td>
-    <td class="tg-ktyi">xing_dongmei@moe.edu.sg</td>
   </tr>
 	<tr>
 		<td></td>
