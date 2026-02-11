@@ -84,7 +84,7 @@ variant: markdown
 		</tr>
 		<tr>
 			<td width="40%">Telephone</td>
-			<td width="60%">8949 7561 (Ms Natasha)</td>
+			<td width="60%">8949 7561</td>
 		</tr>
 		<tr>
 			<td width="40%">Email</td>
