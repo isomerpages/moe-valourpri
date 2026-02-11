@@ -18,7 +18,7 @@ form by clicking <a href="https://mkvalour-openhouse2026.app.entry.gov.sg/form/2
 <p>The 2026 MK Registration Exercise is open to SC and PR children born between
 2 January 2022 and 1 January 2023, both dates inclusive. Parents can register
 their child for admission to an MK via the MK website (www.moe.gov.sg/mk),
-from 9am on 23 March 2026 to 4pm on 31 March 2026. Parents will be informed
+from 9am on 23 March 2026 to 4.30pm on 31 March 2026. Parents will be informed
 of the registration outcome by 1 June 2026. Parents seeking admission to
 K1 or K2 for their child outside the registration period, should contact
 the MK directly to check if there are vacancies.</p>
