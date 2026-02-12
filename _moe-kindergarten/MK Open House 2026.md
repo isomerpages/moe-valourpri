@@ -22,7 +22,5 @@ from 9am on 23 March 2026 to 4.30pm on 31 March 2026. Parents will be informed
 of the registration outcome by 1 June 2026. Parents seeking admission to
 K1 or K2 for their child outside the registration period, should contact
 the MK directly to check if there are vacancies.</p>
-<p>For more details about MK @ Valour , click <a href="/files/MKOH/MKOH_2025_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to view/ download the
-slides.</p>
 <p>You can also watch the video of <a href="https://www.youtube.com/watch?v=QXvV21a-TqE&amp;feature=youtu.be" rel="noopener noreferrer nofollow" target="_blank">A Day At An MOE Kindergarten (youtube.com).</a>
 </p>
