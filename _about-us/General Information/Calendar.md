@@ -5,7 +5,7 @@ description: ""
 third_nav_title: General Information
 variant: markdown
 ---
-### School Terms and Holidays For 2025
+### School Terms and Holidays For 2026
 
 This schedule is an information guide for you.&nbsp; You will be informed separately should there be any changes mentioned herein.
 
@@ -41,7 +41,7 @@ This schedule is an information guide for you.&nbsp; You will be informed separa
 </table>
 
 ###### <sup>1</sup>&nbsp;Primary 1 and Kindergarten 1 will start school on Friday, 2 January 2026. Primary 2 to 6 and Kindergarten 2 will start school on Monday, 5 January 2026. 
-###### <sup>3</sup> The last day of the final school term for schools which will be used as venues for the GCE O-Level written examinations, will be Friday, 25 October 2025.
+###### <sup>3</sup> The last day of the final school term for schools which will be used as venues for the GCE O-Level written examinations, will be Friday, 23 October 2026.
 
 ### School Vacation
 <table style="width:100%" align="center">
