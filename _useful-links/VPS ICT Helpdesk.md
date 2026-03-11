@@ -4,9 +4,22 @@ permalink: /useful-links/vps-ict-hd/
 description: ""
 variant: tiptap
 ---
-### SLS Helpline Information
-|  |  | 
-|---|---|
-| **School-based Helpline**<br><br> (During school operating hours, students should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments) | **Valour Primary School** <br> 6242 6390 (General Office), **8.00 am to 4.00 pm** during office hours.<br> <br>**SLS Administrator:**<br>Mr Anson Tan (P1 &amp; 2): <br>[anson\_tan@moe.edu.sg](mailto:anson_tan@moe.edu.sg)<br><br>Mr Wilfred Chua (P3 &amp; 4): <br> [chua\_chin\_leong\_wilfred@moe.edu.sg](mailto:chua_chin_leong_wilfred@moe.edu.sg) |
-| **MOE SLS** <br><br>(Strictly for more complex issues on system performance. For account login issue, please ensure that email and security questions have been set for your child before contacting MOE SLS Helpdesk) | **Non-School Operating Hours**<br>Students can only contact the SLS Helpdesk outside the school operating hours.<br><br> SLS Helpdesk: 6702 6513<br><br> Mondays - Fridays: 4:00 pm - 9:00 pm<br>Saturdays: 9:00 am - 3:00 pm<br>*Closed on Sundays &amp; Public Holidays <br><br> Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com.](mailto:helpdesk@sls.ufinity.com) When emailing the SLS Helpdesk, they should include their full name, name of school and form class. |
-|  |  |
+<h1>VPS ICT Helpdesk</h1>
+<h4><strong>ICT Support Services</strong></h4>
+<p>The school's ICT Department provides technical support services to students
+and parents experiencing technology-related difficulties.</p>
+<h4><strong>Submitting Support Requests:</strong></h4>
+<p>All ICT support requests must be submitted through our official online
+portal</p>
+<p><a href="https://go.gov.sg/vps-ict-help" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/vps-ict-help</a>
+</p>
+<h4><strong>Service Level Agreement:</strong></h4>
+<p>The ICT Department will acknowledge and respond to all submitted requests
+within three (3) working days from the date of submission. Please note
+that response times may vary depending on the complexity of the issue and
+current service demand.</p>
+<h4><strong>Office Hours:</strong></h4>
+<p>ICT support services are available during regular school operating hours.
+Requests submitted outside these hours will be processed on the next working
+day.</p>
+<p></p>
