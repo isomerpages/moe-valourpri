@@ -27,6 +27,7 @@ sections:
       button: Click here to register!
       url: https://go.gov.sg/vps2026eopenhouse
       alt: Image alt text
+      image: /images/eoh26po.png
   - infopic:
       title: VPS Virtual Tour
       description: Embark on a campus tour with Timba, our lively mascot!
