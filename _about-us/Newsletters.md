@@ -158,3 +158,23 @@ variant: markdown
 		</td>
 	</tr>
 </tbody></table>
+
+### 2026 NEWSLETTERS
+
+<table>		
+	<tbody>
+		<tr>
+		<td width="10%">
+			<img src="/images/june_2026_pri_nl.jpg">
+		</td>
+		<td width="35%">
+			<a target="_blank" href="https://drive.google.com/file/d/1Pe8X1sF1jNH4krnhaWF3F4spEbHgCoz6/view?usp=sharing">
+				Buzz@Valour Issue 13<br>
+				(June 2026)
+			</a>
+		</td>
+		<td width="10%" style="text-align: center"></td>
+		<td width="10%" style="text-align: center"></td>
+		<td width="35%"></td>
+	</tr>
+</tbody></table>
