@@ -89,7 +89,7 @@ variant: markdown
     <td class="tg-ktyi">quek_pauline@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-ktyi">Science</td>
+    <td class="tg-ktyi">Science &amp; Student Well-Being</td>
     <td class="tg-ktyi">Mr Lim Kok Meng</td>
     <td class="tg-ktyi">lim_kok_meng_b@moe.edu.sg</td>
   </tr>
