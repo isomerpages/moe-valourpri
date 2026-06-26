@@ -406,13 +406,17 @@ variant: markdown
     <td class="tg-ktyi">teo_wan_qi@moe.edu.sg</td>
 	</tr>
 	<tr>
-    <td class="tg-ktyi" rowspan="2" colspan="1">5 - Resilience</td>
+    <td class="tg-ktyi" rowspan="3" colspan="1">5 - Resilience</td>
     <td class="tg-ktyi">Mr Khong Weng Keong</td>
     <td class="tg-ktyi">khong_weng_keong@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-ktyi">Mdm Priyatarshini</td>
     <td class="tg-ktyi">priyatarshini_gopal@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Miss Mieza Batrishyia </td>
+    <td class="tg-ktyi">mieza_batrishyia_suhaidi@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">5 - Passion</td>
