@@ -69,8 +69,8 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">1 - Resilience</td>
-    <td class="tg-ktyi">Miss Natalie Leong</td>
-    <td class="tg-ktyi">leong_wai-lyn_natalie@moe.edu.sg</td>
+    <td class="tg-ktyi">Mdm Tan Shu Yi</td>
+    <td class="tg-ktyi">To be updated</td>
   </tr>
 	<tr>
     <td class="tg-ktyi">Mdm Nur Hafizah</td>
@@ -153,13 +153,17 @@ variant: markdown
     <td class="tg-ktyi">sazali_othman@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-ktyi" rowspan="2" colspan="1">2 - Resilience</td>
-    <td class="tg-ktyi">Ms Jaime Lim</td>
-    <td class="tg-ktyi">lim_sok_khiang_jaime_a@moe.edu.sg</td>
+    <td class="tg-ktyi" rowspan="3" colspan="1">2 - Resilience</td>
+    <td class="tg-ktyi">Mrs Valerie Seet</td>
+    <td class="tg-ktyi">valerie_koh_sock_hwee@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-ktyi">Mdm Latifah Bte Abdul Aziz</td>
     <td class="tg-ktyi">latifah_abdul_aziz_a@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Ms Jaime Lim</td>
+    <td class="tg-ktyi">lim_sok_khiang_jaime_a@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">2- Passion</td>
@@ -230,13 +234,17 @@ variant: markdown
     <td class="tg-ktyi">wong_sensen@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi" rowspan="2" colspan="1">3 - Upright</td>
+    <td class="tg-ktyi" rowspan="3" colspan="1">3 - Upright</td>
     <td class="tg-ktyi">Mr Mohd Suhairy</td>
     <td class="tg-ktyi">mohamed_suhairy_mohd_salleh@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-ktyi">Ms Chua Mei Ling</td>
     <td class="tg-ktyi">chua_mei_ling_a@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Ms Teoh Yian Pin</td>
+    <td class="tg-ktyi">teoh_yian_pin@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">3 - Resilience</td>
@@ -306,13 +314,17 @@ variant: markdown
     <td class="tg-ktyi">lim_hui_shan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ktyi" rowspan="2" colspan="1">4 - Upright</td>
+    <td class="tg-ktyi" rowspan="3" colspan="1">4 - Upright</td>
     <td class="tg-ktyi">Miss Hiang Cheng Woon</td>
     <td class="tg-ktyi">hiang_cheng_woon@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-ktyi">Mdm Melissa Lim</td>
-    <td class="tg-ktyi">lim_ping_siew_melissa@moe.edu.sg</td>
+    <td class="tg-ktyi">Mdm Jeannette Ngoh</td>
+    <td class="tg-ktyi">jeannette_ngoh@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Mr Jerry Zhu</td>
+    <td class="tg-ktyi">zhu_zichen_a@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">4 - Resilience</td>
