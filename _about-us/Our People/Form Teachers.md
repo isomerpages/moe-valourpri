@@ -350,8 +350,8 @@ variant: markdown
 		</tr>
   <tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">5 - Victory</td>
-    <td class="tg-ktyi">Mr Julian Victor</td>
-    <td class="tg-ktyi">julian_victor@moe.edu.sg</td>
+    <td class="tg-ktyi">Mdm Sheeba</td>
+    <td class="tg-ktyi">sheeba_do_balakrishnan@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-ktyi">Mdm An Qinglin</td>
@@ -381,8 +381,8 @@ variant: markdown
     <td class="tg-ktyi">ong_seng_kim@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-ktyi">Mdm Jeannette Ngoh</td>
-    <td class="tg-ktyi">jeannette_ngoh@moe.edu.sg</td>
+    <td class="tg-ktyi">Miss Chow Yak Theng</td>
+    <td class="tg-ktyi">chow_yak_theng@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2" colspan="1">5 - Upright</td>
